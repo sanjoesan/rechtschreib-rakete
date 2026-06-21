@@ -19,6 +19,7 @@ function boot() {
   window.scrollTo = () => {};
   window.requestAnimationFrame = (cb) => setTimeout(() => cb(0), 0);
   window.HTMLCanvasElement.prototype.getContext = () => null;
+  window.Element.prototype.scrollIntoView = () => {};
   window.matchMedia = window.matchMedia || (() => ({ matches: false, addEventListener() {}, removeEventListener() {} }));
   // Skripte als Inline-<script> in Reihenfolge ausführen (echter Global-Scope)
   for (const f of ["data.js", "saetze.js", "app.js"]) {
@@ -102,14 +103,19 @@ test("Spiel durchspielen: finden + korrigieren führt zum Ergebnis", async () =>
   await sleep(650); // renderPhase2 (550ms)
   assert.ok(doc.getElementById("phaseStep2").classList.contains("active"), "Phase 2 aktiv");
 
-  // Phase 2: 3x die richtige Option wählen (je 950ms bis zum nächsten Schritt)
+  // Phase 2: 3x die richtige Option wählen, dann selbstbestimmt „Weiter"
   for (let n = 0; n < 3; n++) {
     const correctText = w.eval("game.puzzle.errors[game.curError].r");
     const btns = [...doc.querySelectorAll(".options .option")];
     const target = btns.find((b) => b.textContent === correctText);
     assert.ok(target, "richtige Option vorhanden für " + correctText);
     target.dispatchEvent(new w.Event("click"));
-    await sleep(1000);
+    // Merksatz/Regel bleibt sichtbar, bis das Kind weiterklickt
+    const tip = doc.querySelector(".step-tip");
+    assert.ok(tip, "Merksatz/Regel wird eingeblendet");
+    const weiter = doc.querySelector(".step-next .btn");
+    assert.ok(weiter, "Weiter-Knopf erscheint und bleibt stehen");
+    weiter.dispatchEvent(new w.Event("click"));
   }
   assert.ok(doc.querySelector(".result-card"), "Ergebnis-Karte erscheint");
   assert.ok(w.eval("state.stats.geloest") >= 1, "gelöst-Zähler erhöht");

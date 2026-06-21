@@ -308,13 +308,7 @@ function onOptionClick(opt, btn, e) {
     btn.classList.add("correct");
     sndGood();
     state.stats.fix[e.k] = (state.stats.fix[e.k] || 0) + 1;
-    // kurze Tipp-Blase
-    flashTip(e);
-    game.curError++;
-    setTimeout(() => {
-      if (game.curError < 3) renderFixStep();
-      else finishSentence();
-    }, 950);
+    revealStepTip(e);
   } else {
     btn.classList.add("wrong");
     btn.disabled = true;
@@ -323,9 +317,38 @@ function onOptionClick(opt, btn, e) {
   }
 }
 
-function flashTip(e) {
-  const tag = e.k === "b" ? "🔤" : e.k === "g" ? "🔠" : "✒️";
-  toast(`${tag} <b>${esc(e.r)}</b> — ${esc(e.tipp)}`, 2600);
+/* Merksatz/Regel gut sichtbar oben einblenden – bleibt stehen, bis das Kind
+   selbst auf „Weiter" tippt (kein Zeitlimit, die Kinder lesen nicht so schnell). */
+function revealStepTip(e) {
+  const card = $(".task-card"); if (!card) return;
+  // Optionen sperren, damit nichts mehr verrutscht
+  $$(".options .option").forEach((b) => { b.disabled = true; });
+  // korrigiertes Wort im Satz sofort grün zeigen
+  const target = $(".sentence-fix .word.target");
+  if (target) { target.textContent = e.r; target.className = "word ok"; }
+
+  const istRegel = game.stufe >= 2;
+  const head = istRegel ? "📏 Merk dir die Regel:" : "💡 Merksatz zum Merken:";
+  const box = el("div", "step-tip");
+  box.innerHTML =
+    `<div class="step-tip-head">${head}</div>
+     <div class="step-tip-word">✅ <b>${esc(e.r)}</b></div>
+     <div class="step-tip-body">${esc(e.tipp)}</div>`;
+  card.appendChild(box);
+
+  const istLetzter = game.curError >= game.puzzle.errors.length - 1;
+  const wrap = el("div", "step-next");
+  const btn = el("button", "btn btn-primary",
+    istLetzter ? "🎉 Auflösung anschauen" : "Weiter ▶");
+  btn.addEventListener("click", () => {
+    game.curError++;
+    if (game.curError < 3) renderFixStep();
+    else finishSentence();
+  });
+  wrap.appendChild(btn);
+  card.appendChild(wrap);
+  // sanft sichtbar machen, ohne wegzuspringen
+  box.scrollIntoView({ behavior: "smooth", block: "nearest" });
 }
 
 /* ---------- Satz fertig ---------- */

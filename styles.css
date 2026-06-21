@@ -206,6 +206,23 @@ main { max-width: 1080px; margin: 0 auto; padding: 18px 16px 60px; }
 .option:disabled { cursor: default; }
 @keyframes pop { 0%{transform:scale(1)} 50%{transform:scale(1.08)} 100%{transform:scale(1)} }
 
+/* Eingeblendeter Merksatz / Regel nach richtiger Antwort (selbstbestimmtes Tempo) */
+.step-tip {
+  margin: 20px auto 0; max-width: 600px; text-align: left;
+  background: var(--good-bg); border: 2px solid var(--good);
+  border-radius: 16px; padding: 16px 20px;
+  animation: tipIn .4s cubic-bezier(.2,.8,.3,1);
+}
+.step-tip-head { font-family: var(--font-head); font-weight: 800; color: var(--good); font-size: 15px; }
+.step-tip-word { font-family: var(--font-head); font-weight: 800; font-size: 22px; margin: 4px 0 6px; }
+.step-tip-body { font-size: clamp(16px, 2.4vw, 19px); font-weight: 700; line-height: 1.5; }
+.step-next { display: flex; justify-content: center; margin-top: 18px; }
+.step-next .btn { font-size: 18px; padding: 14px 30px; }
+@keyframes tipIn {
+  from { opacity: 0; transform: translateY(-16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
 /* Ergebnis */
 .result-card { text-align: center; }
 .result-emoji { font-size: 56px; animation: pop .5s; }

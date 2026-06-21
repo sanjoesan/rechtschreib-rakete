@@ -2,7 +2,7 @@
 {"s":1,"satz":"Im alten Ägypten bauten die Menschen riesige Pyramiden aus schweren Steinen auf.","f":[
  {"r":"bauten","w":"bauden","o":["bauten","bauden","bawten","baudten"],"k":"b","tipp":"Merksatz: 'bauten' kommt von 'bauen' und wird mit t geschrieben."},
  {"r":"riesige","w":"risige","o":["riesige","risige","riesieche","riessige"],"k":"b","tipp":"Merksatz: 'riesig' schreibt man mit ie, weil das i lang klingt."},
- {"r":"schweren","w":"schwären","o":["schweren","schwären","schwehren","schwerren"],"k":"b","tipp":"Merksatz: 'schwer' schreibt man mit e, nicht mit ä."}
+ {"r":"schweren","w":"schweeren","o":["schweren","schweeren","schwehren","schwerren"],"k":"b","tipp":"Merksatz: 'schwer' schreibt man mit e, nicht mit ä."}
 ]},
 {"s":1,"satz":"Der mächtige Pharao wohnte in einem goldenen Palast am Nil.","f":[
  {"r":"mächtige","w":"mechtige","o":["mächtige","mechtige","mäschtige","mächtieg"],"k":"b","tipp":"Merksatz: 'mächtig' kommt von 'Macht' und wird mit ä geschrieben."},
@@ -37,7 +37,7 @@
 {"s":1,"satz":"Der breite Nil floss ruhig durch das warme Land der Wüste hindurch.","f":[
  {"r":"breite","w":"praite","o":["breite","praite","breitte","breihte"],"k":"b","tipp":"Merksatz: 'breit' beginnt mit b und hat ein ei."},
  {"r":"floss","w":"floß","o":["floss","floß","floos","flloss"],"k":"b","tipp":"Merksatz: Nach kurzem o steht Doppel-s: floss."},
- {"r":"Wüste","w":"Wüsste","o":["Wüste","Wüsste","Wüschte","Wühste"],"k":"b","tipp":"Merksatz: 'Wüste' hat nur ein s."}
+ {"r":"Wüste","w":"Wüeste","o":["Wüste","Wüeste","Wüschte","Wühste"],"k":"b","tipp":"Merksatz: 'Wüste' hat nur ein s."}
 ]},
 {"s":1,"satz":"Die Priester wickelten die Mumie sorgfältig in weiße Binden ein.","f":[
  {"r":"Priester","w":"Prister","o":["Priester","Prister","Prieester","Priehster"],"k":"b","tipp":"Merksatz: 'Priester' schreibt man mit ie."},
@@ -159,7 +159,7 @@
 {"s":3,"satz":"Die Priester sangen leise, als sie die Mumie zum Grab trugen.","f":[
  {"r":"leise,","w":"leise","o":["leise,","leise","leise;","leise."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'als' steht ein Komma."},
  {"r":"Priester","w":"priester","o":["Priester","priester","Prister","Priehster"],"k":"g","tipp":"Regel: Namenwörter wie 'Priester' schreibt man groß."},
- {"r":"sangen","w":"sanken","o":["sangen","sanken","sangenn","sanggen"],"k":"b","tipp":"Regel: 'sangen' kommt von 'singen' und hat ein g."}
+ {"r":"sangen","w":"sangken","o":["sangen","sangken","sangenn","sanggen"],"k":"b","tipp":"Regel: 'sangen' kommt von 'singen' und hat ein g."}
 ]},
 {"s":3,"satz":"Vor der Sphinx blieben die Reisenden stehen, weil sie sehr staunten.","f":[
  {"r":"stehen,","w":"stehen","o":["stehen,","stehen","stehen;","stehen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},

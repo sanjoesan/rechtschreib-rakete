@@ -37,7 +37,7 @@
 {"s":1,"satz":"Das winzige Alien sammelt bunte Steine und versteckt sie tief in seiner Tasche fest.","f":[
   {"r":"winzige","w":"winsige","o":["winzige","winsige","wintzige","winziege"],"k":"b","tipp":"Merksatz: 'winzig' schreibt man mit z: win-zig."},
   {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","verschteckt"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
-  {"r":"Tasche","w":"Tasse","o":["Tasche","Tasse","Taasche","Dasche"],"k":"b","tipp":"Merksatz: Die Tasche schreibt man mit sch: Ta-sche."}
+  {"r":"Tasche","w":"Tashe","o":["Tasche","Tashe","Taasche","Dasche"],"k":"b","tipp":"Merksatz: Die Tasche schreibt man mit sch: Ta-sche."}
 ]},
 {"s":1,"satz":"Die kleinen grünen Männchen quaken vergnügt und tanzen um ihr gelandetes Ufo.","f":[
   {"r":"quaken","w":"kvaken","o":["quaken","kvaken","quacken","quakken"],"k":"b","tipp":"Merksatz: 'qu' gehören immer zusammen – wie in 'Quelle': qu-aken."},
@@ -50,7 +50,7 @@
   {"r":"Sprache","w":"Schprache","o":["Sprache","Schprache","Sprahche","Sprasche"],"k":"b","tipp":"Merksatz: 'Sprache' beginnt mit sp, auch wenn man 'schp' hört: Spra-che."}
 ]},
 {"s":1,"satz":"Auf dem fernen Planeten leuchten viele bunte Monde über dem stillen Alienmeer.","f":[
-  {"r":"leuchten","w":"leichten","o":["leuchten","leichten","leuchden","leuchtän"],"k":"b","tipp":"Merksatz: 'leuchten' schreibt man mit eu: leuch-ten."},
+  {"r":"leuchten","w":"loichten","o":["leuchten","loichten","leuchden","leuchtän"],"k":"b","tipp":"Merksatz: 'leuchten' schreibt man mit eu: leuch-ten."},
   {"r":"Monde","w":"Mohnde","o":["Monde","Mohnde","Monnde","Mondde"],"k":"b","tipp":"Merksatz: Der Mond hat kein Dehnungs-h: Mon-de."},
   {"r":"stillen","w":"stilen","o":["stillen","stilen","schtillen","stiellen"],"k":"b","tipp":"Merksatz: 'still' braucht doppel-L: stil-len."}
 ]},

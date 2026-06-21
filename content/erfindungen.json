@@ -67,7 +67,7 @@
 {"s":2,"satz":"In der Werkstatt baut der Professor ein Telefon aus einer leeren Konservendose.","f":[
   {"r":"Werkstatt","w":"werkstatt","o":["Werkstatt","werkstatt","Werkstat","Werkschtatt"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Werkstatt' hat den Begleiter 'die'."},
   {"r":"baut","w":"Baut","o":["baut","Baut","baud","Baud"],"k":"g","tipp":"Regel: Verben wie 'bauen' schreibt man klein."},
-  {"r":"leeren","w":"lehren","o":["leeren","lehren","leheren","leerän"],"k":"b","tipp":"Regel: 'leer' schreibt man mit doppel-E: lee-ren."}
+  {"r":"leeren","w":"leehren","o":["leeren","leehren","leheren","leerän"],"k":"b","tipp":"Regel: 'leer' schreibt man mit doppel-E: lee-ren."}
 ]},
 {"s":2,"satz":"Die geniale Erfinderin presst auf den Knopf, und die kleine Glühbirne tanzt herum.","f":[
   {"r":"Glühbirne","w":"glühbirne","o":["Glühbirne","glühbirne","Glübirne","Glühpirne"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Glühbirne' hat den Begleiter 'die'."},

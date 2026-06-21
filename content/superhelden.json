@@ -12,7 +12,7 @@
 {"s":1,"satz":"Hinter der schwarzen Maske versteckt sich eigentlich ein schüchterner Bäcker aus der Stadt.","f":[
   {"r":"schwarzen","w":"schwartzen","o":["schwarzen","schwartzen","shwarzen","schwarzän"],"k":"b","tipp":"Merksatz: 'schwarz' schreibt man mit z, nicht tz: schwar-z."},
   {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","versteckd"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
-  {"r":"Bäcker","w":"Becker","o":["Bäcker","Becker","Bäker","Bäckär"],"k":"b","tipp":"Merksatz: Der Bäcker kommt von 'backen' und wird mit ä und ck geschrieben."}
+  {"r":"Bäcker","w":"Bäcer","o":["Bäcker","Bäcer","Bäker","Bäckär"],"k":"b","tipp":"Merksatz: Der Bäcker kommt von 'backen' und wird mit ä und ck geschrieben."}
 ]},
 {"s":1,"satz":"Das geheime Versteck des Helden liegt tief unter der alten Brücke am Fluss.","f":[
   {"r":"geheime","w":"gehaime","o":["geheime","gehaime","geheimme","geheimä"],"k":"b","tipp":"Merksatz: 'geheim' schreibt man mit ei: ge-heim."},
@@ -162,7 +162,7 @@
 {"s":3,"satz":"Bevor die Heldin schlafen geht, hängt sie ihren bunten Umhang an den großen Haken auf.","f":[
   {"r":"geht,","w":"geht","o":["geht,","geht","geht;","geht."],"k":"k","tipp":"Regel: Nach einem vorangestellten Nebensatz mit 'Bevor' steht ein Komma."},
   {"r":"bunten","w":"Bunten","o":["bunten","Bunten","buntän","bundten"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'bunt' schreibt man klein."},
-  {"r":"Haken","w":"Hacken","o":["Haken","Hacken","Hakän","Hahken"],"k":"b","tipp":"Regel: 'Haken' schreibt man mit einem k: Ha-ken."}
+  {"r":"Haken","w":"Haaken","o":["Haken","Haaken","Hakän","Hahken"],"k":"b","tipp":"Regel: 'Haken' schreibt man mit einem k: Ha-ken."}
 ]},
 {"s":3,"satz":"Der Held weiß genau, dass jeder kleine Mensch in der Stadt ein bisschen Mut braucht.","f":[
   {"r":"genau,","w":"genau","o":["genau,","genau","genau;","genau."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},

@@ -39,6 +39,7 @@
         <div class="stat" title="Tage-Serie">
           <span class="stat-icon">🔥</span><span class="stat-val" id="statStreak">0</span>
         </div>
+        <button class="icon-btn" id="designBtn" title="Design wählen" aria-label="Design wählen">🎨</button>
         <button class="icon-btn" id="badgesBtn" title="Abzeichen" aria-label="Abzeichen">🏅</button>
         <button class="icon-btn" id="settingsBtn" title="Einstellungen" aria-label="Einstellungen">⚙️</button>
       </div>
@@ -58,6 +59,11 @@
           <button class="btn btn-ghost" id="randomBtn">🎲 Überraschungssatz</button>
         </div>
       </div>
+
+      <!-- Design wählen (prominent) -->
+      <div class="section-head"><h2>🎨 Wähle dein Design</h2></div>
+      <p class="section-sub">Gib der Rakete deinen Lieblings-Look – jederzeit umschaltbar (auch oben über 🎨).</p>
+      <div class="design-grid design-grid-home" id="designGridHome"><!-- per JS --></div>
 
       <!-- Stufe wählen -->
       <div class="section-head"><h2>🎚️ Wähle deine Stufe</h2></div>
@@ -113,10 +119,7 @@
       <button class="modal-close" id="settingsClose" aria-label="Schließen">✕</button>
       <h3 id="settingsTitle">⚙️ Einstellungen</h3>
 
-      <div class="field">
-        <span class="field-label">🎨 Design auswählen</span>
-        <div class="design-grid" id="designGrid"><!-- per JS --></div>
-      </div>
+      <p class="settings-hint">🎨 Dein Design wählst du jetzt direkt auf der Startseite oder oben über das 🎨-Symbol.</p>
 
       <label class="field field-check">
         <input type="checkbox" id="soundToggle" />
@@ -129,6 +132,16 @@
 
       <hr class="divider" />
       <button class="btn btn-danger" id="resetBtn">🗑️ Fortschritt zurücksetzen</button>
+    </div>
+  </div>
+
+  <!-- ===================== DESIGN (Schnellwahl) ===================== -->
+  <div class="modal-backdrop hidden" id="designModal">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="designTitle">
+      <button class="modal-close" id="designClose" aria-label="Schließen">✕</button>
+      <h3 id="designTitle">🎨 Design wählen</h3>
+      <p class="modal-sub">Tippe ein Design an – es wird sofort übernommen.</p>
+      <div class="design-grid" id="designGridModal"></div>
     </div>
   </div>
 

@@ -6,7 +6,7 @@
  ]},
  {"s":1,"satz":"Der riesige Jupiter dreht sich blitzschnell um seine eigene Achse herum.","f":[
   {"r":"blitzschnell","w":"blitschnell","o":["blitzschnell","blitschnell","blitzsnell","blizschnell"],"k":"b","tipp":"Merksatz: Nach kurzem Vokal steht tz: Bli-tz-schnell."},
-  {"r":"eigene","w":"eigne","o":["eigene","eigne","aigene","eieggene"],"k":"b","tipp":"Merksatz: 'eigene' schreibt man mit ei wie in 'Ei'."},
+  {"r":"eigene","w":"eihgene","o":["eigene","eihgene","aigene","eieggene"],"k":"b","tipp":"Merksatz: 'eigene' schreibt man mit ei wie in 'Ei'."},
   {"r":"Achse","w":"Akse","o":["Achse","Akse","Achße","Achsse"],"k":"b","tipp":"Merksatz: In 'Achse' steht chs, wie in 'Fuchs'."}
  ]},
  {"s":1,"satz":"Der Saturn trägt viele funkelnde Ringe um seinen Bauch.","f":[
@@ -97,7 +97,7 @@
  {"s":2,"satz":"Die warme Sonne schenkt allen Pflanzen ihr goldenes Licht.","f":[
   {"r":"Sonne","w":"sonne","o":["Sonne","sonne","Sone","Sonnne"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Sonne'."},
   {"r":"schenkt","w":"Schenkt","o":["schenkt","Schenkt","schänkt","schenckt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schenken' schreibt man klein."},
-  {"r":"goldenes","w":"goldnes","o":["goldenes","goldnes","golldenes","goldennes"],"k":"b","tipp":"Regel: 'golden' kommt von 'Gold' mit hellem e."}
+  {"r":"goldenes","w":"goldänes","o":["goldenes","goldänes","golldenes","goldennes"],"k":"b","tipp":"Regel: 'golden' kommt von 'Gold' mit hellem e."}
  ]},
  {"s":2,"satz":"Im Teleskop sieht der Forscher den fernen roten Planeten.","f":[
   {"r":"Forscher","w":"forscher","o":["Forscher","forscher","Forschär","Forrscher"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Forscher'."},

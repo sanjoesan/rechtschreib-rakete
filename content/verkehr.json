@@ -101,7 +101,7 @@
 ]},
 {"s":2,"satz":"Vor dem Bahnhof steht das alte Taxi geduldig im strömenden Regen.","f":[
   {"r":"Taxi","w":"taxi","o":["Taxi","taxi","Taksi","taksi"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Taxi' hat den Begleiter 'das'."},
-  {"r":"steht","w":"stet","o":["steht","stet","schteht","steeht"],"k":"b","tipp":"Regel: 'steht' hat ein Dehnungs-h: ste-h-t."},
+  {"r":"steht","w":"stett","o":["steht","stett","schteht","steeht"],"k":"b","tipp":"Regel: 'steht' hat ein Dehnungs-h: ste-h-t."},
   {"r":"alte","w":"Alte","o":["alte","Alte","allte","Allte"],"k":"g","tipp":"Regel: Adjektive wie 'alt' schreibt man klein."}
 ]},
 {"s":2,"satz":"Der schwere Lastwagen hupt laut vor der schmalen alten Brücke.","f":[

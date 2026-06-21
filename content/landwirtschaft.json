@@ -30,7 +30,7 @@
   {"r":"weiße","w":"weisse","o":["weiße","weisse","waiße","weißä"],"k":"b","tipp":"Merksatz: Nach langem ei steht das scharfe ß: wei-ße."}
 ]},
 {"s":1,"satz":"Hinter der alten Scheune stapelt der Knecht die schweren Strohballen ordentlich auf.","f":[
-  {"r":"Scheune","w":"Scheine","o":["Scheune","Scheine","Scheuhne","Scheonne"],"k":"b","tipp":"Merksatz: Die Scheune schreibt man mit eu wie in 'heute'."},
+  {"r":"Scheune","w":"Scheunne","o":["Scheune","Scheunne","Scheuhne","Scheonne"],"k":"b","tipp":"Merksatz: Die Scheune schreibt man mit eu wie in 'heute'."},
   {"r":"schweren","w":"schwehren","o":["schweren","schwehren","schwerän","schwerren"],"k":"b","tipp":"Merksatz: 'schwer' braucht kein Dehnungs-h: schwe-ren."},
   {"r":"Strohballen","w":"Stroballen","o":["Strohballen","Stroballen","Schtrohballen","Strohbalen"],"k":"b","tipp":"Merksatz: In 'Stroh' steckt das Dehnungs-h: Stroh-bal-len."}
 ]},
@@ -41,7 +41,7 @@
 ]},
 {"s":1,"satz":"Im Herbst sammelt der Bauer die reiche Ernte mit dem Wagen von den Feldern.","f":[
   {"r":"Herbst","w":"Herpst","o":["Herbst","Herpst","Härbst","Herbßt"],"k":"b","tipp":"Merksatz: Im Herbst steckt ein b vor dem st: Herb-st."},
-  {"r":"reiche","w":"reihe","o":["reiche","reihe","reische","raiche"],"k":"b","tipp":"Merksatz: 'reich' schreibt man mit ei und ch: rei-che."},
+  {"r":"reiche","w":"reichhe","o":["reiche","reichhe","reische","raiche"],"k":"b","tipp":"Merksatz: 'reich' schreibt man mit ei und ch: rei-che."},
   {"r":"Ernte","w":"Ernde","o":["Ernte","Ernde","Erndte","Ärnte"],"k":"b","tipp":"Merksatz: Die Ernte hat ein hartes t: Ern-te."}
 ]},
 {"s":1,"satz":"Das gefräßige Schwein wühlt vergnügt im Matsch und sucht nach dicken Kartoffeln im Boden.","f":[

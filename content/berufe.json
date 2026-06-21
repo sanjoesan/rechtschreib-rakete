@@ -21,7 +21,7 @@
 ]},
 {"s":1,"satz":"Der schwebende Astronaut hüpft mit seinem schweren Anzug langsam über den staubigen Mond.","f":[
   {"r":"Astronaut","w":"Astronaot","o":["Astronaut","Astronaot","Asdronaut","Astronaud"],"k":"b","tipp":"Merksatz: Der Astronaut endet auf 'naut' mit au: Astro-naut."},
-  {"r":"schweren","w":"schwären","o":["schweren","schwären","schweeren","schwerän"],"k":"b","tipp":"Merksatz: 'schwer' schreibt man mit e: schwe-ren."},
+  {"r":"schweren","w":"schwehren","o":["schweren","schwehren","schweeren","schwerän"],"k":"b","tipp":"Merksatz: 'schwer' schreibt man mit e: schwe-ren."},
   {"r":"staubigen","w":"staobigen","o":["staubigen","staobigen","staubiegen","staubiggen"],"k":"b","tipp":"Merksatz: 'staubig' kommt von 'Staub' – mit au: stau-big."}
 ]},
 {"s":1,"satz":"Der fleißige Gärtner gießt mit der grünen Kanne die durstigen Blumen im sonnigen Beet.","f":[
@@ -67,7 +67,7 @@
 {"s":2,"satz":"Die geschickte Bäckerin formt aus dem weichen Teig viele lustige Brezeln für den Markt.","f":[
   {"r":"Bäckerin","w":"bäckerin","o":["Bäckerin","bäckerin","Beckerin","Bäkerin"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Bäckerin' steht mit dem Begleiter 'die'."},
   {"r":"weichen","w":"Weichen","o":["weichen","Weichen","waichen","weichän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'weich' schreibt man klein."},
-  {"r":"Brezeln","w":"Bretzeln","o":["Brezeln","Bretzeln","Bräzeln","Brezelln"],"k":"b","tipp":"Regel: Die Brezel schreibt man mit z, nicht mit tz: Bre-zel."}
+  {"r":"Brezeln","w":"Brezzeln","o":["Brezeln","Brezzeln","Bräzeln","Brezelln"],"k":"b","tipp":"Regel: Die Brezel schreibt man mit einem z: Bre-zel."}
 ]},
 {"s":2,"satz":"In der Praxis impft die freundliche Tierärztin ganz geduldig den zitternden kleinen Hund.","f":[
   {"r":"Tierärztin","w":"tierärztin","o":["Tierärztin","tierärztin","Tirärztin","Tierärtzin"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Tierärztin' steht mit dem Begleiter 'die'."},
@@ -112,7 +112,7 @@
 {"s":2,"satz":"Beim Notruf rast der schnelle Feuerwehrmann zur brennenden Scheune am Feld.","f":[
   {"r":"Feuerwehrmann","w":"feuerwehrmann","o":["Feuerwehrmann","feuerwehrmann","Feierwehrmann","Feuerwermann"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Feuerwehrmann' steht mit dem Begleiter 'der'."},
   {"r":"brennenden","w":"Brennenden","o":["brennenden","Brennenden","brenenden","brennändän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'brennend' schreibt man klein."},
-  {"r":"Scheune","w":"Scheine","o":["Scheune","Scheine","Schöine","Scheunne"],"k":"b","tipp":"Regel: Die Scheune schreibt man mit eu: Scheu-ne."}
+  {"r":"Scheune","w":"Scheene","o":["Scheune","Scheene","Schöine","Scheunne"],"k":"b","tipp":"Regel: Die Scheune schreibt man mit eu: Scheu-ne."}
 ]},
 {"s":2,"satz":"Im Park pflanzt der lustige Gärtner einen kleinen Baum neben die alte Bank.","f":[
   {"r":"Gärtner","w":"gärtner","o":["Gärtner","gärtner","Gertner","Gärdner"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Gärtner' steht mit dem Begleiter 'der'."},
@@ -122,12 +122,12 @@
 {"s":3,"satz":"Der Feuerwehrmann greift zum Schlauch, weil das alte Dachgebälk hell in Flammen steht.","f":[
   {"r":"Schlauch,","w":"Schlauch","o":["Schlauch,","Schlauch","Schlauch;","Schlauch."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
   {"r":"alte","w":"Alte","o":["alte","Alte","allte","alde"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'alt' schreibt man klein."},
-  {"r":"Flammen","w":"Flamen","o":["Flammen","Flamen","Vlammen","Flammän"],"k":"b","tipp":"Regel: Nach kurzem a steht doppel-M: Flam-men."}
+  {"r":"Flammen","w":"Flammn","o":["Flammen","Flammn","Vlammen","Flammän"],"k":"b","tipp":"Regel: Nach kurzem a steht doppel-M: Flam-men."}
 ]},
 {"s":3,"satz":"Die Bäckerin formt den Teig, obwohl der heiße Ofen schon viel zu lange wartet.","f":[
   {"r":"Teig,","w":"Teig","o":["Teig,","Teig","Teig;","Teig."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
   {"r":"heiße","w":"Heiße","o":["heiße","Heiße","haiße","heisse"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'heiß' schreibt man klein."},
-  {"r":"Ofen","w":"Offen","o":["Ofen","Offen","Owen","Ofän"],"k":"b","tipp":"Regel: Der Ofen hat nur EIN f: O-fen."}
+  {"r":"Ofen","w":"Ohfen","o":["Ofen","Ohfen","Owen","Ofän"],"k":"b","tipp":"Regel: Der Ofen hat nur EIN f: O-fen."}
 ]},
 {"s":3,"satz":"Die Tierärztin streichelt die Katze, die mit einer verletzten Pfote in die Praxis kam.","f":[
   {"r":"Katze,","w":"Katze","o":["Katze,","Katze","Katze;","Katze."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'die' steht ein Komma."},

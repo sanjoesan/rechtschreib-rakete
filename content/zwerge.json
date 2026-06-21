@@ -6,7 +6,7 @@
 ]},
 {"s":1,"satz":"Der riesige Riese stolpert tollpatschig über einen winzigen Stein und plumpst ins weiche Moos.","f":[
   {"r":"Riese","w":"Rise","o":["Riese","Rise","Riehse","Riesse"],"k":"b","tipp":"Merksatz: Der Riese ist riesig und braucht ein 'ie' – wie 'viel' und 'tief'."},
-  {"r":"tollpatschig","w":"tolpatschig","o":["tollpatschig","tolpatschig","tollpatchig","dollpatschig"],"k":"b","tipp":"Merksatz: Der tollpatschige Riese hat doppel-L wie 'toll': toll-patschig."},
+  {"r":"tollpatschig","w":"tollpadschig","o":["tollpatschig","tollpadschig","tollpatchig","dollpatschig"],"k":"b","tipp":"Merksatz: Der tollpatschige Riese hat doppel-L wie 'toll': toll-patschig."},
   {"r":"plumpst","w":"blumpst","o":["plumpst","blumpst","plumst","pflumpst"],"k":"b","tipp":"Merksatz: 'plumps' beginnt mit p wie 'Platsch' – der Riese fällt: plumps!"}
 ]},
 {"s":1,"satz":"Im tiefen Stollen schimmern die funkelnden Diamanten wie kleine Sterne an der Felswand.","f":[
@@ -35,7 +35,7 @@
   {"r":"Pfannkuchen","w":"Fannkuchen","o":["Pfannkuchen","Fannkuchen","Pfankuchen","Pfannkuhchen"],"k":"b","tipp":"Merksatz: Der Pfannkuchen kommt aus der Pfanne – mit pf und doppel-N."}
 ]},
 {"s":1,"satz":"Tief im Berg klopfen die Zwerge mit ihren Hämmern fröhlich gegen das harte Gestein.","f":[
-  {"r":"klopfen","w":"klopften","o":["klopfen","klopften","kloppfen","glopfen"],"k":"b","tipp":"Merksatz: Die Zwerge klopfen mit pf – wie 'hüpfen' und 'tropfen'."},
+  {"r":"klopfen","w":"klopffen","o":["klopfen","klopffen","kloppfen","glopfen"],"k":"b","tipp":"Merksatz: Die Zwerge klopfen mit pf – wie 'hüpfen' und 'tropfen'."},
   {"r":"Hämmern","w":"Hemmern","o":["Hämmern","Hemmern","Hämern","Hähmmern"],"k":"b","tipp":"Merksatz: Der Hammer wird zu 'Hämmern' – aus a wird ä: Hammer, Hämmer."},
   {"r":"fröhlich","w":"frölich","o":["fröhlich","frölich","fröhliech","fröchlich"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h nach dem ö: frö-h-lich."}
 ]},
@@ -116,7 +116,7 @@
 ]},
 {"s":2,"satz":"Der neugierige Zwerg kriecht durch den schmalen Spalt, weil dahinter etwas Goldenes verlockend schimmert.","f":[
   {"r":"neugierige","w":"Neugierige","o":["neugierige","Neugierige","neugiriege","neugierrige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'neugierig' schreibt man klein."},
-  {"r":"kriecht","w":"kriegt","o":["kriecht","kriegt","kriche","krriecht"],"k":"b","tipp":"Regel: 'kriechen' wird zu 'kriecht' – mit ch, nicht g."},
+  {"r":"kriecht","w":"kriescht","o":["kriecht","kriescht","kriche","krriecht"],"k":"b","tipp":"Regel: 'kriechen' wird zu 'kriecht' – mit ch, nicht g."},
   {"r":"Goldenes","w":"goldenes","o":["Goldenes","goldenes","Goldennes","Golldenes"],"k":"g","tipp":"Regel: Nach 'etwas' wird 'Goldenes' zum Nomen und schreibt sich groß: etwas Goldenes."}
 ]},
 {"s":3,"satz":"Der kleine Zwerg gräbt im Bergwerk, weil er einen funkelnden Diamanten gefunden hat.","f":[
@@ -161,7 +161,7 @@
 ]},
 {"s":3,"satz":"Obwohl der Riese tollpatschig ist, hilft er den Zwergen jeden Tag beim Tragen der Steine.","f":[
   {"r":"ist,","w":"ist","o":["ist,","ist","ist;","ist."],"k":"k","tipp":"Regel: Nach einem vorangestellten Nebensatz mit 'obwohl' steht ein Komma."},
-  {"r":"tollpatschig","w":"tolpatschig","o":["tollpatschig","tolpatschig","tollpatchig","dollpatschig"],"k":"b","tipp":"Regel: 'tollpatschig' kommt von 'toll' mit doppel-L: toll-patschig."},
+  {"r":"tollpatschig","w":"tollpadschig","o":["tollpatschig","tollpadschig","tollpatchig","dollpatschig"],"k":"b","tipp":"Regel: 'tollpatschig' kommt von 'toll' mit doppel-L: toll-patschig."},
   {"r":"Tragen","w":"tragen","o":["Tragen","tragen","Trahgen","Traggen"],"k":"g","tipp":"Regel: Nach 'beim' wird 'Tragen' zum Nomen und schreibt sich groß: beim Tragen."}
 ]},
 {"s":3,"satz":"Der Zwergenkönig ruft seine Mannschaft, weil ein funkelnder Goldklumpen mitten im Stollen liegt.","f":[
@@ -172,11 +172,11 @@
 {"s":3,"satz":"Der Riese baut den Zwergen eine Brücke, obwohl seine Finger viel zu groß für die Schrauben sind.","f":[
   {"r":"Brücke,","w":"Brücke","o":["Brücke,","Brücke","Brücke;","Brücke."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
   {"r":"Schrauben","w":"Schraoben","o":["Schrauben","Schraoben","Schraupen","Schraubenn"],"k":"b","tipp":"Regel: 'Schrauben' schreibt man mit au – wie 'Auge' und 'Baum'."},
-  {"r":"viel","w":"fiel","o":["viel","fiel","viehl","viell"],"k":"b","tipp":"Regel: 'viel' (eine Menge) schreibt man mit v und ie."}
+  {"r":"viel","w":"fiehl","o":["viel","fiehl","viehl","viell"],"k":"b","tipp":"Regel: 'viel' (eine Menge) schreibt man mit v und ie."}
 ]},
 {"s":3,"satz":"Sobald die Lampen erlöschen, schlüpfen die müden Zwerge leise in ihre weichen, kuscheligen Betten.","f":[
   {"r":"erlöschen,","w":"erlöschen","o":["erlöschen,","erlöschen","erlöschen;","erlöschen."],"k":"k","tipp":"Regel: Nach einem vorangestellten Nebensatz mit 'sobald' steht ein Komma."},
   {"r":"müden","w":"Müden","o":["müden","Müden","mühden","müeden"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'müde' schreibt man klein."},
-  {"r":"schlüpfen","w":"schlüpften","o":["schlüpfen","schlüpften","schlüpffen","schlübfen"],"k":"b","tipp":"Regel: 'schlüpfen' schreibt man mit pf: schlü-pf-en."}
+  {"r":"schlüpfen","w":"schlüppfen","o":["schlüpfen","schlüppfen","schlüpffen","schlübfen"],"k":"b","tipp":"Regel: 'schlüpfen' schreibt man mit pf: schlü-pf-en."}
 ]}
 ]

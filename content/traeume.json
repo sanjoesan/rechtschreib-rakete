@@ -10,7 +10,7 @@
  {"r":"Träume","w":"Treume","o":["Träume","Treume","Träeume","Träüme"],"k":"b","tipp":"Merksatz: 'Träume' kommt von 'Traum' – darum mit ä."}
 ]},
 {"s":1,"satz":"Auf der weichen Wolke hüpft der fröhliche Frosch bis zum Mond.","f":[
- {"r":"weichen","w":"weihen","o":["weichen","weihen","waichen","weichän"],"k":"b","tipp":"Merksatz: 'weich' hat ein ch in der Mitte, wie 'Bauch'."},
+ {"r":"weichen","w":"weichhen","o":["weichen","weichhen","waichen","weichän"],"k":"b","tipp":"Merksatz: 'weich' hat ein ch in der Mitte, wie 'Bauch'."},
  {"r":"hüpft","w":"hüpvt","o":["hüpft","hüpvt","hübft","hüpfd"],"k":"b","tipp":"Merksatz: 'hüpfen' schreibt man mit pf wie 'Apfel'."},
  {"r":"fröhliche","w":"frölliche","o":["fröhliche","frölliche","fröliche","frööhliche"],"k":"b","tipp":"Merksatz: In 'fröhlich' steckt ein stummes Dehnungs-h nach dem ö."}
 ]},
@@ -101,7 +101,7 @@
 ]},
 {"s":2,"satz":"Ein winziges Einhorn malt mit seinem Schweif glitzernde Muster an den Nachthimmel.","f":[
  {"r":"Einhorn","w":"einhorn","o":["Einhorn","einhorn","Ainhorn","Einhoorn"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'das Einhorn' schreibt man groß."},
- {"r":"malt","w":"mahlt","o":["malt","mahlt","Malt","mald"],"k":"b","tipp":"Regel: 'malen' mit Farbe schreibt man ohne h, anders als 'mahlen' beim Müller."},
+ {"r":"malt","w":"mallt","o":["malt","mallt","Malt","mald"],"k":"b","tipp":"Regel: 'malen' mit Farbe schreibt man ohne h, anders als 'mahlen' beim Müller."},
  {"r":"Schweif","w":"Schwaif","o":["Schweif","Schwaif","Schweiv","Schweiff"],"k":"b","tipp":"Regel: 'Schweif' schreibt man mit ei wie 'Eis'."}
 ]},
 {"s":2,"satz":"Der schlaue Fuchs verkauft im Traummarkt bunte Träume gegen leckere Kekse.","f":[

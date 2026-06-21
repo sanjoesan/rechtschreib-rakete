@@ -45,7 +45,7 @@
   {"r":"Weg","w":"Wech","o":["Weg","Wech","Wäg","Wegg"],"k":"b","tipp":"Merksatz: 'Weg' schreibt man am Ende mit g (Probe: die We-ge)."}
 ]},
 {"s":1,"satz":"Der Schmetterling ruht auf einer Blüte und schließt seine zarten Flügel.","f":[
-  {"r":"Blüte","w":"Blühte","o":["Blüte","Blühte","Blütä","Blütte"],"k":"b","tipp":"Merksatz: 'Blüte' schreibt man ohne Dehnungs-h: Blü-te."},
+  {"r":"Blüte","w":"Blüete","o":["Blüte","Blüete","Blütä","Blütte"],"k":"b","tipp":"Merksatz: 'Blüte' schreibt man ohne Dehnungs-h: Blü-te."},
   {"r":"schließt","w":"schliest","o":["schließt","schliest","schliesst","schließd"],"k":"b","tipp":"Merksatz: Nach langem ie steht ein ß: schlie-ßen."},
   {"r":"zarten","w":"zahrten","o":["zarten","zahrten","zardten","zarrten"],"k":"b","tipp":"Merksatz: 'zart' schreibt man ohne Dehnungs-h: zar-te."}
 ]},
@@ -106,7 +106,7 @@
 ]},
 {"s":2,"satz":"Die Spinne lässt sich an einem dünnen Faden vom Baum herunter.","f":[
   {"r":"Faden","w":"faden","o":["Faden","faden","Fahden","fahden"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Faden'."},
-  {"r":"dünnen","w":"dünen","o":["dünnen","dünen","dühnen","dünnän"],"k":"b","tipp":"Regel: 'dünn' schreibt man mit doppel-N: dün-ne."},
+  {"r":"dünnen","w":"dünän","o":["dünnen","dünän","dühnen","dünnän"],"k":"b","tipp":"Regel: 'dünn' schreibt man mit doppel-N: dün-ne."},
   {"r":"lässt","w":"Lässt","o":["lässt","Lässt","läst","Läst"],"k":"g","tipp":"Regel: Verben wie 'lassen' schreibt man klein."}
 ]},
 {"s":2,"satz":"Der Schmetterling trinkt mit seinem Rüssel den süßen Saft der Blüte.","f":[

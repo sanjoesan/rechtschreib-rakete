@@ -22,7 +22,7 @@
 {"s":1,"satz":"Die roten Blätter rascheln laut unter den schweren Stiefeln der Kinder.","f":[
   {"r":"Blätter","w":"Bläter","o":["Blätter","Bläter","Blädter","Bletter"],"k":"b","tipp":"Merksatz: Die Blätter haben doppel-T: Blä-tt-er."},
   {"r":"rascheln","w":"rascheen","o":["rascheln","rascheen","raschäln","rasheln"],"k":"b","tipp":"Merksatz: 'rascheln' schreibt man mit ch und l: ra-sch-eln."},
-  {"r":"schweren","w":"schwären","o":["schweren","schwären","shweren","schwehren"],"k":"b","tipp":"Merksatz: 'schwer' schreibt man mit e, nicht mit ä: schw-e-r."}
+  {"r":"schweren","w":"schweeren","o":["schweren","schweeren","shweren","schwehren"],"k":"b","tipp":"Merksatz: 'schwer' schreibt man mit e, nicht mit ä: schw-e-r."}
 ]},
 {"s":1,"satz":"Der lustige Schneemann trägt eine alte Mütze und eine lange rote Nase.","f":[
   {"r":"Schneemann","w":"Schneman","o":["Schneemann","Schneman","Schneeman","Schnemann"],"k":"b","tipp":"Merksatz: Schneemann hat doppel-E und doppel-N: Schn-ee-ma-nn."},
@@ -106,7 +106,7 @@
 ]},
 {"s":2,"satz":"Im heißen Sommer planschen die lachenden Kinder vergnügt im kühlen Becken.","f":[
   {"r":"Sommer","w":"sommer","o":["Sommer","sommer","Sohmer","sohmer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Sommer' hat den Begleiter 'dem'."},
-  {"r":"planschen","w":"plantschen","o":["planschen","plantschen","blanschen","planshen"],"k":"b","tipp":"Regel: 'planschen' schreibt man mit nsch, ohne t: plan-sch-en."},
+  {"r":"planschen","w":"plannschen","o":["planschen","plannschen","blanschen","planshen"],"k":"b","tipp":"Regel: 'planschen' schreibt man mit nsch, ohne t: plan-sch-en."},
   {"r":"lachenden","w":"Lachenden","o":["lachenden","Lachenden","lachänden","Lachänden"],"k":"g","tipp":"Regel: Adjektive wie 'lachend' schreibt man klein."}
 ]},
 {"s":2,"satz":"Der frostige Winter friert den ganzen Teich zu einer glatten Eisfläche.","f":[

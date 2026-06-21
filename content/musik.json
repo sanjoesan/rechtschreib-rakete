@@ -136,7 +136,7 @@
 ]},
 {"s":3,"satz":"Die Sängerin wollte noch ein Lied singen, aber das kaputt gegangene Mikrofon schwieg.","f":[
   {"r":"singen,","w":"singen","o":["singen,","singen","singen;","singen."],"k":"k","tipp":"Regel: Vor 'aber' steht immer ein Komma."},
-  {"r":"Mikrofon","w":"Mikrophon","o":["Mikrofon","Mikrophon","Mikrofohn","Migrofon"],"k":"b","tipp":"Regel: Das Mikrofon schreibt man mit f: Mi-kro-fon."},
+  {"r":"Mikrofon","w":"Mikrrofon","o":["Mikrofon","Mikrrofon","Mikrofohn","Migrofon"],"k":"b","tipp":"Regel: Das Mikrofon schreibt man mit f: Mi-kro-fon."},
   {"r":"kaputt","w":"Kaputt","o":["kaputt","Kaputt","kaput","kapudt"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'kaputt' schreibt man klein."}
 ]},
 {"s":3,"satz":"Die Flöte, die im Schrank lag, gehörte schon meiner alten Urgroßmutter.","f":[

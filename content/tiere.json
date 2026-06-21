@@ -45,7 +45,7 @@
   {"r":"Geschick","w":"Geschik","o":["Geschick","Geschik","Geschig","Keschick"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: Ge-schick."}
 ]},
 {"s":1,"satz":"Die schlaue Schlange ringelt sich gemütlich in der Sonne um einen warmen Stein.","f":[
-  {"r":"Schlange","w":"Schlanke","o":["Schlange","Schlanke","Schlangge","Schlannge"],"k":"b","tipp":"Merksatz: Die Schlange zischt mit ng und nur EINEM g: Schlan-ge."},
+  {"r":"Schlange","w":"Schlanche","o":["Schlange","Schlanche","Schlangge","Schlannge"],"k":"b","tipp":"Merksatz: Die Schlange zischt mit ng und nur EINEM g: Schlan-ge."},
   {"r":"gemütlich","w":"gemütlig","o":["gemütlich","gemütlig","gemühtlich","gemütliech"],"k":"b","tipp":"Merksatz: Die Endung '-lich' schreibt man immer mit ch: gemüt-lich."},
   {"r":"Sonne","w":"Sone","o":["Sonne","Sone","Sonnä","Zonne"],"k":"b","tipp":"Merksatz: Die Sonne strahlt doppelt – doppel-N: Son-ne."}
 ]},

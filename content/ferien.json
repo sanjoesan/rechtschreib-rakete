@@ -82,7 +82,7 @@
 {"s":2,"satz":"Am sonnigen Mittag schwimmt der lustige Tom mutig durch die kühlen Wellen.","f":[
   {"r":"Mittag","w":"mittag","o":["Mittag","mittag","Midtag","Mittak"],"k":"g","tipp":"Regel: Tageszeiten wie 'Mittag' sind Namenwörter und schreibt man groß."},
   {"r":"schwimmt","w":"Schwimmt","o":["schwimmt","Schwimmt","schwimt","shwimmt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schwimmen' schreibt man klein."},
-  {"r":"kühlen","w":"kuhlen","o":["kühlen","kuhlen","küulen","gühlen"],"k":"b","tipp":"Regel: 'kühl' schreibt man mit ü: küh-len."}
+  {"r":"kühlen","w":"küelen","o":["kühlen","küelen","küulen","gühlen"],"k":"b","tipp":"Regel: 'kühl' schreibt man mit ü: küh-len."}
 ]},
 {"s":2,"satz":"Die müde Oma sitzt zufrieden im Liegestuhl und liest ein spannendes Reisebuch.","f":[
   {"r":"Liegestuhl","w":"liegestuhl","o":["Liegestuhl","liegestuhl","Liegestul","Liegeschtuhl"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Liegestuhl' steht mit 'der'."},

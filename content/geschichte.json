@@ -21,7 +21,7 @@
 ]},
 {"s":1,"satz":"Die alten Wikinger fuhren mit langen Booten über das Meer nach Hause.","f":[
  {"r":"fuhren","w":"furen","o":["fuhren","furen","fuhrren","fuuren"],"k":"b","tipp":"Merksatz: In 'fahren' und 'fuhren' steckt ein Dehnungs-h."},
- {"r":"Booten","w":"Boten","o":["Booten","Boten","Bohten","Bootten"],"k":"b","tipp":"Merksatz: Ein Boot hat zwei o, also auch 'Booten'."},
+ {"r":"Booten","w":"Booden","o":["Booten","Booden","Bohten","Bootten"],"k":"b","tipp":"Merksatz: Ein Boot hat zwei o, also auch 'Booten'."},
  {"r":"Meer","w":"Mer","o":["Meer","Mer","Mehr","Meeer"],"k":"b","tipp":"Merksatz: Das Wasser-Meer hat zwei e."}
 ]},
 {"s":1,"satz":"Ein berühmter Entdecker segelte mutig über den großen Ozean.","f":[
@@ -32,7 +32,7 @@
 {"s":1,"satz":"Vor langer Zeit malten Höhlenmenschen bunte Bilder an die Wände der Höhle.","f":[
  {"r":"malten","w":"malden","o":["malten","malden","mahlten","mallten"],"k":"b","tipp":"Merksatz: 'malten' kommt von 'malen' und wird mit t geschrieben."},
  {"r":"bunte","w":"punte","o":["bunte","punte","buntte","bundte"],"k":"b","tipp":"Merksatz: 'bunt' beginnt mit B wie 'Ball'."},
- {"r":"Wände","w":"Wende","o":["Wände","Wende","Wänte","Wändte"],"k":"b","tipp":"Merksatz: 'Wände' kommt von 'Wand', darum mit ä."}
+ {"r":"Wände","w":"Wäende","o":["Wände","Wäende","Wänte","Wändte"],"k":"b","tipp":"Merksatz: 'Wände' kommt von 'Wand', darum mit ä."}
 ]},
 {"s":1,"satz":"Die fleißigen Bauern arbeiteten früher hart auf dem Feld am Dorf.","f":[
  {"r":"fleißigen","w":"fleisigen","o":["fleißigen","fleisigen","fleißiegen","fleißiggen"],"k":"b","tipp":"Merksatz: 'fleißig' schreibt man mit ß nach dem langen ei."},

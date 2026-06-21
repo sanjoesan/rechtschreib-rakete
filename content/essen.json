@@ -87,7 +87,7 @@
 {"s":2,"satz":"Beim Backen klebt der süße Teig für den Kuchen an den Fingern.","f":[
   {"r":"Teig","w":"teig","o":["Teig","teig","Taig","Teich"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Teig' steht mit dem Begleiter 'der'."},
   {"r":"klebt","w":"Klebt","o":["klebt","Klebt","klebd","Klebd"],"k":"g","tipp":"Regel: Verben wie 'kleben' schreibt man klein."},
-  {"r":"süße","w":"süsse","o":["süße","süsse","süßä","süeße"],"k":"b","tipp":"Regel: Nach langem ü steht ß: sü-ße."}
+  {"r":"süße","w":"süüse","o":["süße","süüse","süßä","süeße"],"k":"b","tipp":"Regel: Nach langem ü steht ß: sü-ße."}
 ]},
 {"s":2,"satz":"In der warmen Küche probiert der neugierige Junge die heiße Marmelade.","f":[
   {"r":"Küche","w":"küche","o":["Küche","küche","Küuche","Kühche"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Küche' steht mit dem Begleiter 'die'."},
@@ -132,7 +132,7 @@
 {"s":3,"satz":"Der Bäcker weiß, dass der süße Kuchen bald aus dem Ofen kommt.","f":[
   {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
   {"r":"Bäcker","w":"bäcker","o":["Bäcker","bäcker","Becker","Bäkker"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Bäcker'."},
-  {"r":"süße","w":"süsse","o":["süße","süsse","süßä","süeße"],"k":"b","tipp":"Regel: Nach langem ü steht ß: sü-ße."}
+  {"r":"süße","w":"süüse","o":["süße","süüse","süßä","süeße"],"k":"b","tipp":"Regel: Nach langem ü steht ß: sü-ße."}
 ]},
 {"s":3,"satz":"Die Pizza, die im heißen Ofen brutzelt, duftet schon durch die ganze Küche.","f":[
   {"r":"Pizza,","w":"Pizza","o":["Pizza,","Pizza","Pizza;","Pizza."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'die' wird mit Kommas eingeschlossen: 'Die Pizza, die ... brutzelt, duftet ...'."},

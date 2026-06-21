@@ -19,6 +19,7 @@ function boot() {
   window.scrollTo = () => {};
   window.requestAnimationFrame = (cb) => setTimeout(() => cb(0), 0);
   window.HTMLCanvasElement.prototype.getContext = () => null;
+  window.HTMLElement.prototype.scrollIntoView = () => {};
   window.Element.prototype.scrollIntoView = () => {};
   window.matchMedia = window.matchMedia || (() => ({ matches: false, addEventListener() {}, removeEventListener() {} }));
   // Skripte als Inline-<script> in Reihenfolge ausführen (echter Global-Scope)
@@ -119,6 +120,19 @@ test("Spiel durchspielen: finden + korrigieren führt zum Ergebnis", async () =>
   }
   assert.ok(doc.querySelector(".result-card"), "Ergebnis-Karte erscheint");
   assert.ok(w.eval("state.stats.geloest") >= 1, "gelöst-Zähler erhöht");
+});
+
+test("Design-Auswahl ist prominent auf der Startseite (nicht in Einstellungen)", () => {
+  const w = boot();
+  const doc = w.document;
+  const home = doc.querySelectorAll("#designGridHome .design-chip");
+  const DESIGNS = w.eval("DESIGNS");
+  assert.equal(home.length, DESIGNS.length, "alle Designs als Chips auf der Startseite");
+  // Settings-Modal enthält KEIN Design-Raster mehr
+  assert.equal(doc.querySelectorAll("#settingsModal .design-grid").length, 0);
+  // Topbar-Button + Schnellwahl-Modal vorhanden
+  assert.ok(doc.getElementById("designBtn"), "Design-Button in der Topbar");
+  assert.ok(doc.getElementById("designModal"), "Design-Schnellwahl-Modal");
 });
 
 test("Skin wechseln setzt body-Klasse und Abzeichen-Tracking", () => {

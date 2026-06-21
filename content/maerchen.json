@@ -41,7 +41,7 @@
 ]},
 {"s":1,"satz":"Rapunzel lässt ihr langes goldenes Haar aus dem hohen Turmfenster herunter.","f":[
   {"r":"langes","w":"langges","o":["langes","langges","lannges","langhes"],"k":"b","tipp":"Merksatz: 'lang' hat nur ein g: lan-ges."},
-  {"r":"goldenes","w":"goldnes","o":["goldenes","goldnes","golldenes","goltenes"],"k":"b","tipp":"Merksatz: 'golden' kommt von 'Gold' mit d: gol-den."},
+  {"r":"goldenes","w":"goldänes","o":["goldenes","goldänes","golldenes","goltenes"],"k":"b","tipp":"Merksatz: 'golden' kommt von 'Gold' mit d: gol-den."},
   {"r":"Turmfenster","w":"Turmfänster","o":["Turmfenster","Turmfänster","Turmfensder","Thurmfenster"],"k":"b","tipp":"Merksatz: Das Fenster schreibt man mit e: Turm-Fens-ter."}
 ]},
 {"s":1,"satz":"Der hungrige Riese stapft über die grüne Wiese brummend zum geheimen Zauberschloss hinüber.","f":[

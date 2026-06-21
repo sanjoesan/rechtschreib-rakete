@@ -77,7 +77,7 @@
 {"s":2,"satz":"Vor dem Wettkampf zittert die nervöse Läuferin aufgeregt an der weißen Startlinie.","f":[
   {"r":"Wettkampf","w":"wettkampf","o":["Wettkampf","wettkampf","Wetkampf","Wettkamf"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'der Wettkampf' schreibt man groß."},
   {"r":"zittert","w":"Zittert","o":["zittert","Zittert","zitert","zittärt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'zittern' schreibt man klein."},
-  {"r":"weißen","w":"weisen","o":["weißen","weisen","waißen","weißän"],"k":"b","tipp":"Regel: Nach dem langen ei steht ß: wei-ßen."}
+  {"r":"weißen","w":"weißsen","o":["weißen","weißsen","waißen","weißän"],"k":"b","tipp":"Regel: Nach dem langen ei steht ß: wei-ßen."}
 ]},
 {"s":2,"satz":"Beim Radfahren tritt der sportliche Junge kräftig in die Pedale des roten Fahrrads.","f":[
   {"r":"Radfahren","w":"radfahren","o":["Radfahren","radfahren","Radfaren","Ratfahren"],"k":"g","tipp":"Regel: 'das Radfahren' ist hier ein Nomen (Nominalisierung) und wird großgeschrieben."},

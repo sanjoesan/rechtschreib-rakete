@@ -21,7 +21,7 @@
 ]},
 {"s":1,"satz":"Der freundliche Zauberer holt ein weißes Kaninchen geschickt aus seinem hohen schwarzen Hut.","f":[
   {"r":"freundliche","w":"freuntliche","o":["freundliche","freuntliche","fröindliche","freundlieche"],"k":"b","tipp":"Merksatz: 'Freund' schreibt man mit d am Ende, wie 'Freunde'."},
-  {"r":"weißes","w":"weises","o":["weißes","weises","waißes","weißäs"],"k":"b","tipp":"Merksatz: 'weiß' (die Farbe) schreibt man mit ß: wei-ß."},
+  {"r":"weißes","w":"weißess","o":["weißes","weißess","waißes","weißäs"],"k":"b","tipp":"Merksatz: 'weiß' (die Farbe) schreibt man mit ß: wei-ß."},
   {"r":"Kaninchen","w":"Kaniinchen","o":["Kaninchen","Kaniinchen","Kanienchen","Kaninschen"],"k":"b","tipp":"Merksatz: Das Kaninchen schreibt man mit einem i: Ka-nin-chen."}
 ]},
 {"s":1,"satz":"Im riesigen Zirkuszelt klatschen die fröhlichen Kinder begeistert für die tanzenden Pferde.","f":[

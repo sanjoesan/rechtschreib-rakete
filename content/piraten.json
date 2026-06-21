@@ -137,7 +137,7 @@
 {"s":3,"satz":"Die Schatzkarte, die der Pirat findet, zeigt ein großes rotes Kreuz im Sand.","f":[
   {"r":"Schatzkarte,","w":"Schatzkarte","o":["Schatzkarte,","Schatzkarte","Schatzkarte;","Schatzkarte."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'die' wird mit Kommas eingeschlossen: 'Die Schatzkarte, die ... findet, zeigt ...'."},
   {"r":"rotes","w":"Rotes","o":["rotes","Rotes","rohtes","Rohtes"],"k":"g","tipp":"Regel: Adjektive wie 'rot' schreibt man klein."},
-  {"r":"großes","w":"grosses","o":["großes","grosses","grohses","großäs"],"k":"b","tipp":"Regel: 'groß' schreibt man nach langem o mit ß: gro-ßes."}
+  {"r":"großes","w":"groses","o":["großes","groses","grohses","großäs"],"k":"b","tipp":"Regel: 'groß' schreibt man nach langem o mit ß: gro-ßes."}
 ]},
 {"s":3,"satz":"Wenn der Sturm tobt, klammert sich der Pirat fest an den hohen Mast.","f":[
   {"r":"tobt,","w":"tobt","o":["tobt,","tobt","tobt;","tobt."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma: 'Wenn ..., klammert ...'."},

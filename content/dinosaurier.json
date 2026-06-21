@@ -25,7 +25,7 @@
   {"r":"frisst","w":"frist","o":["frisst","frist","frißt","frisßt"],"k":"b","tipp":"Merksatz: Nach kurzem i steht doppel-S: fris-sen, er frisst."}
 ]},
 {"s":1,"satz":"In der Urzeit legen viele Dinosaurier ihre runden Dinoeier ins warme Nest.","f":[
-  {"r":"Urzeit","w":"Uhrzeit","o":["Urzeit","Uhrzeit","Urzait","Urzeitt"],"k":"b","tipp":"Merksatz: Die Urzeit ist uralt und schreibt sich ohne h: Ur-zeit."},
+  {"r":"Urzeit","w":"Urzeyt","o":["Urzeit","Urzeyt","Urzait","Urzeitt"],"k":"b","tipp":"Merksatz: Die Urzeit ist uralt und schreibt sich ohne h: Ur-zeit."},
   {"r":"Dinosaurier","w":"Dinosaorier","o":["Dinosaurier","Dinosaorier","Dinosaurrier","Dinnosaurier"],"k":"b","tipp":"Merksatz: Der Saurier hat au und ier: Dino-saur-ier."},
   {"r":"Dinoeier","w":"Dinoeyer","o":["Dinoeier","Dinoeyer","Dinoeiar","Dinnoeier"],"k":"b","tipp":"Merksatz: Die Eier schreibt man mit ei: Dino-ei-er."}
 ]},
@@ -121,7 +121,7 @@
 ]},
 {"s":3,"satz":"In der Urzeit lebten Dinosaurier, große Flugsaurier und winzige Insekten.","f":[
   {"r":"Dinosaurier,","w":"Dinosaurier","o":["Dinosaurier,","Dinosaurier","Dinosaurier;","Dinosaurier."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
-  {"r":"Urzeit","w":"Uhrzeit","o":["Urzeit","Uhrzeit","Urzait","Urzeitt"],"k":"b","tipp":"Regel: Die Urzeit schreibt man ohne Dehnungs-h: Ur-zeit."},
+  {"r":"Urzeit","w":"Urzeyt","o":["Urzeit","Urzeyt","Urzait","Urzeitt"],"k":"b","tipp":"Regel: Die Urzeit schreibt man ohne Dehnungs-h: Ur-zeit."},
   {"r":"große","w":"Große","o":["große","Große","grosse","Grosse"],"k":"g","tipp":"Regel: Adjektive wie 'groß' schreibt man klein."}
 ]},
 {"s":3,"satz":"Der Forscher freut sich, weil er ein seltenes Fossil gefunden hat.","f":[

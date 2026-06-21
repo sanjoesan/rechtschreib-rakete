@@ -1,6 +1,6 @@
 [
 {"s":1,"satz":"In der dunklen Höhle hängen die spitzen Tropfsteine geheimnisvoll von der Decke.","f":[
-  {"r":"dunklen","w":"dunkeln","o":["dunklen","dunkeln","dungklen","dunklän"],"k":"b","tipp":"Merksatz: 'dunkel' verliert das e: dunk-len."},
+  {"r":"dunklen","w":"dunkln","o":["dunklen","dunkln","dungklen","dunklän"],"k":"b","tipp":"Merksatz: 'dunkel' verliert das e: dunk-len."},
   {"r":"Tropfsteine","w":"Tropsteine","o":["Tropfsteine","Tropsteine","Tropfstaine","Tropfsteinne"],"k":"b","tipp":"Merksatz: In 'Tropf' steckt ein pf: Tropf-stei-ne."},
   {"r":"geheimnisvoll","w":"geheimnisfoll","o":["geheimnisvoll","geheimnisfoll","gehaimnisvoll","geheimnisvol"],"k":"b","tipp":"Merksatz: '-voll' schreibt man mit v und doppel-l: ge-heim-nis-voll."}
 ]},
@@ -41,7 +41,7 @@
 ]},
 {"s":1,"satz":"Am stillen See spiegeln sich die weißen Tropfsteine im glasklaren ruhigen Wasser.","f":[
   {"r":"spiegeln","w":"spigeln","o":["spiegeln","spigeln","schpiegeln","spiegäln"],"k":"b","tipp":"Merksatz: In 'spiegeln' steckt ie: spie-geln."},
-  {"r":"weißen","w":"weisen","o":["weißen","weisen","waißen","weißän"],"k":"b","tipp":"Merksatz: 'weiß' schreibt man mit ß: wei-ßen."},
+  {"r":"weißen","w":"weißsen","o":["weißen","weißsen","waißen","weißän"],"k":"b","tipp":"Merksatz: 'weiß' schreibt man mit ß: wei-ßen."},
   {"r":"ruhigen","w":"ruigen","o":["ruhigen","ruigen","ruhiegen","ruhigän"],"k":"b","tipp":"Merksatz: 'ruhig' trägt ein Dehnungs-h: ru-hig."}
 ]},
 {"s":1,"satz":"Der neugierige Forscher entdeckt eine versteckte Kammer voller funkelnder Kristalle.","f":[

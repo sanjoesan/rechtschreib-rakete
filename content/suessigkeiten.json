@@ -30,7 +30,7 @@
   {"r":"hungrigen","w":"hungriegen","o":["hungrigen","hungriegen","hungerigen","hungrieggen"],"k":"b","tipp":"Merksatz: In 'hungrig' steckt der 'Hunger' mit u und g: hun-grig."}
 ]},
 {"s":1,"satz":"Zu Weihnachten backt der Bäcker einen Lebkuchen mit süßem Zuckerguss obendrauf.","f":[
-  {"r":"Bäcker","w":"Becker","o":["Bäcker","Becker","Bäkker","Bäcger"],"k":"b","tipp":"Merksatz: Der Bäcker kommt von 'backen' und wird mit ä geschrieben: Bä-cker."},
+  {"r":"Bäcker","w":"Bäcer","o":["Bäcker","Bäcer","Bäkker","Bäcger"],"k":"b","tipp":"Merksatz: Der Bäcker kommt von 'backen' und wird mit ä geschrieben: Bä-cker."},
   {"r":"Lebkuchen","w":"Lepkuchen","o":["Lebkuchen","Lepkuchen","Lebguchen","Lebkuhchen"],"k":"b","tipp":"Merksatz: Der Lebkuchen schreibt man mit b: Leb-ku-chen."},
   {"r":"Zuckerguss","w":"Zukerguss","o":["Zuckerguss","Zukerguss","Zuckergus","Zuckergusss"],"k":"b","tipp":"Merksatz: Der Zucker hat ck und 'Guss' hat doppel-S: Zuc-ker-guss."}
 ]},
@@ -66,7 +66,7 @@
 ]},
 {"s":2,"satz":"Heimlich nascht der kleine Kobold die süßen Bonbons aus der Dose im Schrank.","f":[
   {"r":"nascht","w":"Nascht","o":["nascht","Nascht","nasht","naschd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'naschen' schreibt man klein."},
-  {"r":"süßen","w":"süssen","o":["süßen","süssen","süüßen","süszen"],"k":"b","tipp":"Regel: Nach langem ü steht ß: sü-ßen."},
+  {"r":"süßen","w":"süüsen","o":["süßen","süüsen","süüßen","süszen"],"k":"b","tipp":"Regel: Nach langem ü steht ß: sü-ßen."},
   {"r":"Dose","w":"dose","o":["Dose","dose","Dohse","Doose"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß - 'die Dose' hat den Begleiter 'die'."}
 ]},
 {"s":2,"satz":"Die mutige Maus knabbert leise am riesigen Stück Schokolade im Keller.","f":[
@@ -131,7 +131,7 @@
 ]},
 {"s":3,"satz":"Die Kinder freuten sich, weil es heute süße Zuckerwatte zum Nachtisch gab.","f":[
   {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
-  {"r":"süße","w":"süsse","o":["süße","süsse","süüße","süsze"],"k":"b","tipp":"Regel: Nach langem ü steht ß: sü-ße."},
+  {"r":"süße","w":"süüse","o":["süße","süüse","süüße","süsze"],"k":"b","tipp":"Regel: Nach langem ü steht ß: sü-ße."},
   {"r":"Zuckerwatte","w":"zuckerwatte","o":["Zuckerwatte","zuckerwatte","Zukerwatte","Zuckerwate"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß - 'die Zuckerwatte' hat den Begleiter 'die'."}
 ]},
 {"s":3,"satz":"Tom wollte mehr Bonbons, aber die volle Dose war bereits ganz leer.","f":[
@@ -177,6 +177,6 @@
 {"s":3,"satz":"Bevor er das Eis aß, leckte der Hund schnell die süße Sahne ab.","f":[
   {"r":"aß,","w":"aß","o":["aß,","aß","aß;","aß."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'bevor' vorne, kommt danach ein Komma."},
   {"r":"leckte","w":"Leckte","o":["leckte","Leckte","lekte","leckdte"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'lecken' schreibt man klein."},
-  {"r":"süße","w":"süsse","o":["süße","süsse","süüße","süsze"],"k":"b","tipp":"Regel: Nach langem ü steht ß: sü-ße."}
+  {"r":"süße","w":"süüse","o":["süße","süüse","süüße","süsze"],"k":"b","tipp":"Regel: Nach langem ü steht ß: sü-ße."}
 ]}
 ]

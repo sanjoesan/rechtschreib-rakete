@@ -437,6 +437,10 @@ function renderResult({ perfect, stars, xp, secs, newBadges, levelUp, lvlAfter }
 
   body.appendChild(card);
   if (state.speech) speak(corrected);
+  // Nach dem Lösen direkt zu den Buttons scrollen, damit „Nächster Satz" gleich sichtbar ist
+  requestAnimationFrame(() => {
+    try { btns.scrollIntoView({ behavior: "smooth", block: "center" }); } catch {}
+  });
 }
 
 /* =========================================================
@@ -550,13 +554,15 @@ function renderBadges(target) {
 }
 
 function renderDesigns() {
-  const g = $("#designGrid"); g.innerHTML = "";
-  DESIGNS.forEach((d) => {
-    const b = el("button", "design-chip" + (state.skin === d.id ? " active" : ""));
-    b.style.setProperty("--accent", d.farbe);
-    b.innerHTML = `<span class="design-emoji">${d.emoji}</span><span>${esc(d.name)}</span>`;
-    b.addEventListener("click", () => setSkin(d.id));
-    g.appendChild(b);
+  $$(".design-grid").forEach((g) => {
+    g.innerHTML = "";
+    DESIGNS.forEach((d) => {
+      const b = el("button", "design-chip" + (state.skin === d.id ? " active" : ""));
+      b.style.setProperty("--accent", d.farbe);
+      b.innerHTML = `<span class="design-emoji">${d.emoji}</span><span>${esc(d.name)}</span>`;
+      b.addEventListener("click", () => setSkin(d.id));
+      g.appendChild(b);
+    });
   });
 }
 
@@ -577,7 +583,7 @@ function setSkin(id) {
 function showView(name) {
   $("#viewHome").classList.toggle("hidden", name !== "home");
   $("#viewGame").classList.toggle("hidden", name !== "game");
-  if (name === "home") { renderStufen(); renderThemes(); renderProgress(); renderBadges("#badgeGrid"); refreshTopbar(); }
+  if (name === "home") { renderStufen(); renderThemes(); renderProgress(); renderBadges("#badgeGrid"); renderDesigns(); refreshTopbar(); }
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
@@ -596,8 +602,10 @@ function init() {
 
   // Topbar
   $("#brandBtn").addEventListener("click", () => showView("home"));
-  $("#settingsBtn").addEventListener("click", () => { renderDesigns(); $("#soundToggle").checked = state.sound; $("#speechToggle").checked = state.speech; openModal("#settingsModal"); });
+  $("#settingsBtn").addEventListener("click", () => { $("#soundToggle").checked = state.sound; $("#speechToggle").checked = state.speech; openModal("#settingsModal"); });
   $("#settingsClose").addEventListener("click", () => closeModal("#settingsModal"));
+  $("#designBtn").addEventListener("click", () => { renderDesigns(); openModal("#designModal"); });
+  $("#designClose").addEventListener("click", () => closeModal("#designModal"));
   $("#badgesBtn").addEventListener("click", () => { renderBadges("#badgeGridModal"); $("#badgesCount").textContent = `${state.badges.length} von ${ACHIEVEMENTS.length} freigeschaltet`; openModal("#badgesModal"); });
   $("#badgesClose").addEventListener("click", () => closeModal("#badgesModal"));
 

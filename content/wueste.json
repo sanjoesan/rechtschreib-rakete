@@ -112,7 +112,7 @@
 {"s":2,"satz":"Das geduldige Kamel kaut zufrieden an den stacheligen grünen Wüstenpflanzen.","f":[
   {"r":"Kamel","w":"kamel","o":["Kamel","kamel","Kammel","kammel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Kamel'."},
   {"r":"zufrieden","w":"Zufrieden","o":["zufrieden","Zufrieden","zufriden","Zufriden"],"k":"g","tipp":"Regel: Adjektive wie 'zufrieden' schreibt man klein."},
-  {"r":"stacheligen","w":"stachligen","o":["stacheligen","stachligen","schtacheligen","stacheliegen"],"k":"b","tipp":"Regel: 'stachelig' kommt von 'Stachel': sta-che-lig."}
+  {"r":"stacheligen","w":"stacheliggen","o":["stacheligen","stacheliggen","schtacheligen","stacheliegen"],"k":"b","tipp":"Regel: 'stachelig' kommt von 'Stachel': sta-che-lig."}
 ]},
 {"s":2,"satz":"Hinter der großen Düne entdeckt der staunende Forscher eine uralte verborgene Pyramide.","f":[
   {"r":"Düne","w":"düne","o":["Düne","düne","Dühne","dühne"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Düne'."},

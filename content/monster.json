@@ -147,7 +147,7 @@
 {"s":3,"satz":"Das freundliche Monster, das im Park wohnt, teilt sein Eis mit allen Kindern.","f":[
   {"r":"Monster,","w":"Monster","o":["Monster,","Monster","Monster;","Monster."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'das' wird mit Kommas eingeschlossen."},
   {"r":"teilt","w":"Teilt","o":["teilt","Teilt","teild","Teild"],"k":"g","tipp":"Regel: Verben wie 'teilen' schreibt man klein."},
-  {"r":"Park","w":"Bark","o":["Park","Bark","Parck","Parkk"],"k":"b","tipp":"Regel: 'Park' beginnt mit p: P-ark, wie 'Papa'."}
+  {"r":"Park","w":"Pahrk","o":["Park","Pahrk","Parck","Parkk"],"k":"b","tipp":"Regel: 'Park' beginnt mit p: P-ark, wie 'Papa'."}
 ]},
 {"s":3,"satz":"Wenn die Sonne untergeht, kuscheln sich die müden Monster in ihre Betten.","f":[
   {"r":"untergeht,","w":"untergeht","o":["untergeht,","untergeht","untergeht;","untergeht."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma."},

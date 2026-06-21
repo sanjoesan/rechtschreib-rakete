@@ -10,7 +10,7 @@
   {"r":"Blitz","w":"Blits","o":["Blitz","Blits","Blizt","Plitz"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: Bli-tz."}
 ]},
 {"s":1,"satz":"Der weiße Schnee bedeckt am Morgen leise die stille Straße vor dem Haus.","f":[
-  {"r":"weiße","w":"weise","o":["weiße","weise","waiße","waisse"],"k":"b","tipp":"Merksatz: Die Farbe 'weiß' schreibt man mit ß nach langem ei: w-ei-ß."},
+  {"r":"weiße","w":"weiise","o":["weiße","weiise","waiße","waisse"],"k":"b","tipp":"Merksatz: Die Farbe 'weiß' schreibt man mit ß nach langem ei: w-ei-ß."},
   {"r":"Schnee","w":"Schne","o":["Schnee","Schne","Shnee","Schneee"],"k":"b","tipp":"Merksatz: Der Schnee fällt doppelt – doppel-E: Schn-ee."},
   {"r":"Straße","w":"Strasse","o":["Straße","Strasse","Schtraße","Stráße"],"k":"b","tipp":"Merksatz: Nach langem a steht ß: Stra-ß-e."}
 ]},
@@ -31,7 +31,7 @@
 ]},
 {"s":1,"satz":"Dichter Nebel kriecht am frühen Morgen lautlos über das kühle Feld.","f":[
   {"r":"Nebel","w":"Neebel","o":["Nebel","Neebel","Nepel","Nebbel"],"k":"b","tipp":"Merksatz: Der Nebel hat ein kurzes e und ein b: Ne-bel."},
-  {"r":"kriecht","w":"kriegt","o":["kriecht","kriegt","krischt","krieht"],"k":"b","tipp":"Merksatz: 'kriechen' schreibt man mit ch, nicht mit g: krie-ch-t."},
+  {"r":"kriecht","w":"krieckt","o":["kriecht","krieckt","krischt","krieht"],"k":"b","tipp":"Merksatz: 'kriechen' schreibt man mit ch, nicht mit g: krie-ch-t."},
   {"r":"lautlos","w":"lautloos","o":["lautlos","lautloos","lautloß","laotlos"],"k":"b","tipp":"Merksatz: 'lautlos' endet auf '-los' mit einem o und einem s: laut-los."}
 ]},
 {"s":1,"satz":"Plötzlich fällt harter Hagel klappernd auf das Dach der kleinen Scheune.","f":[

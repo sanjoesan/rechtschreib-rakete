@@ -76,7 +76,7 @@
 ]},
 {"s":2,"satz":"Der fleißige Specht hackt ein Loch in die Rinde und sucht nach Käfern.","f":[
   {"r":"Loch","w":"loch","o":["Loch","loch","Lohch","Lochh"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Loch'."},
-  {"r":"hackt","w":"hakt","o":["hackt","hakt","hackd","haggt"],"k":"b","tipp":"Regel: Nach kurzem a steht ck: hac-ken."},
+  {"r":"hackt","w":"hakkt","o":["hackt","hakkt","hackd","haggt"],"k":"b","tipp":"Regel: Nach kurzem a steht ck: hac-ken."},
   {"r":"sucht","w":"Sucht","o":["sucht","Sucht","suht","Suht"],"k":"g","tipp":"Regel: Verben wie 'suchen' schreibt man klein."}
 ]},
 {"s":2,"satz":"Der kleine Pinguin watschelt zum Wasser und springt mutig in die kalten Wellen.","f":[

@@ -258,6 +258,8 @@ main { max-width: 1080px; margin: 0 auto; padding: 18px 16px 60px; }
 .design-chip { display: flex; align-items: center; gap: 8px; background: var(--card-2); border: 2px solid var(--line); border-radius: 12px; padding: 9px 10px; cursor: pointer; font-weight: 700; font-size: 13px; text-align: left; color: var(--text); }
 .design-chip.active { border-color: var(--accent); box-shadow: 0 0 0 2px color-mix(in srgb, var(--accent) 30%, transparent); }
 .design-emoji { font-size: 20px; }
+.settings-hint { color: var(--muted); font-weight: 600; background: var(--card-2); border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; margin: 6px 0 4px; }
+.design-grid-home .design-chip { background: var(--card); box-shadow: var(--shadow-sm); }
 
 /* ---------- Toast & Konfetti ---------- */
 .toast { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%) translateY(140%); background: #20243a; color: #fff; padding: 12px 20px; border-radius: 14px; font-weight: 700; z-index: 60; box-shadow: var(--shadow); transition: transform .35s; max-width: 90vw; text-align: center; }

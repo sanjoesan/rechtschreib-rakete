@@ -30,13 +30,13 @@
   {"r":"Gabel","w":"Gahbel","o":["Gabel","Gahbel","Gabbel","Gabäl"],"k":"b","tipp":"Merksatz: Die Gabel braucht kein Dehnungs-h: Ga-bel."}
 ]},
 {"s":1,"satz":"In der hohen Scheune türmt sich das goldene Stroh bis unter das Dach.","f":[
-  {"r":"Scheune","w":"Scheine","o":["Scheune","Scheine","Scheuhne","Scheonne"],"k":"b","tipp":"Merksatz: Die Scheune schreibt man mit eu wie in 'heute'."},
+  {"r":"Scheune","w":"Scheuhne","o":["Scheune","Scheuhne","Scheonne","Scheunä"],"k":"b","tipp":"Merksatz: Die Scheune schreibt man mit eu wie in 'heute'."},
   {"r":"türmt","w":"tührmt","o":["türmt","tührmt","türrmt","dürmt"],"k":"b","tipp":"Merksatz: 'türmen' kommt von 'Turm' – ohne Dehnungs-h: türmt."},
-  {"r":"goldene","w":"goldne","o":["goldene","goldne","goltene","goldenä"],"k":"b","tipp":"Merksatz: 'golden' kommt von 'Gold' mit d: gol-de-ne."}
+  {"r":"goldene","w":"goldäne","o":["goldene","goldäne","goltene","goldenne"],"k":"b","tipp":"Merksatz: 'golden' kommt von 'Gold' mit d: gol-de-ne."}
 ]},
 {"s":1,"satz":"Im Herbst bringt der Bauer die reiche Ernte mit dem Wagen in die Scheune.","f":[
   {"r":"Ernte","w":"Ernde","o":["Ernte","Ernde","Erndte","Ärnte"],"k":"b","tipp":"Merksatz: Die Ernte hat ein hartes t: Ern-te."},
-  {"r":"reiche","w":"reihe","o":["reiche","reihe","reische","raiche"],"k":"b","tipp":"Merksatz: 'reich' schreibt man mit ei und ch: rei-che."},
+  {"r":"reiche","w":"reichä","o":["reiche","reichä","reische","raiche"],"k":"b","tipp":"Merksatz: 'reich' schreibt man mit ei und ch: rei-che."},
   {"r":"Wagen","w":"Wahgen","o":["Wagen","Wahgen","Waggen","Wahnen"],"k":"b","tipp":"Merksatz: Der Wagen braucht kein Dehnungs-h: Wa-gen."}
 ]},
 {"s":1,"satz":"Das neugierige Ferkel quiekt fröhlich und sucht überall nach leckerem Futter.","f":[
@@ -112,7 +112,7 @@
 {"s":2,"satz":"Im Stall gluckt die warme Henne über ihren frisch gelegten weißen Eiern.","f":[
   {"r":"Henne","w":"henne","o":["Henne","henne","Hene","hene"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Henne' hat den Begleiter 'die'."},
   {"r":"gluckt","w":"Gluckt","o":["gluckt","Gluckt","glukt","gluggt"],"k":"g","tipp":"Regel: Verben wie 'glucken' schreibt man klein."},
-  {"r":"weißen","w":"weisen","o":["weißen","weisen","waißen","weißän"],"k":"b","tipp":"Regel: Nach langem ei kommt das scharfe ß: wei-ßen."}
+  {"r":"weißen","w":"weißsen","o":["weißen","weißsen","waißen","weißän"],"k":"b","tipp":"Regel: Nach langem ei kommt das scharfe ß: wei-ßen."}
 ]},
 {"s":2,"satz":"Der müde Bauer ruht sich kurz im Schatten der großen Eiche neben dem Acker aus.","f":[
   {"r":"Bauer","w":"bauer","o":["Bauer","bauer","Baoer","Bauä"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Bauer' hat den Begleiter 'der'."},
@@ -137,7 +137,7 @@
 {"s":3,"satz":"Der alte Traktor, der laut knattert, zieht den schweren Pflug über das Feld.","f":[
   {"r":"Traktor,","w":"Traktor","o":["Traktor,","Traktor","Traktor;","Traktor."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'der' wird mit Kommas eingeschlossen."},
   {"r":"schweren","w":"Schweren","o":["schweren","Schweren","shweren","schwehren"],"k":"g","tipp":"Regel: Adjektive wie 'schwer' schreibt man klein."},
-  {"r":"Pflug","w":"Flug","o":["Pflug","Flug","Pflook","Pfluk"],"k":"b","tipp":"Regel: 'Pflug' beginnt mit pf wie 'pflügen': Pflug."}
+  {"r":"Pflug","w":"Pfluhg","o":["Pflug","Pfluhg","Pflook","Pfluk"],"k":"b","tipp":"Regel: 'Pflug' beginnt mit pf wie 'pflügen': Pflug."}
 ]},
 {"s":3,"satz":"Das Schwein ist gemütlich, aber die flinke Ziege springt munter über den Zaun.","f":[
   {"r":"gemütlich,","w":"gemütlich","o":["gemütlich,","gemütlich","gemütlich;","gemütlich."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},

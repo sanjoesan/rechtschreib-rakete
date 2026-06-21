@@ -82,7 +82,7 @@
 {"s":2,"satz":"Die Sterne leuchten am dunklen Himmel und der Komet zieht seinen hellen Schweif.","f":[
   {"r":"Himmel","w":"himmel","o":["Himmel","himmel","Himel","himel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Himmel'."},
   {"r":"leuchten","w":"Leuchten","o":["leuchten","Leuchten","leuchden","Leuchden"],"k":"g","tipp":"Regel: Verben wie 'leuchten' schreibt man klein."},
-  {"r":"Komet","w":"Kommet","o":["Komet","Kommet","Gomet","Komett"],"k":"b","tipp":"Regel: 'Komet' schreibt man mit nur einem m und einem t."}
+  {"r":"Komet","w":"Komeet","o":["Komet","Komeet","Gomet","Komett"],"k":"b","tipp":"Regel: 'Komet' schreibt man mit nur einem m und einem t."}
 ]},
 {"s":2,"satz":"Der kleine Roboter sucht nach gefrorenem Wasser auf dem roten Planeten.","f":[
   {"r":"Wasser","w":"wasser","o":["Wasser","wasser","Waser","waser"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Wasser'."},

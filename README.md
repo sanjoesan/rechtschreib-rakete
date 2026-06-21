@@ -80,6 +80,15 @@ und `saetze.js` mitcommitten (die CI erzwingt, dass `saetze.js` aktuell ist).
 Statische Seite via **GitHub Pages** (Branch `main`, Ordner `/`). Die Datei `.nojekyll`
 sorgt dafür, dass Pages die Dateien unverändert ausliefert.
 
+## 📚 Weitere Dokumente
+
+- [`ANLEITUNG.txt`](ANLEITUNG.txt) — einfache Spielanleitung für Kinder, Eltern & Lehrkräfte
+- [`THEMEN.txt`](THEMEN.txt) — Übersicht aller 58 Themenwelten (autogeneriert)
+- [`CONTRIBUTING.md`](CONTRIBUTING.md) — neue Sätze, Themen, Designs oder Abzeichen hinzufügen
+- [`CHANGELOG.md`](CHANGELOG.md) — Änderungsprotokoll
+- [`CLAUDE.md`](CLAUDE.md) — Kurz-Wartungsanleitung
+- [`scripts/AUTOR_GUIDE.md`](scripts/AUTOR_GUIDE.md) — vollständige Schreib-Regeln für Sätze
+
 ## 📄 Lizenz
 
-MIT
+[MIT](LICENSE) © 2026 Josef Schnelzer (sanjoesan)

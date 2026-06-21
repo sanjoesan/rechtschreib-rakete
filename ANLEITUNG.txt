@@ -1,0 +1,72 @@
+===========================================================
+   RECHTSCHREIB-RAKETE  🚀   –   So wird gespielt
+===========================================================
+
+Spiel:  https://sanjoesan.github.io/rechtschreib-rakete/
+Fuer Kinder von 8 bis 14 Jahren.
+
+
+WORUM GEHT ES?
+-----------------------------------------------------------
+In jedem Satz haben sich GENAU 3 Rechtschreibfehler
+versteckt. Deine Aufgabe:
+
+  1) Finde alle 3 Fehler  ->  tippe die falschen Woerter an.
+  2) Schreibe sie richtig ->  waehle aus 4 Vorschlaegen die
+                              richtige Schreibweise.
+
+Fuer jeden Fehler bekommst du danach einen Tipp:
+  - Stufe 1: einen MERKSATZ (eine Eselsbruecke).
+  - Stufe 2 & 3: die passende REGEL.
+
+
+DIE 3 STUFEN
+-----------------------------------------------------------
+  Stufe 1  "Buchstaben-Pilot"
+           Nur Buchstabenfehler  (z. B. Farrad -> Fahrrad)
+
+  Stufe 2  "Gross-und-klein-Lotse"
+           Auch Gross- und Kleinschreibung
+           (z. B. der hund -> der Hund)
+
+  Stufe 3  "Beistrich-Kapitaen"
+           Auch Beistriche / Kommas
+           (z. B. ... freut sich weil ...
+                  -> ... freut sich, weil ...)
+
+
+SO STARTEST DU
+-----------------------------------------------------------
+  1. Oeffne die Seite im Browser (Handy, Tablet oder PC).
+  2. Waehle oben eine STUFE (1, 2 oder 3).
+  3. Waehle ein THEMA - es gibt ueber 50 Welten:
+     Maerchen, Weltraum, Tiere, Piraten, Dinosaurier,
+     Feen, Roboter, Fussball, Suessigkeiten und viele mehr.
+  4. Oder druecke "Losfliegen" / "Ueberraschungssatz".
+
+
+WAS DU SAMMELN KANNST
+-----------------------------------------------------------
+  * Sterne und Erfahrungspunkte (XP) -> du steigst im Level auf.
+  * Eine Tages-Serie (Flamme), wenn du jeden Tag uebst.
+  * 60 Abzeichen zum Freischalten.
+  * 13 Designs zum Umschalten (Weltraum, Feen, Tiefsee,
+    Dino-Land, Regenbogen, Sternennacht ...).
+  -> Einstellungen oben rechts (Zahnrad-Symbol).
+
+  TIPP: Loese einen Satz ganz OHNE Fehlklick = "perfekt"
+        und bekomme einen Extra-Stern!
+
+
+FUER ELTERN & LEHRKRAEFTE
+-----------------------------------------------------------
+  - Komplett kostenlos, keine Anmeldung, keine Werbung.
+  - Es werden KEINE Daten gesendet. Der Lernfortschritt wird
+    nur lokal im Browser des Kindes gespeichert.
+  - Laeuft offline, sobald die Seite einmal geladen ist.
+  - Die Saetze sind kindgerecht und nach typischen
+    Fehlerwoertern (Stolperwoertern) ausgewaehlt.
+  - Fortschritt zuruecksetzen: Einstellungen -> "Fortschritt
+    zuruecksetzen".
+
+Viel Spass und immer eine fehlerfreie Galaxie!  🚀⭐

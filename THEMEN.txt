@@ -1,0 +1,83 @@
+===========================================================
+   RECHTSCHREIB-RAKETE  -  Alle 58 Themenwelten
+===========================================================
+Spiel: https://sanjoesan.github.io/rechtschreib-rakete/
+Gesamt: 2088 Saetze (je Thema 12 pro Stufe).
+
+🧚  MÄRCHEN & FANTASY
+-----------------------------------------------------------
+  🏰  Märchen                (36 Saetze)
+  🧙  Zauberwesen            (36 Saetze)
+  🐉  Drachen                (36 Saetze)
+  🧚  Feen & Elfen           (36 Saetze)
+  🔮  Hexen & Zauberei       (36 Saetze)
+  🛡️  Ritter & Burgen        (36 Saetze)
+  ⛏️  Zwerge & Riesen        (36 Saetze)
+  🦄  Einhörner              (36 Saetze)
+  👻  Gespenster             (36 Saetze)
+  👹  Freundliche Monster    (36 Saetze)
+
+🦊  NATUR & TIERE
+-----------------------------------------------------------
+  🦊  Tiere                  (36 Saetze)
+  🐶  Haustiere              (36 Saetze)
+  🐠  Ozean & Meer           (36 Saetze)
+  🦕  Dinosaurier            (36 Saetze)
+  🐞  Insekten & Käfer       (36 Saetze)
+  🦜  Vögel                  (36 Saetze)
+  🌲  Im Wald                (36 Saetze)
+  ⛈️  Wetter                 (36 Saetze)
+  🌻  Pflanzen & Blumen      (36 Saetze)
+  🚜  Bauernhof              (36 Saetze)
+  🌾  Landwirtschaft         (36 Saetze)
+  ⛰️  Berge & Wandern        (36 Saetze)
+
+🚀  WELTALL & ZUKUNFT
+-----------------------------------------------------------
+  🚀  Weltraum               (36 Saetze)
+  🪐  Planeten               (36 Saetze)
+  🛸  Science-Fiction        (36 Saetze)
+  🤖  Roboter                (36 Saetze)
+  👽  Außerirdische          (36 Saetze)
+  💡  Erfindungen            (36 Saetze)
+  🎮  Computer & Spiele      (36 Saetze)
+
+🏛️  GESCHICHTE & WELT
+-----------------------------------------------------------
+  📜  Geschichte             (36 Saetze)
+  🐫  Altes Ägypten          (36 Saetze)
+  🏛️  Die Römer              (36 Saetze)
+  ⚓  Wikinger               (36 Saetze)
+  🦣  Steinzeit              (36 Saetze)
+  ⚔️  Mittelalter            (36 Saetze)
+  🌍  Länder der Welt        (36 Saetze)
+
+🗺️  ABENTEUER
+-----------------------------------------------------------
+  🏴‍☠️  Piraten                (36 Saetze)
+  🔍  Detektive              (36 Saetze)
+  🗺️  Schatzsuche            (36 Saetze)
+  🌴  Dschungel              (36 Saetze)
+  🏜️  Wüste                  (36 Saetze)
+  🐧  Am Nordpol             (36 Saetze)
+  🕯️  Höhlen                 (36 Saetze)
+  🦸  Superhelden            (36 Saetze)
+  🎪  Zirkus                 (36 Saetze)
+
+🎈  ALLTAG & SPASS
+-----------------------------------------------------------
+  🎒  Schule                 (36 Saetze)
+  ⚽  Sport                  (36 Saetze)
+  🥅  Fußball                (36 Saetze)
+  🍕  Essen & Kochen         (36 Saetze)
+  🍬  Süßigkeiten            (36 Saetze)
+  🎵  Musik                  (36 Saetze)
+  🎨  Kunst & Malen          (36 Saetze)
+  👷  Berufe                 (36 Saetze)
+  🚗  Fahrzeuge & Verkehr    (36 Saetze)
+  🍂  Jahreszeiten           (36 Saetze)
+  🎂  Geburtstag & Feste     (36 Saetze)
+  🏖️  Ferien & Reisen        (36 Saetze)
+  💭  Träume & Fantasie      (36 Saetze)
+
+Viel Spass!  🚀

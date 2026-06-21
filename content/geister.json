@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Das lustige Gespenst schwebt durch das alte Spukschloss und ruft fröhlich Buh.","f":[
+  {"r":"Gespenst","w":"Gespennst","o":["Gespenst","Gespennst","Gespehnst","Gespenzt"],"k":"b","tipp":"Merksatz: Das Gespenst hat nur EIN n: Ge-spenst, wie 'gespannt'."},
+  {"r":"Spukschloss","w":"Spukschlos","o":["Spukschloss","Spukschlos","Spukshloss","Spuckschloss"],"k":"b","tipp":"Merksatz: Das Schloss steht auf festem Boden – mit doppel-S: Schlo-ss."},
+  {"r":"fröhlich","w":"fröhlieg","o":["fröhlich","fröhlieg","frölich","fröhliech"],"k":"b","tipp":"Merksatz: 'fröhlich' endet auf '-lich' wie 'glücklich' – mit ch."}
+]},
+{"s":1,"satz":"Ein freundliches Bettlaken kichert leise und versteckt sich hinter der staubigen Truhe.","f":[
+  {"r":"Bettlaken","w":"Betlaken","o":["Bettlaken","Betlaken","Bettlacken","Bedlaken"],"k":"b","tipp":"Merksatz: Im Bett schläft man doppelt gut – darum doppel-T: Be-tt-laken."},
+  {"r":"kichert","w":"kiechert","o":["kichert","kiechert","kichard","kichertt"],"k":"b","tipp":"Merksatz: 'kichern' hat ein kurzes i ohne e: ki-chern."},
+  {"r":"staubigen","w":"staobigen","o":["staubigen","staobigen","schtaubigen","staubieggen"],"k":"b","tipp":"Merksatz: 'Staub' schreibt man mit au – wie 'Au, das kitzelt in der Nase'."}
+]},
+{"s":1,"satz":"Der kleine Spuk wackelt mit seinen Ketten und lacht über seinen Schreck ganz laut.","f":[
+  {"r":"wackelt","w":"wakkelt","o":["wackelt","wakkelt","wackeld","waggelt"],"k":"b","tipp":"Merksatz: Nach kurzem Vokal steht ck: wa-ck-elt, wie 'Wecker'."},
+  {"r":"Ketten","w":"Keten","o":["Ketten","Keten","Kettän","Ketteen"],"k":"b","tipp":"Merksatz: Die Ketten klimpern doppelt laut – darum doppel-T: Ke-tt-en."},
+  {"r":"Schreck","w":"Schrek","o":["Schreck","Schrek","Schrekk","Shreck"],"k":"b","tipp":"Merksatz: Nach kurzem e steht ck: Schre-ck, wie 'Dreck'."}
+]},
+{"s":1,"satz":"Im Turmzimmer tanzt das Gespenst mit der quietschenden Tür einen lustigen Walzer.","f":[
+  {"r":"Turmzimmer","w":"Turmzimer","o":["Turmzimmer","Turmzimer","Durmzimmer","Turmzimmär"],"k":"b","tipp":"Merksatz: Das Zimmer hat doppel-M: Zi-mm-er, wie 'immer'."},
+  {"r":"quietschenden","w":"kwietschenden","o":["quietschenden","kwietschenden","quitschenden","quietshenden"],"k":"b","tipp":"Merksatz: Den Laut 'kw' schreibt man mit qu: qu-ietschen, wie 'Quelle'."},
+  {"r":"lustigen","w":"lusdigen","o":["lustigen","lusdigen","lusstigen","lustiegen"],"k":"b","tipp":"Merksatz: In 'lustig' steckt 'Lust' – mit t: lus-tig."}
+]},
+{"s":1,"satz":"Das Gespenst frühstückt ein Marmeladenbrot und schlürft kalten Kakao aus dem Becher.","f":[
+  {"r":"frühstückt","w":"frühstükt","o":["frühstückt","frühstükt","frühschtückt","früstückt"],"k":"b","tipp":"Merksatz: Nach kurzem ü steht ck: frühstü-ck-t, wie 'Stück'."},
+  {"r":"Marmeladenbrot","w":"Marmeladenprot","o":["Marmeladenbrot","Marmeladenprot","Marmeladenbroot","Marmaladenbrot"],"k":"b","tipp":"Merksatz: Das Brot backt der Bäcker mit b: B-rot, wie 'braun'."},
+  {"r":"Kakao","w":"Kakau","o":["Kakao","Kakau","Kackao","Kaccao"],"k":"b","tipp":"Merksatz: Der Kakao endet auf 'ao': Ka-ka-o."}
+]},
+{"s":1,"satz":"Ein winziges Gespenst pustet die Kerze aus und kichert dann ganz vergnügt vor sich hin.","f":[
+  {"r":"winziges","w":"winzieges","o":["winziges","winzieges","winzigäs","winnziges"],"k":"b","tipp":"Merksatz: 'winzig' hat ein kurzes i ohne e: win-zig."},
+  {"r":"Kerze","w":"Kärze","o":["Kerze","Kärze","Kertze","Kerrze"],"k":"b","tipp":"Merksatz: Die Kerze schreibt man mit e und einem z: Ker-ze."},
+  {"r":"vergnügt","w":"fergnügt","o":["vergnügt","fergnügt","vergnügd","verknügt"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verstecken'."}
+]},
+{"s":1,"satz":"Das mutige Gespenst rutscht das Treppengeländer hinunter und landet weich im Heuhaufen unten.","f":[
+  {"r":"rutscht","w":"rutscd","o":["rutscht","rutscd","rutsht","ruttscht"],"k":"b","tipp":"Merksatz: 'rutschen' endet auf '-tscht' – wie 'Matsch'."},
+  {"r":"Treppengeländer","w":"Trepengeländer","o":["Treppengeländer","Trepengeländer","Treppengelender","Dreppengeländer"],"k":"b","tipp":"Merksatz: Die Treppe hat doppel-P, weil man Stufe für Stufe steigt: Tre-pp-e."},
+  {"r":"Heuhaufen","w":"Heuhaofen","o":["Heuhaufen","Heuhaofen","Heuhauven","Heuhaufenn"],"k":"b","tipp":"Merksatz: Der Haufen schreibt man mit au: Hau-fen, wie 'Bauer'."}
+]},
+{"s":1,"satz":"Beim Versteckspiel verschwindet das Gespenst hinter dem dicken Samtvorhang aus Stoff.","f":[
+  {"r":"Versteckspiel","w":"Fersteckspiel","o":["Versteckspiel","Fersteckspiel","Verstekspiel","Versteckschpiel"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man mit v, wie in 'verlieren'."},
+  {"r":"verschwindet","w":"verschwindät","o":["verschwindet","verschwindät","ferschwindet","verschwinded"],"k":"b","tipp":"Merksatz: 'verschwinden' endet auf '-det' mit e: verschwin-det."},
+  {"r":"Samtvorhang","w":"Samtforhang","o":["Samtvorhang","Samtforhang","Samtvorhanng","Samdvorhang"],"k":"b","tipp":"Merksatz: 'vor-' schreibt man mit v, wie in 'Vormittag'."}
+]},
+{"s":1,"satz":"Das fröhliche Gespenst sammelt Spinnweben und bastelt daraus eine flauschige Decke.","f":[
+  {"r":"sammelt","w":"samelt","o":["sammelt","samelt","sammeld","zammelt"],"k":"b","tipp":"Merksatz: 'sammeln' hat doppel-M, wie 'Sammlung': sa-mm-elt."},
+  {"r":"Spinnweben","w":"Spinweben","o":["Spinnweben","Spinweben","Schpinnweben","Spinnwehben"],"k":"b","tipp":"Merksatz: Die Spinne hat doppel-N – darum auch Spi-nn-weben."},
+  {"r":"flauschige","w":"flaoschige","o":["flauschige","flaoschige","flauschiege","vlauschige"],"k":"b","tipp":"Merksatz: 'flauschig' schreibt man mit au: flau-schig, wie 'Maus'."}
+]},
+{"s":1,"satz":"Ein schüchternes Gespenst winkt dem Mond zu und flüstert eine gute Nacht.","f":[
+  {"r":"schüchternes","w":"schüchdernes","o":["schüchternes","schüchdernes","schügternes","shüchternes"],"k":"b","tipp":"Merksatz: 'schüchtern' schreibt man mit t: schüch-tern."},
+  {"r":"flüstert","w":"flüsdert","o":["flüstert","flüsdert","flüschtert","vlüstert"],"k":"b","tipp":"Merksatz: 'flüstern' steckt voller Geheimnisse, aber endet mit t: flüs-tert."},
+  {"r":"winkt","w":"winggt","o":["winkt","winggt","winkd","winnkt"],"k":"b","tipp":"Merksatz: 'winken' schreibt man mit nk: win-kt, wie 'denken'."}
+]},
+{"s":1,"satz":"Im Keller spielt das Gespenst Verstecken mit einer freundlichen Fledermaus namens Fritzi.","f":[
+  {"r":"Keller","w":"Keler","o":["Keller","Keler","Käller","Kellär"],"k":"b","tipp":"Merksatz: Im Keller ist es kühl – mit doppel-L: Ke-ll-er."},
+  {"r":"Verstecken","w":"Ferstecken","o":["Verstecken","Ferstecken","Verstekken","Versteggen"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verschwinden'."},
+  {"r":"Fledermaus","w":"Fledermaos","o":["Fledermaus","Fledermaos","Vledermaus","Fledermauss"],"k":"b","tipp":"Merksatz: Die Maus schreibt man mit au: Mau-s, wie 'Haus'."}
+]},
+{"s":1,"satz":"Das kichernde Gespenst wirft eine Konfettikanone an und feiert seinen Geburtstag im Schloss.","f":[
+  {"r":"Konfettikanone","w":"Konfetikanone","o":["Konfettikanone","Konfetikanone","Konfettikanohne","Gonfettikanone"],"k":"b","tipp":"Merksatz: Konfetti hat doppel-T: Konfe-tt-i, wie 'fetti'."},
+  {"r":"feiert","w":"feierd","o":["feiert","feierd","feihert","veiert"],"k":"b","tipp":"Merksatz: 'feiern' endet auf '-ert' mit t: fei-ert."},
+  {"r":"Geburtstag","w":"Geburtztag","o":["Geburtstag","Geburtztag","Geburdstag","Gebburtstag"],"k":"b","tipp":"Merksatz: 'Geburt' kommt von 'geboren' – mit t: Gebur-t-stag."}
+]},
+{"s":2,"satz":"Am Abend tanzt das Gespenst im Spukschloss einen wilden Geisterwalzer.","f":[
+  {"r":"Abend","w":"abend","o":["Abend","abend","Abänd","abänd"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Abend'."},
+  {"r":"tanzt","w":"Tanzt","o":["tanzt","Tanzt","tanntzt","Tannzt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'tanzen' schreibt man klein."},
+  {"r":"wilden","w":"willden","o":["wilden","willden","wielden","wilten"],"k":"b","tipp":"Regel: 'wild' hat nur EIN l: wil-den, wie 'Wild'."}
+]},
+{"s":2,"satz":"Das freundliche Gespenst poliert seine Ketten und putzt das große Spukschloss.","f":[
+  {"r":"Ketten","w":"ketten","o":["Ketten","ketten","Keten","keten"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Ketten' hat den Begleiter 'die'."},
+  {"r":"poliert","w":"Poliert","o":["poliert","Poliert","polierd","Polierd"],"k":"g","tipp":"Regel: Verben (Tunwörter) wie 'polieren' schreibt man klein."},
+  {"r":"große","w":"grose","o":["große","grose","großse","grosse"],"k":"b","tipp":"Regel: Nach langem o steht ß: gro-ße, wie 'Größe'."}
+]},
+{"s":2,"satz":"In der Geisterstunde flüstert das Gespenst dem schlafenden Schlossgespenst ein lustiges Geheimnis zu.","f":[
+  {"r":"Geisterstunde","w":"geisterstunde","o":["Geisterstunde","geisterstunde","Geisderstunde","Geisterschtunde"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Geisterstunde'."},
+  {"r":"flüstert","w":"Flüstert","o":["flüstert","Flüstert","flüsdert","Flüsdert"],"k":"g","tipp":"Regel: Verben wie 'flüstern' schreibt man klein."},
+  {"r":"Geheimnis","w":"Geheimniss","o":["Geheimnis","Geheimniss","Geheimnies","Geheimnnis"],"k":"b","tipp":"Regel: 'Geheimnis' endet mit nur einem s: Geheim-nis."}
+]},
+{"s":2,"satz":"Das mutige Gespenst rutscht über den glatten Boden und kichert ganz vergnügt.","f":[
+  {"r":"Boden","w":"boden","o":["Boden","boden","Boten","boten"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Boden'."},
+  {"r":"rutscht","w":"Rutscht","o":["rutscht","Rutscht","rutscd","Rutscd"],"k":"g","tipp":"Regel: Verben wie 'rutschen' schreibt man klein."},
+  {"r":"glatten","w":"gladten","o":["glatten","gladten","glaten","glattän"],"k":"b","tipp":"Regel: 'glatt' hat doppel-T: gla-tt-en, wie 'Platte'."}
+]},
+{"s":2,"satz":"Am Fenster winkt das fröhliche Gespenst dem vorbeifliegenden Käuzchen.","f":[
+  {"r":"Fenster","w":"fenster","o":["Fenster","fenster","Fenstär","fensder"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Fenster'."},
+  {"r":"winkt","w":"Winkt","o":["winkt","Winkt","winggt","Winggt"],"k":"g","tipp":"Regel: Verben wie 'winken' schreibt man klein."},
+  {"r":"vorbeifliegenden","w":"forbeifliegenden","o":["vorbeifliegenden","forbeifliegenden","vorbeifliehenden","vorbaifliegenden"],"k":"b","tipp":"Regel: 'vor-' schreibt man mit v, wie in 'Vormittag'."}
+]},
+{"s":2,"satz":"Das kleine Gespenst sammelt im Garten leuchtende Glühwürmchen für seine Laterne.","f":[
+  {"r":"Garten","w":"garten","o":["Garten","garten","Garden","garden"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Garten'."},
+  {"r":"sammelt","w":"Sammelt","o":["sammelt","Sammelt","samelt","Samelt"],"k":"g","tipp":"Regel: Verben wie 'sammeln' schreibt man klein."},
+  {"r":"leuchtende","w":"leuchdende","o":["leuchtende","leuchdende","leichtende","leuchtänte"],"k":"b","tipp":"Regel: 'leuchten' schreibt man mit t: leuch-tende."}
+]},
+{"s":2,"satz":"Das verspielte Gespenst hüpft auf dem Dachboden und stört die schnarchende Eule.","f":[
+  {"r":"Dachboden","w":"dachboden","o":["Dachboden","dachboden","Dachbohden","Dachpoden"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Dachboden'."},
+  {"r":"hüpft","w":"Hüpft","o":["hüpft","Hüpft","hüpfd","Hüpfd"],"k":"g","tipp":"Regel: Verben wie 'hüpfen' schreibt man klein."},
+  {"r":"schnarchende","w":"schnargende","o":["schnarchende","schnargende","schnarchänte","shnarchende"],"k":"b","tipp":"Regel: 'schnarchen' schreibt man mit ch: schnar-ch-ende."}
+]},
+{"s":2,"satz":"Die freundlichen Gespenster feiern im Schloss ein großes Mitternachtsfest.","f":[
+  {"r":"Gespenster","w":"gespenster","o":["Gespenster","gespenster","Gespennster","Gespensder"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Gespenster'."},
+  {"r":"feiern","w":"Feiern","o":["feiern","Feiern","feiärn","Feiärn"],"k":"g","tipp":"Regel: Verben wie 'feiern' schreibt man klein."},
+  {"r":"großes","w":"groses","o":["großes","groses","grosses","großäs"],"k":"b","tipp":"Regel: Nach langem o steht ß: gro-ßes."}
+]},
+{"s":2,"satz":"Das schüchterne Gespenst lugt hinter dem Vorhang hervor und sagt leise Buh.","f":[
+  {"r":"Vorhang","w":"vorhang","o":["Vorhang","vorhang","Forhang","Vorhanng"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Vorhang'."},
+  {"r":"lugt","w":"Lugt","o":["lugt","Lugt","lukt","Lukt"],"k":"g","tipp":"Regel: Verben wie 'lugen' schreibt man klein."},
+  {"r":"schüchterne","w":"schüchderne","o":["schüchterne","schüchderne","shüchterne","schügterne"],"k":"b","tipp":"Regel: 'schüchtern' schreibt man mit t: schüch-tern."}
+]},
+{"s":2,"satz":"Beim Frühstück schlürft das Gespenst seinen Kakao und liest die Geisterzeitung.","f":[
+  {"r":"Frühstück","w":"frühstück","o":["Frühstück","frühstück","Frühstük","frühstük"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Frühstück'."},
+  {"r":"liest","w":"Liest","o":["liest","Liest","liesd","Liesd"],"k":"g","tipp":"Regel: Verben wie 'lesen' schreibt man klein."},
+  {"r":"Kakao","w":"Kakau","o":["Kakao","Kakau","Kackao","Kakaoo"],"k":"b","tipp":"Regel: 'Kakao' endet auf 'ao': Ka-ka-o."}
+]},
+{"s":2,"satz":"Das tollpatschige Gespenst stolpert über den Teppich und purzelt lachend hin.","f":[
+  {"r":"Teppich","w":"teppich","o":["Teppich","teppich","Tepich","Teppig"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Teppich'."},
+  {"r":"stolpert","w":"Stolpert","o":["stolpert","Stolpert","stollpert","Stollpert"],"k":"g","tipp":"Regel: Verben wie 'stolpern' schreibt man klein."},
+  {"r":"tollpatschige","w":"tolpatschige","o":["tollpatschige","tolpatschige","tollpatshige","dollpatschige"],"k":"b","tipp":"Regel: 'tollpatschig' hat doppel-L: toll-patschig."}
+]},
+{"s":2,"satz":"Im Mondschein wirbelt das Gespenst sein Bettlaken wie eine flatternde Fahne.","f":[
+  {"r":"Mondschein","w":"mondschein","o":["Mondschein","mondschein","Mondshein","Montschein"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Mondschein'."},
+  {"r":"wirbelt","w":"Wirbelt","o":["wirbelt","Wirbelt","wirbeld","Wirbeld"],"k":"g","tipp":"Regel: Verben wie 'wirbeln' schreibt man klein."},
+  {"r":"flatternde","w":"flaternde","o":["flatternde","flaternde","vlatternde","flatterntde"],"k":"b","tipp":"Regel: 'flattern' hat doppel-T: fla-tt-ernde."}
+]},
+{"s":3,"satz":"Das Gespenst lacht laut, weil ihm sein eigener Buh-Ruf zu komisch ist.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"eigener","w":"aigener","o":["eigener","aigener","eigenär","eiggener"],"k":"b","tipp":"Regel: 'eigen' schreibt man mit ei: ei-gen, wie 'Eis'."},
+  {"r":"komisch","w":"Komisch","o":["komisch","Komisch","komiesch","komish"],"k":"g","tipp":"Regel: Adjektive (Wiewörter) wie 'komisch' schreibt man klein."}
+]},
+{"s":3,"satz":"Das Gespenst freut sich, dass im Spukschloss heute ein lustiges Fest steigt.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Spukschloss","w":"spukschloss","o":["Spukschloss","spukschloss","Spukschlos","spukschlos"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Spukschloss'."},
+  {"r":"lustiges","w":"lusdiges","o":["lustiges","lusdiges","lusstiges","lustieges"],"k":"b","tipp":"Regel: In 'lustig' steckt 'Lust' – mit t: lus-tig."}
+]},
+{"s":3,"satz":"Im alten Schloss spuken Gespenster, kichernde Geister und tanzende Bettlaken.","f":[
+  {"r":"Gespenster,","w":"Gespenster","o":["Gespenster,","Gespenster","Gespenster;","Gespenster."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"alten","w":"Alten","o":["alten","Alten","allten","aldän"],"k":"g","tipp":"Regel: Adjektive wie 'alt' schreibt man klein."},
+  {"r":"kichernde","w":"kiechernde","o":["kichernde","kiechernde","kicherntde","gichernde"],"k":"b","tipp":"Regel: 'kichern' hat ein kurzes i ohne e: ki-chernde."}
+]},
+{"s":3,"satz":"Das schüchterne Gespenst versteckt sich, sobald ein neugieriges Kind die Tür öffnet.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+  {"r":"Kind","w":"kind","o":["Kind","kind","Kint","kint"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'ein Kind'."},
+  {"r":"neugieriges","w":"neugiriges","o":["neugieriges","neugiriges","neugierieges","neugierriges"],"k":"b","tipp":"Regel: 'neugierig' kommt von 'Gier' mit ie: neu-gie-rig."}
+]},
+{"s":3,"satz":"Das Gespenst möchte mitfeiern, aber es kann seine Bettlaken nirgends finden im Schloss.","f":[
+  {"r":"mitfeiern,","w":"mitfeiern","o":["mitfeiern,","mitfeiern","mitfeiern;","mitfeiern."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"Bettlaken","w":"bettlaken","o":["Bettlaken","bettlaken","Betlaken","betlaken"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Bettlaken'."},
+  {"r":"finden","w":"vinden","o":["finden","vinden","finten","fienden"],"k":"b","tipp":"Regel: 'finden' beginnt mit f, nicht mit v: fin-den."}
+]},
+{"s":3,"satz":"Das freundliche Gespenst, das im Turm wohnt, backt jeden Tag frische Kekse.","f":[
+  {"r":"Gespenst,","w":"Gespenst","o":["Gespenst,","Gespenst","Gespenst;","Gespenst."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'das' wird mit Kommas eingeschlossen."},
+  {"r":"backt","w":"Backt","o":["backt","Backt","bakt","Bakt"],"k":"g","tipp":"Regel: Verben wie 'backen' schreibt man klein."},
+  {"r":"frische","w":"vrische","o":["frische","vrische","frieche","frieshe"],"k":"b","tipp":"Regel: 'frisch' beginnt mit f und endet auf sch: fri-sch."}
+]},
+{"s":3,"satz":"Wenn die Geisterstunde beginnt, schweben die Gespenster fröhlich durch das Schloss.","f":[
+  {"r":"beginnt,","w":"beginnt","o":["beginnt,","beginnt","beginnt;","beginnt."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma."},
+  {"r":"Gespenster","w":"gespenster","o":["Gespenster","gespenster","Gespennster","Gespensder"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Gespenster'."},
+  {"r":"schweben","w":"shweben","o":["schweben","shweben","schwehben","schwepen"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit drei Buchstaben sch: sch-weben."}
+]},
+{"s":3,"satz":"Das kleine Gespenst übt das Gruseln, doch es muss dabei immer wieder kichern und lachen.","f":[
+  {"r":"Gruseln,","w":"Gruseln","o":["Gruseln,","Gruseln","Gruseln;","Gruseln."],"k":"k","tipp":"Regel: Vor 'doch' steht ein Komma."},
+  {"r":"Gespenst","w":"gespenst","o":["Gespenst","gespenst","Gespennst","Gespehnst"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Gespenst'."},
+  {"r":"kichern","w":"kiechern","o":["kichern","kiechern","gichern","kicherrn"],"k":"b","tipp":"Regel: 'kichern' hat ein kurzes i ohne e: ki-chern."}
+]},
+{"s":3,"satz":"Das Gespenst poliert seine Kette, weil heute Abend wichtige Geister zu Besuch kommen.","f":[
+  {"r":"Kette,","w":"Kette","o":["Kette,","Kette","Kette;","Kette."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"wichtige","w":"Wichtige","o":["wichtige","Wichtige","wigtige","Wigtige"],"k":"g","tipp":"Regel: Adjektive wie 'wichtig' schreibt man klein."},
+  {"r":"poliert","w":"polierd","o":["poliert","polierd","bolliert","poliehrt"],"k":"b","tipp":"Regel: 'polieren' endet auf '-iert' mit t: po-lier-t."}
+]},
+{"s":3,"satz":"Im Schloss spuken ein dickes Gespenst, eine flatternde Eule und drei tanzende Mäuse.","f":[
+  {"r":"Gespenst,","w":"Gespenst","o":["Gespenst,","Gespenst","Gespenst;","Gespenst."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"dickes","w":"Dickes","o":["dickes","Dickes","dikkes","Dikkes"],"k":"g","tipp":"Regel: Adjektive wie 'dick' schreibt man klein."},
+  {"r":"flatternde","w":"flaternde","o":["flatternde","flaternde","vlatternde","flatterntde"],"k":"b","tipp":"Regel: 'flattern' hat doppel-T: fla-tt-ernde."}
+]},
+{"s":3,"satz":"Das müde Gespenst gähnt herzhaft, sobald die ersten Sonnenstrahlen das Schloss berühren.","f":[
+  {"r":"herzhaft,","w":"herzhaft","o":["herzhaft,","herzhaft","herzhaft;","herzhaft."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+  {"r":"müde","w":"Müde","o":["müde","Müde","müede","Müede"],"k":"g","tipp":"Regel: Adjektive wie 'müde' schreibt man klein."},
+  {"r":"Sonnenstrahlen","w":"Sonenstrahlen","o":["Sonnenstrahlen","Sonenstrahlen","Sonnenstralen","Sonnenschtrahlen"],"k":"b","tipp":"Regel: Die Sonne hat doppel-N: So-nn-enstrahlen."}
+]},
+{"s":3,"satz":"Das Gespenst tanzt durch den Saal, während die alte Standuhr leise Mitternacht schlägt.","f":[
+  {"r":"Saal,","w":"Saal","o":["Saal,","Saal","Saal;","Saal."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'während' steht ein Komma."},
+  {"r":"alte","w":"Alte","o":["alte","Alte","allte","alde"],"k":"g","tipp":"Regel: Adjektive wie 'alt' schreibt man klein."},
+  {"r":"Standuhr","w":"Standur","o":["Standuhr","Standur","Schtanduhr","Standuhrr"],"k":"b","tipp":"Regel: Die Uhr hat ein Dehnungs-h: Uh-r, also Stand-uhr."}
+]}
+]

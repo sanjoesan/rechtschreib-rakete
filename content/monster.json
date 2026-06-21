@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Das knuddelige Monster mit dem blauen Fell kuschelt gern mit seinem Teddybären im Bett.","f":[
+  {"r":"knuddelige","w":"knudelige","o":["knuddelige","knudelige","knuddeliege","gnuddelige"],"k":"b","tipp":"Merksatz: 'knuddelig' hat doppel-D, weil man doppelt knuddelt: knu-dd-elig."},
+  {"r":"kuschelt","w":"kuschelld","o":["kuschelt","kuschelld","guschelt","kuschäld"],"k":"b","tipp":"Merksatz: 'kuscheln' endet auf '-elt' mit einem l: ku-schelt."},
+  {"r":"Teddybären","w":"Tedybären","o":["Teddybären","Tedybären","Teddybehren","Deddybären"],"k":"b","tipp":"Merksatz: Der Teddy hat doppel-D: Te-dd-y, wie 'Buddy'."}
+]},
+{"s":1,"satz":"Ein buntes Monster hüpft fröhlich über die Wiese und sammelt leuchtende Blumen.","f":[
+  {"r":"buntes","w":"buntäs","o":["buntes","buntäs","buntess","punntes"],"k":"b","tipp":"Merksatz: 'bunt' schreibt man mit einem t: bun-tes, wie 'Hund'."},
+  {"r":"fröhlich","w":"frölich","o":["fröhlich","frölich","fröhlig","fröhliech"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h: fröh-lich."},
+  {"r":"leuchtende","w":"leuchdende","o":["leuchtende","leuchdende","leichtende","leuchtänte"],"k":"b","tipp":"Merksatz: 'leuchten' schreibt man mit t: leuch-tende."}
+]},
+{"s":1,"satz":"Das pelzige Monster backt einen riesigen Geburtstagskuchen für seine besten Freunde.","f":[
+  {"r":"pelzige","w":"pellzige","o":["pelzige","pellzige","peltzige","belzige"],"k":"b","tipp":"Merksatz: 'pelzig' hat nur EIN l: pel-zig, wie 'Pelz'."},
+  {"r":"riesigen","w":"risigen","o":["riesigen","risigen","riesiegen","riessigen"],"k":"b","tipp":"Merksatz: 'riesig' schreibt man mit ie (langes i): rie-sig."},
+  {"r":"Geburtstagskuchen","w":"Geburtztagskuchen","o":["Geburtstagskuchen","Geburtztagskuchen","Geburdstagskuchen","Gebburtstagskuchen"],"k":"b","tipp":"Merksatz: 'Geburt' kommt von 'geboren' – mit t: Gebur-t-stag."}
+]},
+{"s":1,"satz":"Das freundliche Monster trinkt einen Erdbeershake und schlürft dabei ganz laut.","f":[
+  {"r":"freundliche","w":"freuntliche","o":["freundliche","freuntliche","fröindliche","vreundliche"],"k":"b","tipp":"Merksatz: 'freundlich' kommt von 'Freund' – mit d: freund-lich."},
+  {"r":"Erdbeershake","w":"Erdbeerschake","o":["Erdbeershake","Erdbeerschake","Erdbehrshake","Ertbeershake"],"k":"b","tipp":"Merksatz: Die Erdbeere hat doppel-E in der Mitte: Erd-beer."},
+  {"r":"schlürft","w":"shlürft","o":["schlürft","shlürft","schlürfd","schlürbt"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit drei Buchstaben sch: sch-lürft."}
+]},
+{"s":1,"satz":"Ein kleines Monster mit drei Augen kichert über einen besonders kitzligen Witz.","f":[
+  {"r":"kichert","w":"kiechert","o":["kichert","kiechert","kichard","gichert"],"k":"b","tipp":"Merksatz: 'kichern' hat ein kurzes i ohne e: ki-chert."},
+  {"r":"kitzligen","w":"kitzligän","o":["kitzligen","kitzligän","kietzligen","kitzliggen"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: ki-tz-lig, wie 'Blitz'."},
+  {"r":"besonders","w":"besonnders","o":["besonders","besonnders","besondärs","bezonders"],"k":"b","tipp":"Merksatz: 'besonders' hat nur EIN n: be-son-ders."}
+]},
+{"s":1,"satz":"Das flauschige Monster malt mit bunten Stiften ein lustiges Bild an die Wand.","f":[
+  {"r":"flauschige","w":"flaoschige","o":["flauschige","flaoschige","flauschiege","vlauschige"],"k":"b","tipp":"Merksatz: 'flauschig' schreibt man mit au: flau-schig, wie 'Maus'."},
+  {"r":"Stiften","w":"Schtiften","o":["Stiften","Schtiften","Stieften","Stifften"],"k":"b","tipp":"Merksatz: 'St' spricht man 'Scht', schreibt es aber immer 'St': Stift."},
+  {"r":"lustiges","w":"lusdiges","o":["lustiges","lusdiges","lusstiges","lustieges"],"k":"b","tipp":"Merksatz: In 'lustig' steckt 'Lust' – mit t: lus-tig."}
+]},
+{"s":1,"satz":"Das grüne Monster sammelt im Garten süße Kürbisse für sein leckeres Abendessen heute.","f":[
+  {"r":"sammelt","w":"samelt","o":["sammelt","samelt","sammeld","zammelt"],"k":"b","tipp":"Merksatz: 'sammeln' hat doppel-M, wie 'Sammlung': sa-mm-elt."},
+  {"r":"Kürbisse","w":"Kürbise","o":["Kürbisse","Kürbise","Kürbiesse","Kürpisse"],"k":"b","tipp":"Merksatz: Nach kurzem i steht doppel-S: Kürbi-ss-e."},
+  {"r":"Abendessen","w":"Abendesen","o":["Abendessen","Abendesen","Abändessen","Apendessen"],"k":"b","tipp":"Merksatz: 'Essen' hat doppel-S: E-ss-en, wie 'essen'."}
+]},
+{"s":1,"satz":"Ein zotteliges Monster putzt seine sechs Zähne und gähnt dann ganz herzhaft los.","f":[
+  {"r":"zotteliges","w":"zoteliges","o":["zotteliges","zoteliges","zottäliges","tzotteliges"],"k":"b","tipp":"Merksatz: 'zottelig' hat doppel-T: zo-tt-elig, wie 'Zotteln'."},
+  {"r":"sechs","w":"seks","o":["sechs","seks","sechz","sex"],"k":"b","tipp":"Merksatz: Die Zahl 'sechs' schreibt man mit chs: se-chs."},
+  {"r":"herzhaft","w":"herzhafd","o":["herzhaft","herzhafd","härzhaft","herzhabt"],"k":"b","tipp":"Merksatz: 'herzhaft' endet auf '-haft' mit t: herz-haft."}
+]},
+{"s":1,"satz":"Das kuschelige Monster baut aus weichen Kissen eine gemütliche Höhle im Zimmer.","f":[
+  {"r":"kuschelige","w":"guschelige","o":["kuschelige","guschelige","kuscheliege","kuschälige"],"k":"b","tipp":"Merksatz: 'kuschelig' beginnt mit k, wie 'Kuss': ku-schelig."},
+  {"r":"Kissen","w":"Kisen","o":["Kissen","Kisen","Kiessen","Kißen"],"k":"b","tipp":"Merksatz: Nach kurzem i steht doppel-S: Ki-ss-en."},
+  {"r":"gemütliche","w":"gemühtliche","o":["gemütliche","gemühtliche","gemütlige","gemüdliche"],"k":"b","tipp":"Merksatz: 'gemütlich' schreibt man mit t und ohne Dehnungs-h: ge-müt-lich."}
+]},
+{"s":1,"satz":"Das winzige Monster versteckt sich vergnügt unter dem weichen Sofakissen im Wohnzimmer.","f":[
+  {"r":"winzige","w":"winziege","o":["winzige","winziege","winzigge","winnzige"],"k":"b","tipp":"Merksatz: 'winzig' hat ein kurzes i ohne e: win-zig."},
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","versteckd"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verlieren'."},
+  {"r":"Sofakissen","w":"Sofakisen","o":["Sofakissen","Sofakisen","Zofakissen","Sofakiessen"],"k":"b","tipp":"Merksatz: Nach kurzem i steht doppel-S: Sofaki-ss-en."}
+]},
+{"s":1,"satz":"Ein lila Monster pflückt am Bach eine Handvoll süßer Beeren für den Nachtisch.","f":[
+  {"r":"pflückt","w":"flückt","o":["pflückt","flückt","pflükt","bflückt"],"k":"b","tipp":"Merksatz: 'pflücken' beginnt mit pf: pf-lückt, wie 'Pflanze'."},
+  {"r":"Handvoll","w":"Handfoll","o":["Handvoll","Handfoll","Hantvoll","Handvol"],"k":"b","tipp":"Merksatz: 'voll' schreibt man mit v und doppel-L: v-oll."},
+  {"r":"Beeren","w":"Beren","o":["Beeren","Beren","Beehren","Beerän"],"k":"b","tipp":"Merksatz: Die Beere hat doppel-E: Bee-re, wie 'See'."}
+]},
+{"s":1,"satz":"Das tollpatschige Monster stolpert über seine großen Füße und kugelt fröhlich davon.","f":[
+  {"r":"tollpatschige","w":"tolpatschige","o":["tollpatschige","tolpatschige","tollpatshige","dollpatschige"],"k":"b","tipp":"Merksatz: 'tollpatschig' hat doppel-L: toll-patschig."},
+  {"r":"stolpert","w":"stollpert","o":["stolpert","stollpert","schtolpert","stolperd"],"k":"b","tipp":"Merksatz: 'stolpern' hat nur EIN l: stol-pert."},
+  {"r":"Füße","w":"Füsse","o":["Füße","Füsse","Fühße","Füßse"],"k":"b","tipp":"Merksatz: Nach langem ü steht ß: Fü-ße, wie 'süß'."}
+]},
+{"s":2,"satz":"Am Morgen putzt das freundliche Monster seine bunten Hörner ganz gründlich blank.","f":[
+  {"r":"Morgen","w":"morgen","o":["Morgen","morgen","Morgän","Morken"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Morgen'."},
+  {"r":"putzt","w":"Putzt","o":["putzt","Putzt","puttzt","Puttzt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'putzen' schreibt man klein."},
+  {"r":"gründlich","w":"gründlieg","o":["gründlich","gründlieg","gründlig","gründlieh"],"k":"b","tipp":"Regel: 'gründlich' endet auf '-lich' mit ch: gründ-lich."}
+]},
+{"s":2,"satz":"Das bunte Monster malt im Kinderzimmer ein großes Bild von seiner Familie.","f":[
+  {"r":"Kinderzimmer","w":"kinderzimmer","o":["Kinderzimmer","kinderzimmer","Kinderzimer","Kindärzimmer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Kinderzimmer'."},
+  {"r":"malt","w":"Malt","o":["malt","Malt","mald","Mald"],"k":"g","tipp":"Regel: Verben (Tunwörter) wie 'malen' schreibt man klein."},
+  {"r":"großes","w":"groses","o":["großes","groses","grosses","großäs"],"k":"b","tipp":"Regel: Nach langem o steht ß: gro-ßes."}
+]},
+{"s":2,"satz":"Das knuddelige Monster umarmt seinen besten Freund und lacht aus vollem Herzen.","f":[
+  {"r":"Freund","w":"freund","o":["Freund","freund","Fröind","Freunt"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'seinen Freund'."},
+  {"r":"umarmt","w":"Umarmt","o":["umarmt","Umarmt","umarmd","Umarmd"],"k":"g","tipp":"Regel: Verben wie 'umarmen' schreibt man klein."},
+  {"r":"knuddelige","w":"knudelige","o":["knuddelige","knudelige","knuddeliege","gnuddelige"],"k":"b","tipp":"Regel: 'knuddelig' hat doppel-D: knu-dd-elig."}
+]},
+{"s":2,"satz":"Im Wald sammelt das pelzige Monster glänzende Kastanien für seine Sammlung.","f":[
+  {"r":"Wald","w":"wald","o":["Wald","wald","Walt","walt"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Wald'."},
+  {"r":"sammelt","w":"Sammelt","o":["sammelt","Sammelt","samelt","Samelt"],"k":"g","tipp":"Regel: Verben wie 'sammeln' schreibt man klein."},
+  {"r":"glänzende","w":"glenzende","o":["glänzende","glenzende","glänzänte","glänntzende"],"k":"b","tipp":"Regel: 'glänzen' kommt von 'Glanz' – darum mit ä."}
+]},
+{"s":2,"satz":"Das fröhliche Monster tanzt im Garten und winkt allen seinen Freunden zu.","f":[
+  {"r":"Garten","w":"garten","o":["Garten","garten","Garden","garden"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Garten'."},
+  {"r":"tanzt","w":"Tanzt","o":["tanzt","Tanzt","tanntzt","Tannzt"],"k":"g","tipp":"Regel: Verben wie 'tanzen' schreibt man klein."},
+  {"r":"fröhliche","w":"frööliche","o":["fröhliche","frööliche","frölliche","vröhliche"],"k":"b","tipp":"Regel: 'fröhlich' hat ein Dehnungs-h: fröh-lich."}
+]},
+{"s":2,"satz":"Das grüne Monster kocht in der Küche eine leckere Gemüsesuppe für alle.","f":[
+  {"r":"Küche","w":"küche","o":["Küche","küche","Küge","Kühche"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Küche'."},
+  {"r":"kocht","w":"Kocht","o":["kocht","Kocht","kochd","Kochd"],"k":"g","tipp":"Regel: Verben wie 'kochen' schreibt man klein."},
+  {"r":"Gemüsesuppe","w":"Gemüsesupe","o":["Gemüsesuppe","Gemüsesupe","Gemühsesuppe","Kemüsesuppe"],"k":"b","tipp":"Regel: Die Suppe hat doppel-P: Su-pp-e."}
+]},
+{"s":2,"satz":"Das kleine Monster liest am Abend ein spannendes Buch über mutige Drachen.","f":[
+  {"r":"Buch","w":"buch","o":["Buch","buch","Buoch","Bug"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'ein Buch'."},
+  {"r":"liest","w":"Liest","o":["liest","Liest","liesd","Liesd"],"k":"g","tipp":"Regel: Verben wie 'lesen' schreibt man klein."},
+  {"r":"spannendes","w":"spanendes","o":["spannendes","spanendes","schpannendes","spannäntes"],"k":"b","tipp":"Regel: 'spannend' hat doppel-N: spa-nn-end."}
+]},
+{"s":2,"satz":"Das zottelige Monster hüpft vor lauter Freude auf dem Trampolin ganz hoch.","f":[
+  {"r":"Freude","w":"freude","o":["Freude","freude","Fröide","Freute"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Freude'."},
+  {"r":"hüpft","w":"Hüpft","o":["hüpft","Hüpft","hüpfd","Hüpfd"],"k":"g","tipp":"Regel: Verben wie 'hüpfen' schreibt man klein."},
+  {"r":"Trampolin","w":"Trampolien","o":["Trampolin","Trampolien","Drampolin","Trampollin"],"k":"b","tipp":"Regel: 'Trampolin' endet auf '-lin' mit kurzem i: Trampo-lin."}
+]},
+{"s":2,"satz":"Am Nachmittag bastelt das bunte Monster mit Pappe eine fröhliche Krone.","f":[
+  {"r":"Nachmittag","w":"nachmittag","o":["Nachmittag","nachmittag","Nachmitag","Nachmittak"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Nachmittag'."},
+  {"r":"bastelt","w":"Bastelt","o":["bastelt","Bastelt","basteld","Basteld"],"k":"g","tipp":"Regel: Verben wie 'basteln' schreibt man klein."},
+  {"r":"Pappe","w":"Pape","o":["Pappe","Pape","Bappe","Pappä"],"k":"b","tipp":"Regel: Die Pappe hat doppel-P: Pa-pp-e."}
+]},
+{"s":2,"satz":"Das flauschige Monster schmust mit der Katze und schnurrt dabei ganz leise.","f":[
+  {"r":"Katze","w":"katze","o":["Katze","katze","Katzä","Katsze"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Katze'."},
+  {"r":"schmust","w":"Schmust","o":["schmust","Schmust","schmusd","Schmusd"],"k":"g","tipp":"Regel: Verben wie 'schmusen' schreibt man klein."},
+  {"r":"schnurrt","w":"schnurt","o":["schnurrt","schnurt","shnurrt","schnurrd"],"k":"b","tipp":"Regel: 'schnurren' hat doppel-R: schnu-rr-t."}
+]},
+{"s":2,"satz":"Das freundliche Monster begrüßt am Eingang jeden Gast mit einem warmen Lächeln.","f":[
+  {"r":"Eingang","w":"eingang","o":["Eingang","eingang","Aingang","Eingank"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Eingang'."},
+  {"r":"begrüßt","w":"Begrüßt","o":["begrüßt","Begrüßt","begrüsst","Begrüsst"],"k":"g","tipp":"Regel: Verben wie 'begrüßen' schreibt man klein."},
+  {"r":"warmen","w":"wahrmen","o":["warmen","wahrmen","warmän","warrmen"],"k":"b","tipp":"Regel: 'warm' schreibt man ohne Dehnungs-h: war-men."}
+]},
+{"s":2,"satz":"Das pelzige Monster bläst Seifenblasen und staunt über die schillernden Farben.","f":[
+  {"r":"Seifenblasen","w":"seifenblasen","o":["Seifenblasen","seifenblasen","Saifenblasen","Seifenplasen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Seifenblasen'."},
+  {"r":"staunt","w":"Staunt","o":["staunt","Staunt","staund","Staund"],"k":"g","tipp":"Regel: Verben wie 'staunen' schreibt man klein."},
+  {"r":"schillernden","w":"schilernden","o":["schillernden","schilernden","shillernden","schillerntden"],"k":"b","tipp":"Regel: 'schillern' hat doppel-L: schi-ll-ernden."}
+]},
+{"s":3,"satz":"Das Monster freut sich, weil heute sein bester Freund zu Besuch kommt.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Freund","w":"freund","o":["Freund","freund","Fröind","Freunt"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'sein Freund'."},
+  {"r":"bester","w":"bestär","o":["bester","bestär","besder","besster"],"k":"b","tipp":"Regel: 'bester' schreibt man mit st: bes-ter."}
+]},
+{"s":3,"satz":"Das knuddelige Monster weiß, dass im Schrank noch leckere Kekse versteckt sind.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Schrank","w":"schrank","o":["Schrank","schrank","Shrank","Schrannk"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Schrank'."},
+  {"r":"leckere","w":"leckäre","o":["leckere","leckäre","lekkere","leggere"],"k":"b","tipp":"Regel: 'lecker' schreibt man mit ck: le-ck-ere."}
+]},
+{"s":3,"satz":"Auf der Party tanzen bunte Monster, fröhliche Kinder und kichernde Roboter.","f":[
+  {"r":"Monster,","w":"Monster","o":["Monster,","Monster","Monster;","Monster."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"bunte","w":"Bunte","o":["bunte","Bunte","punte","Punte"],"k":"g","tipp":"Regel: Adjektive (Wiewörter) wie 'bunt' schreibt man klein."},
+  {"r":"kichernde","w":"kiechernde","o":["kichernde","kiechernde","kicherntde","gichernde"],"k":"b","tipp":"Regel: 'kichern' hat ein kurzes i ohne e: ki-chernde."}
+]},
+{"s":3,"satz":"Das schüchterne Monster versteckt sich, sobald ein fremder Besucher hereinkommt.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+  {"r":"Besucher","w":"besucher","o":["Besucher","besucher","Bezucher","Pesucher"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'ein Besucher'."},
+  {"r":"fremder","w":"fremter","o":["fremder","fremter","främder","vremder"],"k":"b","tipp":"Regel: 'fremd' endet auf d: frem-der (Probe: die Fremde)."}
+]},
+{"s":3,"satz":"Das Monster will mitspielen, aber es kann seine bunten Würfel nirgends finden hier.","f":[
+  {"r":"mitspielen,","w":"mitspielen","o":["mitspielen,","mitspielen","mitspielen;","mitspielen."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"Würfel","w":"würfel","o":["Würfel","würfel","Würvel","Würfäl"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Würfel'."},
+  {"r":"finden","w":"vinden","o":["finden","vinden","finten","fienden"],"k":"b","tipp":"Regel: 'finden' beginnt mit f, nicht mit v: fin-den."}
+]},
+{"s":3,"satz":"Das freundliche Monster, das im Park wohnt, teilt sein Eis mit allen Kindern.","f":[
+  {"r":"Monster,","w":"Monster","o":["Monster,","Monster","Monster;","Monster."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'das' wird mit Kommas eingeschlossen."},
+  {"r":"teilt","w":"Teilt","o":["teilt","Teilt","teild","Teild"],"k":"g","tipp":"Regel: Verben wie 'teilen' schreibt man klein."},
+  {"r":"Park","w":"Bark","o":["Park","Bark","Parck","Parkk"],"k":"b","tipp":"Regel: 'Park' beginnt mit p: P-ark, wie 'Papa'."}
+]},
+{"s":3,"satz":"Wenn die Sonne untergeht, kuscheln sich die müden Monster in ihre Betten.","f":[
+  {"r":"untergeht,","w":"untergeht","o":["untergeht,","untergeht","untergeht;","untergeht."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma."},
+  {"r":"Monster","w":"monster","o":["Monster","monster","Monsder","Monstär"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Monster'."},
+  {"r":"müden","w":"mühden","o":["müden","mühden","müeden","müdän"],"k":"b","tipp":"Regel: 'müde' schreibt man ohne Dehnungs-h: mü-den."}
+]},
+{"s":3,"satz":"Das kleine Monster übt das Brüllen, doch es klingt eher wie ein leises Schnurren.","f":[
+  {"r":"Brüllen,","w":"Brüllen","o":["Brüllen,","Brüllen","Brüllen;","Brüllen."],"k":"k","tipp":"Regel: Vor 'doch' steht ein Komma."},
+  {"r":"Monster","w":"monster","o":["Monster","monster","Monsder","Monstär"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Monster'."},
+  {"r":"leises","w":"leizes","o":["leises","leizes","leisäs","laises"],"k":"b","tipp":"Regel: 'leise' schreibt man mit s, nicht z: lei-se."}
+]},
+{"s":3,"satz":"Das Monster räumt sein Zimmer auf, weil heute liebe Gäste zu Besuch kommen.","f":[
+  {"r":"auf,","w":"auf","o":["auf,","auf","auf;","auf."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"liebe","w":"Liebe","o":["liebe","Liebe","liepe","Liepe"],"k":"g","tipp":"Regel: Adjektive wie 'lieb' schreibt man klein."},
+  {"r":"räumt","w":"reumt","o":["räumt","reumt","räomt","räumd"],"k":"b","tipp":"Regel: 'räumen' kommt von 'Raum' – darum mit äu."}
+]},
+{"s":3,"satz":"Im Spielzimmer toben ein flauschiges Monster, eine kichernde Puppe und drei Bälle.","f":[
+  {"r":"Monster,","w":"Monster","o":["Monster,","Monster","Monster;","Monster."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"flauschiges","w":"Flauschiges","o":["flauschiges","Flauschiges","flaoschiges","flauschieges"],"k":"g","tipp":"Regel: Adjektive wie 'flauschig' schreibt man klein."},
+  {"r":"kichernde","w":"kiechernde","o":["kichernde","kiechernde","kicherntde","gichernde"],"k":"b","tipp":"Regel: 'kichern' hat ein kurzes i ohne e: ki-chernde."}
+]},
+{"s":3,"satz":"Das müde Monster gähnt herzhaft, sobald der Mond über den bunten Hügeln aufgeht.","f":[
+  {"r":"herzhaft,","w":"herzhaft","o":["herzhaft,","herzhaft","herzhaft;","herzhaft."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+  {"r":"Mond","w":"mond","o":["Mond","mond","Mont","mont"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Mond'."},
+  {"r":"Hügeln","w":"Hügäln","o":["Hügeln","Hügäln","Hühgeln","Hüggeln"],"k":"b","tipp":"Regel: 'Hügel' schreibt man mit einem g: Hü-gel."}
+]},
+{"s":3,"satz":"Das bunte Monster lacht laut, während es mit den Kindern Verstecken spielt.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'während' steht ein Komma."},
+  {"r":"Kindern","w":"kindern","o":["Kindern","kindern","Kindärn","Kintern"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'den Kindern'."},
+  {"r":"Verstecken","w":"Ferstecken","o":["Verstecken","Ferstecken","Verstekken","Versteggen"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v, wie in 'verlieren'."}
+]}
+]

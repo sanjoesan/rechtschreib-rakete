@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der mutige Wanderer steigt langsam zum schneebedeckten Gipfel hinauf und winkt fröhlich nach unten.","f":[
+  {"r":"mutige","w":"muttige","o":["mutige","muttige","mutiege","mudige"],"k":"b","tipp":"Merksatz: 'mutig' kommt von 'Mut' mit einem t: mu-tig."},
+  {"r":"Gipfel","w":"Gipvel","o":["Gipfel","Gipvel","Gippfel","Gipfäl"],"k":"b","tipp":"Merksatz: Der Gipfel hat ein pf in der Mitte: Gip-fel."},
+  {"r":"fröhlich","w":"frölich","o":["fröhlich","frölich","fröhlig","fröhlick"],"k":"b","tipp":"Merksatz: In 'fröhlich' steckt ein Dehnungs-h: fröh-lich."}
+]},
+{"s":1,"satz":"Auf der saftigen Alm pfeift das pummelige Murmeltier laut vor seinem warmen Bau.","f":[
+  {"r":"saftigen","w":"safdigen","o":["saftigen","safdigen","saftiegen","safftigen"],"k":"b","tipp":"Merksatz: In 'saftig' steckt der 'Saft' – mit ft."},
+  {"r":"Murmeltier","w":"Murmeltir","o":["Murmeltier","Murmeltir","Murmältier","Mormeltier"],"k":"b","tipp":"Merksatz: Das Tier schreibt man mit ie: Mur-mel-tier."},
+  {"r":"warmen","w":"wahrmen","o":["warmen","wahrmen","warmän","warrmen"],"k":"b","tipp":"Merksatz: 'warm' braucht kein Dehnungs-h: war-men."}
+]},
+{"s":1,"satz":"In der gemütlichen Hütte trocknet der müde Bergsteiger seine nassen Socken am Ofen.","f":[
+  {"r":"gemütlichen","w":"gemühtlichen","o":["gemütlichen","gemühtlichen","gemütligen","gemüdlichen"],"k":"b","tipp":"Merksatz: 'gemütlich' schreibt man mit t und ohne Dehnungs-h: ge-müt-lich."},
+  {"r":"Hütte","w":"Hüte","o":["Hütte","Hüte","Hüttä","Hüdte"],"k":"b","tipp":"Merksatz: Nach kurzem ü steht doppel-t: Hüt-te."},
+  {"r":"nassen","w":"nasen","o":["nassen","nasen","nassän","naßen"],"k":"b","tipp":"Merksatz: Nach kurzem a kommt ss: nas-sen."}
+]},
+{"s":1,"satz":"Der erfahrene Bergführer klettert geschickt über die steile graue Felswand hinauf.","f":[
+  {"r":"erfahrene","w":"erfarene","o":["erfahrene","erfarene","erfahränne","erfahrenne"],"k":"b","tipp":"Merksatz: In 'erfahren' steckt ein Dehnungs-h: er-fah-ren."},
+  {"r":"klettert","w":"kletert","o":["klettert","kletert","klettärt","glettert"],"k":"b","tipp":"Merksatz: Nach kurzem e steht doppel-t: klet-tert."},
+  {"r":"steile","w":"staile","o":["steile","staile","steille","steihle"],"k":"b","tipp":"Merksatz: 'steil' schreibt man mit ei: stei-le."}
+]},
+{"s":1,"satz":"Am klaren Bergsee spiegeln sich die hohen Berge im kühlen blauen Wasser.","f":[
+  {"r":"Bergsee","w":"Berksee","o":["Bergsee","Berksee","Bergse","Bergseh"],"k":"b","tipp":"Merksatz: Der Berg endet auf g: Berg-see."},
+  {"r":"spiegeln","w":"spigeln","o":["spiegeln","spigeln","schpiegeln","spiegäln"],"k":"b","tipp":"Merksatz: In 'spiegeln' steckt ie: spie-geln."},
+  {"r":"kühlen","w":"külen","o":["kühlen","külen","kühllen","kuhlen"],"k":"b","tipp":"Merksatz: 'kühl' trägt ein Dehnungs-h: küh-len."}
+]},
+{"s":1,"satz":"Der flinke Steinbock springt mutig von Fels zu Fels über die tiefe Schlucht.","f":[
+  {"r":"flinke","w":"flincke","o":["flinke","flincke","flingke","flinkä"],"k":"b","tipp":"Merksatz: Nach dem n kommt nur ein k: flin-ke."},
+  {"r":"Steinbock","w":"Stainbock","o":["Steinbock","Stainbock","Steinbok","Schteinbock"],"k":"b","tipp":"Merksatz: 'Stein' schreibt man mit ei: Stein-bock."},
+  {"r":"tiefe","w":"tife","o":["tiefe","tife","tieffe","tiehfe"],"k":"b","tipp":"Merksatz: 'tief' schreibt man mit ie: tie-fe."}
+]},
+{"s":1,"satz":"Bei der lauten Lawine rutscht der schwere Schnee donnernd ins enge Tal hinab.","f":[
+  {"r":"Lawine","w":"Lawiene","o":["Lawine","Lawiene","Laviene","Lawinne"],"k":"b","tipp":"Merksatz: Die Lawine schreibt man mit kurzem i: La-wi-ne."},
+  {"r":"schwere","w":"schwehre","o":["schwere","schwehre","schwerä","schwerre"],"k":"b","tipp":"Merksatz: 'schwer' braucht kein Dehnungs-h: schwe-re."},
+  {"r":"donnernd","w":"donernd","o":["donnernd","donernd","donnärnd","donnerntt"],"k":"b","tipp":"Merksatz: Nach kurzem o steht doppel-n: don-nernd."}
+]},
+{"s":1,"satz":"Der durstige Wanderer trinkt frisches Quellwasser direkt aus dem sprudelnden kalten Bach.","f":[
+  {"r":"durstige","w":"durstiege","o":["durstige","durstiege","dursdige","dorstige"],"k":"b","tipp":"Merksatz: 'durstig' endet auf ig, kein ieg: durs-tig."},
+  {"r":"Quellwasser","w":"Kwellwasser","o":["Quellwasser","Kwellwasser","Quelwasser","Quellwaser"],"k":"b","tipp":"Merksatz: 'Quelle' schreibt man mit qu: Quell-was-ser."},
+  {"r":"sprudelnden","w":"schprudelnden","o":["sprudelnden","schprudelnden","sprudelndän","sprudälnden"],"k":"b","tipp":"Merksatz: 'sprudeln' beginnt mit sp wie in 'Sport'."}
+]},
+{"s":1,"satz":"Im dichten Nebel sucht die kleine Gruppe vorsichtig den schmalen steinigen Pfad.","f":[
+  {"r":"dichten","w":"dischten","o":["dichten","dischten","dickten","dichdän"],"k":"b","tipp":"Merksatz: 'dicht' schreibt man mit ch: dich-ten."},
+  {"r":"vorsichtig","w":"forsichtig","o":["vorsichtig","forsichtig","vorsichdig","vorsichtieg"],"k":"b","tipp":"Merksatz: 'vor-' schreibt man mit v wie in 'vorne'."},
+  {"r":"steinigen","w":"stainigen","o":["steinigen","stainigen","schteinigen","steiniegen"],"k":"b","tipp":"Merksatz: 'Stein' schreibt man mit ei: stei-ni-gen."}
+]},
+{"s":1,"satz":"Der kühne Kletterer hängt am dünnen Seil über dem gähnenden tiefen Abgrund.","f":[
+  {"r":"kühne","w":"küne","o":["kühne","küne","kühnne","kuhne"],"k":"b","tipp":"Merksatz: 'kühn' trägt ein Dehnungs-h: küh-ne."},
+  {"r":"dünnen","w":"dünen","o":["dünnen","dünen","dünnän","dühnen"],"k":"b","tipp":"Merksatz: Nach kurzem ü steht doppel-n: dün-nen."},
+  {"r":"Seil","w":"Sail","o":["Seil","Sail","Seill","Seihl"],"k":"b","tipp":"Merksatz: 'Seil' schreibt man mit ei: S-eil."}
+]},
+{"s":1,"satz":"Auf dem Gipfel weht eine frische Brise und zaust die warme Mütze des Wanderers.","f":[
+  {"r":"frische","w":"frishe","o":["frische","frishe","frischä","frissche"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit sch: fri-sche."},
+  {"r":"zaust","w":"tzaust","o":["zaust","tzaust","zaost","zausd"],"k":"b","tipp":"Merksatz: 'zausen' beginnt mit einem z: z-aust."},
+  {"r":"Mütze","w":"Müze","o":["Mütze","Müze","Mützä","Müttze"],"k":"b","tipp":"Merksatz: Nach kurzem ü steht tz: Mü-tze."}
+]},
+{"s":1,"satz":"Die fröhlichen Kinder rollen auf der grünen Wiese vergnügt den steilen Hang hinunter.","f":[
+  {"r":"fröhlichen","w":"frölichen","o":["fröhlichen","frölichen","fröhligen","fröhlichän"],"k":"b","tipp":"Merksatz: In 'fröhlich' steckt ein Dehnungs-h: fröh-lich."},
+  {"r":"Wiese","w":"Wise","o":["Wiese","Wise","Wiesse","Wiehse"],"k":"b","tipp":"Merksatz: Die Wiese schreibt man mit ie: Wie-se."},
+  {"r":"vergnügt","w":"fergnügt","o":["vergnügt","fergnügt","vergnügd","verknügt"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v wie in 'vergessen'."}
+]},
+{"s":2,"satz":"Der mutige Bergsteiger erreicht am frühen Morgen den höchsten Gipfel der Alpen.","f":[
+  {"r":"Bergsteiger","w":"bergsteiger","o":["Bergsteiger","bergsteiger","Berksteiger","Bergstaiger"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Bergsteiger' steht mit dem Begleiter 'der'."},
+  {"r":"erreicht","w":"Erreicht","o":["erreicht","Erreicht","ereicht","erraicht"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'erreichen' schreibt man klein."},
+  {"r":"höchsten","w":"höksten","o":["höchsten","höksten","höchstän","höchschten"],"k":"b","tipp":"Regel: Den ch-Laut in 'hoch' schreibt man mit chs: höch-sten."}
+]},
+{"s":2,"satz":"Vor der Hütte putzt der Wanderer seine schmutzigen Stiefel und trinkt heißen Tee.","f":[
+  {"r":"Hütte","w":"hütte","o":["Hütte","hütte","Hüte","Hüttä"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Hütte' steht mit dem Begleiter 'der'."},
+  {"r":"putzt","w":"Putzt","o":["putzt","Putzt","putst","putztt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'putzen' schreibt man klein."},
+  {"r":"schmutzigen","w":"schmuzigen","o":["schmutzigen","schmuzigen","schmutziegen","schmutzigän"],"k":"b","tipp":"Regel: Nach kurzem u steht tz: schmut-zig."}
+]},
+{"s":2,"satz":"Beim Klettern hält sich das geschickte Kind fest an dem rauen kalten Fels.","f":[
+  {"r":"Klettern","w":"klettern","o":["Klettern","klettern","Kletern","Glettern"],"k":"g","tipp":"Regel: Wird ein Tunwort zum Namenwort ('beim Klettern'), schreibt man es groß."},
+  {"r":"geschickte","w":"geschikte","o":["geschickte","geschikte","geschicktä","keschickte"],"k":"b","tipp":"Regel: Nach kurzem i steht ck: ge-schick-te."},
+  {"r":"rauen","w":"Rauen","o":["rauen","Rauen","raoen","rauän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'rau' schreibt man klein."}
+]},
+{"s":2,"satz":"Auf der Wiese pfeift das dicke Murmeltier laut, sobald der Adler am Himmel kreist.","f":[
+  {"r":"Murmeltier","w":"murmeltier","o":["Murmeltier","murmeltier","Murmeltir","Mormeltier"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Murmeltier' steht mit dem Begleiter 'das'."},
+  {"r":"pfeift","w":"Pfeift","o":["pfeift","Pfeift","feift","pfeifd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'pfeifen' schreibt man klein."},
+  {"r":"dicke","w":"dike","o":["dicke","dike","dickä","digge"],"k":"b","tipp":"Regel: Nach kurzem i steht ck: di-cke."}
+]},
+{"s":2,"satz":"Der schmale Pfad schlängelt sich steil bergauf bis zur sonnigen kleinen Berghütte.","f":[
+  {"r":"Pfad","w":"pfad","o":["Pfad","pfad","Pfatt","Fad"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Pfad' steht mit dem Begleiter 'der'."},
+  {"r":"schlängelt","w":"Schlängelt","o":["schlängelt","Schlängelt","schlengelt","schlängält"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schlängeln' schreibt man klein."},
+  {"r":"sonnigen","w":"sonigen","o":["sonnigen","sonigen","sonniegen","sonnigän"],"k":"b","tipp":"Regel: Nach kurzem o steht doppel-n: son-nig."}
+]},
+{"s":2,"satz":"Beim Wandern entdeckt die kleine Gruppe einen glitzernden Wasserfall im grünen Wald.","f":[
+  {"r":"Wandern","w":"wandern","o":["Wandern","wandern","Wantern","Wandärn"],"k":"g","tipp":"Regel: Wird ein Tunwort zum Namenwort ('beim Wandern'), schreibt man es groß."},
+  {"r":"entdeckt","w":"endeckt","o":["entdeckt","endeckt","entdekt","entdeckd"],"k":"b","tipp":"Regel: 'entdecken' schreibt man mit nt und ck: ent-deckt."},
+  {"r":"glitzernden","w":"Glitzernden","o":["glitzernden","Glitzernden","glizernden","glitzärnden"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'glitzernd' schreibt man klein."}
+]},
+{"s":2,"satz":"Der scheue Steinbock beobachtet die Wanderer und springt dann flink über den Bergkamm.","f":[
+  {"r":"Steinbock","w":"steinbock","o":["Steinbock","steinbock","Stainbock","Steinbok"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Steinbock' steht mit dem Begleiter 'der'."},
+  {"r":"beobachtet","w":"beobachdet","o":["beobachtet","beobachdet","beopachtet","beobachtät"],"k":"b","tipp":"Regel: 'beobachten' schreibt man mit cht: be-ob-ach-tet."},
+  {"r":"springt","w":"Springt","o":["springt","Springt","schpringt","springd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'springen' schreibt man klein."}
+]},
+{"s":2,"satz":"Im Winter rauscht die gefährliche Lawine donnernd den verschneiten Hang ins Tal hinab.","f":[
+  {"r":"Lawine","w":"lawine","o":["Lawine","lawine","Lawiene","Laviene"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Lawine' steht mit dem Begleiter 'die'."},
+  {"r":"rauscht","w":"Rauscht","o":["rauscht","Rauscht","raoscht","rauschd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'rauschen' schreibt man klein."},
+  {"r":"gefährliche","w":"gefärliche","o":["gefährliche","gefärliche","gefährlige","kefährliche"],"k":"b","tipp":"Regel: In 'gefährlich' steckt ein Dehnungs-h: ge-fähr-lich."}
+]},
+{"s":2,"satz":"Am kühlen Bergsee macht die fröhliche Familie eine Pause und packt das leckere Picknick aus.","f":[
+  {"r":"Bergsee","w":"bergsee","o":["Bergsee","bergsee","Berksee","Bergse"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Bergsee' steht mit dem Begleiter 'der'."},
+  {"r":"fröhliche","w":"frölliche","o":["fröhliche","frölliche","fröhlige","fröhlicke"],"k":"b","tipp":"Regel: In 'fröhlich' steckt ein Dehnungs-h: fröh-lich."},
+  {"r":"leckere","w":"Leckere","o":["leckere","Leckere","lekere","leckäre"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'lecker' schreibt man klein."}
+]},
+{"s":2,"satz":"Der Bergführer warnt die Wanderer vor dem nahenden Gewitter über dem felsigen Gipfel.","f":[
+  {"r":"Bergführer","w":"bergführer","o":["Bergführer","bergführer","Berkführer","Bergfürer"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Bergführer' steht mit dem Begleiter 'der'."},
+  {"r":"warnt","w":"Warnt","o":["warnt","Warnt","wahrnt","warnd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'warnen' schreibt man klein."},
+  {"r":"felsigen","w":"felsiegen","o":["felsigen","felsiegen","fälsigen","felsigän"],"k":"b","tipp":"Regel: 'felsig' endet auf ig, kein ieg: fel-sig."}
+]},
+{"s":2,"satz":"Hoch oben in den Felsen baut der Adler sein großes Nest auf einem schmalen Vorsprung.","f":[
+  {"r":"Felsen","w":"felsen","o":["Felsen","felsen","Fälsen","Felssen"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'den Felsen' steht mit dem Begleiter 'den'."},
+  {"r":"baut","w":"Baut","o":["baut","Baut","baot","baud"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'bauen' schreibt man klein."},
+  {"r":"großes","w":"grosses","o":["großes","grosses","grohßes","großäs"],"k":"b","tipp":"Regel: Nach langem o steht das scharfe ß: gro-ßes."}
+]},
+{"s":2,"satz":"Nach der langen Wanderung schlafen die müden Kinder sofort in der warmen Hütte ein.","f":[
+  {"r":"Wanderung","w":"wanderung","o":["Wanderung","wanderung","Wandärung","Wanterung"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Wanderung' steht mit dem Begleiter 'der'."},
+  {"r":"schlafen","w":"Schlafen","o":["schlafen","Schlafen","schlaffen","schlahfen"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schlafen' schreibt man klein."},
+  {"r":"müden","w":"müeden","o":["müden","müeden","mütten","müdän"],"k":"b","tipp":"Regel: 'müde' schreibt man mit einem d: mü-den."}
+]},
+{"s":3,"satz":"Der Wanderer macht eine Pause, weil der steile Aufstieg seine Beine müde gemacht hat.","f":[
+  {"r":"Pause,","w":"Pause","o":["Pause,","Pause","Pause;","Pause."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"steile","w":"Steile","o":["steile","Steile","staile","steille"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'steil' schreibt man klein."},
+  {"r":"Aufstieg","w":"Aufstig","o":["Aufstieg","Aufstig","Aofstieg","Aufschtieg"],"k":"b","tipp":"Regel: 'Stieg' schreibt man mit ie: Auf-stieg."}
+]},
+{"s":3,"satz":"Im Rucksack stecken Brote, Äpfel und eine Flasche Wasser für die lange Wanderung.","f":[
+  {"r":"Brote,","w":"Brote","o":["Brote,","Brote","Brote;","Brote."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern: Brote, Äpfel und Wasser."},
+  {"r":"Rucksack","w":"Ruksack","o":["Rucksack","Ruksack","Rucsack","Rucksak"],"k":"b","tipp":"Regel: Nach kurzem u steht ck: Ruck-sack."},
+  {"r":"Flasche","w":"flasche","o":["Flasche","flasche","Flaschä","Vlasche"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'eine Flasche' steht mit dem Begleiter 'eine'."}
+]},
+{"s":3,"satz":"Der Steinbock klettert ganz nach oben, damit ihn der hungrige Adler nicht erwischt.","f":[
+  {"r":"oben,","w":"oben","o":["oben,","oben","oben;","oben."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Steinbock","w":"steinbock","o":["Steinbock","steinbock","Stainbock","Steinbok"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Steinbock' steht mit dem Begleiter 'der'."},
+  {"r":"hungrige","w":"hungriege","o":["hungrige","hungriege","hungerige","hunkrige"],"k":"b","tipp":"Regel: In 'hungrig' steckt der 'Hunger' – mit u und g."}
+]},
+{"s":3,"satz":"Die Wanderer suchen die Hütte, die hoch oben am verschneiten Berghang liegt.","f":[
+  {"r":"Hütte,","w":"Hütte","o":["Hütte,","Hütte","Hütte;","Hütte."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'die' steht ein Komma."},
+  {"r":"suchen","w":"Suchen","o":["suchen","Suchen","suken","suchän"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'suchen' schreibt man klein."},
+  {"r":"verschneiten","w":"ferschneiten","o":["verschneiten","ferschneiten","verschnaiten","verschneitän"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v wie in 'vergessen'."}
+]},
+{"s":3,"satz":"Am Bergsee wachsen Moos, Farne und winzige Blumen zwischen den nassen kühlen Steinen.","f":[
+  {"r":"Moos,","w":"Moos","o":["Moos,","Moos","Moos;","Moos."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern: Moos, Farne und Blumen."},
+  {"r":"winzige","w":"Winzige","o":["winzige","Winzige","winziege","wintzige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'winzig' schreibt man klein."},
+  {"r":"nassen","w":"nasen","o":["nassen","nasen","nassän","naßen"],"k":"b","tipp":"Regel: Nach kurzem a steht ss: nas-sen."}
+]},
+{"s":3,"satz":"Der Bergführer kehrt rasch um, obwohl der Gipfel schon ganz nah vor ihm liegt.","f":[
+  {"r":"um,","w":"um","o":["um,","um","um;","um."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Gipfel","w":"gipfel","o":["Gipfel","gipfel","Gippfel","Gipvel"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Gipfel' steht mit dem Begleiter 'der'."},
+  {"r":"rasch","w":"rash","o":["rasch","rash","raschh","rascht"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: ra-sch."}
+]},
+{"s":3,"satz":"Auf der Alm grasen Kühe, Ziegen und ein paar Schafe friedlich im hohen Gras.","f":[
+  {"r":"Kühe,","w":"Kühe","o":["Kühe,","Kühe","Kühe;","Kühe."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern: Kühe, Ziegen und Schafe."},
+  {"r":"grasen","w":"Grasen","o":["grasen","Grasen","grahsen","grasän"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'grasen' schreibt man klein."},
+  {"r":"hohen","w":"hoen","o":["hohen","hoen","hohän","hohenn"],"k":"b","tipp":"Regel: In 'hoh' steckt ein Dehnungs-h: ho-hen."}
+]},
+{"s":3,"satz":"Der Junge bleibt dicht beim Bergführer, weil der Nebel immer dichter wird.","f":[
+  {"r":"Bergführer,","w":"Bergführer","o":["Bergführer,","Bergführer","Bergführer;","Bergführer."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Junge","w":"junge","o":["Junge","junge","Jungä","Junke"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Junge' steht mit dem Begleiter 'der'."},
+  {"r":"Nebel","w":"Nebäl","o":["Nebel","Nebäl","Nehbel","Nebbel"],"k":"b","tipp":"Regel: 'Nebel' endet auf el, nicht auf äl: Ne-bel."}
+]},
+{"s":3,"satz":"Wenn die Sonne aufgeht, leuchten die schneeweißen Gipfel wunderschön in goldenem Licht.","f":[
+  {"r":"aufgeht,","w":"aufgeht","o":["aufgeht,","aufgeht","aufgeht;","aufgeht."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'Wenn' vorne, folgt danach ein Komma."},
+  {"r":"leuchten","w":"Leuchten","o":["leuchten","Leuchten","loichten","leuchtän"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'leuchten' schreibt man klein."},
+  {"r":"schneeweißen","w":"schneeweisen","o":["schneeweißen","schneeweisen","schneewaißen","schneeweißän"],"k":"b","tipp":"Regel: Nach langem ei steht das scharfe ß: wei-ßen."}
+]},
+{"s":3,"satz":"Die Bergsteiger steigen vorsichtig ab, bevor das schwere Gewitter den Gipfel erreicht.","f":[
+  {"r":"ab,","w":"ab","o":["ab,","ab","ab;","ab."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bevor' steht ein Komma."},
+  {"r":"vorsichtig","w":"forsichtig","o":["vorsichtig","forsichtig","vorsichdig","vorsichtieg"],"k":"b","tipp":"Regel: 'vor-' schreibt man mit v wie in 'vorne'."},
+  {"r":"schwere","w":"Schwere","o":["schwere","Schwere","schwehre","schwerre"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schwer' schreibt man klein."}
+]},
+{"s":3,"satz":"Das Murmeltier verschwindet blitzschnell im Bau, sobald ein Schatten über die Wiese huscht.","f":[
+  {"r":"Bau,","w":"Bau","o":["Bau,","Bau","Bau;","Bau."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+  {"r":"Murmeltier","w":"murmeltier","o":["Murmeltier","murmeltier","Murmeltir","Mormeltier"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Murmeltier' steht mit dem Begleiter 'das'."},
+  {"r":"blitzschnell","w":"blitschnell","o":["blitzschnell","blitschnell","blitzschnel","blitzschnäll"],"k":"b","tipp":"Regel: 'Blitz' schreibt man mit tz: blitz-schnell."}
+]},
+{"s":3,"satz":"Die Kinder klettern über die Felsen, weil oben der prächtige Wasserfall in die Tiefe stürzt.","f":[
+  {"r":"Felsen,","w":"Felsen","o":["Felsen,","Felsen","Felsen;","Felsen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"klettern","w":"Klettern","o":["klettern","Klettern","kletern","glettern"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'klettern' schreibt man klein."},
+  {"r":"prächtige","w":"prechtige","o":["prächtige","prechtige","prächtieg","prächdige"],"k":"b","tipp":"Regel: 'prächtig' kommt von 'Pracht' – darum mit ä und cht."}
+]}
+]

@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Im warmen Frühling sprießen die ersten bunten Blumen aus der nassen Erde.","f":[
+  {"r":"Frühling","w":"Frühlink","o":["Frühling","Frühlink","Früling","Frühlling"],"k":"b","tipp":"Merksatz: Der Frühling hat ein Dehnungs-h und endet auf -ling: Früh-ling."},
+  {"r":"sprießen","w":"spriesen","o":["sprießen","spriesen","schprießen","sprißen"],"k":"b","tipp":"Merksatz: Nach langem ie steht ß: spr-ie-ß-en."},
+  {"r":"bunten","w":"bundten","o":["bunten","bundten","punten","bunden"],"k":"b","tipp":"Merksatz: 'bunt' schreibt man mit t am Ende: bun-t-en."}
+]},
+{"s":1,"satz":"Der heiße Sommer lockt viele fröhliche Kinder an den kühlen blauen See.","f":[
+  {"r":"heiße","w":"heise","o":["heiße","heise","haiße","heisse"],"k":"b","tipp":"Merksatz: Nach langem ei steht oft ß: h-ei-ß-e."},
+  {"r":"Sommer","w":"Somer","o":["Sommer","Somer","Sommmer","Sohmer"],"k":"b","tipp":"Merksatz: Der Sommer hat doppel-M: So-mm-er."},
+  {"r":"fröhliche","w":"fröliche","o":["fröhliche","fröliche","fröhlieche","fröhlighe"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h nach dem ö: frö-h-lich."}
+]},
+{"s":1,"satz":"Im bunten Herbst wirbeln die trockenen Blätter wild über den nassen Weg.","f":[
+  {"r":"Herbst","w":"Herpst","o":["Herbst","Herpst","Herbsd","Härbst"],"k":"b","tipp":"Merksatz: Der Herbst schreibt man mit b (Probe: herbstlich): Her-b-st."},
+  {"r":"wirbeln","w":"wierbeln","o":["wirbeln","wierbeln","wirpeln","wirbäln"],"k":"b","tipp":"Merksatz: 'wirbeln' hat ein kurzes i, kein ie: w-i-rbeln."},
+  {"r":"trockenen","w":"trokenen","o":["trockenen","trokenen","drockenen","trockänen"],"k":"b","tipp":"Merksatz: Nach kurzem o steht ck: tro-ck-en."}
+]},
+{"s":1,"satz":"Im kalten Winter glitzert der weiße Schnee leise auf den stillen Dächern.","f":[
+  {"r":"Winter","w":"Wienter","o":["Winter","Wienter","Windter","Wintor"],"k":"b","tipp":"Merksatz: 'Winter' hat ein kurzes i, kein ie: W-i-nter."},
+  {"r":"glitzert","w":"glizert","o":["glitzert","glizert","klitzert","glitzerd"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: gli-tz-ert."},
+  {"r":"Schnee","w":"Schne","o":["Schnee","Schne","Shnee","Schneee"],"k":"b","tipp":"Merksatz: Der Schnee fällt doppelt – doppel-E: Schn-ee."}
+]},
+{"s":1,"satz":"Die roten Blätter rascheln laut unter den schweren Stiefeln der Kinder.","f":[
+  {"r":"Blätter","w":"Bläter","o":["Blätter","Bläter","Blädter","Bletter"],"k":"b","tipp":"Merksatz: Die Blätter haben doppel-T: Blä-tt-er."},
+  {"r":"rascheln","w":"rascheen","o":["rascheln","rascheen","raschäln","rasheln"],"k":"b","tipp":"Merksatz: 'rascheln' schreibt man mit ch und l: ra-sch-eln."},
+  {"r":"schweren","w":"schwären","o":["schweren","schwären","shweren","schwehren"],"k":"b","tipp":"Merksatz: 'schwer' schreibt man mit e, nicht mit ä: schw-e-r."}
+]},
+{"s":1,"satz":"Der lustige Schneemann trägt eine alte Mütze und eine lange rote Nase.","f":[
+  {"r":"Schneemann","w":"Schneman","o":["Schneemann","Schneman","Schneeman","Schnemann"],"k":"b","tipp":"Merksatz: Schneemann hat doppel-E und doppel-N: Schn-ee-ma-nn."},
+  {"r":"trägt","w":"trekt","o":["trägt","trekt","trächt","tregt"],"k":"b","tipp":"Merksatz: 'trägt' kommt von 'tragen' – aus a wird ä: tr-ä-gt."},
+  {"r":"Mütze","w":"Müze","o":["Mütze","Müze","Mütse","Mützze"],"k":"b","tipp":"Merksatz: Nach kurzem ü steht tz: Mü-tz-e."}
+]},
+{"s":1,"satz":"Zu Ostern versteckt der flinke Hase viele bunte Eier im hohen Gras.","f":[
+  {"r":"Ostern","w":"Ostren","o":["Ostern","Ostren","Osdern","Osstern"],"k":"b","tipp":"Merksatz: Ostern schreibt man mit st in der Mitte: Os-tern."},
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","versteggt"],"k":"b","tipp":"Merksatz: Die Vorsilbe 'ver-' schreibt man immer mit v: ver-steckt."},
+  {"r":"flinke","w":"flincke","o":["flinke","flincke","vlinke","flingke"],"k":"b","tipp":"Merksatz: Nach n steht meist k statt ck: flin-k-e."}
+]},
+{"s":1,"satz":"In der goldenen Erntezeit sammeln die Bauern reifes Obst auf dem Feld.","f":[
+  {"r":"Erntezeit","w":"Erndezeit","o":["Erntezeit","Erndezeit","Ärntezeit","Erntezait"],"k":"b","tipp":"Merksatz: Die Ernte schreibt man mit t: Ern-t-ezeit."},
+  {"r":"sammeln","w":"sameln","o":["sammeln","sameln","sammäln","zammeln"],"k":"b","tipp":"Merksatz: 'sammeln' hat doppel-M: sa-mm-eln."},
+  {"r":"reifes","w":"raifes","o":["reifes","raifes","reives","reifäs"],"k":"b","tipp":"Merksatz: 'reif' schreibt man mit ei: r-ei-fes."}
+]},
+{"s":1,"satz":"Im Sommer summen die fleißigen Bienen über der duftenden bunten Wiese.","f":[
+  {"r":"summen","w":"sumen","o":["summen","sumen","zummen","summän"],"k":"b","tipp":"Merksatz: 'summen' hat doppel-M: su-mm-en."},
+  {"r":"fleißigen","w":"fleisigen","o":["fleißigen","fleisigen","flaißigen","fleißieg"],"k":"b","tipp":"Merksatz: 'fleißig' schreibt man mit ei und ß: fl-ei-ß-ig."},
+  {"r":"duftenden","w":"duvtenden","o":["duftenden","duvtenden","dufdenden","duftänden"],"k":"b","tipp":"Merksatz: 'duften' schreibt man mit f: duf-t-en."}
+]},
+{"s":1,"satz":"Im Frühling zwitschern die kleinen Vögel laut in den blühenden Bäumen.","f":[
+  {"r":"zwitschern","w":"zwitchern","o":["zwitschern","zwitchern","zwidschern","zwitschärn"],"k":"b","tipp":"Merksatz: 'zwitschern' hört man mit tsch: zwi-tsch-ern."},
+  {"r":"Vögel","w":"Fögel","o":["Vögel","Fögel","Vögäl","Vöggel"],"k":"b","tipp":"Merksatz: 'Vögel' schreibt man mit v: V-ö-gel."},
+  {"r":"blühenden","w":"blüenden","o":["blühenden","blüenden","blühänden","blühennden"],"k":"b","tipp":"Merksatz: 'blühen' hat ein Dehnungs-h nach dem ü: blü-h-end."}
+]},
+{"s":1,"satz":"Der eisige Winterwind pfeift kräftig durch die kahlen weißen Wälder.","f":[
+  {"r":"eisige","w":"aisige","o":["eisige","aisige","eisiege","eissige"],"k":"b","tipp":"Merksatz: 'eisig' kommt von 'Eis' mit ei: ei-sig."},
+  {"r":"pfeift","w":"feift","o":["pfeift","feift","pfaift","pfeifd"],"k":"b","tipp":"Merksatz: 'pfeifen' beginnt mit pf: pf-ei-ft."},
+  {"r":"kräftig","w":"kreftig","o":["kräftig","kreftig","kräftieg","kräfdig"],"k":"b","tipp":"Merksatz: 'kräftig' kommt von 'Kraft' – aus a wird ä: kr-ä-ftig."}
+]},
+{"s":1,"satz":"Im Herbst pflücken die Kinder fröhlich rote Äpfel von den hohen Ästen.","f":[
+  {"r":"pflücken","w":"flücken","o":["pflücken","flücken","pflüggen","pflükken"],"k":"b","tipp":"Merksatz: 'pflücken' beginnt mit pf und hat ck: pf-lü-ck-en."},
+  {"r":"Äpfel","w":"Äpel","o":["Äpfel","Äpel","Äppfel","Epfel"],"k":"b","tipp":"Merksatz: Der Apfel hat pf: Ä-pf-el."},
+  {"r":"hohen","w":"hoen","o":["hohen","hoen","hohän","hoohen"],"k":"b","tipp":"Merksatz: 'hoch' wird zu 'hohen' mit Dehnungs-h: ho-h-en."}
+]},
+{"s":2,"satz":"Im warmen Frühling blühen die ersten gelben Tulpen leuchtend im Garten.","f":[
+  {"r":"Frühling","w":"frühling","o":["Frühling","frühling","Früling","früling"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Frühling' hat den Begleiter 'der'."},
+  {"r":"blühen","w":"Blühen","o":["blühen","Blühen","blüen","Blüen"],"k":"g","tipp":"Regel: Verben wie 'blühen' schreibt man klein."},
+  {"r":"gelben","w":"gellben","o":["gelben","gellben","gälben","gelpen"],"k":"b","tipp":"Regel: 'gelb' hat nur ein l: gel-ben."}
+]},
+{"s":2,"satz":"Der heiße Sommer schmeckt nach süßem Eis und reifen saftigen Beeren.","f":[
+  {"r":"Sommer","w":"sommer","o":["Sommer","sommer","Somer","somer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Sommer' hat den Begleiter 'der'."},
+  {"r":"schmeckt","w":"schmekt","o":["schmeckt","schmekt","schmeggt","schmeckd"],"k":"b","tipp":"Regel: Nach kurzem e steht ck: schme-ck-t."},
+  {"r":"heiße","w":"Heiße","o":["heiße","Heiße","haiße","Haiße"],"k":"g","tipp":"Regel: Adjektive wie 'heiß' schreibt man klein."}
+]},
+{"s":2,"satz":"Der bunte Herbst malt die Bäume golden und bringt einen kühlen Wind.","f":[
+  {"r":"Herbst","w":"herbst","o":["Herbst","herbst","Herpst","herpst"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Herbst' hat den Begleiter 'der'."},
+  {"r":"malt","w":"Malt","o":["malt","Malt","mald","mahlt"],"k":"g","tipp":"Regel: Verben wie 'malen' schreibt man klein."},
+  {"r":"kühlen","w":"külen","o":["kühlen","külen","kühln","kuhlen"],"k":"b","tipp":"Regel: 'kühl' hat ein Dehnungs-h nach dem ü: kü-h-len."}
+]},
+{"s":2,"satz":"Der kalte Winter zaubert glitzernde Eiszapfen an die schweren alten Dächer.","f":[
+  {"r":"Winter","w":"winter","o":["Winter","winter","Wienter","wienter"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Winter' hat den Begleiter 'der'."},
+  {"r":"zaubert","w":"Zaubert","o":["zaubert","Zaubert","zauberd","Zauberd"],"k":"g","tipp":"Regel: Verben wie 'zaubern' schreibt man klein."},
+  {"r":"glitzernde","w":"glizernde","o":["glitzernde","glizernde","klitzernde","glitzärnde"],"k":"b","tipp":"Regel: Nach kurzem i steht tz: gli-tz-ernde."}
+]},
+{"s":2,"satz":"Die roten Blätter tanzen im Wind und fallen sanft auf den Boden.","f":[
+  {"r":"Blätter","w":"blätter","o":["Blätter","blätter","Bläter","bläter"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Blätter' hat den Begleiter 'die'."},
+  {"r":"tanzen","w":"Tanzen","o":["tanzen","Tanzen","tansen","Tansen"],"k":"g","tipp":"Regel: Verben wie 'tanzen' schreibt man klein."},
+  {"r":"roten","w":"rooten","o":["roten","rooten","rotän","rohten"],"k":"b","tipp":"Regel: 'rot' schreibt man mit nur einem o: ro-ten."}
+]},
+{"s":2,"satz":"Der dicke Schneemann lacht den ganzen Tag freundlich über den weißen Hof.","f":[
+  {"r":"Schneemann","w":"schneemann","o":["Schneemann","schneemann","Schneeman","schneeman"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Schneemann' hat den Begleiter 'der'."},
+  {"r":"lacht","w":"Lacht","o":["lacht","Lacht","lachd","laggt"],"k":"g","tipp":"Regel: Verben wie 'lachen' schreibt man klein."},
+  {"r":"dicke","w":"dike","o":["dicke","dike","digge","dikke"],"k":"b","tipp":"Regel: Nach kurzem i steht ck: di-ck-e."}
+]},
+{"s":2,"satz":"An Ostern suchen die fröhlichen Kinder bunte Eier im taufrischen Gras.","f":[
+  {"r":"Ostern","w":"ostern","o":["Ostern","ostern","Osstern","osstern"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'an Ostern' ist ein Festname, ein Namenwort."},
+  {"r":"suchen","w":"Suchen","o":["suchen","Suchen","suhchen","Suhchen"],"k":"g","tipp":"Regel: Verben wie 'suchen' schreibt man klein."},
+  {"r":"fröhlichen","w":"frölichen","o":["fröhlichen","frölichen","fröhliechen","fröhlighen"],"k":"b","tipp":"Regel: 'fröhlich' hat ein Dehnungs-h nach dem ö: frö-h-lich."}
+]},
+{"s":2,"satz":"In der Erntezeit pflücken die Bauern reife Äpfel von den hohen Bäumen.","f":[
+  {"r":"Erntezeit","w":"erntezeit","o":["Erntezeit","erntezeit","Erndezeit","erndezeit"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Erntezeit' hat den Begleiter 'der'."},
+  {"r":"pflücken","w":"Pflücken","o":["pflücken","Pflücken","flücken","Flücken"],"k":"g","tipp":"Regel: Verben wie 'pflücken' schreibt man klein."},
+  {"r":"reife","w":"raife","o":["reife","raife","reive","reiffe"],"k":"b","tipp":"Regel: 'reif' schreibt man mit ei: r-ei-fe."}
+]},
+{"s":2,"satz":"Im Frühling bauen die fleißigen Vögel ihre warmen Nester in den Hecken.","f":[
+  {"r":"Vögel","w":"vögel","o":["Vögel","vögel","Fögel","fögel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Vögel' hat den Begleiter 'die'."},
+  {"r":"bauen","w":"Bauen","o":["bauen","Bauen","pauen","Pauen"],"k":"g","tipp":"Regel: Verben wie 'bauen' schreibt man klein."},
+  {"r":"fleißigen","w":"fleisigen","o":["fleißigen","fleisigen","flaißigen","fleißieg"],"k":"b","tipp":"Regel: 'fleißig' schreibt man mit ei und ß: fl-ei-ß-ig."}
+]},
+{"s":2,"satz":"Im heißen Sommer planschen die lachenden Kinder vergnügt im kühlen Becken.","f":[
+  {"r":"Sommer","w":"sommer","o":["Sommer","sommer","Sohmer","sohmer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Sommer' hat den Begleiter 'dem'."},
+  {"r":"planschen","w":"plantschen","o":["planschen","plantschen","blanschen","planshen"],"k":"b","tipp":"Regel: 'planschen' schreibt man mit nsch, ohne t: plan-sch-en."},
+  {"r":"lachenden","w":"Lachenden","o":["lachenden","Lachenden","lachänden","Lachänden"],"k":"g","tipp":"Regel: Adjektive wie 'lachend' schreibt man klein."}
+]},
+{"s":2,"satz":"Der frostige Winter friert den ganzen Teich zu einer glatten Eisfläche.","f":[
+  {"r":"Winter","w":"winter","o":["Winter","winter","Windter","windter"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Winter' hat den Begleiter 'der'."},
+  {"r":"friert","w":"friehrt","o":["friert","friehrt","frirt","frierd"],"k":"b","tipp":"Regel: 'frieren' schreibt man mit ie: fr-ie-rt."},
+  {"r":"frostige","w":"Frostige","o":["frostige","Frostige","frosdige","Frosdige"],"k":"g","tipp":"Regel: Adjektive wie 'frostig' schreibt man klein."}
+]},
+{"s":2,"satz":"Im goldenen Herbst sammelt das fleißige Eichhörnchen viele runde braune Nüsse.","f":[
+  {"r":"Eichhörnchen","w":"eichhörnchen","o":["Eichhörnchen","eichhörnchen","Eichhörnschen","eichhörnschen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Eichhörnchen' hat den Begleiter 'das'."},
+  {"r":"sammelt","w":"samelt","o":["sammelt","samelt","zammelt","sammeld"],"k":"b","tipp":"Regel: 'sammeln' hat doppel-M: sa-mm-elt."},
+  {"r":"goldenen","w":"Goldenen","o":["goldenen","Goldenen","goltenen","Goltenen"],"k":"g","tipp":"Regel: Adjektive wie 'golden' schreibt man klein."}
+]},
+{"s":3,"satz":"Im Garten blühen Tulpen, Narzissen und gelbe Osterglocken in der Sonne.","f":[
+  {"r":"Tulpen,","w":"Tulpen","o":["Tulpen,","Tulpen","Tulpen;","Tulpen."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Garten","w":"garten","o":["Garten","garten","Gardten","gardten"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'im Garten' hat den Begleiter 'dem'."},
+  {"r":"gelbe","w":"gellbe","o":["gelbe","gellbe","gälbe","gelpe"],"k":"b","tipp":"Regel: 'gelb' hat nur ein l: gel-be."}
+]},
+{"s":3,"satz":"Die Kinder freuen sich riesig, weil der erste warme Frühling beginnt.","f":[
+  {"r":"riesig,","w":"riesig","o":["riesig,","riesig","riesig;","riesig."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Frühling","w":"frühling","o":["Frühling","frühling","Früling","früling"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Frühling' hat den Begleiter 'der'."},
+  {"r":"warme","w":"warmme","o":["warme","warmme","wahrme","warhme"],"k":"b","tipp":"Regel: 'warm' hat nur ein m: war-me."}
+]},
+{"s":3,"satz":"Wir bauen einen Schneemann, der eine alte Karotte als Nase trägt.","f":[
+  {"r":"Schneemann,","w":"Schneemann","o":["Schneemann,","Schneemann","Schneemann;","Schneemann."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'der' steht ein Komma."},
+  {"r":"alte","w":"Alte","o":["alte","Alte","allte","Allte"],"k":"g","tipp":"Regel: Adjektive wie 'alt' schreibt man klein."},
+  {"r":"Karotte","w":"Karote","o":["Karotte","Karote","Garotte","Karodte"],"k":"b","tipp":"Regel: Nach kurzem o steht doppel-T: Karo-tt-e."}
+]},
+{"s":3,"satz":"Der Sommer ist herrlich warm, doch am Abend wird es schnell kühler.","f":[
+  {"r":"warm,","w":"warm","o":["warm,","warm","warm;","warm."],"k":"k","tipp":"Regel: Vor 'doch' steht ein Komma, weil ein neuer Satzteil folgt."},
+  {"r":"Sommer","w":"sommer","o":["Sommer","sommer","Somer","somer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Sommer' hat den Begleiter 'der'."},
+  {"r":"herrlich","w":"herlich","o":["herrlich","herlich","härrlich","herrlig"],"k":"b","tipp":"Regel: 'herrlich' schreibt man mit doppel-R: he-rr-lich."}
+]},
+{"s":3,"satz":"Im Herbst bleiben die Kinder drinnen, wenn der kalte Regen draußen fällt.","f":[
+  {"r":"drinnen,","w":"drinnen","o":["drinnen,","drinnen","drinnen;","drinnen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"Regen","w":"regen","o":["Regen","regen","Reegen","reegen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Regen' hat den Begleiter 'der'."},
+  {"r":"draußen","w":"drausen","o":["draußen","drausen","draußän","drauhsen"],"k":"b","tipp":"Regel: Nach langem au steht ß: dr-au-ß-en."}
+]},
+{"s":3,"satz":"Zu Ostern bemalen wir Eier, damit der Osterhase sie schön verstecken kann.","f":[
+  {"r":"Eier,","w":"Eier","o":["Eier,","Eier","Eier;","Eier."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Osterhase","w":"osterhase","o":["Osterhase","osterhase","Ostorhase","ostorhase"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Osterhase' hat den Begleiter 'der'."},
+  {"r":"verstecken","w":"ferstecken","o":["verstecken","ferstecken","verstekken","versteggen"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man immer mit v: ver-stecken."}
+]},
+{"s":3,"satz":"Der Winter ist endlich da, weil dicke Schneeflocken vom Himmel fallen.","f":[
+  {"r":"da,","w":"da","o":["da,","da","da;","da."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Schneeflocken","w":"schneeflocken","o":["Schneeflocken","schneeflocken","Schneflocken","schneflocken"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Schneeflocken' hat den Begleiter 'dicke'."},
+  {"r":"dicke","w":"dike","o":["dicke","dike","digge","dikke"],"k":"b","tipp":"Regel: Nach kurzem i steht ck: di-ck-e."}
+]},
+{"s":3,"satz":"In der Erntezeit hilft der Junge auf dem Feld, obwohl er müde ist.","f":[
+  {"r":"Feld,","w":"Feld","o":["Feld,","Feld","Feld;","Feld."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Junge","w":"junge","o":["Junge","junge","Jungge","jungge"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Junge' hat den Begleiter 'der'."},
+  {"r":"Erntezeit","w":"Erndezeit","o":["Erntezeit","Erndezeit","Ärntezeit","Erntezait"],"k":"b","tipp":"Regel: Die Ernte schreibt man mit t: Ern-t-ezeit."}
+]},
+{"s":3,"satz":"Wenn der Frühling kommt, schmelzen die letzten weißen Schneereste rasch dahin.","f":[
+  {"r":"kommt,","w":"kommt","o":["kommt,","kommt","kommt;","kommt."],"k":"k","tipp":"Regel: Nach einem vorangestellten Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"Frühling","w":"frühling","o":["Frühling","frühling","Früling","früling"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Frühling' hat den Begleiter 'der'."},
+  {"r":"schmelzen","w":"schmälzen","o":["schmelzen","schmälzen","schmelsen","shmelzen"],"k":"b","tipp":"Regel: 'schmelzen' schreibt man mit e, nicht mit ä: schm-e-lzen."}
+]},
+{"s":3,"satz":"Der Bauer erntet das reife Korn, bevor der erste Frost den Acker bedeckt.","f":[
+  {"r":"Korn,","w":"Korn","o":["Korn,","Korn","Korn;","Korn."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bevor' steht ein Komma."},
+  {"r":"Bauer","w":"bauer","o":["Bauer","bauer","Baoer","baoer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Bauer' hat den Begleiter 'der'."},
+  {"r":"reife","w":"raife","o":["reife","raife","reive","reiffe"],"k":"b","tipp":"Regel: 'reif' schreibt man mit ei: r-ei-fe."}
+]},
+{"s":3,"satz":"Die Vögel fliegen im Herbst nach Süden, sobald es draußen kälter wird.","f":[
+  {"r":"Süden,","w":"Süden","o":["Süden,","Süden","Süden;","Süden."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+  {"r":"Vögel","w":"vögel","o":["Vögel","vögel","Fögel","fögel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Vögel' hat den Begleiter 'die'."},
+  {"r":"fliegen","w":"fligen","o":["fliegen","fligen","vliegen","fliehgen"],"k":"b","tipp":"Regel: 'fliegen' schreibt man mit ie: fl-ie-gen."}
+]},
+{"s":3,"satz":"Im Sommer essen wir gerne Eis, weil die heiße Sonne uns durstig macht.","f":[
+  {"r":"Eis,","w":"Eis","o":["Eis,","Eis","Eis;","Eis."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Sonne","w":"sonne","o":["Sonne","sonne","Sone","sone"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Sonne' hat den Begleiter 'die'."},
+  {"r":"heiße","w":"heise","o":["heiße","heise","haiße","heisse"],"k":"b","tipp":"Regel: Nach langem ei steht ß: h-ei-ß-e."}
+]}
+]

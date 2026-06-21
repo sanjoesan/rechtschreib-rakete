@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der schnelle Stürmer schießt den Ball mit voller Wucht ins linke Tor.","f":[
+  {"r":"schnelle","w":"schnele","o":["schnelle","schnele","schnälle","schnellä"],"k":"b","tipp":"Merksatz: 'schnell' hat doppel-L: schnel-le."},
+  {"r":"schießt","w":"schist","o":["schießt","schist","schiest","schießd"],"k":"b","tipp":"Merksatz: 'schießen' schreibt man mit ie und ß: schie-ßen."},
+  {"r":"Wucht","w":"Wuchd","o":["Wucht","Wuchd","Wukt","Wuchht"],"k":"b","tipp":"Merksatz: 'Wucht' endet auf cht wie 'Macht' und 'Nacht'."}
+]},
+{"s":1,"satz":"Beim Elfmeter zittert der nervöse Torwart vor dem berühmten Stürmer.","f":[
+  {"r":"Elfmeter","w":"Elfmehter","o":["Elfmeter","Elfmehter","Älfmeter","Elfmeeter"],"k":"b","tipp":"Merksatz: 'Elfmeter' schreibt man ohne Dehnungs-h: Elf-me-ter."},
+  {"r":"nervöse","w":"nerwöse","o":["nervöse","nerwöse","närvöse","nervööse"],"k":"b","tipp":"Merksatz: 'nervös' kommt von 'Nerven' und wird mit v geschrieben."},
+  {"r":"berühmten","w":"berümten","o":["berühmten","berümten","berühmden","berümmten"],"k":"b","tipp":"Merksatz: 'berühmt' hat ein Dehnungs-h nach dem ü: be-rühmt."}
+]},
+{"s":1,"satz":"Im großen Stadion jubeln die fröhlichen Fans über das wichtige Tor.","f":[
+  {"r":"Stadion","w":"Stadjon","o":["Stadion","Stadjon","Schtadion","Stadiohn"],"k":"b","tipp":"Merksatz: 'Stadion' schreibt man mit i: Sta-di-on."},
+  {"r":"jubeln","w":"jubbeln","o":["jubeln","jubbeln","juhbeln","jubäln"],"k":"b","tipp":"Merksatz: 'jubeln' hat nur ein b: ju-beln."},
+  {"r":"fröhlichen","w":"fröllichen","o":["fröhlichen","fröllichen","frölichen","fröhligen"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h nach dem ö: fröh-lich."}
+]},
+{"s":1,"satz":"Die kämpferische Mannschaft trainiert jeden Tag auf dem nassen Rasen.","f":[
+  {"r":"kämpferische","w":"kempferische","o":["kämpferische","kempferische","kämpferieche","kämpferrische"],"k":"b","tipp":"Merksatz: 'kämpferisch' kommt von 'Kampf' und wird mit ä geschrieben."},
+  {"r":"Mannschaft","w":"Manschaft","o":["Mannschaft","Manschaft","Mannschafd","Mannshaft"],"k":"b","tipp":"Merksatz: 'Mann' hat doppel-N: Mann-schaft."},
+  {"r":"trainiert","w":"trainirt","o":["trainiert","trainirt","trainniert","drainiert"],"k":"b","tipp":"Merksatz: 'trainieren' schreibt man mit ie: trai-nie-ren."}
+]},
+{"s":1,"satz":"Der stolze Kapitän trägt das blaue Trikot mit der goldenen Nummer.","f":[
+  {"r":"Kapitän","w":"Kapitehn","o":["Kapitän","Kapitehn","Gapitän","Kapittän"],"k":"b","tipp":"Merksatz: 'Kapitän' endet auf '-tän' mit ä: Ka-pi-tän."},
+  {"r":"Trikot","w":"Trickot","o":["Trikot","Trickot","Drikot","Trikoot"],"k":"b","tipp":"Merksatz: 'Trikot' schreibt man mit einem k: Tri-kot."},
+  {"r":"goldenen","w":"goltenen","o":["goldenen","goltenen","goldänen","goldennen"],"k":"b","tipp":"Merksatz: 'golden' kommt von 'Gold' und wird mit d geschrieben."}
+]},
+{"s":1,"satz":"Der strenge Schiedsrichter zeigt dem frechen Spieler die gelbe Karte.","f":[
+  {"r":"strenge","w":"schtrenge","o":["strenge","schtrenge","stränge","strengä"],"k":"b","tipp":"Merksatz: 'streng' schreibt man mit st, nicht mit scht: streng."},
+  {"r":"Schiedsrichter","w":"Schidsrichter","o":["Schiedsrichter","Schidsrichter","Schiedsrichder","Schiedsrigter"],"k":"b","tipp":"Merksatz: Im 'Schiedsrichter' steckt der 'Schied' mit ie: Schieds-rich-ter."},
+  {"r":"frechen","w":"frächen","o":["frechen","frächen","fregen","frecchen"],"k":"b","tipp":"Merksatz: 'frech' schreibt man mit e und ch: fre-chen."}
+]},
+{"s":1,"satz":"Mit einem glänzenden Pokal feiert der siegreiche Verein den ersten Platz.","f":[
+  {"r":"glänzenden","w":"glenzenden","o":["glänzenden","glenzenden","glänzänden","glänznden"],"k":"b","tipp":"Merksatz: 'glänzen' kommt von 'Glanz' und wird mit ä geschrieben."},
+  {"r":"Pokal","w":"Pokahl","o":["Pokal","Pokahl","Bokal","Pockal"],"k":"b","tipp":"Merksatz: 'Pokal' schreibt man ohne Dehnungs-h: Po-kal."},
+  {"r":"siegreiche","w":"sigreiche","o":["siegreiche","sigreiche","siegraiche","siegreichä"],"k":"b","tipp":"Merksatz: 'Sieg' schreibt man mit ie: sieg-reich."}
+]},
+{"s":1,"satz":"Der lustige Eckball segelt direkt vor das überraschte Tor des Gegners.","f":[
+  {"r":"Eckball","w":"Eckbal","o":["Eckball","Eckbal","Eckpall","Egball"],"k":"b","tipp":"Merksatz: Der Eckball braucht doppel-L: Eck-ball."},
+  {"r":"segelt","w":"sägelt","o":["segelt","sägelt","seegelt","segäld"],"k":"b","tipp":"Merksatz: 'segeln' schreibt man mit e: se-geln."},
+  {"r":"überraschte","w":"überrasste","o":["überraschte","überrasste","überrashte","überaschte"],"k":"b","tipp":"Merksatz: 'überrascht' schreibt man mit sch: über-rasch-te."}
+]},
+{"s":1,"satz":"Die wilde Mannschaft jubelt laut, als der Stürmer das entscheidende Tor erzielt und gewinnt.","f":[
+  {"r":"jubelt","w":"jubbelt","o":["jubelt","jubbelt","juhbelt","jubäld"],"k":"b","tipp":"Merksatz: 'jubeln' hat nur ein b: ju-belt."},
+  {"r":"entscheidende","w":"entscheitende","o":["entscheidende","entscheitende","entshaidende","entscheidänd"],"k":"b","tipp":"Merksatz: 'entscheiden' kommt von 'Scheide' und wird mit ei und d geschrieben."},
+  {"r":"erzielt","w":"erzilt","o":["erzielt","erzilt","erziehlt","erzielld"],"k":"b","tipp":"Merksatz: 'erzielen' schreibt man mit ie: er-zie-len."}
+]},
+{"s":1,"satz":"Der pfeifende Schiedsrichter rennt schnaufend zum Elfmeterpunkt auf dem langen Rasen.","f":[
+  {"r":"pfeifende","w":"feifende","o":["pfeifende","feifende","pfaifende","pfeifänd"],"k":"b","tipp":"Merksatz: 'pfeifen' beginnt mit pf: pfei-fen."},
+  {"r":"schnaufend","w":"schnaofend","o":["schnaufend","schnaofend","schnaufänd","schnauvend"],"k":"b","tipp":"Merksatz: 'schnaufen' schreibt man mit au: schnau-fen."},
+  {"r":"Elfmeterpunkt","w":"Elfmeterpunkd","o":["Elfmeterpunkt","Elfmeterpunkd","Elfmeterbunkt","Elfmeterpungt"],"k":"b","tipp":"Merksatz: 'Punkt' endet auf kt: Elf-me-ter-punkt."}
+]},
+{"s":1,"satz":"Im riesigen Stadion winken die begeisterten Zuschauer mit ihren bunten Fahnen.","f":[
+  {"r":"riesigen","w":"risigen","o":["riesigen","risigen","riesiegen","riessigen"],"k":"b","tipp":"Merksatz: 'riesig' schreibt man mit ie (langes i): rie-sig."},
+  {"r":"begeisterten","w":"begaisterten","o":["begeisterten","begaisterten","begeisterden","begaisterden"],"k":"b","tipp":"Merksatz: 'begeistert' schreibt man mit ei: be-geis-tert."},
+  {"r":"Zuschauer","w":"Zuschaoer","o":["Zuschauer","Zuschaoer","Zushauer","Zuschauä"],"k":"b","tipp":"Merksatz: 'Zuschauer' schreibt man mit au: Zu-schau-er."}
+]},
+{"s":1,"satz":"Der freundliche Torwart fängt den nassen Ball sicher mit seinen großen Handschuhen ab.","f":[
+  {"r":"freundliche","w":"freindliche","o":["freundliche","freindliche","fröindliche","freundlige"],"k":"b","tipp":"Merksatz: 'freundlich' kommt von 'Freund' und wird mit eu geschrieben."},
+  {"r":"fängt","w":"fengt","o":["fängt","fengt","fänkt","fängd"],"k":"b","tipp":"Merksatz: 'fangen' wird zu 'fängt' mit ä: fän-gt."},
+  {"r":"Handschuhen","w":"Hantschuhen","o":["Handschuhen","Hantschuhen","Handshuhen","Handschuen"],"k":"b","tipp":"Merksatz: 'Hand' endet auf d – Probe: die Hände."}
+]},
+{"s":2,"satz":"Am Samstag schießt der flinke Stürmer das schönste Tor des ganzen Spiels.","f":[
+  {"r":"Stürmer","w":"stürmer","o":["Stürmer","stürmer","Stürmär","Schtürmer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Stürmer' steht mit dem Begleiter 'der'."},
+  {"r":"schießt","w":"Schießt","o":["schießt","Schießt","schiest","Schiest"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schießen' schreibt man klein."},
+  {"r":"flinke","w":"flingke","o":["flinke","flingke","flincke","flinkä"],"k":"b","tipp":"Regel: 'flink' schreibt man mit nk: flin-ke."}
+]},
+{"s":2,"satz":"Vor dem großen Spiel zieht der Kapitän sein neues Trikot an.","f":[
+  {"r":"Trikot","w":"trikot","o":["Trikot","trikot","Trickot","Drikot"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'sein Trikot' steht mit dem Begleiter 'sein'."},
+  {"r":"zieht","w":"Zieht","o":["zieht","Zieht","ziet","Ziet"],"k":"g","tipp":"Regel: Verben wie 'ziehen' schreibt man klein."},
+  {"r":"neues","w":"neies","o":["neues","neies","nöes","neuäs"],"k":"b","tipp":"Regel: 'neu' schreibt man mit eu: neu-es."}
+]},
+{"s":2,"satz":"Im vollen Stadion bejubeln die treuen Fans den verdienten Sieg ihrer Mannschaft.","f":[
+  {"r":"Stadion","w":"stadion","o":["Stadion","stadion","Stadjon","Schtadion"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Stadion'."},
+  {"r":"bejubeln","w":"Bejubeln","o":["bejubeln","Bejubeln","bejubbeln","Bejubbeln"],"k":"g","tipp":"Regel: Verben wie 'bejubeln' schreibt man klein."},
+  {"r":"verdienten","w":"ferdienten","o":["verdienten","ferdienten","verdinten","verdiehnten"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-dient."}
+]},
+{"s":2,"satz":"Der Schiedsrichter pfeift laut und zeigt dem groben Verteidiger die rote Karte.","f":[
+  {"r":"Schiedsrichter","w":"schiedsrichter","o":["Schiedsrichter","schiedsrichter","Schidsrichter","Schiedsrichder"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Schiedsrichter'."},
+  {"r":"pfeift","w":"Pfeift","o":["pfeift","Pfeift","feift","Feift"],"k":"g","tipp":"Regel: Verben wie 'pfeifen' schreibt man klein."},
+  {"r":"Verteidiger","w":"Ferteidiger","o":["Verteidiger","Ferteidiger","Verteidieger","Vertaidiger"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: Ver-tei-di-ger."}
+]},
+{"s":2,"satz":"Nach dem Endspiel hebt der glückliche Kapitän den schweren Pokal in die Höhe.","f":[
+  {"r":"Pokal","w":"pokal","o":["Pokal","pokal","Pokahl","Bokal"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'den Pokal' steht mit dem Begleiter 'den'."},
+  {"r":"hebt","w":"Hebt","o":["hebt","Hebt","hebd","Hebd"],"k":"g","tipp":"Regel: Verben wie 'heben' schreibt man klein."},
+  {"r":"glückliche","w":"glükliche","o":["glückliche","glükliche","glücklige","glücklighe"],"k":"b","tipp":"Regel: Nach kurzem ü steht ck: glück-lich."}
+]},
+{"s":2,"satz":"Am Spielfeldrand jubelt der aufgeregte Trainer über den schnellen Eckball.","f":[
+  {"r":"Trainer","w":"trainer","o":["Trainer","trainer","Trainär","Drainer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Trainer'."},
+  {"r":"jubelt","w":"Jubelt","o":["jubelt","Jubelt","jubbelt","Jubbelt"],"k":"g","tipp":"Regel: Verben wie 'jubeln' schreibt man klein."},
+  {"r":"aufgeregte","w":"aufgerägte","o":["aufgeregte","aufgerägte","aufgeregde","aufgerägde"],"k":"b","tipp":"Regel: 'aufgeregt' schreibt man mit e: auf-ge-regt."}
+]},
+{"s":2,"satz":"Die starke Mannschaft kämpft tapfer um jeden Ball auf dem Platz.","f":[
+  {"r":"Mannschaft","w":"mannschaft","o":["Mannschaft","mannschaft","Manschaft","Mannschafd"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Mannschaft' steht mit dem Begleiter 'die'."},
+  {"r":"kämpft","w":"Kämpft","o":["kämpft","Kämpft","kempft","Kempft"],"k":"g","tipp":"Regel: Verben wie 'kämpfen' schreibt man klein."},
+  {"r":"tapfer","w":"tappfer","o":["tapfer","tappfer","dapfer","tapferr"],"k":"b","tipp":"Regel: 'tapfer' schreibt man mit einem p und pf: tap-fer."}
+]},
+{"s":2,"satz":"Beim spannenden Elfmeter hält der mutige Torwart den scharfen Schuss.","f":[
+  {"r":"Elfmeter","w":"elfmeter","o":["Elfmeter","elfmeter","Elfmehter","Älfmeter"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Elfmeter'."},
+  {"r":"hält","w":"Hält","o":["hält","Hält","helt","Helt"],"k":"g","tipp":"Regel: Verben wie 'halten' schreibt man klein."},
+  {"r":"scharfen","w":"sharfen","o":["scharfen","sharfen","scharffen","scharven"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: schar-fen."}
+]},
+{"s":2,"satz":"Der schnelle Spieler dribbelt geschickt am verdutzten Schiedsrichter vorbei.","f":[
+  {"r":"Spieler","w":"spieler","o":["Spieler","spieler","Spiehler","Schpieler"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Spieler'."},
+  {"r":"dribbelt","w":"Dribbelt","o":["dribbelt","Dribbelt","driblt","Driblt"],"k":"g","tipp":"Regel: Verben wie 'dribbeln' schreibt man klein."},
+  {"r":"geschickt","w":"geschikt","o":["geschickt","geschikt","geschicked","geshickt"],"k":"b","tipp":"Regel: Nach kurzem i steht ck: ge-schickt."}
+]},
+{"s":2,"satz":"Vor dem Tor lauert der hungrige Stürmer auf die kleinste Chance.","f":[
+  {"r":"Tor","w":"tor","o":["Tor","tor","Tohr","Dor"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Tor'."},
+  {"r":"lauert","w":"Lauert","o":["lauert","Lauert","lauerd","Lauerd"],"k":"g","tipp":"Regel: Verben wie 'lauern' schreibt man klein."},
+  {"r":"hungrige","w":"hungriche","o":["hungrige","hungriche","hungerige","hungrigge"],"k":"b","tipp":"Regel: In 'hungrig' steckt der 'Hunger' – mit u und g."}
+]},
+{"s":2,"satz":"Mit lautem Pfiff beendet der Schiedsrichter das aufregende Spiel im Stadion.","f":[
+  {"r":"Pfiff","w":"pfiff","o":["Pfiff","pfiff","Pfif","Fiff"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Pfiff' steht mit dem Begleiter 'der'."},
+  {"r":"beendet","w":"Beendet","o":["beendet","Beendet","beendät","Beendät"],"k":"g","tipp":"Regel: Verben wie 'beenden' schreibt man klein."},
+  {"r":"aufregende","w":"aufrägende","o":["aufregende","aufrägende","aufregänd","aufregendä"],"k":"b","tipp":"Regel: 'aufregend' schreibt man mit e: auf-re-gend."}
+]},
+{"s":2,"satz":"Der junge Torwart wirft den Ball weit über das ganze Feld.","f":[
+  {"r":"Torwart","w":"torwart","o":["Torwart","torwart","Torward","Dorwart"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Torwart'."},
+  {"r":"wirft","w":"Wirft","o":["wirft","Wirft","wirfd","Wirfd"],"k":"g","tipp":"Regel: Verben wie 'werfen' schreibt man klein."},
+  {"r":"ganze","w":"gantze","o":["ganze","gantze","ganntze","ganzä"],"k":"b","tipp":"Regel: 'ganz' schreibt man mit z, nicht mit tz: gan-ze."}
+]},
+{"s":3,"satz":"Auf dem Rasen liegen Bälle, Trikots und bunte Fahnen für das große Spiel.","f":[
+  {"r":"Bälle,","w":"Bälle","o":["Bälle,","Bälle","Bälle;","Bälle."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Rasen","w":"rasen","o":["Rasen","rasen","Rahsen","Rasän"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Rasen' steht mit dem Begleiter 'dem'."},
+  {"r":"bunte","w":"bundte","o":["bunte","bundte","buntä","bunnte"],"k":"b","tipp":"Regel: 'bunt' schreibt man mit t: bun-te."}
+]},
+{"s":3,"satz":"Der Stürmer schießt sofort, weil der schnelle Eckball genau vor ihm landet.","f":[
+  {"r":"sofort,","w":"sofort","o":["sofort,","sofort","sofort;","sofort."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Stürmer","w":"stürmer","o":["Stürmer","stürmer","Stürmär","Schtürmer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Stürmer'."},
+  {"r":"schnelle","w":"schnele","o":["schnelle","schnele","schnälle","schnellä"],"k":"b","tipp":"Regel: 'schnell' hat doppel-L: schnel-le."}
+]},
+{"s":3,"satz":"Der Torwart weiß, dass der nervöse Stürmer den Elfmeter gleich verschießt.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Torwart","w":"torwart","o":["Torwart","torwart","Torward","Dorwart"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Torwart'."},
+  {"r":"nervöse","w":"nerwöse","o":["nervöse","nerwöse","närvöse","nervööse"],"k":"b","tipp":"Regel: 'nervös' kommt von 'Nerven' und wird mit v geschrieben."}
+]},
+{"s":3,"satz":"Der Stürmer, der das letzte Tor geschossen hat, läuft jubelnd zur Eckfahne.","f":[
+  {"r":"Stürmer,","w":"Stürmer","o":["Stürmer,","Stürmer","Stürmer;","Stürmer."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'der' wird mit Kommas eingeschlossen: 'Der Stürmer, der ... hat, läuft ...'."},
+  {"r":"letzte","w":"lezte","o":["letzte","lezte","letztä","lätzte"],"k":"b","tipp":"Regel: Nach kurzem e steht tz: letz-te."},
+  {"r":"jubelnd","w":"Jubelnd","o":["jubelnd","Jubelnd","jubelnt","Jubelnt"],"k":"g","tipp":"Regel: Wie ein Adjektiv gebrauchtes 'jubelnd' schreibt man klein."}
+]},
+{"s":3,"satz":"Das Spiel ist fast vorbei, aber die müde Mannschaft kämpft weiter um den Sieg.","f":[
+  {"r":"vorbei,","w":"vorbei","o":["vorbei,","vorbei","vorbei;","vorbei."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"Mannschaft","w":"mannschaft","o":["Mannschaft","mannschaft","Manschaft","Mannschafd"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Mannschaft'."},
+  {"r":"müde","w":"mühde","o":["müde","mühde","müdä","müede"],"k":"b","tipp":"Regel: 'müde' schreibt man ohne Dehnungs-h: mü-de."}
+]},
+{"s":3,"satz":"Wenn der Schiedsrichter pfeift, rennen die schnellen Spieler sofort auf den Platz.","f":[
+  {"r":"pfeift,","w":"pfeift","o":["pfeift,","pfeift","pfeift;","pfeift."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma: 'Wenn ..., rennen ...'."},
+  {"r":"Schiedsrichter","w":"schiedsrichter","o":["Schiedsrichter","schiedsrichter","Schidsrichter","Schiedsrichder"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Schiedsrichter'."},
+  {"r":"schnellen","w":"schnelen","o":["schnellen","schnelen","schnällen","schnellän"],"k":"b","tipp":"Regel: 'schnell' hat doppel-L: schnel-len."}
+]},
+{"s":3,"satz":"Der Trainer freut sich, obwohl die junge Mannschaft das wichtige Spiel knapp verliert und traurig ist.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Trainer","w":"trainer","o":["Trainer","trainer","Trainär","Drainer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Trainer'."},
+  {"r":"verliert","w":"ferliert","o":["verliert","ferliert","verlirt","verliehrt"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-liert."}
+]},
+{"s":3,"satz":"Der Kapitän ruft laut, dass die Mannschaft beim Elfmeter ruhig bleiben soll.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"ruhig","w":"Ruhig","o":["ruhig","Ruhig","ruhich","Ruhich"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'ruhig' schreibt man klein."},
+  {"r":"Elfmeter","w":"Elfmehter","o":["Elfmeter","Elfmehter","Älfmeter","Elfmeeter"],"k":"b","tipp":"Regel: 'Elfmeter' schreibt man ohne Dehnungs-h: Elf-me-ter."}
+]},
+{"s":3,"satz":"Der Stürmer wartet vor dem Tor, als der schnelle Eckball auf ihn zufliegt.","f":[
+  {"r":"Tor,","w":"Tor","o":["Tor,","Tor","Tor;","Tor."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'als' steht ein Komma."},
+  {"r":"schnelle","w":"schnele","o":["schnelle","schnele","schnälle","schnellä"],"k":"b","tipp":"Regel: 'schnell' hat doppel-L: schnel-le."},
+  {"r":"Stürmer","w":"stürmer","o":["Stürmer","stürmer","Stürmär","Schtürmer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Stürmer'."}
+]},
+{"s":3,"satz":"Im Pokal liegen Medaillen, Urkunden und ein silberner Becher für die Sieger.","f":[
+  {"r":"Medaillen,","w":"Medaillen","o":["Medaillen,","Medaillen","Medaillen;","Medaillen."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"silberner","w":"Silberner","o":["silberner","Silberner","silbärner","Silbärner"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'silbern' schreibt man klein."},
+  {"r":"Urkunden","w":"Urkundän","o":["Urkunden","Urkundän","Urkonden","Urkundn"],"k":"b","tipp":"Regel: 'Urkunde' schreibt man mit u: Ur-kun-den."}
+]},
+{"s":3,"satz":"Der Schiedsrichter zückt die Karte, weil der wütende Spieler ihn laut anschreit.","f":[
+  {"r":"Karte,","w":"Karte","o":["Karte,","Karte","Karte;","Karte."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"wütende","w":"Wütende","o":["wütende","Wütende","wütändä","Wütändä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'wütend' schreibt man klein, wenn sie nicht am Satzanfang stehen."},
+  {"r":"zückt","w":"zükt","o":["zückt","zükt","zücked","züggt"],"k":"b","tipp":"Regel: Nach kurzem ü steht ck: zück-t."}
+]},
+{"s":3,"satz":"Für das Turnier braucht die Mannschaft Trikots, Schuhe und einen runden Ball.","f":[
+  {"r":"Trikots,","w":"Trikots","o":["Trikots,","Trikots","Trikots;","Trikots."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Mannschaft","w":"mannschaft","o":["Mannschaft","mannschaft","Manschaft","Mannschafd"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Mannschaft'."},
+  {"r":"runden","w":"rundän","o":["runden","rundän","ronden","runnden"],"k":"b","tipp":"Regel: 'rund' schreibt man mit u und d: run-den."}
+]}
+]

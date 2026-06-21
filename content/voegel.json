@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der bunte Papagei plappert lustige Wörter und knabbert an einer harten Nuss.","f":[
+  {"r":"Papagei","w":"Papagai","o":["Papagei","Papagai","Pappagei","Papageih"],"k":"b","tipp":"Merksatz: Der Papagei endet auf '-gei' mit ei: Pa-pa-gei."},
+  {"r":"plappert","w":"plapert","o":["plappert","plapert","blappert","plapperd"],"k":"b","tipp":"Merksatz: Beim Plappern redet der Schnabel doppelt – doppel-P: plap-pern."},
+  {"r":"knabbert","w":"knabert","o":["knabbert","knabert","knappert","knabberd"],"k":"b","tipp":"Merksatz: Beim Knabbern arbeiten die Zähne doppelt – doppel-B: knab-bern."}
+]},
+{"s":1,"satz":"Der freche Spatz hüpft über den Gehweg und pickt nach kleinen Krümeln.","f":[
+  {"r":"Spatz","w":"Spaz","o":["Spatz","Spaz","Schpatz","Spats"],"k":"b","tipp":"Merksatz: Nach kurzem a steht tz: der Spatz."},
+  {"r":"hüpft","w":"hupft","o":["hüpft","hupft","hüppft","hüpfd"],"k":"b","tipp":"Merksatz: 'hüpfen' schreibt man mit ü und pf: hüp-fen."},
+  {"r":"Gehweg","w":"Geweg","o":["Gehweg","Geweg","Gehwech","Gehwegg"],"k":"b","tipp":"Merksatz: In 'Gehweg' steckt 'gehen' mit Dehnungs-h: Geh-weg."}
+]},
+{"s":1,"satz":"Die kluge Eule sitzt nachts auf dem Ast und beobachtet die schlafende Maus.","f":[
+  {"r":"Eule","w":"Oile","o":["Eule","Oile","Euhle","Eulle"],"k":"b","tipp":"Merksatz: Die Eule schreibt man mit eu: Eu-le."},
+  {"r":"beobachtet","w":"beobachdet","o":["beobachtet","beobachdet","beopachtet","beobahtet"],"k":"b","tipp":"Merksatz: 'beobachten' hat ein t in der Mitte: be-ob-ach-ten."},
+  {"r":"schlafende","w":"schlaffende","o":["schlafende","schlaffende","schlavende","schlafände"],"k":"b","tipp":"Merksatz: 'schlafen' hat nur ein f: schla-fen."}
+]},
+{"s":1,"satz":"Der fleißige Specht hämmert mit seinem Schnabel kräftig gegen den dicken Baumstamm.","f":[
+  {"r":"Specht","w":"Schpecht","o":["Specht","Schpecht","Spechd","Spächt"],"k":"b","tipp":"Merksatz: 'Sp' spricht man 'Schp', schreibt es aber 'Sp': Specht."},
+  {"r":"hämmert","w":"hemmert","o":["hämmert","hemmert","hämmerd","hämert"],"k":"b","tipp":"Merksatz: 'hämmern' kommt von 'Hammer' – darum mit ä: häm-mern."},
+  {"r":"Schnabel","w":"Schnahbel","o":["Schnabel","Schnahbel","Schnabbel","Schnapel"],"k":"b","tipp":"Merksatz: 'Schnabel' schreibt man ohne Dehnungs-h: Schna-bel."}
+]},
+{"s":1,"satz":"Der watschelnde Pinguin rutscht fröhlich über das glatte Eis zum kalten Meer.","f":[
+  {"r":"Pinguin","w":"Pingwin","o":["Pinguin","Pingwin","Pinkuin","Pingguin"],"k":"b","tipp":"Merksatz: Der Pinguin endet auf '-guin' mit gu: Pin-gu-in."},
+  {"r":"rutscht","w":"ruscht","o":["rutscht","ruscht","rutschd","ruttscht"],"k":"b","tipp":"Merksatz: 'rutschen' schreibt man mit tsch: rut-schen."},
+  {"r":"glatte","w":"glate","o":["glatte","glate","gladte","glattä"],"k":"b","tipp":"Merksatz: Nach kurzem a steht doppel-T: glat-te."}
+]},
+{"s":1,"satz":"Der elegante Storch stakst durch die nasse Wiese und sucht nach saftigen Fröschen.","f":[
+  {"r":"Storch","w":"Schtorch","o":["Storch","Schtorch","Storsch","Storh"],"k":"b","tipp":"Merksatz: 'St' spricht man 'Scht', schreibt es aber 'St': Storch."},
+  {"r":"stakst","w":"staakst","o":["stakst","staakst","schtakst","stagst"],"k":"b","tipp":"Merksatz: 'staksen' schreibt man mit einem a: staks-en."},
+  {"r":"saftigen","w":"safdigen","o":["saftigen","safdigen","saftiegen","zaftigen"],"k":"b","tipp":"Merksatz: 'saftig' kommt von 'Saft' – mit t: saf-tig."}
+]},
+{"s":1,"satz":"Der mächtige Adler kreist hoch am Himmel und späht nach einem flinken Hasen.","f":[
+  {"r":"Adler","w":"Atler","o":["Adler","Atler","Addler","Adlär"],"k":"b","tipp":"Merksatz: Der Adler schreibt sich mit d: Ad-ler."},
+  {"r":"kreist","w":"kraist","o":["kreist","kraist","kreißt","greist"],"k":"b","tipp":"Merksatz: 'kreisen' kommt von 'Kreis' mit ei: krei-sen."},
+  {"r":"flinken","w":"flingken","o":["flinken","flingken","flincken","vlinken"],"k":"b","tipp":"Merksatz: 'flink' schreibt man mit nk: flin-ke."}
+]},
+{"s":1,"satz":"Die schwarze Amsel singt am frühen Morgen ihr schönstes Lied im Garten.","f":[
+  {"r":"Amsel","w":"Amzel","o":["Amsel","Amzel","Amsell","Ahmsel"],"k":"b","tipp":"Merksatz: Die Amsel hat ein weiches s: Am-sel."},
+  {"r":"frühen","w":"frien","o":["frühen","frien","frühän","früen"],"k":"b","tipp":"Merksatz: 'früh' schreibt man mit Dehnungs-h: frü-hen."},
+  {"r":"schönstes","w":"schönsdes","o":["schönstes","schönsdes","schönstäs","schönnstes"],"k":"b","tipp":"Merksatz: 'schönstes' kommt von 'schön' mit st: schöns-tes."}
+]},
+{"s":1,"satz":"Der bunte Papagei sitzt auf einer Schaukel und wackelt mit seinen Federn herum.","f":[
+  {"r":"Schaukel","w":"Schaukäl","o":["Schaukel","Schaukäl","Schauckel","Schaokel"],"k":"b","tipp":"Merksatz: Die Schaukel endet auf '-kel' mit e: Schau-kel."},
+  {"r":"wackelt","w":"wackält","o":["wackelt","wackält","wakkelt","wackeld"],"k":"b","tipp":"Merksatz: Nach kurzem a steht ck: wac-keln."},
+  {"r":"Federn","w":"Fädern","o":["Federn","Fädern","Federnn","Fedärn"],"k":"b","tipp":"Merksatz: 'Federn' schreibt man mit e: Fe-dern."}
+]},
+{"s":1,"satz":"Die müde Eule gähnt herzhaft und putzt danach ihr weiches Federkleid.","f":[
+  {"r":"gähnt","w":"gehnt","o":["gähnt","gehnt","gähnnt","gähnd"],"k":"b","tipp":"Merksatz: 'gähnen' schreibt man mit äh: gäh-nen."},
+  {"r":"herzhaft","w":"herzhafd","o":["herzhaft","herzhafd","herzhaaft","härzhaft"],"k":"b","tipp":"Merksatz: 'herzhaft' endet auf '-haft' mit t: herz-haft."},
+  {"r":"weiches","w":"waiches","o":["weiches","waiches","weichäs","weihches"],"k":"b","tipp":"Merksatz: 'weich' schreibt man mit ei: wei-ches."}
+]},
+{"s":1,"satz":"Der hungrige Specht klopft eifrig an die Rinde und findet einen fetten Wurm.","f":[
+  {"r":"klopft","w":"klobft","o":["klopft","klobft","gloppft","klopfd"],"k":"b","tipp":"Merksatz: 'klopfen' schreibt man mit pf: klop-fen."},
+  {"r":"eifrig","w":"aifrig","o":["eifrig","aifrig","eifrich","eifrieg"],"k":"b","tipp":"Merksatz: 'eifrig' kommt von 'Eifer' mit ei: ei-frig."},
+  {"r":"Rinde","w":"Rinte","o":["Rinde","Rinte","Rindä","Rinnde"],"k":"b","tipp":"Merksatz: 'Rinde' schreibt man mit d (Probe: die Rin-den)."}
+]},
+{"s":1,"satz":"Der stolze Storch klappert laut mit dem Schnabel auf seinem hohen Nest.","f":[
+  {"r":"stolze","w":"schtolze","o":["stolze","schtolze","stolzä","stollze"],"k":"b","tipp":"Merksatz: 'St' spricht man 'Scht', schreibt es aber 'St': stolz."},
+  {"r":"klappert","w":"klapert","o":["klappert","klapert","klapperd","klaapert"],"k":"b","tipp":"Merksatz: Beim Klappern schnattert es doppelt – doppel-P: klap-pern."},
+  {"r":"hohen","w":"hoen","o":["hohen","hoen","hohän","hohenn"],"k":"b","tipp":"Merksatz: 'hoch' wird zu 'hohen' mit Dehnungs-h: ho-hen."}
+]},
+{"s":2,"satz":"Der bunte Papagei sitzt im Käfig und ruft den ganzen Tag seinen Namen.","f":[
+  {"r":"Papagei","w":"papagei","o":["Papagei","papagei","Papagai","papagai"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Papagei'."},
+  {"r":"ruft","w":"Ruft","o":["ruft","Ruft","ruhft","Ruhft"],"k":"g","tipp":"Regel: Verben wie 'rufen' schreibt man klein."},
+  {"r":"Käfig","w":"Kefig","o":["Käfig","Kefig","Käfich","Käffig"],"k":"b","tipp":"Regel: 'Käfig' schreibt man mit ä und endet auf -ig: Kä-fig."}
+]},
+{"s":2,"satz":"Auf dem Dach sitzt die schwarze Amsel und singt ein fröhliches Lied.","f":[
+  {"r":"Dach","w":"dach","o":["Dach","dach","Dah","Dachh"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Dach'."},
+  {"r":"singt","w":"Singt","o":["singt","Singt","sinkt","Sinkt"],"k":"g","tipp":"Regel: Verben wie 'singen' schreibt man klein."},
+  {"r":"fröhliches","w":"fröliches","o":["fröhliches","fröliches","fröhligäs","fröhlichäs"],"k":"b","tipp":"Regel: 'fröhlich' schreibt man mit Dehnungs-h: fröh-lich."}
+]},
+{"s":2,"satz":"Die kluge Eule jagt in der Nacht und fängt eine kleine graue Maus.","f":[
+  {"r":"Eule","w":"eule","o":["Eule","eule","Oile","oile"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Eule'."},
+  {"r":"fängt","w":"fengt","o":["fängt","fengt","fänkt","fängd"],"k":"b","tipp":"Regel: 'fängt' kommt von 'fangen' – darum mit ä."},
+  {"r":"graue","w":"Graue","o":["graue","Graue","graoe","Graoe"],"k":"g","tipp":"Regel: Farb-Wiewörter wie 'grau' schreibt man klein."}
+]},
+{"s":2,"satz":"Der fleißige Specht hackt ein Loch in die Rinde und sucht nach Käfern.","f":[
+  {"r":"Loch","w":"loch","o":["Loch","loch","Lohch","Lochh"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Loch'."},
+  {"r":"hackt","w":"hakt","o":["hackt","hakt","hackd","haggt"],"k":"b","tipp":"Regel: Nach kurzem a steht ck: hac-ken."},
+  {"r":"sucht","w":"Sucht","o":["sucht","Sucht","suht","Suht"],"k":"g","tipp":"Regel: Verben wie 'suchen' schreibt man klein."}
+]},
+{"s":2,"satz":"Der kleine Pinguin watschelt zum Wasser und springt mutig in die kalten Wellen.","f":[
+  {"r":"Wasser","w":"wasser","o":["Wasser","wasser","Waser","waser"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Wasser'."},
+  {"r":"watschelt","w":"watschält","o":["watschelt","watschält","wadschelt","watscheld"],"k":"b","tipp":"Regel: 'watscheln' schreibt man mit tsch: wat-scheln."},
+  {"r":"mutig","w":"Mutig","o":["mutig","Mutig","muhtig","Muhtig"],"k":"g","tipp":"Regel: Wiewörter wie 'mutig' schreibt man klein."}
+]},
+{"s":2,"satz":"Auf einem Bein steht der elegante Storch ruhig im seichten Teich.","f":[
+  {"r":"Bein","w":"bein","o":["Bein","bein","Bain","bain"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Bein'."},
+  {"r":"steht","w":"Steht","o":["steht","Steht","schteht","Schteht"],"k":"g","tipp":"Regel: Verben wie 'stehen' schreibt man klein."},
+  {"r":"seichten","w":"saichten","o":["seichten","saichten","seihchten","seichtän"],"k":"b","tipp":"Regel: 'seicht' schreibt man mit ei: seich-ten."}
+]},
+{"s":2,"satz":"Hoch über den Bergen kreist der mächtige Adler nach seiner langen Reise.","f":[
+  {"r":"Adler","w":"adler","o":["Adler","adler","Atler","atler"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Adler'."},
+  {"r":"kreist","w":"Kreist","o":["kreist","Kreist","kraist","Kraist"],"k":"g","tipp":"Regel: Verben wie 'kreisen' schreibt man klein."},
+  {"r":"langen","w":"langän","o":["langen","langän","lanken","laangen"],"k":"b","tipp":"Regel: Die Endung '-en' schreibt man mit e: lan-gen."}
+]},
+{"s":2,"satz":"Der freche Spatz badet im Sand und plustert vergnügt sein graues Gefieder.","f":[
+  {"r":"Sand","w":"sand","o":["Sand","sand","Sandt","Sannd"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Sand'."},
+  {"r":"badet","w":"badät","o":["badet","badät","bahdet","baadet"],"k":"b","tipp":"Regel: 'baden' schreibt man mit d: ba-den."},
+  {"r":"graues","w":"Graues","o":["graues","Graues","graoes","Graoes"],"k":"g","tipp":"Regel: Farb-Wiewörter wie 'grau' schreibt man klein."}
+]},
+{"s":2,"satz":"Am Morgen ruft die Amsel laut und weckt die schlafenden Kinder im Haus.","f":[
+  {"r":"Morgen","w":"morgen","o":["Morgen","morgen","Morgän","Morrgen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Morgen'."},
+  {"r":"weckt","w":"weggt","o":["weckt","weggt","wekt","weckd"],"k":"b","tipp":"Regel: Nach kurzem e steht ck: wec-ken."},
+  {"r":"schlafenden","w":"Schlafenden","o":["schlafenden","Schlafenden","schlaffenden","Schlaffenden"],"k":"g","tipp":"Regel: Wiewörter wie 'schlafend' schreibt man klein."}
+]},
+{"s":2,"satz":"Der bunte Papagei breitet seine Flügel aus und fliegt durch den warmen Dschungel.","f":[
+  {"r":"Flügel","w":"flügel","o":["Flügel","flügel","Flügäl","Flühgel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Flügel'."},
+  {"r":"fliegt","w":"Fliegt","o":["fliegt","Fliegt","fligt","Fligt"],"k":"g","tipp":"Regel: Verben wie 'fliegen' schreibt man klein."},
+  {"r":"warmen","w":"wahrmen","o":["warmen","wahrmen","warmän","warrmen"],"k":"b","tipp":"Regel: 'warm' schreibt man ohne Dehnungs-h: war-men."}
+]},
+{"s":2,"satz":"Die neugierige Eule dreht ihren Kopf weit herum und blinzelt müde in die Dunkelheit.","f":[
+  {"r":"Kopf","w":"kopf","o":["Kopf","kopf","Kopff","Kobf"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Kopf'."},
+  {"r":"blinzelt","w":"blinzält","o":["blinzelt","blinzält","plinzelt","blinzeld"],"k":"b","tipp":"Regel: 'blinzeln' schreibt man mit z: blin-zeln."},
+  {"r":"müde","w":"Müde","o":["müde","Müde","mühde","Mühde"],"k":"g","tipp":"Regel: Wiewörter wie 'müde' schreibt man klein."}
+]},
+{"s":2,"satz":"Im hohen Schilf versteckt sich der Storch vor dem neugierigen Fuchs.","f":[
+  {"r":"Schilf","w":"schilf","o":["Schilf","schilf","Schilff","Schielf"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Schilf'."},
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","versteckd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
+  {"r":"neugierigen","w":"Neugierigen","o":["neugierigen","Neugierigen","neugiriegen","Neugiriegen"],"k":"g","tipp":"Regel: Wiewörter wie 'neugierig' schreibt man klein."}
+]},
+{"s":3,"satz":"Im Käfig sitzen der Papagei, der Spatz und die kleine Amsel.","f":[
+  {"r":"Papagei,","w":"Papagei","o":["Papagei,","Papagei","Papagei;","Papagei."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Käfig","w":"käfig","o":["Käfig","käfig","Kefig","kefig"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Käfig'."},
+  {"r":"sitzen","w":"sizen","o":["sitzen","sizen","sittzen","sitzän"],"k":"b","tipp":"Regel: Nach kurzem i steht tz: sit-zen."}
+]},
+{"s":3,"satz":"Die Eule jagt nachts, weil sie im Dunkeln besonders gut sehen kann.","f":[
+  {"r":"nachts,","w":"nachts","o":["nachts,","nachts","nachts;","nachts."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Eule","w":"eule","o":["Eule","eule","Oile","oile"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Eule'."},
+  {"r":"sehen","w":"seen","o":["sehen","seen","sehän","sehenn"],"k":"b","tipp":"Regel: 'sehen' schreibt man mit Dehnungs-h: se-hen."}
+]},
+{"s":3,"satz":"Der Specht weiß, dass im morschen Stamm viele saftige Larven stecken.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"morschen","w":"morrschen","o":["morschen","morrschen","morschän","morchen"],"k":"b","tipp":"Regel: 'morsch' schreibt man mit einem r: mor-schen."},
+  {"r":"saftige","w":"Saftige","o":["saftige","Saftige","saftieg","Saftieg"],"k":"g","tipp":"Regel: Wiewörter wie 'saftig' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Adler ist sehr schnell, aber der kleine Spatz ist viel wendiger als er.","f":[
+  {"r":"schnell,","w":"schnell","o":["schnell,","schnell","schnell;","schnell."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"Adler","w":"adler","o":["Adler","adler","Atler","atler"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Adler'."},
+  {"r":"wendiger","w":"wändiger","o":["wendiger","wändiger","wendieger","wendigär"],"k":"b","tipp":"Regel: 'wendig' schreibt man mit e: wen-dig."}
+]},
+{"s":3,"satz":"Der Storch, der jeden Sommer wiederkommt, baut sein Nest auf dem Dach.","f":[
+  {"r":"Storch,","w":"Storch","o":["Storch,","Storch","Storch;","Storch."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'der' wird mit Kommas eingeschlossen."},
+  {"r":"Sommer","w":"Somer","o":["Sommer","Somer","Sommär","Sohmmer"],"k":"b","tipp":"Regel: 'Sommer' schreibt man mit doppel-M: Som-mer."},
+  {"r":"sein","w":"Sein","o":["sein","Sein","zein","Zein"],"k":"g","tipp":"Regel: Begleiter wie 'sein' schreibt man klein."}
+]},
+{"s":3,"satz":"Wenn der Morgen graut, beginnt die Amsel mit ihrem schönen Gesang.","f":[
+  {"r":"graut,","w":"graut","o":["graut,","graut","graut;","graut."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma."},
+  {"r":"beginnt","w":"begint","o":["beginnt","begint","peginnt","beginnnt"],"k":"b","tipp":"Regel: 'beginnen' schreibt man mit doppel-N: be-gin-nen."},
+  {"r":"schönen","w":"Schönen","o":["schönen","Schönen","schönän","Schönän"],"k":"g","tipp":"Regel: Wiewörter wie 'schön' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Pinguin springt ins Wasser, damit er den schnellen Fischen folgen kann.","f":[
+  {"r":"Wasser,","w":"Wasser","o":["Wasser,","Wasser","Wasser;","Wasser."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Pinguin","w":"pinguin","o":["Pinguin","pinguin","Pingwin","pingwin"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Pinguin'."},
+  {"r":"schnellen","w":"schnälen","o":["schnellen","schnälen","schnellän","schnelen"],"k":"b","tipp":"Regel: 'schnell' schreibt man mit doppel-L: schnel-len."}
+]},
+{"s":3,"satz":"Im Park leben der Spatz, die Amsel und viele andere muntere Vögel.","f":[
+  {"r":"Spatz,","w":"Spatz","o":["Spatz,","Spatz","Spatz;","Spatz."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Park","w":"park","o":["Park","park","Pak","Parck"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Park'."},
+  {"r":"muntere","w":"munterre","o":["muntere","munterre","muntäre","mundere"],"k":"b","tipp":"Regel: 'munter' schreibt man mit einem r: mun-te-re."}
+]},
+{"s":3,"satz":"Die Eule fliegt geräuschlos los, bevor die Maus ihre Gefahr bemerkt.","f":[
+  {"r":"los,","w":"los","o":["los,","los","los;","los."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bevor' steht ein Komma."},
+  {"r":"geräuschlos","w":"gereuschlos","o":["geräuschlos","gereuschlos","geräuchlos","geräuschloß"],"k":"b","tipp":"Regel: 'Geräusch' schreibt man mit äu: ge-räusch-los."},
+  {"r":"Maus","w":"maus","o":["Maus","maus","Maos","Mauß"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Maus'."}
+]},
+{"s":3,"satz":"Der Papagei plappert weiter, obwohl alle Kinder schon längst eingeschlafen sind.","f":[
+  {"r":"weiter,","w":"weiter","o":["weiter,","weiter","weiter;","weiter."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Papagei","w":"papagei","o":["Papagei","papagei","Papagai","papagai"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Papagei'."},
+  {"r":"plappert","w":"plapert","o":["plappert","plapert","blappert","plapperd"],"k":"b","tipp":"Regel: Beim Plappern redet der Schnabel doppelt – doppel-P: plap-pern."}
+]},
+{"s":3,"satz":"Der Storch klappert mit dem Schnabel, wenn er seine Storchenfrau begrüßt.","f":[
+  {"r":"Schnabel,","w":"Schnabel","o":["Schnabel,","Schnabel","Schnabel;","Schnabel."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"klappert","w":"klapert","o":["klappert","klapert","klapperd","klaapert"],"k":"b","tipp":"Regel: Beim Klappern schnattert es doppelt – doppel-P: klap-pern."},
+  {"r":"seine","w":"Seine","o":["seine","Seine","zeine","Zeine"],"k":"g","tipp":"Regel: Begleiter wie 'seine' schreibt man klein."}
+]},
+{"s":3,"satz":"Der kleine Pinguin rutscht über das Eis, als der laute Sturm aufzieht.","f":[
+  {"r":"Eis,","w":"Eis","o":["Eis,","Eis","Eis;","Eis."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'als' steht ein Komma."},
+  {"r":"laute","w":"Laute","o":["laute","Laute","laoute","Laoute"],"k":"g","tipp":"Regel: Wiewörter wie 'laut' schreibt man klein."},
+  {"r":"Sturm","w":"Schturm","o":["Sturm","Schturm","Sturmm","Sdurm"],"k":"b","tipp":"Regel: 'St' spricht man 'Scht', schreibt es aber 'St': Sturm."}
+]}
+]

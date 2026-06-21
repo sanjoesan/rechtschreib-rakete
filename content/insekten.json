@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der kleine Marienkäfer krabbelt mit sieben Punkten über das grüne Blatt.","f":[
+  {"r":"Marienkäfer","w":"Marienkefer","o":["Marienkäfer","Marienkefer","Marinkäfer","Marienkäffer"],"k":"b","tipp":"Merksatz: Der Käfer kommt von 'Kaffer'? Nein – von 'Kafer', darum mit ä: Marien-kä-fer."},
+  {"r":"krabbelt","w":"krabelt","o":["krabbelt","krabelt","krappelt","krabbeld"],"k":"b","tipp":"Merksatz: Beim Krabbeln zappeln die Beinchen doppelt – darum doppel-B: krab-beln."},
+  {"r":"sieben","w":"siben","o":["sieben","siben","siehben","siebän"],"k":"b","tipp":"Merksatz: Die Zahl 'sieben' hört man lang – mit ie: sie-ben."}
+]},
+{"s":1,"satz":"Ein bunter Schmetterling flattert über die Wiese und sucht süßen Nektar.","f":[
+  {"r":"Schmetterling","w":"Schmeterling","o":["Schmetterling","Schmeterling","Schmetterlink","Schmädderling"],"k":"b","tipp":"Merksatz: Der Schmetterling hat doppel-T in der Mitte: Schmet-ter-ling."},
+  {"r":"flattert","w":"flatert","o":["flattert","flatert","fladdert","flatterd"],"k":"b","tipp":"Merksatz: Beim Flattern schlagen die Flügel doppelt – darum doppel-T: flat-tern."},
+  {"r":"süßen","w":"süssen","o":["süßen","süssen","süähen","süsen"],"k":"b","tipp":"Merksatz: Nach langem ü steht ein ß: sü-ßen."}
+]},
+{"s":1,"satz":"Die fleißige Biene sammelt am Morgen Honig in der bunten Blumenwiese.","f":[
+  {"r":"fleißige","w":"fleisige","o":["fleißige","fleisige","fleißieg","fleißiege"],"k":"b","tipp":"Merksatz: 'fleißig' schreibt man mit ß nach dem ei: flei-ßig."},
+  {"r":"Biene","w":"Bine","o":["Biene","Bine","Biehne","Bienne"],"k":"b","tipp":"Merksatz: Die Biene summt lang 'ie' – Bie-ne."},
+  {"r":"Honig","w":"Honich","o":["Honig","Honich","Hohnig","Honnig"],"k":"b","tipp":"Merksatz: 'Honig' schreibt man am Ende mit g (Probe: viele Ho-ni-ge)."}
+]},
+{"s":1,"satz":"Die kleine Ameise schleppt ein riesiges Blatt zu ihrem großen Bau.","f":[
+  {"r":"Ameise","w":"Ameihse","o":["Ameise","Ameihse","Ammeise","Ameisse"],"k":"b","tipp":"Merksatz: Die Ameise hat ein weiches s in der Mitte: A-mei-se."},
+  {"r":"schleppt","w":"schlebt","o":["schleppt","schlebt","schlept","schläppt"],"k":"b","tipp":"Merksatz: Beim Schleppen müht man sich doppelt ab – doppel-P: schlep-pen."},
+  {"r":"riesiges","w":"risiges","o":["riesiges","risiges","riesieges","riessiges"],"k":"b","tipp":"Merksatz: 'riesig' schreibt man mit ie (langes i): rie-sig."}
+]},
+{"s":1,"satz":"Die schillernde Libelle flitzt blitzschnell über den glitzernden Teich.","f":[
+  {"r":"Libelle","w":"Libele","o":["Libelle","Libele","Libellä","Liebelle"],"k":"b","tipp":"Merksatz: Die Libelle hat doppel-L wie eine kleine 'Belle': Li-bel-le."},
+  {"r":"blitzschnell","w":"blizschnell","o":["blitzschnell","blizschnell","blitschnell","blitzschnel"],"k":"b","tipp":"Merksatz: 'Blitz' schreibt man mit tz nach kurzem i: Blitz-schnell."},
+  {"r":"glitzernden","w":"glizernden","o":["glitzernden","glizernden","glitzärnden","gliddernden"],"k":"b","tipp":"Merksatz: Etwas 'glitzert' mit tz – wie der 'Blitz'."}
+]},
+{"s":1,"satz":"Ein grüner Grashüpfer springt mit seinen langen Beinen über die Halme.","f":[
+  {"r":"Grashüpfer","w":"Grashupfer","o":["Grashüpfer","Grashupfer","Grashüppfer","Grasshüpfer"],"k":"b","tipp":"Merksatz: Der Grashüpfer 'hüpft' mit ü – Gras-hüp-fer."},
+  {"r":"springt","w":"sprinkt","o":["springt","sprinkt","schpringt","springd"],"k":"b","tipp":"Merksatz: 'springen' schreibt man mit ng: sprin-gen."},
+  {"r":"langen","w":"langän","o":["langen","langän","lanken","laangen"],"k":"b","tipp":"Merksatz: Die Endung '-en' schreibt man mit e: lan-gen."}
+]},
+{"s":1,"satz":"Die geduldige Spinne webt ein kunstvolles Netz zwischen zwei Ästen.","f":[
+  {"r":"Spinne","w":"Spine","o":["Spinne","Spine","Schpinne","Spinnä"],"k":"b","tipp":"Merksatz: Die Spinne hat doppel-N in der Mitte: Spin-ne."},
+  {"r":"kunstvolles","w":"kunstfolles","o":["kunstvolles","kunstfolles","kunstvoles","kunsdvolles"],"k":"b","tipp":"Merksatz: In 'kunstvoll' steckt 'voll' mit v: kunst-voll."},
+  {"r":"zwischen","w":"zwieschen","o":["zwischen","zwieschen","zwischän","zwischenn"],"k":"b","tipp":"Merksatz: 'zwischen' schreibt man mit kurzem i ohne e: zwi-schen."}
+]},
+{"s":1,"satz":"Am Abend krabbelt der müde Marienkäfer langsam unter ein warmes Blatt.","f":[
+  {"r":"müde","w":"mühde","o":["müde","mühde","müede","müdä"],"k":"b","tipp":"Merksatz: 'müde' schreibt man ohne Dehnungs-h: mü-de."},
+  {"r":"langsam","w":"langsahm","o":["langsam","langsahm","langzam","lannsam"],"k":"b","tipp":"Merksatz: 'langsam' schreibt man ohne Dehnungs-h: lang-sam."},
+  {"r":"warmes","w":"wahrmes","o":["warmes","wahrmes","warmäs","warrmes"],"k":"b","tipp":"Merksatz: 'warm' schreibt man ohne Dehnungs-h: war-mes."}
+]},
+{"s":1,"satz":"Die Biene tanzt vor dem Bienenstock und zeigt den Weg zur Blume.","f":[
+  {"r":"tanzt","w":"tanst","o":["tanzt","tanst","danzt","tanzd"],"k":"b","tipp":"Merksatz: 'tanzen' schreibt man mit z: tan-zen."},
+  {"r":"Bienenstock","w":"Binenstock","o":["Bienenstock","Binenstock","Bienenstok","Biehnenstock"],"k":"b","tipp":"Merksatz: Im Bienenstock summen die 'Bienen' mit ie: Bie-nen-stock."},
+  {"r":"Weg","w":"Wech","o":["Weg","Wech","Wäg","Wegg"],"k":"b","tipp":"Merksatz: 'Weg' schreibt man am Ende mit g (Probe: die We-ge)."}
+]},
+{"s":1,"satz":"Der Schmetterling ruht auf einer Blüte und schließt seine zarten Flügel.","f":[
+  {"r":"Blüte","w":"Blühte","o":["Blüte","Blühte","Blütä","Blütte"],"k":"b","tipp":"Merksatz: 'Blüte' schreibt man ohne Dehnungs-h: Blü-te."},
+  {"r":"schließt","w":"schliest","o":["schließt","schliest","schliesst","schließd"],"k":"b","tipp":"Merksatz: Nach langem ie steht ein ß: schlie-ßen."},
+  {"r":"zarten","w":"zahrten","o":["zarten","zahrten","zardten","zarrten"],"k":"b","tipp":"Merksatz: 'zart' schreibt man ohne Dehnungs-h: zar-te."}
+]},
+{"s":1,"satz":"Die emsige Ameise wandert über den Waldboden zu einem leckeren Krümel.","f":[
+  {"r":"emsige","w":"emzige","o":["emsige","emzige","emsiege","ämsige"],"k":"b","tipp":"Merksatz: 'emsig' schreibt man mit weichem s: em-sig."},
+  {"r":"Waldboden","w":"Waltboden","o":["Waldboden","Waltboden","Waldbohden","Walldboden"],"k":"b","tipp":"Merksatz: Der Wald endet auf d (Probe: die Wäl-der): Wald-boden."},
+  {"r":"leckeren","w":"leggeren","o":["leckeren","leggeren","lekkeren","leckähren"],"k":"b","tipp":"Merksatz: Nach kurzem e steht ck: lec-ker."}
+]},
+{"s":1,"satz":"Eine flinke Libelle jagt geschickt nach winzigen Mücken am Ufer.","f":[
+  {"r":"flinke","w":"flinge","o":["flinke","flinge","flincke","vlinke"],"k":"b","tipp":"Merksatz: 'flink' schreibt man mit nk: flin-ke."},
+  {"r":"geschickt","w":"geschiggt","o":["geschickt","geschiggt","geschikt","geschickd"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: ge-schickt."},
+  {"r":"winzigen","w":"winziegen","o":["winzigen","winziegen","wintzigen","winnzigen"],"k":"b","tipp":"Merksatz: 'winzig' schreibt man mit z und i: win-zig."}
+]},
+{"s":2,"satz":"Der bunte Schmetterling sitzt ganz still auf einer duftenden Blume.","f":[
+  {"r":"Schmetterling","w":"schmetterling","o":["Schmetterling","schmetterling","Schmeterling","schmeterling"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Schmetterling'."},
+  {"r":"sitzt","w":"Sitzt","o":["sitzt","Sitzt","sizt","Sizt"],"k":"g","tipp":"Regel: Verben wie 'sitzen' schreibt man klein."},
+  {"r":"duftenden","w":"duftänden","o":["duftenden","duftänden","dufdenden","duftendän"],"k":"b","tipp":"Regel: Die Endung '-enden' schreibt man mit e: duf-ten-den."}
+]},
+{"s":2,"satz":"Die fleißige Biene fliegt von Blume zu Blume und sammelt klebrigen Honig.","f":[
+  {"r":"Biene","w":"biene","o":["Biene","biene","Bine","bine"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Biene'."},
+  {"r":"fliegt","w":"Fliegt","o":["fliegt","Fliegt","fligt","Fligt"],"k":"g","tipp":"Regel: Verben wie 'fliegen' schreibt man klein."},
+  {"r":"klebrigen","w":"klebriegen","o":["klebrigen","klebriegen","kläbrigen","kleprigen"],"k":"b","tipp":"Regel: 'klebrig' kommt von 'kleben' und wird mit b geschrieben."}
+]},
+{"s":2,"satz":"Auf dem grünen Blatt krabbelt ein roter Marienkäfer mit schwarzen Pünktchen.","f":[
+  {"r":"Blatt","w":"blatt","o":["Blatt","blatt","Blat","blat"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Blatt'."},
+  {"r":"roter","w":"Roter","o":["roter","Roter","rohter","Rohter"],"k":"g","tipp":"Regel: Farb-Wiewörter wie 'rot' schreibt man klein."},
+  {"r":"Marienkäfer","w":"Marienkefer","o":["Marienkäfer","Marienkefer","Marinkäfer","Marienkäffer"],"k":"b","tipp":"Regel: Der Käfer kommt von 'Kafer' – darum mit ä: Marien-kä-fer."}
+]},
+{"s":2,"satz":"Die Spinne webt ihr Netz und wartet geduldig auf eine fette Fliege.","f":[
+  {"r":"Spinne","w":"spinne","o":["Spinne","spinne","Spine","spine"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Spinne'."},
+  {"r":"wartet","w":"Wartet","o":["wartet","Wartet","wardet","Wardet"],"k":"g","tipp":"Regel: Verben wie 'warten' schreibt man klein."},
+  {"r":"geduldig","w":"geduldich","o":["geduldig","geduldich","gedulldig","gäduldig"],"k":"b","tipp":"Regel: 'geduldig' endet auf -ig mit g (Probe: gedul-di-ge)."}
+]},
+{"s":2,"satz":"Im hohen Gras versteckt sich der grüne Grashüpfer vor dem hungrigen Vogel.","f":[
+  {"r":"Gras","w":"gras","o":["Gras","gras","Grahs","grahs"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Gras'."},
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","versteckd","verstekt"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
+  {"r":"hungrigen","w":"Hungrigen","o":["hungrigen","Hungrigen","hungriegen","Hungriegen"],"k":"g","tipp":"Regel: Wiewörter wie 'hungrig' schreibt man klein."}
+]},
+{"s":2,"satz":"Die schnelle Libelle glänzt im Sonnenlicht und schwirrt über das Wasser.","f":[
+  {"r":"Sonnenlicht","w":"sonnenlicht","o":["Sonnenlicht","sonnenlicht","Sonenlicht","sonenlicht"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Sonnenlicht'."},
+  {"r":"glänzt","w":"glenzt","o":["glänzt","glenzt","glänst","glänzd"],"k":"b","tipp":"Regel: 'glänzen' kommt von 'Glanz' – darum mit ä."},
+  {"r":"schwirrt","w":"Schwirrt","o":["schwirrt","Schwirrt","schwirt","Schwirt"],"k":"g","tipp":"Regel: Verben wie 'schwirren' schreibt man klein."}
+]},
+{"s":2,"satz":"Die kleine Ameise trägt eine Brotkrume über den warmen Gartenweg.","f":[
+  {"r":"Ameise","w":"ameise","o":["Ameise","ameise","Ameihse","ameihse"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Ameise'."},
+  {"r":"trägt","w":"tregt","o":["trägt","tregt","trächt","tregd"],"k":"b","tipp":"Regel: 'trägt' kommt von 'tragen' – darum mit ä."},
+  {"r":"warmen","w":"Warmen","o":["warmen","Warmen","wahrmen","Wahrmen"],"k":"g","tipp":"Regel: Wiewörter wie 'warm' schreibt man klein."}
+]},
+{"s":2,"satz":"Der Marienkäfer breitet seine Flügel aus und fliegt in den blauen Himmel.","f":[
+  {"r":"Flügel","w":"flügel","o":["Flügel","flügel","Flügäl","Flühgel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Flügel'."},
+  {"r":"breitet","w":"breidet","o":["breitet","breidet","breihtet","breität"],"k":"b","tipp":"Regel: 'breiten' schreibt man mit t in der Mitte: brei-ten."},
+  {"r":"blauen","w":"Blauen","o":["blauen","Blauen","blaoen","Blaoen"],"k":"g","tipp":"Regel: Farb-Wiewörter wie 'blau' schreibt man klein."}
+]},
+{"s":2,"satz":"Eine dicke Hummel brummt laut und landet auf der gelben Sonnenblume.","f":[
+  {"r":"Hummel","w":"hummel","o":["Hummel","hummel","Humel","humel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Hummel'."},
+  {"r":"brummt","w":"brumt","o":["brummt","brumt","prummt","brummd"],"k":"b","tipp":"Regel: Beim Brummen tönt es doppelt – doppel-M: brum-men."},
+  {"r":"gelben","w":"Gelben","o":["gelben","Gelben","gälben","Gälben"],"k":"g","tipp":"Regel: Farb-Wiewörter wie 'gelb' schreibt man klein."}
+]},
+{"s":2,"satz":"Die Spinne lässt sich an einem dünnen Faden vom Baum herunter.","f":[
+  {"r":"Faden","w":"faden","o":["Faden","faden","Fahden","fahden"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Faden'."},
+  {"r":"dünnen","w":"dünen","o":["dünnen","dünen","dühnen","dünnän"],"k":"b","tipp":"Regel: 'dünn' schreibt man mit doppel-N: dün-ne."},
+  {"r":"lässt","w":"Lässt","o":["lässt","Lässt","läst","Läst"],"k":"g","tipp":"Regel: Verben wie 'lassen' schreibt man klein."}
+]},
+{"s":2,"satz":"Der Schmetterling trinkt mit seinem Rüssel den süßen Saft der Blüte.","f":[
+  {"r":"Rüssel","w":"rüssel","o":["Rüssel","rüssel","Rüsel","rüsel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Rüssel'."},
+  {"r":"süßen","w":"süssen","o":["süßen","süssen","süähen","süsen"],"k":"b","tipp":"Regel: Nach langem ü steht ein ß: sü-ßen."},
+  {"r":"trinkt","w":"Trinkt","o":["trinkt","Trinkt","trinckt","Trinckt"],"k":"g","tipp":"Regel: Verben wie 'trinken' schreibt man klein."}
+]},
+{"s":2,"satz":"Auf der Wiese summt die Biene fröhlich um die roten Mohnblumen.","f":[
+  {"r":"Wiese","w":"wiese","o":["Wiese","wiese","Wise","wise"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Wiese'."},
+  {"r":"fröhlich","w":"frölich","o":["fröhlich","frölich","fröhlig","fröhlih"],"k":"b","tipp":"Regel: 'fröhlich' schreibt man mit Dehnungs-h: fröh-lich."},
+  {"r":"roten","w":"Roten","o":["roten","Roten","rohten","Rohten"],"k":"g","tipp":"Regel: Farb-Wiewörter wie 'rot' schreibt man klein."}
+]},
+{"s":3,"satz":"Auf der Blume sitzen die Biene, der Schmetterling und der Marienkäfer.","f":[
+  {"r":"Biene,","w":"Biene","o":["Biene,","Biene","Biene;","Biene."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Schmetterling","w":"schmetterling","o":["Schmetterling","schmetterling","Schmeterling","schmeterling"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Schmetterling'."},
+  {"r":"sitzen","w":"sizen","o":["sitzen","sizen","sittzen","sitzän"],"k":"b","tipp":"Regel: Nach kurzem i steht tz: sit-zen."}
+]},
+{"s":3,"satz":"Die Ameise schleppt das Blatt, weil sie es zu ihrem Bau bringen will.","f":[
+  {"r":"Blatt,","w":"Blatt","o":["Blatt,","Blatt","Blatt;","Blatt."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Ameise","w":"ameise","o":["Ameise","ameise","Ameihse","ameihse"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Ameise'."},
+  {"r":"schleppt","w":"schlebt","o":["schleppt","schlebt","schlept","schläppt"],"k":"b","tipp":"Regel: Beim Schleppen müht man sich doppelt ab – doppel-P: schlep-pen."}
+]},
+{"s":3,"satz":"Der Marienkäfer weiß, dass die Blattläuse ihm besonders gut schmecken werden.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Blattläuse","w":"Blattleuse","o":["Blattläuse","Blattleuse","Blatläuse","Blattläusä"],"k":"b","tipp":"Regel: 'Läuse' kommt von 'Laus' – darum mit äu: Blatt-läu-se."},
+  {"r":"schmecken","w":"Schmecken","o":["schmecken","Schmecken","schmeken","Schmeken"],"k":"g","tipp":"Regel: Verben wie 'schmecken' schreibt man klein."}
+]},
+{"s":3,"satz":"Die Libelle ist sehr schnell, aber die kleine Mücke entkommt ihr trotzdem.","f":[
+  {"r":"schnell,","w":"schnell","o":["schnell,","schnell","schnell;","schnell."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"Libelle","w":"libelle","o":["Libelle","libelle","Libele","libele"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Libelle'."},
+  {"r":"entkommt","w":"entkomt","o":["entkommt","entkomt","entgommt","endkommt"],"k":"b","tipp":"Regel: 'kommen' schreibt man mit doppel-M: ent-kom-men."}
+]},
+{"s":3,"satz":"Die Spinne, die im hohen Gras wohnt, fängt jeden Tag viele Fliegen.","f":[
+  {"r":"Spinne,","w":"Spinne","o":["Spinne,","Spinne","Spinne;","Spinne."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'die' wird mit Kommas eingeschlossen."},
+  {"r":"hohen","w":"hohän","o":["hohen","hohän","hoen","hohenn"],"k":"b","tipp":"Regel: 'hoch' wird zu 'hohen' mit Dehnungs-h: ho-hen."},
+  {"r":"viele","w":"Viele","o":["viele","Viele","fiele","Fiele"],"k":"g","tipp":"Regel: Mengen-Wiewörter wie 'viele' schreibt man klein."}
+]},
+{"s":3,"satz":"Wenn die Sonne scheint, tanzen die Schmetterlinge über der bunten Wiese.","f":[
+  {"r":"scheint,","w":"scheint","o":["scheint,","scheint","scheint;","scheint."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma."},
+  {"r":"tanzen","w":"Tanzen","o":["tanzen","Tanzen","tanssen","Tanssen"],"k":"g","tipp":"Regel: Verben wie 'tanzen' schreibt man klein."},
+  {"r":"bunten","w":"bundten","o":["bunten","bundten","bunden","buntän"],"k":"b","tipp":"Regel: 'bunt' schreibt man mit t am Ende (Probe: die bun-ten Farben)."}
+]},
+{"s":3,"satz":"Der Grashüpfer hüpft hoch, damit er dem hungrigen Frosch entwischt.","f":[
+  {"r":"hoch,","w":"hoch","o":["hoch,","hoch","hoch;","hoch."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Grashüpfer","w":"grashüpfer","o":["Grashüpfer","grashüpfer","Grashupfer","grashupfer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Grashüpfer'."},
+  {"r":"hungrigen","w":"hungriegen","o":["hungrigen","hungriegen","hunkrigen","hungrigän"],"k":"b","tipp":"Regel: 'hungrig' kommt von 'Hunger' – mit u und g."}
+]},
+{"s":3,"satz":"Die Biene fliegt zurück, weil sie genug Nektar gesammelt hat.","f":[
+  {"r":"zurück,","w":"zurück","o":["zurück,","zurück","zurück;","zurück."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Biene","w":"biene","o":["Biene","biene","Bine","bine"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Biene'."},
+  {"r":"gesammelt","w":"gesamelt","o":["gesammelt","gesamelt","gezammelt","gesammält"],"k":"b","tipp":"Regel: 'sammeln' schreibt man mit doppel-M: ge-sam-melt."}
+]},
+{"s":3,"satz":"Im Garten leben die Käfer, die Spinnen und viele andere kleine Krabbler.","f":[
+  {"r":"Käfer,","w":"Käfer","o":["Käfer,","Käfer","Käfer;","Käfer."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Garten","w":"garten","o":["Garten","garten","Garden","gardten"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Garten'."},
+  {"r":"kleine","w":"Kleine","o":["kleine","Kleine","gleine","Gleine"],"k":"g","tipp":"Regel: Wiewörter wie 'klein' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Schmetterling versteckt sich, wenn der Regen auf die Blätter prasselt.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","versteckd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
+  {"r":"Regen","w":"regen","o":["Regen","regen","Rägen","rägen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Regen'."}
+]},
+{"s":3,"satz":"Die Ameise und der Käfer treffen sich, obwohl es kräftig zu regnen beginnt.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Käfer","w":"käfer","o":["Käfer","käfer","Kefer","kefer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Käfer'."},
+  {"r":"kräftig","w":"kreftig","o":["kräftig","kreftig","kräftich","kräfdig"],"k":"b","tipp":"Regel: 'kräftig' kommt von 'Kraft' – darum mit ä."}
+]},
+{"s":3,"satz":"Der Marienkäfer landet sanft, bevor er nach den kleinen Blattläusen sucht und schmaust.","f":[
+  {"r":"sanft,","w":"sanft","o":["sanft,","sanft","sanft;","sanft."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bevor' steht ein Komma."},
+  {"r":"Marienkäfer","w":"marienkäfer","o":["Marienkäfer","marienkäfer","Marienkefer","marienkefer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Marienkäfer'."},
+  {"r":"sucht","w":"sukt","o":["sucht","sukt","suchd","suhcht"],"k":"b","tipp":"Regel: 'suchen' schreibt man mit ch: su-chen."}
+]}
+]

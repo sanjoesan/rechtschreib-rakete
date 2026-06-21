@@ -1,0 +1,182 @@
+[
+ {"s":1,"satz":"Der rote Mars sieht aus wie eine riesige staubige Murmel im All.","f":[
+  {"r":"riesige","w":"risige","o":["riesige","risige","riesiege","riessige"],"k":"b","tipp":"Merksatz: 'riesig' schreibt man mit ie, weil das i lang klingt."},
+  {"r":"staubige","w":"schtaubige","o":["staubige","schtaubige","stauubige","staubieche"],"k":"b","tipp":"Merksatz: 'staubig' beginnt mit st, auch wenn es wie scht klingt."},
+  {"r":"Murmel","w":"Mormel","o":["Murmel","Mormel","Murmmel","Muurmel"],"k":"b","tipp":"Merksatz: In 'Murmel' rollt das u wie die Kugel selbst."}
+ ]},
+ {"s":1,"satz":"Der riesige Jupiter dreht sich blitzschnell um seine eigene Achse herum.","f":[
+  {"r":"blitzschnell","w":"blitschnell","o":["blitzschnell","blitschnell","blitzsnell","blizschnell"],"k":"b","tipp":"Merksatz: Nach kurzem Vokal steht tz: Bli-tz-schnell."},
+  {"r":"eigene","w":"eigne","o":["eigene","eigne","aigene","eieggene"],"k":"b","tipp":"Merksatz: 'eigene' schreibt man mit ei wie in 'Ei'."},
+  {"r":"Achse","w":"Akse","o":["Achse","Akse","Achße","Achsse"],"k":"b","tipp":"Merksatz: In 'Achse' steht chs, wie in 'Fuchs'."}
+ ]},
+ {"s":1,"satz":"Der Saturn trägt viele funkelnde Ringe um seinen Bauch.","f":[
+  {"r":"trägt","w":"trecht","o":["trägt","trecht","trägd","träkt"],"k":"b","tipp":"Merksatz: 'trägt' kommt von 'tragen', darum mit ä."},
+  {"r":"funkelnde","w":"funkelende","o":["funkelnde","funkelende","funckelnde","funkkelnde"],"k":"b","tipp":"Merksatz: 'funkeln' hat ein k wie in 'Funke'."},
+  {"r":"Ringe","w":"Rinche","o":["Ringe","Rinche","Riinge","Rringe"],"k":"b","tipp":"Merksatz: 'Ringe' endet auf nge, nicht auf nche."}
+ ]},
+ {"s":1,"satz":"Die helle Sonne wärmt ein bisschen sogar die fernsten Planeten.","f":[
+  {"r":"Sonne","w":"Sone","o":["Sonne","Sone","Sonnne","Soonne"],"k":"b","tipp":"Merksatz: Die 'Sonne' scheint mit doppel-n."},
+  {"r":"wärmt","w":"wermt","o":["wärmt","wermt","währmt","wäärmt"],"k":"b","tipp":"Merksatz: 'wärmt' kommt von 'warm', darum mit ä."},
+  {"r":"bisschen","w":"bischen","o":["bisschen","bischen","biszchen","bissschen"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ss: bi-ss-chen."}
+ ]},
+ {"s":1,"satz":"Der silberne Mond malt sein Licht auf das ruhige Meer.","f":[
+  {"r":"silberne","w":"silbärne","o":["silberne","silbärne","silbene","sillberne"],"k":"b","tipp":"Merksatz: 'silbern' kommt von 'Silber' mit normalem e."},
+  {"r":"Licht","w":"Liecht","o":["Licht","Liecht","Lischt","Lichd"],"k":"b","tipp":"Merksatz: 'Licht' hat ein kurzes i, also kein ie."},
+  {"r":"ruhige","w":"ruige","o":["ruhige","ruige","ruhiege","ruhigge"],"k":"b","tipp":"Merksatz: 'ruhig' hat ein Dehnungs-h: ru-h-ig."}
+ ]},
+ {"s":1,"satz":"Tausend kleine Sterne tanzen am dunklen Nachthimmel herum.","f":[
+  {"r":"Tausend","w":"Tausänd","o":["Tausend","Tausänd","Tauusend","Tausennd"],"k":"b","tipp":"Merksatz: 'Tausend' endet auf send, nicht sänd."},
+  {"r":"tanzen","w":"tanssen","o":["tanzen","tanssen","tanzzen","tantzen"],"k":"b","tipp":"Merksatz: 'tanzen' schreibt man mit z, nicht mit ss."},
+  {"r":"Nachthimmel","w":"Nachthimel","o":["Nachthimmel","Nachthimel","Nachdhimmel","Nachthimmmel"],"k":"b","tipp":"Merksatz: 'Himmel' braucht doppel-m: Him-mel."}
+ ]},
+ {"s":1,"satz":"Ein leuchtender Komet rast mit seinem langen Schweif vorbei.","f":[
+  {"r":"leuchtender","w":"leuchdender","o":["leuchtender","leuchdender","leichtender","leuchtänder"],"k":"b","tipp":"Merksatz: 'leuchten' schreibt man mit cht wie in 'Nacht'."},
+  {"r":"langen","w":"lanchen","o":["langen","lanchen","langgen","laangen"],"k":"b","tipp":"Merksatz: 'langen' hat ng, nicht nch."},
+  {"r":"Schweif","w":"Schwaif","o":["Schweif","Schwaif","Schweiff","Schwoif"],"k":"b","tipp":"Merksatz: 'Schweif' reimt sich auf 'reif' und hat ei."}
+ ]},
+ {"s":1,"satz":"Die kleine Rakete fliegt gemütlich zwischen den Sternen umher.","f":[
+  {"r":"Rakete","w":"Rackete","o":["Rakete","Rackete","Raketee","Rakeete"],"k":"b","tipp":"Merksatz: 'Rakete' hat nur ein k, kein ck."},
+  {"r":"fliegt","w":"fligt","o":["fliegt","fligt","fliechd","flieggt"],"k":"b","tipp":"Merksatz: 'fliegt' kommt von 'fliegen' mit ie."},
+  {"r":"gemütlich","w":"gemütlig","o":["gemütlich","gemütlig","gemüthlich","gemütliech"],"k":"b","tipp":"Merksatz: 'gemütlich' endet auf lich wie 'fröhlich'."}
+ ]},
+ {"s":1,"satz":"Der freche Mond versteckt sich hinter einer dicken Wolke am Himmel.","f":[
+  {"r":"versteckt","w":"ferssteckt","o":["versteckt","ferssteckt","versteckd","verschteckt"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v wie in 'verstecken'."},
+  {"r":"dicken","w":"dikken","o":["dicken","dikken","dickcken","diccken"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: di-ck-en."},
+  {"r":"Wolke","w":"Wollke","o":["Wolke","Wollke","Wolcke","Woolke"],"k":"b","tipp":"Merksatz: 'Wolke' hat nur ein l."}
+ ]},
+ {"s":1,"satz":"Auf dem Saturn pfeift ein eisiger Wind über die Ringe.","f":[
+  {"r":"pfeift","w":"feift","o":["pfeift","feift","pfaift","pfeifd"],"k":"b","tipp":"Merksatz: 'pfeifen' beginnt mit pf wie 'Pferd'."},
+  {"r":"eisiger","w":"aisiger","o":["eisiger","aisiger","eissiger","eisieger"],"k":"b","tipp":"Merksatz: 'eisig' kommt von 'Eis' mit ei."},
+  {"r":"Wind","w":"Wint","o":["Wind","Wint","Wiend","Windt"],"k":"b","tipp":"Merksatz: 'Wind' endet auf d, denn man sagt 'die Winde'."}
+ ]},
+ {"s":1,"satz":"Die mutige Astronautin sammelt seltsame Steine auf dem Mars.","f":[
+  {"r":"mutige","w":"muthige","o":["mutige","muthige","mutiege","muttige"],"k":"b","tipp":"Merksatz: 'mutig' kommt von 'Mut' ganz ohne h."},
+  {"r":"seltsame","w":"selzame","o":["seltsame","selzame","seltßame","seltsamme"],"k":"b","tipp":"Merksatz: 'seltsam' hat in der Mitte ts: sel-ts-am."},
+  {"r":"Steine","w":"Schteine","o":["Steine","Schteine","Staine","Steinne"],"k":"b","tipp":"Merksatz: 'Steine' beginnt mit st, auch wenn es scht klingt."}
+ ]},
+ {"s":1,"satz":"Der gelbe Jupiter brummt geheimnisvoll im dunklen Weltall.","f":[
+  {"r":"brummt","w":"brumt","o":["brummt","brumt","brummd","brrummt"],"k":"b","tipp":"Merksatz: 'brummen' braucht doppel-m: bru-mm-t."},
+  {"r":"geheimnisvoll","w":"geheimnisfoll","o":["geheimnisvoll","geheimnisfoll","geheimnissvoll","geheimnisvol"],"k":"b","tipp":"Merksatz: 'voll' schreibt man mit v und doppel-l."},
+  {"r":"dunklen","w":"dunglen","o":["dunklen","dunglen","dunkklen","dunclen"],"k":"b","tipp":"Merksatz: 'dunkel' hat ein k wie in 'Funke'."}
+ ]},
+ {"s":2,"satz":"Am Abend leuchten die Sterne über dem stillen See.","f":[
+  {"r":"Sterne","w":"sterne","o":["Sterne","sterne","Schterne","Sternne"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Sterne'."},
+  {"r":"leuchten","w":"Leuchten","o":["leuchten","Leuchten","leichten","leuchden"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'leuchten' schreibt man klein."},
+  {"r":"stillen","w":"schtillen","o":["stillen","schtillen","stilen","stiellen"],"k":"b","tipp":"Regel: 'still' schreibt man mit st und doppel-l."}
+ ]},
+ {"s":2,"satz":"Der freundliche Mond begleitet unsere Erde durch das ganze Jahr.","f":[
+  {"r":"Mond","w":"mond","o":["Mond","mond","Mont","Moond"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Mond'."},
+  {"r":"begleitet","w":"beglaitet","o":["begleitet","beglaitet","begleidet","beglieitet"],"k":"b","tipp":"Regel: 'begleitet' schreibt man mit ei wie 'leiten'."},
+  {"r":"Erde","w":"erde","o":["Erde","erde","Ärde","Erdde"],"k":"g","tipp":"Regel: Den Namen unseres Planeten 'Erde' schreibt man groß."}
+ ]},
+ {"s":2,"satz":"Heute fliegt eine bunte Rakete steil in den Himmel.","f":[
+  {"r":"fliegt","w":"Fliegt","o":["fliegt","Fliegt","fligt","flieht"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'fliegen' schreibt man klein."},
+  {"r":"Rakete","w":"rakete","o":["Rakete","rakete","Rackete","Rakette"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Rakete'."},
+  {"r":"steil","w":"stail","o":["steil","stail","schteil","steill"],"k":"b","tipp":"Regel: 'steil' schreibt man mit ei wie in 'Eis'."}
+ ]},
+ {"s":2,"satz":"Der riesige Jupiter ist der größte Planet im Sonnensystem überhaupt.","f":[
+  {"r":"riesige","w":"Riesige","o":["riesige","Riesige","risige","riessige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'riesig' schreibt man klein."},
+  {"r":"Planet","w":"planet","o":["Planet","planet","Planett","Planeht"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Planet'."},
+  {"r":"Sonnensystem","w":"Sonensystem","o":["Sonnensystem","Sonensystem","Sonnensüstem","Sonnensystähm"],"k":"b","tipp":"Regel: 'Sonne' steckt drin und braucht doppel-n."}
+ ]},
+ {"s":2,"satz":"Die kleine Astronautin staunt über den glühenden Mars.","f":[
+  {"r":"Astronautin","w":"astronautin","o":["Astronautin","astronautin","Astranautin","Astronauttin"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Astronautin'."},
+  {"r":"staunt","w":"Staunt","o":["staunt","Staunt","staund","schtaunt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'staunen' schreibt man klein."},
+  {"r":"glühenden","w":"glüenden","o":["glühenden","glüenden","glühennden","glüheenden"],"k":"b","tipp":"Regel: 'glühen' hat ein Dehnungs-h: glü-h-en."}
+ ]},
+ {"s":2,"satz":"Am Saturn drehen sich die schönen Ringe ganz langsam im Kreis.","f":[
+  {"r":"Saturn","w":"saturn","o":["Saturn","saturn","Saaturn","Satturn"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Saturn'."},
+  {"r":"schönen","w":"Schönen","o":["schönen","Schönen","schöhnen","schönnen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schön' schreibt man klein."},
+  {"r":"langsam","w":"langksam","o":["langsam","langksam","lanksam","langssam"],"k":"b","tipp":"Regel: 'langsam' schreibt man mit g und s nebeneinander."}
+ ]},
+ {"s":2,"satz":"Ein heller Komet zieht über den nächtlichen Himmel hinweg.","f":[
+  {"r":"Komet","w":"komet","o":["Komet","komet","Kommet","Kohmet"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Komet'."},
+  {"r":"zieht","w":"Zieht","o":["zieht","Zieht","ziet","ziecht"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'ziehen' schreibt man klein."},
+  {"r":"nächtlichen","w":"nechtlichen","o":["nächtlichen","nechtlichen","nächdlichen","nächtliechen"],"k":"b","tipp":"Regel: 'nächtlich' kommt von 'Nacht', darum mit ä."}
+ ]},
+ {"s":2,"satz":"Die warme Sonne schenkt allen Pflanzen ihr goldenes Licht.","f":[
+  {"r":"Sonne","w":"sonne","o":["Sonne","sonne","Sone","Sonnne"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Sonne'."},
+  {"r":"schenkt","w":"Schenkt","o":["schenkt","Schenkt","schänkt","schenckt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schenken' schreibt man klein."},
+  {"r":"goldenes","w":"goldnes","o":["goldenes","goldnes","golldenes","goldennes"],"k":"b","tipp":"Regel: 'golden' kommt von 'Gold' mit hellem e."}
+ ]},
+ {"s":2,"satz":"Im Teleskop sieht der Forscher den fernen roten Planeten.","f":[
+  {"r":"Forscher","w":"forscher","o":["Forscher","forscher","Forschär","Forrscher"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Forscher'."},
+  {"r":"fernen","w":"Fernen","o":["fernen","Fernen","färnen","fernnen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'fern' schreibt man klein."},
+  {"r":"Teleskop","w":"Telleskop","o":["Teleskop","Telleskop","Teleschkop","Teleskopp"],"k":"b","tipp":"Regel: 'Teleskop' schreibt man mit nur einem l."}
+ ]},
+ {"s":2,"satz":"Der staubige Mars hat zwei winzige Monde als treue Begleiter dabei.","f":[
+  {"r":"Mars","w":"mars","o":["Mars","mars","Marrs","Marß"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Mars'."},
+  {"r":"winzige","w":"Winzige","o":["winzige","Winzige","winziege","winnzige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'winzig' schreibt man klein."},
+  {"r":"Begleiter","w":"Beglaiter","o":["Begleiter","Beglaiter","Begleidter","Begleiterr"],"k":"b","tipp":"Regel: 'Begleiter' schreibt man mit ei wie 'leiten'."}
+ ]},
+ {"s":2,"satz":"Nachts funkeln die fernen Sterne wie tausend kleine Lichter am Himmel.","f":[
+  {"r":"funkeln","w":"Funkeln","o":["funkeln","Funkeln","funckeln","funkkeln"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'funkeln' schreibt man klein."},
+  {"r":"Sterne","w":"sterne","o":["Sterne","sterne","Schterne","Sterrne"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Sterne'."},
+  {"r":"Lichter","w":"Liechter","o":["Lichter","Liechter","Lischter","Lichtär"],"k":"b","tipp":"Regel: 'Lichter' hat ein kurzes i, also kein ie."}
+ ]},
+ {"s":2,"satz":"Die mutige Crew landet sanft auf dem fremden Mond.","f":[
+  {"r":"mutige","w":"Mutige","o":["mutige","Mutige","muthige","muttige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'mutig' schreibt man klein."},
+  {"r":"Crew","w":"crew","o":["Crew","crew","Krew","Creww"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, auch 'die Crew'."},
+  {"r":"fremden","w":"främden","o":["fremden","främden","fremmden","fremdän"],"k":"b","tipp":"Regel: 'fremd' schreibt man mit hellem e."}
+ ]},
+ {"s":3,"satz":"Der Mars ist rot, weil er voller rostigem Staub steckt.","f":[
+  {"r":"rot,","w":"rot","o":["rot,","rot","rot;","rot."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"rostigem","w":"rostiegem","o":["rostigem","rostiegem","rosstigem","rostieghem"],"k":"b","tipp":"Regel: 'rostig' kommt von 'Rost' mit kurzem o."},
+  {"r":"voller","w":"Voller","o":["voller","Voller","foller","vollär"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'voll' schreibt man klein."}
+ ]},
+ {"s":3,"satz":"Die Rakete startet erst, wenn der Countdown bei null ankommt.","f":[
+  {"r":"erst,","w":"erst","o":["erst,","erst","erst;","erst."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"Rakete","w":"rakete","o":["Rakete","rakete","Rackete","Raketee"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Rakete'."},
+  {"r":"Countdown","w":"Kauntdown","o":["Countdown","Kauntdown","Countdaun","Countdownn"],"k":"b","tipp":"Regel: 'Countdown' kommt aus dem Englischen und beginnt mit Co."}
+ ]},
+ {"s":3,"satz":"Der Saturn trägt Ringe, die aus Eis und Steinen bestehen.","f":[
+  {"r":"Ringe,","w":"Ringe","o":["Ringe,","Ringe","Ringe;","Ringe."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'die' steht ein Komma."},
+  {"r":"trägt","w":"trecht","o":["trägt","trecht","trägd","träkt"],"k":"b","tipp":"Regel: 'trägt' kommt von 'tragen', darum mit ä."},
+  {"r":"Steinen","w":"steinen","o":["Steinen","steinen","Schteinen","Staineen"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Steine'."}
+ ]},
+ {"s":3,"satz":"Am Himmel funkeln die Sterne, obwohl der helle Mond schon scheint und blinkt.","f":[
+  {"r":"Sterne,","w":"Sterne","o":["Sterne,","Sterne","Sterne;","Sterne."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"funkeln","w":"Funkeln","o":["funkeln","Funkeln","funckeln","funkkeln"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'funkeln' schreibt man klein."},
+  {"r":"scheint","w":"schaint","o":["scheint","schaint","scheind","scheintt"],"k":"b","tipp":"Regel: 'scheint' kommt von 'scheinen' mit ei."}
+ ]},
+ {"s":3,"satz":"Der Komet rast weiter, bis er hinter der Sonne ganz verschwindet und ruht.","f":[
+  {"r":"weiter,","w":"weiter","o":["weiter,","weiter","weiter;","weiter."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bis' steht ein Komma."},
+  {"r":"Komet","w":"komet","o":["Komet","komet","Kommet","Kohmet"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Komet'."},
+  {"r":"verschwindet","w":"ferschwindet","o":["verschwindet","ferschwindet","verschwiendet","verschwindät"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v wie 'verstecken'."}
+ ]},
+ {"s":3,"satz":"Die Astronautin schwebt im All, weil dort keine Schwerkraft wirkt.","f":[
+  {"r":"All,","w":"All","o":["All,","All","All;","All."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Astronautin","w":"astronautin","o":["Astronautin","astronautin","Astranautin","Astronauttin"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Astronautin'."},
+  {"r":"Schwerkraft","w":"Schwehrkraft","o":["Schwerkraft","Schwehrkraft","Schwerckraft","Schweerkraft"],"k":"b","tipp":"Regel: 'Schwerkraft' schreibt man ohne Dehnungs-h."}
+ ]},
+ {"s":3,"satz":"Der Jupiter ist gewaltig, denn er verschluckt sogar kleine Monde im Vorbeiflug.","f":[
+  {"r":"gewaltig,","w":"gewaltig","o":["gewaltig,","gewaltig","gewaltig;","gewaltig."],"k":"k","tipp":"Regel: Vor 'denn' steht immer ein Komma."},
+  {"r":"Monde","w":"monde","o":["Monde","monde","Mondte","Moonde"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Monde'."},
+  {"r":"verschluckt","w":"ferschluckt","o":["verschluckt","ferschluckt","verschlukt","verschluckd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v wie 'verstecken'."}
+ ]},
+ {"s":3,"satz":"Wenn die Sonne untergeht, erscheinen langsam die ersten Sterne.","f":[
+  {"r":"untergeht,","w":"untergeht","o":["untergeht,","untergeht","untergeht;","untergeht."],"k":"k","tipp":"Regel: Nach einem vorangestellten Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"erscheinen","w":"Erscheinen","o":["erscheinen","Erscheinen","erschainen","erscheienen"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'erscheinen' schreibt man klein."},
+  {"r":"langsam","w":"langksam","o":["langsam","langksam","lanksam","langssam"],"k":"b","tipp":"Regel: 'langsam' schreibt man mit g und s nebeneinander."}
+ ]},
+ {"s":3,"satz":"Die Rakete fliegt höher, damit sie den Mond erreichen kann.","f":[
+  {"r":"höher,","w":"höher","o":["höher,","höher","höher;","höher."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"fliegt","w":"Fliegt","o":["fliegt","Fliegt","fligt","fliecht"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'fliegen' schreibt man klein."},
+  {"r":"erreichen","w":"erraichen","o":["erreichen","erraichen","erreiechen","erraichän"],"k":"b","tipp":"Regel: 'erreichen' schreibt man mit ei und ch."}
+ ]},
+ {"s":3,"satz":"Der kleine Mond glänzt hell, weil ihn die Sonne hell anstrahlt und wärmt.","f":[
+  {"r":"hell,","w":"hell","o":["hell,","hell","hell;","hell."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Mond","w":"mond","o":["Mond","mond","Mont","Moond"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Mond'."},
+  {"r":"anstrahlt","w":"anschtrahlt","o":["anstrahlt","anschtrahlt","anstralt","anstrahld"],"k":"b","tipp":"Regel: 'strahlen' hat ein Dehnungs-h: stra-h-lt."}
+ ]},
+ {"s":3,"satz":"Die Forscher jubeln laut, als die Sonde den Mars erreicht.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'als' steht ein Komma."},
+  {"r":"Forscher","w":"forscher","o":["Forscher","forscher","Forschär","Forrscher"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Forscher'."},
+  {"r":"Sonde","w":"Sonnde","o":["Sonde","Sonnde","Sohnde","Sondte"],"k":"b","tipp":"Regel: 'Sonde' schreibt man mit nur einem n."}
+ ]},
+ {"s":3,"satz":"Der Saturn wirkt geheimnisvoll, obwohl er aus leichtem Gas besteht.","f":[
+  {"r":"geheimnisvoll,","w":"geheimnisvoll","o":["geheimnisvoll,","geheimnisvoll","geheimnisvoll;","geheimnisvoll."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Saturn","w":"saturn","o":["Saturn","saturn","Saaturn","Satturn"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Saturn'."},
+  {"r":"leichtem","w":"laichtem","o":["leichtem","laichtem","leichdem","liechtem"],"k":"b","tipp":"Regel: 'leicht' schreibt man mit ei und cht."}
+ ]}
+]

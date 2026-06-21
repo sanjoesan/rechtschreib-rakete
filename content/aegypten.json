@@ -1,0 +1,184 @@
+[
+{"s":1,"satz":"Im alten Ägypten bauten die Menschen riesige Pyramiden aus schweren Steinen auf.","f":[
+ {"r":"bauten","w":"bauden","o":["bauten","bauden","bawten","baudten"],"k":"b","tipp":"Merksatz: 'bauten' kommt von 'bauen' und wird mit t geschrieben."},
+ {"r":"riesige","w":"risige","o":["riesige","risige","riesieche","riessige"],"k":"b","tipp":"Merksatz: 'riesig' schreibt man mit ie, weil das i lang klingt."},
+ {"r":"schweren","w":"schwären","o":["schweren","schwären","schwehren","schwerren"],"k":"b","tipp":"Merksatz: 'schwer' schreibt man mit e, nicht mit ä."}
+]},
+{"s":1,"satz":"Der mächtige Pharao wohnte in einem goldenen Palast am Nil.","f":[
+ {"r":"mächtige","w":"mechtige","o":["mächtige","mechtige","mäschtige","mächtieg"],"k":"b","tipp":"Merksatz: 'mächtig' kommt von 'Macht' und wird mit ä geschrieben."},
+ {"r":"wohnte","w":"wonte","o":["wohnte","wonte","wohnde","wohnnte"],"k":"b","tipp":"Merksatz: In 'wohnen' steckt ein Dehnungs-h nach dem o."},
+ {"r":"goldenen","w":"goldennen","o":["goldenen","goldennen","golldenen","goltenen"],"k":"b","tipp":"Merksatz: 'golden' hat nur ein n in der Mitte."}
+]},
+{"s":1,"satz":"Die fleißigen Arbeiter schleppten schwere Steine bis zur großen Pyramide.","f":[
+ {"r":"fleißigen","w":"fleisigen","o":["fleißigen","fleisigen","fleißiegen","fleißiggen"],"k":"b","tipp":"Merksatz: 'fleißig' schreibt man mit ß nach dem langen ei."},
+ {"r":"schleppten","w":"schlepten","o":["schleppten","schlepten","schlepptten","schläppten"],"k":"b","tipp":"Merksatz: 'schleppen' schreibt man mit doppel-p."},
+ {"r":"großen","w":"grosen","o":["großen","grosen","großßen","grohsen"],"k":"b","tipp":"Merksatz: Nach langem o steht ein ß: groß."}
+]},
+{"s":1,"satz":"Ein kluger Schreiber malte geheimnisvolle Hieroglyphen an die Wand.","f":[
+ {"r":"kluger","w":"kluuger","o":["kluger","kluuger","klucher","klugger"],"k":"b","tipp":"Merksatz: 'klug' schreibt man mit einem g am Ende."},
+ {"r":"malte","w":"malde","o":["malte","malde","mahlte","mallte"],"k":"b","tipp":"Merksatz: 'malte' kommt von 'malen' und wird mit t geschrieben."},
+ {"r":"Hieroglyphen","w":"Hiroglyphen","o":["Hieroglyphen","Hiroglyphen","Hieroglüphen","Hierogliphen"],"k":"b","tipp":"Merksatz: 'Hiero' schreibt man mit ie."}
+]},
+{"s":1,"satz":"Die alten Ägypter verehrten die Sonne als mächtigen Gott.","f":[
+ {"r":"verehrten","w":"ferehrten","o":["verehrten","ferehrten","vererten","verehrrten"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v wie in 'verstecken'."},
+ {"r":"mächtigen","w":"mechtigen","o":["mächtigen","mechtigen","mäschtigen","mächtiegen"],"k":"b","tipp":"Merksatz: 'mächtig' kommt von 'Macht' und wird mit ä geschrieben."},
+ {"r":"Sonne","w":"Sone","o":["Sonne","Sone","Sonnne","Sohnne"],"k":"b","tipp":"Merksatz: Die Sonne hat zwei n in der Mitte."}
+]},
+{"s":1,"satz":"Vor dem Tempel stand eine gewaltige Sphinx aus hellem Stein.","f":[
+ {"r":"gewaltige","w":"gewalltige","o":["gewaltige","gewalltige","gewaltiege","gewaltigge"],"k":"b","tipp":"Merksatz: 'gewaltig' hat nur ein l."},
+ {"r":"Sphinx","w":"Sfinx","o":["Sphinx","Sfinx","Sphinks","Sphynx"],"k":"b","tipp":"Merksatz: 'Sphinx' schreibt man mit ph wie in 'Delphin'."},
+ {"r":"hellem","w":"helem","o":["hellem","helem","hällem","helllem"],"k":"b","tipp":"Merksatz: 'hell' hat zwei l."}
+]},
+{"s":1,"satz":"Die Forscher fanden in der Grabkammer kostbare Schätze aus reinem Gold.","f":[
+ {"r":"fanden","w":"fanten","o":["fanden","fanten","vanden","fandden"],"k":"b","tipp":"Merksatz: 'fanden' kommt von 'finden' und wird mit d geschrieben."},
+ {"r":"kostbare","w":"kosbare","o":["kostbare","kosbare","kostpare","kosdbare"],"k":"b","tipp":"Merksatz: In 'kostbar' steckt 'kosten' mit t."},
+ {"r":"reinem","w":"rainem","o":["reinem","rainem","reinnem","reihnem"],"k":"b","tipp":"Merksatz: 'rein' schreibt man mit ei wie in 'Reise'."}
+]},
+{"s":1,"satz":"Der breite Nil floss ruhig durch das warme Land der Wüste hindurch.","f":[
+ {"r":"breite","w":"praite","o":["breite","praite","breitte","breihte"],"k":"b","tipp":"Merksatz: 'breit' beginnt mit b und hat ein ei."},
+ {"r":"floss","w":"floß","o":["floss","floß","floos","flloss"],"k":"b","tipp":"Merksatz: Nach kurzem o steht Doppel-s: floss."},
+ {"r":"Wüste","w":"Wüsste","o":["Wüste","Wüsste","Wüschte","Wühste"],"k":"b","tipp":"Merksatz: 'Wüste' hat nur ein s."}
+]},
+{"s":1,"satz":"Die Priester wickelten die Mumie sorgfältig in weiße Binden ein.","f":[
+ {"r":"Priester","w":"Prister","o":["Priester","Prister","Prieester","Priehster"],"k":"b","tipp":"Merksatz: 'Priester' schreibt man mit ie."},
+ {"r":"sorgfältig","w":"sorgveltig","o":["sorgfältig","sorgveltig","sorgfeltig","sorchfältig"],"k":"b","tipp":"Merksatz: 'sorgfältig' kommt von 'Sorgfalt' mit f und ä."},
+ {"r":"weiße","w":"waiße","o":["weiße","waiße","weisse","weiehe"],"k":"b","tipp":"Merksatz: 'weiß' schreibt man mit ei und ß."}
+]},
+{"s":1,"satz":"Im großen Tempel beteten die Menschen zu vielen alten Göttern und Göttinnen.","f":[
+ {"r":"beteten","w":"betteten","o":["beteten","betteten","betehten","bedeten"],"k":"b","tipp":"Merksatz: 'beten' hat nur ein t in der Mitte."},
+ {"r":"vielen","w":"vilen","o":["vielen","vilen","fielen","viehlen"],"k":"b","tipp":"Merksatz: 'viel' schreibt man mit ie."},
+ {"r":"Göttern","w":"Götern","o":["Göttern","Götern","Götttern","Göhttern"],"k":"b","tipp":"Merksatz: 'Götter' hat zwei t nach dem ö."}
+]},
+{"s":1,"satz":"Ein kleines Kamel trottete langsam durch den heißen Sand der Wüste.","f":[
+ {"r":"trottete","w":"trotete","o":["trottete","trotete","trottede","drottete"],"k":"b","tipp":"Merksatz: 'trotten' hat zwei t nach dem o."},
+ {"r":"langsam","w":"langksam","o":["langsam","langksam","langsamm","lanksam"],"k":"b","tipp":"Merksatz: 'langsam' schreibt man mit g und einfachem s."},
+ {"r":"heißen","w":"haißen","o":["heißen","haißen","heissen","heihßen"],"k":"b","tipp":"Merksatz: 'heiß' schreibt man mit ei und ß."}
+]},
+{"s":1,"satz":"Der König trug eine prächtige Krone aus glänzendem Gold am Kopf.","f":[
+ {"r":"prächtige","w":"prechtige","o":["prächtige","prechtige","präschtige","prächtieg"],"k":"b","tipp":"Merksatz: 'prächtig' kommt von 'Pracht' und wird mit ä geschrieben."},
+ {"r":"Krone","w":"Krohne","o":["Krone","Krohne","Kronne","Grone"],"k":"b","tipp":"Merksatz: 'Krone' schreibt man ohne h."},
+ {"r":"glänzendem","w":"glenzendem","o":["glänzendem","glenzendem","glänzentem","glänzzendem"],"k":"b","tipp":"Merksatz: 'glänzend' kommt von 'Glanz' und wird mit ä geschrieben."}
+]},
+
+{"s":2,"satz":"Im alten Ägypten regierte ein mächtiger Pharao über das große Reich.","f":[
+ {"r":"Pharao","w":"pharao","o":["Pharao","pharao","Farao","Pharaoh"],"k":"g","tipp":"Regel: Namenwörter wie 'Pharao' schreibt man groß."},
+ {"r":"regierte","w":"Regierte","o":["regierte","Regierte","regirte","reggierte"],"k":"g","tipp":"Regel: Tunwörter wie 'regieren' schreibt man klein."},
+ {"r":"mächtiger","w":"mechtiger","o":["mächtiger","mechtiger","mäschtiger","mächtieger"],"k":"b","tipp":"Regel: 'mächtig' kommt von 'Macht' und wird mit ä geschrieben."}
+]},
+{"s":2,"satz":"Am Morgen segelten die Fischer mit ihrem Boot über den breiten Nil.","f":[
+ {"r":"Fischer","w":"fischer","o":["Fischer","fischer","Fiescher","Fisscher"],"k":"g","tipp":"Regel: Namenwörter wie 'Fischer' schreibt man groß."},
+ {"r":"segelten","w":"Segelten","o":["segelten","Segelten","sägelten","segellten"],"k":"g","tipp":"Regel: Tunwörter wie 'segeln' schreibt man klein."},
+ {"r":"breiten","w":"praiten","o":["breiten","praiten","breitten","breihten"],"k":"b","tipp":"Regel: 'breit' beginnt mit b und hat ein ei."}
+]},
+{"s":2,"satz":"Die schlaue Forscherin entdeckte eine geheime Kammer in der Pyramide.","f":[
+ {"r":"Forscherin","w":"forscherin","o":["Forscherin","forscherin","Forsscherin","Vorscherin"],"k":"g","tipp":"Regel: Namenwörter wie 'Forscherin' schreibt man groß."},
+ {"r":"schlaue","w":"Schlaue","o":["schlaue","Schlaue","schlaaue","schlaughe"],"k":"g","tipp":"Regel: Wiewörter wie 'schlau' schreibt man klein."},
+ {"r":"entdeckte","w":"entdekte","o":["entdeckte","entdekte","entteckte","entdeckkte"],"k":"b","tipp":"Regel: Nach kurzem e steht ck: ent-de-cken."}
+]},
+{"s":2,"satz":"Vor dem Tempel staunten die Kinder über die riesige Statue aus Stein.","f":[
+ {"r":"Tempel","w":"tempel","o":["Tempel","tempel","Temppel","Dempel"],"k":"g","tipp":"Regel: Namenwörter wie 'Tempel' schreibt man groß."},
+ {"r":"staunten","w":"Staunten","o":["staunten","Staunten","staundten","staunnten"],"k":"g","tipp":"Regel: Tunwörter wie 'staunen' schreibt man klein."},
+ {"r":"riesige","w":"risige","o":["riesige","risige","riesieche","riessige"],"k":"b","tipp":"Regel: 'riesig' schreibt man mit ie, weil das i lang klingt."}
+]},
+{"s":2,"satz":"Die alten Ägypter verehrten die Katze als heiliges Tier im Tempel.","f":[
+ {"r":"Katze","w":"katze","o":["Katze","katze","Katse","Kazze"],"k":"g","tipp":"Regel: Namenwörter wie 'Katze' schreibt man groß."},
+ {"r":"heiliges","w":"Heiliges","o":["heiliges","Heiliges","heilieges","heilliges"],"k":"g","tipp":"Regel: Wiewörter wie 'heilig' schreibt man klein."},
+ {"r":"verehrten","w":"ferehrten","o":["verehrten","ferehrten","vererten","verehrrten"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v."}
+]},
+{"s":2,"satz":"Am Abend leuchteten die hellen Sterne über der stillen Wüste.","f":[
+ {"r":"Sterne","w":"sterne","o":["Sterne","sterne","Schterne","Sternne"],"k":"g","tipp":"Regel: Namenwörter wie 'Sterne' schreibt man groß."},
+ {"r":"hellen","w":"helen","o":["hellen","helen","hällen","helllen"],"k":"b","tipp":"Regel: 'hell' hat zwei l."},
+ {"r":"stillen","w":"Stillen","o":["stillen","Stillen","stilen","schtillen"],"k":"g","tipp":"Regel: Wiewörter wie 'still' schreibt man klein."}
+]},
+{"s":2,"satz":"Der weise Pharao schenkte dem Volk eine goldene Statue der Göttin.","f":[
+ {"r":"Volk","w":"volk","o":["Volk","volk","Vollk","Folk"],"k":"g","tipp":"Regel: Namenwörter wie 'Volk' schreibt man groß."},
+ {"r":"goldene","w":"Goldene","o":["goldene","Goldene","goltene","golldene"],"k":"g","tipp":"Regel: Wiewörter wie 'golden' schreibt man klein."},
+ {"r":"schenkte","w":"schenckte","o":["schenkte","schenckte","schänkte","schenktte"],"k":"b","tipp":"Regel: 'schenken' schreibt man mit nk, nicht mit nck."}
+]},
+{"s":2,"satz":"Im Sand der Wüste fanden die Männer eine alte Truhe voller Gold.","f":[
+ {"r":"Wüste","w":"wüste","o":["Wüste","wüste","Wüsste","Wühste"],"k":"g","tipp":"Regel: Namenwörter wie 'Wüste' schreibt man groß."},
+ {"r":"fanden","w":"Fanden","o":["fanden","Fanden","fanten","vanden"],"k":"g","tipp":"Regel: Tunwörter wie 'finden' schreibt man klein."},
+ {"r":"Truhe","w":"Truche","o":["Truhe","Truche","Truhhe","Druhe"],"k":"b","tipp":"Regel: 'Truhe' hat ein Dehnungs-h nach dem u."}
+]},
+{"s":2,"satz":"Die neugierige Maus huschte flink durch die dunkle Grabkammer.","f":[
+ {"r":"Maus","w":"maus","o":["Maus","maus","Mauz","Mauß"],"k":"g","tipp":"Regel: Namenwörter wie 'Maus' schreibt man groß."},
+ {"r":"neugierige","w":"Neugierige","o":["neugierige","Neugierige","neugierieche","neugieriege"],"k":"g","tipp":"Regel: Wiewörter wie 'neugierig' schreibt man klein."},
+ {"r":"huschte","w":"husste","o":["huschte","husste","husschte","huhschte"],"k":"b","tipp":"Regel: 'huschen' schreibt man mit sch."}
+]},
+{"s":2,"satz":"Am Ufer des Nils wuchsen hohe Pflanzen mit grünen Blättern.","f":[
+ {"r":"Pflanzen","w":"pflanzen","o":["Pflanzen","pflanzen","Flanzen","Pflansen"],"k":"g","tipp":"Regel: Namenwörter wie 'Pflanzen' schreibt man groß."},
+ {"r":"hohe","w":"Hohe","o":["hohe","Hohe","hoohe","hoche"],"k":"g","tipp":"Regel: Wiewörter wie 'hoch' schreibt man klein."},
+ {"r":"grünen","w":"grühnen","o":["grünen","grühnen","grünnen","grüenen"],"k":"b","tipp":"Regel: 'grün' schreibt man ohne h."}
+]},
+{"s":2,"satz":"Der mutige Wächter bewachte das Grab des Königs die ganze Nacht.","f":[
+ {"r":"Wächter","w":"wächter","o":["Wächter","wächter","Wechter","Wächtter"],"k":"g","tipp":"Regel: Namenwörter wie 'Wächter' schreibt man groß."},
+ {"r":"mutige","w":"Mutige","o":["mutige","Mutige","muhtige","muttige"],"k":"g","tipp":"Regel: Wiewörter wie 'mutig' schreibt man klein."},
+ {"r":"bewachte","w":"bewahte","o":["bewachte","bewahte","bewachtte","pewachte"],"k":"b","tipp":"Regel: In 'bewachte' steckt ch wie in 'wachen'."}
+]},
+{"s":2,"satz":"Die kleinen Schüler lernten die alten Zeichen der Hieroglyphen kennen.","f":[
+ {"r":"Schüler","w":"schüler","o":["Schüler","schüler","Schühler","Schüller"],"k":"g","tipp":"Regel: Namenwörter wie 'Schüler' schreibt man groß."},
+ {"r":"lernten","w":"Lernten","o":["lernten","Lernten","lärnten","lerntten"],"k":"g","tipp":"Regel: Tunwörter wie 'lernen' schreibt man klein."},
+ {"r":"Zeichen","w":"Zaichen","o":["Zeichen","Zaichen","Zeihen","Zeicchen"],"k":"b","tipp":"Regel: 'Zeichen' schreibt man mit ei und ch."}
+]},
+
+{"s":3,"satz":"Der Pharao öffnete die schwere Tür, weil er den Schatz suchte.","f":[
+ {"r":"Tür,","w":"Tür","o":["Tür,","Tür","Tür;","Tür."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+ {"r":"schwere","w":"Schwere","o":["schwere","Schwere","schwäre","schwehre"],"k":"g","tipp":"Regel: Wiewörter wie 'schwer' schreibt man klein."},
+ {"r":"öffnete","w":"öfnete","o":["öffnete","öfnete","öffnette","öhffnete"],"k":"b","tipp":"Regel: 'öffnen' hat zwei f."}
+]},
+{"s":3,"satz":"In der Kammer lagen Gold, Schmuck und kostbare Krüge aus Ton.","f":[
+ {"r":"Gold,","w":"Gold","o":["Gold,","Gold","Gold;","Gold."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern."},
+ {"r":"kostbare","w":"Kostbare","o":["kostbare","Kostbare","kosbare","kostpare"],"k":"g","tipp":"Regel: Wiewörter wie 'kostbar' schreibt man klein."},
+ {"r":"Schmuck","w":"Schmuk","o":["Schmuck","Schmuk","Schmukk","Schmugg"],"k":"b","tipp":"Regel: Nach kurzem u steht ck: Schmu-ck."}
+]},
+{"s":3,"satz":"Die Forscherin lächelte glücklich, als sie die alte Mumie endlich fand.","f":[
+ {"r":"glücklich,","w":"glücklich","o":["glücklich,","glücklich","glücklich;","glücklich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'als' steht ein Komma."},
+ {"r":"Mumie","w":"mumie","o":["Mumie","mumie","Mummie","Muhmie"],"k":"g","tipp":"Regel: Namenwörter wie 'Mumie' schreibt man groß."},
+ {"r":"alte","w":"Alte","o":["alte","Alte","allte","alde"],"k":"g","tipp":"Regel: Wiewörter wie 'alt' schreibt man klein."}
+]},
+{"s":3,"satz":"Auf dem Markt verkauften die Händler Brot, Datteln und frische Feigen.","f":[
+ {"r":"Brot,","w":"Brot","o":["Brot,","Brot","Brot;","Brot."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern."},
+ {"r":"frische","w":"Frische","o":["frische","Frische","frieche","frissche"],"k":"g","tipp":"Regel: Wiewörter wie 'frisch' schreibt man klein."},
+ {"r":"Händler","w":"Hendler","o":["Händler","Hendler","Händller","Häntler"],"k":"b","tipp":"Regel: 'Händler' kommt von 'Hand', darum mit ä."}
+]},
+{"s":3,"satz":"Der König freute sich, weil das Volk ihm eine goldene Krone brachte.","f":[
+ {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+ {"r":"Volk","w":"volk","o":["Volk","volk","Vollk","Folk"],"k":"g","tipp":"Regel: Namenwörter wie 'Volk' schreibt man groß."},
+ {"r":"goldene","w":"goltene","o":["goldene","goltene","golldene","goldenne"],"k":"b","tipp":"Regel: 'golden' schreibt man mit d, wie das Gold."}
+]},
+{"s":3,"satz":"Die Arbeiter ruhten sich aus, obwohl die heiße Sonne stark brannte.","f":[
+ {"r":"aus,","w":"aus","o":["aus,","aus","aus;","aus."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+ {"r":"heiße","w":"Heiße","o":["heiße","Heiße","heisse","haiße"],"k":"g","tipp":"Regel: Wiewörter wie 'heiß' schreibt man klein."},
+ {"r":"Arbeiter","w":"Arbaiter","o":["Arbeiter","Arbaiter","Arbeitter","Arbeier"],"k":"b","tipp":"Regel: 'Arbeiter' schreibt man mit ei."}
+]},
+{"s":3,"satz":"Der Schreiber malte Hieroglyphen, einen Vogel und eine kleine Schlange.","f":[
+ {"r":"Hieroglyphen,","w":"Hieroglyphen","o":["Hieroglyphen,","Hieroglyphen","Hieroglyphen;","Hieroglyphen."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern."},
+ {"r":"kleine","w":"Kleine","o":["kleine","Kleine","klaine","kleinne"],"k":"g","tipp":"Regel: Wiewörter wie 'klein' schreibt man klein."},
+ {"r":"Vogel","w":"Vogl","o":["Vogel","Vogl","Fogel","Voogel"],"k":"b","tipp":"Regel: 'Vogel' beginnt mit V, das wie f klingt."}
+]},
+{"s":3,"satz":"Die Priester sangen leise, als sie die Mumie zum Grab trugen.","f":[
+ {"r":"leise,","w":"leise","o":["leise,","leise","leise;","leise."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'als' steht ein Komma."},
+ {"r":"Priester","w":"priester","o":["Priester","priester","Prister","Priehster"],"k":"g","tipp":"Regel: Namenwörter wie 'Priester' schreibt man groß."},
+ {"r":"sangen","w":"sanken","o":["sangen","sanken","sangenn","sanggen"],"k":"b","tipp":"Regel: 'sangen' kommt von 'singen' und hat ein g."}
+]},
+{"s":3,"satz":"Vor der Sphinx blieben die Reisenden stehen, weil sie sehr staunten.","f":[
+ {"r":"stehen,","w":"stehen","o":["stehen,","stehen","stehen;","stehen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+ {"r":"Reisenden","w":"reisenden","o":["Reisenden","reisenden","Raisenden","Reissenden"],"k":"g","tipp":"Regel: Namenwörter wie 'Reisende' schreibt man groß."},
+ {"r":"Sphinx","w":"Sfinx","o":["Sphinx","Sfinx","Sphinks","Sphynx"],"k":"b","tipp":"Regel: 'Sphinx' schreibt man mit ph."}
+]},
+{"s":3,"satz":"Am Nil wuchsen Schilf, Lotusblumen und hohe grüne Bäume nebeneinander.","f":[
+ {"r":"Schilf,","w":"Schilf","o":["Schilf,","Schilf","Schilf;","Schilf."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern."},
+ {"r":"hohe","w":"Hohe","o":["hohe","Hohe","hoohe","hoche"],"k":"g","tipp":"Regel: Wiewörter wie 'hoch' schreibt man klein."},
+ {"r":"wuchsen","w":"wuksen","o":["wuchsen","wuksen","wuchssen","wuchschen"],"k":"b","tipp":"Regel: In 'wuchsen' steckt chs wie in 'Fuchs'."}
+]},
+{"s":3,"satz":"Der mutige Junge kletterte hinauf, obwohl die Pyramide sehr steil war.","f":[
+ {"r":"hinauf,","w":"hinauf","o":["hinauf,","hinauf","hinauf;","hinauf."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+ {"r":"steil","w":"Steil","o":["steil","Steil","stail","schteil"],"k":"g","tipp":"Regel: Wiewörter wie 'steil' schreibt man klein."},
+ {"r":"kletterte","w":"kleterte","o":["kletterte","kleterte","klätterte","klettertte"],"k":"b","tipp":"Regel: 'klettern' hat zwei t."}
+]},
+{"s":3,"satz":"Die Königin trug ein Kleid, das mit funkelnden Steinen besetzt war.","f":[
+ {"r":"Kleid,","w":"Kleid","o":["Kleid,","Kleid","Kleid;","Kleid."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'das' steht ein Komma."},
+ {"r":"Königin","w":"königin","o":["Königin","königin","Köningin","Köhnigin"],"k":"g","tipp":"Regel: Namenwörter wie 'Königin' schreibt man groß."},
+ {"r":"funkelnden","w":"funkellnden","o":["funkelnden","funkellnden","funkelden","vunkelnden"],"k":"b","tipp":"Regel: 'funkeln' hat nur ein l."}
+]}
+]

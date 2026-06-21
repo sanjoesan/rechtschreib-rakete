@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der tapfere Ritter reitet auf seinem schnellen Pferd zur mächtigen Burg hinauf.","f":[
+  {"r":"tapfere","w":"tapffere","o":["tapfere","tapffere","dapfere","tapferre"],"k":"b","tipp":"Merksatz: 'tapfer' schreibt man mit einem f und pf: tap-fer."},
+  {"r":"Pferd","w":"Pfert","o":["Pferd","Pfert","Ferd","Pferdt"],"k":"b","tipp":"Merksatz: Das Pferd endet auf d – Probe: die Pferde, das Pferd."},
+  {"r":"mächtigen","w":"mechtigen","o":["mächtigen","mechtigen","mächtiegen","mäschtigen"],"k":"b","tipp":"Merksatz: 'mächtig' kommt von 'Macht' und wird mit ä geschrieben."}
+]},
+{"s":1,"satz":"Mit seinem glänzenden Schwert kämpft der mutige Held gegen den feurigen Drachen.","f":[
+  {"r":"glänzenden","w":"glenzenden","o":["glänzenden","glenzenden","glänzänden","glänzndenn"],"k":"b","tipp":"Merksatz: 'glänzen' kommt von 'Glanz' – darum mit ä."},
+  {"r":"Schwert","w":"Shwert","o":["Schwert","Shwert","Schwerd","Schwärt"],"k":"b","tipp":"Merksatz: 'Schwert' beginnt mit sch und endet auf t: Schwert."},
+  {"r":"kämpft","w":"kempft","o":["kämpft","kempft","kämpfd","kämmpft"],"k":"b","tipp":"Merksatz: 'kämpfen' kommt von 'Kampf' und wird mit ä geschrieben."}
+]},
+{"s":1,"satz":"In der alten Rüstung steckt der schwitzende Ritter und sucht seinen verlorenen Helm.","f":[
+  {"r":"Rüstung","w":"Rüsstung","o":["Rüstung","Rüsstung","Rüschtung","Rüstunk"],"k":"b","tipp":"Merksatz: Die Rüstung hat nur ein s: Rüs-tung."},
+  {"r":"schwitzende","w":"schwizende","o":["schwitzende","schwizende","schwitzänd","schwitsende"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: schwit-zen."},
+  {"r":"verlorenen","w":"ferlorenen","o":["verlorenen","ferlorenen","verlohrenen","verlorennen"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verlieren'."}
+]},
+{"s":1,"satz":"Beim großen Turnier reiten die Ritter mit langen Lanzen über den staubigen Platz.","f":[
+  {"r":"Turnier","w":"Turnir","o":["Turnier","Turnir","Turniehr","Durnier"],"k":"b","tipp":"Merksatz: Das Turnier endet auf '-nier' mit ie: Tur-nier."},
+  {"r":"Lanzen","w":"Lanssen","o":["Lanzen","Lanssen","Lantzen","Lannzen"],"k":"b","tipp":"Merksatz: 'Lanze' schreibt man mit z: Lan-ze, Lan-zen."},
+  {"r":"staubigen","w":"staobigen","o":["staubigen","staobigen","schtaubigen","staubiegen"],"k":"b","tipp":"Merksatz: 'Staub' schreibt man mit au – wie 'Au, das kitzelt in der Nase'."}
+]},
+{"s":1,"satz":"Auf der hohen Burgmauer steht der wachsame Ritter und beobachtet das weite Land.","f":[
+  {"r":"Burgmauer","w":"Burgmaoer","o":["Burgmauer","Burgmaoer","Burgmauä","Burchmauer"],"k":"b","tipp":"Merksatz: 'Mauer' schreibt man mit au: Burg-mau-er."},
+  {"r":"wachsame","w":"waxame","o":["wachsame","waxame","wachsamme","wachzame"],"k":"b","tipp":"Merksatz: 'wachsam' kommt von 'wachen' und wird mit chs geschrieben."},
+  {"r":"beobachtet","w":"beopachtet","o":["beobachtet","beopachtet","beobachdet","beobbachtet"],"k":"b","tipp":"Merksatz: 'beobachten' hat zwei o hintereinander: be-ob-ach-ten."}
+]},
+{"s":1,"satz":"Der lustige Knappe poliert die schwere Rüstung und putzt den verbeulten Schild blank.","f":[
+  {"r":"Knappe","w":"Knape","o":["Knappe","Knape","Gnappe","Knabpe"],"k":"b","tipp":"Merksatz: Der Knappe hat doppel-P: Knap-pe."},
+  {"r":"poliert","w":"polirt","o":["poliert","polirt","pohliert","bolliert"],"k":"b","tipp":"Merksatz: 'polieren' schreibt man mit ie: po-lie-ren."},
+  {"r":"verbeulten","w":"ferbeulten","o":["verbeulten","ferbeulten","verbeilten","verbeultän"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-beult."}
+]},
+{"s":1,"satz":"Im dunklen Burgverlies bewacht der grimmige Drache einen riesigen Haufen aus Goldmünzen und Edelsteinen.","f":[
+  {"r":"Burgverlies","w":"Burgferlies","o":["Burgverlies","Burgferlies","Burchverlies","Burgverlibes"],"k":"b","tipp":"Merksatz: 'ver-' im Verlies schreibt man mit v: Burg-ver-lies."},
+  {"r":"bewacht","w":"bewachd","o":["bewacht","bewachd","bewahcht","bbewacht"],"k":"b","tipp":"Merksatz: 'bewacht' kommt von 'Wache' und endet auf t."},
+  {"r":"Goldmünzen","w":"Goltmünzen","o":["Goldmünzen","Goltmünzen","Goldmünssen","Goldmünzän"],"k":"b","tipp":"Merksatz: 'Gold' endet auf d – Probe: die goldene Münze."}
+]},
+{"s":1,"satz":"Mit gesenkter Lanze galoppiert der Ritter durch das hölzerne Burgtor in den Hof.","f":[
+  {"r":"galoppiert","w":"galopiert","o":["galoppiert","galopiert","galloppiert","galoppihrt"],"k":"b","tipp":"Merksatz: 'galoppieren' hat doppel-P: ga-lop-pie-ren."},
+  {"r":"hölzerne","w":"hölzärne","o":["hölzerne","hölzärne","höltzerne","hölzernne"],"k":"b","tipp":"Merksatz: 'hölzern' kommt von 'Holz' und wird mit ö und z geschrieben."},
+  {"r":"Burgtor","w":"Burktor","o":["Burgtor","Burktor","Burgdor","Burgtohr"],"k":"b","tipp":"Merksatz: Die Burg endet auf g – Probe: die Burgen, das Burg-Tor."}
+]},
+{"s":1,"satz":"Der freundliche König lädt die tapferen Ritter zu einem fröhlichen Festessen ein.","f":[
+  {"r":"freundliche","w":"freindliche","o":["freundliche","freindliche","fröindliche","freundlige"],"k":"b","tipp":"Merksatz: 'freundlich' kommt von 'Freund' und wird mit eu geschrieben."},
+  {"r":"König","w":"Könich","o":["König","Könich","Köhnig","Köönig"],"k":"b","tipp":"Merksatz: Der König endet auf '-ig' – Probe: die Könige."},
+  {"r":"Festessen","w":"Fesdessen","o":["Festessen","Fesdessen","Festesen","Festässen"],"k":"b","tipp":"Merksatz: 'Fest' schreibt man mit t und 'Essen' mit doppel-S: Fest-es-sen."}
+]},
+{"s":1,"satz":"Die mutige Burgfrau verteidigt mit dem Bogen die Zugbrücke gegen die wilden Räuber des Waldes.","f":[
+  {"r":"verteidigt","w":"ferteidigt","o":["verteidigt","ferteidigt","verteidicht","vertaidigt"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-tei-digt."},
+  {"r":"Räuber","w":"Reuber","o":["Räuber","Reuber","Räuper","Rauber"],"k":"b","tipp":"Merksatz: 'Räuber' kommt von 'rauben' und wird mit äu geschrieben."},
+  {"r":"Zugbrücke","w":"Zugbrüke","o":["Zugbrücke","Zugbrüke","Zuchbrücke","Zugbrügge"],"k":"b","tipp":"Merksatz: Nach kurzem ü steht ck: Brü-cke, Zug-brü-cke."}
+]},
+{"s":1,"satz":"Der riesige Drache speit glühende Flammen und verbrennt fast den Federbusch des Ritters.","f":[
+  {"r":"riesige","w":"risige","o":["riesige","risige","riesiege","riessige"],"k":"b","tipp":"Merksatz: 'riesig' schreibt man mit ie (langes i): rie-sig."},
+  {"r":"glühende","w":"glüende","o":["glühende","glüende","glühände","glüühende"],"k":"b","tipp":"Merksatz: 'glühen' hat ein Dehnungs-h nach dem ü: glü-hen-de."},
+  {"r":"verbrennt","w":"ferbrennt","o":["verbrennt","ferbrennt","verbrent","verbrännt"],"k":"b","tipp":"Merksatz: 'ver-' mit v, und 'brennen' mit doppel-N: ver-brennt."}
+]},
+{"s":1,"satz":"Beim Schwertkampf trainiert der junge Ritter seine starken Muskeln jeden frühen Morgen.","f":[
+  {"r":"Schwertkampf","w":"Schwertkampff","o":["Schwertkampf","Schwertkampff","Schwerdkampf","Shwertkampf"],"k":"b","tipp":"Merksatz: 'Kampf' endet auf pf: Schwert-kampf."},
+  {"r":"trainiert","w":"trainirt","o":["trainiert","trainirt","trainniert","drainiert"],"k":"b","tipp":"Merksatz: 'trainieren' schreibt man mit ie: trai-nie-ren."},
+  {"r":"Muskeln","w":"Muschkeln","o":["Muskeln","Muschkeln","Muskelln","Muskkeln"],"k":"b","tipp":"Merksatz: 'Muskeln' schreibt man mit sk ohne ck: Mus-keln."}
+]},
+{"s":2,"satz":"Am Morgen putzt der fleißige Knappe die glänzende Rüstung des müden Ritters.","f":[
+  {"r":"Knappe","w":"knappe","o":["Knappe","knappe","Knape","knape"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Knappe' steht mit dem Begleiter 'der'."},
+  {"r":"putzt","w":"Putzt","o":["putzt","Putzt","putzd","Putzd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'putzen' schreibt man klein."},
+  {"r":"fleißige","w":"fleisige","o":["fleißige","fleisige","flaißige","fleißieche"],"k":"b","tipp":"Regel: 'fleißig' schreibt man mit ß: flei-ßig."}
+]},
+{"s":2,"satz":"Hinter der dicken Burgmauer versteckt der schlaue Ritter seinen wertvollen Schatz.","f":[
+  {"r":"Burgmauer","w":"burgmauer","o":["Burgmauer","burgmauer","Burgmaoer","Burchmauer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Burgmauer' steht mit dem Begleiter 'der'."},
+  {"r":"versteckt","w":"Versteckt","o":["versteckt","Versteckt","versteckd","Versteckd"],"k":"g","tipp":"Regel: Verben (Tunwörter) wie 'verstecken' schreibt man klein."},
+  {"r":"wertvollen","w":"werdvollen","o":["wertvollen","werdvollen","wertfollen","wertvolen"],"k":"b","tipp":"Regel: 'Wert' schreibt man mit t – Probe: die Werte."}
+]},
+{"s":2,"satz":"In der Nacht bewacht der treue Ritter mit dem scharfen Schwert das schlafende Schloss.","f":[
+  {"r":"Nacht","w":"nacht","o":["Nacht","nacht","Nachd","nachd"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Nacht' hat den Begleiter 'die'."},
+  {"r":"bewacht","w":"Bewacht","o":["bewacht","Bewacht","bewachd","Bewachd"],"k":"g","tipp":"Regel: Verben wie 'bewachen' schreibt man klein."},
+  {"r":"scharfen","w":"sharfen","o":["scharfen","sharfen","scharffen","scharven"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: schar-fen."}
+]},
+{"s":2,"satz":"Der König überreicht dem mutigen Ritter eine goldene Medaille für seinen großen Sieg.","f":[
+  {"r":"König","w":"könig","o":["König","könig","Könich","köönig"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der König' steht mit dem Begleiter 'der'."},
+  {"r":"überreicht","w":"Überreicht","o":["überreicht","Überreicht","überraicht","Überraicht"],"k":"g","tipp":"Regel: Verben wie 'überreichen' schreibt man klein."},
+  {"r":"goldene","w":"goltene","o":["goldene","goltene","goldäne","golldene"],"k":"b","tipp":"Regel: 'golden' kommt von 'Gold' und wird mit d geschrieben."}
+]},
+{"s":2,"satz":"Über die schmale Zugbrücke trampelt das schwere Pferd des stolzen Ritters.","f":[
+  {"r":"Zugbrücke","w":"zugbrücke","o":["Zugbrücke","zugbrücke","Zugbrüke","Zuchbrücke"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Zugbrücke' hat den Begleiter 'die'."},
+  {"r":"trampelt","w":"Trampelt","o":["trampelt","Trampelt","trampeld","Trampeld"],"k":"g","tipp":"Regel: Verben wie 'trampeln' schreibt man klein."},
+  {"r":"schmale","w":"schmahle","o":["schmale","schmahle","schmalle","schmaale"],"k":"b","tipp":"Regel: 'schmal' schreibt man ohne Dehnungs-h: schma-le."}
+]},
+{"s":2,"satz":"Beim Turnier wirft der tollpatschige Ritter seine Lanze versehentlich in den Burggraben.","f":[
+  {"r":"Turnier","w":"turnier","o":["Turnier","turnier","Turnir","Durnier"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Turnier'."},
+  {"r":"wirft","w":"Wirft","o":["wirft","Wirft","wirfd","Wirfd"],"k":"g","tipp":"Regel: Verben wie 'werfen' schreibt man klein."},
+  {"r":"versehentlich","w":"fersehentlich","o":["versehentlich","fersehentlich","versähentlich","versehentlig"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-se-hent-lich."}
+]},
+{"s":2,"satz":"Der mutige Drachenkämpfer poliert sein Schild und prüft die scharfe Klinge.","f":[
+  {"r":"Schild","w":"schild","o":["Schild","schild","Schilt","schilt"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'sein Schild' steht mit dem Begleiter 'sein'."},
+  {"r":"poliert","w":"Poliert","o":["poliert","Poliert","polirt","Polirt"],"k":"g","tipp":"Regel: Verben wie 'polieren' schreibt man klein."},
+  {"r":"scharfe","w":"sharfe","o":["scharfe","sharfe","scharffe","scharve"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: schar-fe."}
+]},
+{"s":2,"satz":"In der großen Halle tanzen die fröhlichen Ritter mit den eleganten Burgfräulein.","f":[
+  {"r":"Halle","w":"halle","o":["Halle","halle","Hale","Hallä"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Halle' steht mit dem Begleiter 'der'."},
+  {"r":"tanzen","w":"Tanzen","o":["tanzen","Tanzen","tanssen","Tanssen"],"k":"g","tipp":"Regel: Verben wie 'tanzen' schreibt man klein."},
+  {"r":"fröhlichen","w":"fröllichen","o":["fröhlichen","fröllichen","frölichen","fröhligen"],"k":"b","tipp":"Regel: 'fröhlich' hat ein Dehnungs-h nach dem ö: fröh-lich."}
+]},
+{"s":2,"satz":"Der listige Ritter besiegt den schnaubenden Drachen mit einem cleveren Trick.","f":[
+  {"r":"Ritter","w":"ritter","o":["Ritter","ritter","Riter","Rittär"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Ritter' hat den Begleiter 'der'."},
+  {"r":"besiegt","w":"Besiegt","o":["besiegt","Besiegt","besiegd","Besiegd"],"k":"g","tipp":"Regel: Verben wie 'besiegen' schreibt man klein."},
+  {"r":"schnaubenden","w":"schnaobenden","o":["schnaubenden","schnaobenden","schnaubändän","schnaubendän"],"k":"b","tipp":"Regel: 'schnauben' schreibt man mit au: schnau-ben."}
+]},
+{"s":2,"satz":"Hoch oben im Turm wartet die Prinzessin auf ihren tapferen Ritter.","f":[
+  {"r":"Turm","w":"turm","o":["Turm","turm","Durm","Turmm"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'dem Turm' steht mit dem Begleiter 'im' (in dem)."},
+  {"r":"wartet","w":"Wartet","o":["wartet","Wartet","wartät","Wartät"],"k":"g","tipp":"Regel: Verben wie 'warten' schreibt man klein."},
+  {"r":"Prinzessin","w":"Prinzesin","o":["Prinzessin","Prinzesin","Prinssessin","Brinzessin"],"k":"b","tipp":"Regel: Die Prinzessin hat doppel-S: Prin-zes-sin."}
+]},
+{"s":2,"satz":"Mit lautem Getöse kämpfen die starken Ritter um den glänzenden Siegerpokal.","f":[
+  {"r":"Ritter","w":"ritter","o":["Ritter","ritter","Riter","Rittär"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Ritter' hat den Begleiter 'die'."},
+  {"r":"kämpfen","w":"Kämpfen","o":["kämpfen","Kämpfen","kempfen","Kempfen"],"k":"g","tipp":"Regel: Verben wie 'kämpfen' schreibt man klein."},
+  {"r":"glänzenden","w":"glenzenden","o":["glänzenden","glenzenden","glänzändän","glänzendän"],"k":"b","tipp":"Regel: 'glänzen' kommt von 'Glanz' und wird mit ä geschrieben."}
+]},
+{"s":2,"satz":"Am Abend erzählt der alte Ritter den Kindern eine spannende Drachengeschichte.","f":[
+  {"r":"Ritter","w":"ritter","o":["Ritter","ritter","Riter","Rittär"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Ritter'."},
+  {"r":"erzählt","w":"erzehlt","o":["erzählt","erzehlt","erzält","erzähld"],"k":"b","tipp":"Regel: 'erzählen' kommt von 'Erzählung' und wird mit ä geschrieben."},
+  {"r":"spannende","w":"Spannende","o":["spannende","Spannende","spannände","Spannände"],"k":"g","tipp":"Regel: Adjektive wie 'spannend' schreibt man klein."}
+]},
+{"s":3,"satz":"Im Burghof üben die Ritter mit Schwertern, Lanzen und schweren Streitäxten.","f":[
+  {"r":"Schwertern,","w":"Schwertern","o":["Schwertern,","Schwertern","Schwertern;","Schwertern."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Ritter","w":"ritter","o":["Ritter","ritter","Riter","Rittär"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Ritter'."},
+  {"r":"schweren","w":"schwehren","o":["schweren","schwehren","schwären","schweeren"],"k":"b","tipp":"Regel: 'schwer' schreibt man ohne Dehnungs-h: schwe-ren."}
+]},
+{"s":3,"satz":"Der Ritter zieht sein Schwert, weil der gefährliche Drache aus der Höhle kriecht.","f":[
+  {"r":"Schwert,","w":"Schwert","o":["Schwert,","Schwert","Schwert;","Schwert."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Drache","w":"drache","o":["Drache","drache","Trache","Drachä"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Drache' hat den Begleiter 'der'."},
+  {"r":"gefährliche","w":"geferliche","o":["gefährliche","geferliche","gefärliche","gefährlige"],"k":"b","tipp":"Regel: 'gefährlich' kommt von 'Gefahr' und wird mit ä geschrieben."}
+]},
+{"s":3,"satz":"Die Burgfrau weiß, dass der mutige Ritter heute vom langen Kreuzzug heimkehrt.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Ritter","w":"ritter","o":["Ritter","ritter","Riter","Rittär"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Ritter'."},
+  {"r":"langen","w":"Langen","o":["langen","Langen","langän","Langän"],"k":"g","tipp":"Regel: Adjektive wie 'lang' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Ritter, der die mächtige Burg verteidigt, trägt eine silberne Rüstung.","f":[
+  {"r":"Ritter,","w":"Ritter","o":["Ritter,","Ritter","Ritter;","Ritter."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'der' wird mit Kommas eingeschlossen: 'Der Ritter, der ... verteidigt, trägt ...'."},
+  {"r":"mächtige","w":"mechtige","o":["mächtige","mechtige","mächtieche","mäschtige"],"k":"b","tipp":"Regel: 'mächtig' kommt von 'Macht' und wird mit ä geschrieben."},
+  {"r":"silberne","w":"Silberne","o":["silberne","Silberne","silbärne","Silbärne"],"k":"g","tipp":"Regel: Adjektive wie 'silbern' schreibt man klein."}
+]},
+{"s":3,"satz":"Das Turnier ist fast vorbei, aber der jüngste Ritter kämpft immer noch tapfer.","f":[
+  {"r":"vorbei,","w":"vorbei","o":["vorbei,","vorbei","vorbei;","vorbei."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"Turnier","w":"turnier","o":["Turnier","turnier","Turnir","Durnier"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Turnier'."},
+  {"r":"jüngste","w":"jüngsste","o":["jüngste","jüngsste","jünkste","jüngsde"],"k":"b","tipp":"Regel: 'jüngste' kommt von 'jung' und wird mit einem s und t geschrieben."}
+]},
+{"s":3,"satz":"Wenn die Sonne aufgeht, reiten die Ritter zum festlichen Turnier auf die Wiese.","f":[
+  {"r":"aufgeht,","w":"aufgeht","o":["aufgeht,","aufgeht","aufgeht;","aufgeht."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma: 'Wenn ..., reiten ...'."},
+  {"r":"Ritter","w":"ritter","o":["Ritter","ritter","Riter","Rittär"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Ritter'."},
+  {"r":"festlichen","w":"fästlichen","o":["festlichen","fästlichen","festligen","fesdlichen"],"k":"b","tipp":"Regel: 'festlich' kommt von 'Fest' und wird mit e geschrieben."}
+]},
+{"s":3,"satz":"Der Drache freut sich, obwohl der Ritter ihm die letzte Goldmünze stiehlt.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Drache","w":"drache","o":["Drache","drache","Trache","Drachä"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Drache'."},
+  {"r":"letzte","w":"lezte","o":["letzte","lezte","letztä","lätzte"],"k":"b","tipp":"Regel: Nach kurzem e steht tz: letz-te."}
+]},
+{"s":3,"satz":"Der König befiehlt, dass die Ritter die alte Burg vor den Räubern schützen.","f":[
+  {"r":"befiehlt,","w":"befiehlt","o":["befiehlt,","befiehlt","befiehlt;","befiehlt."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"alte","w":"Alte","o":["alte","Alte","allte","alde"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'alt' schreibt man klein."},
+  {"r":"Räubern","w":"Reubern","o":["Räubern","Reubern","Räupern","Raubern"],"k":"b","tipp":"Regel: 'Räuber' kommt von 'rauben' und wird mit äu geschrieben."}
+]},
+{"s":3,"satz":"Der Knappe staunt, als der riesige Drache plötzlich freundlich mit dem Schwanz wedelt.","f":[
+  {"r":"staunt,","w":"staunt","o":["staunt,","staunt","staunt;","staunt."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'als' steht ein Komma."},
+  {"r":"Knappe","w":"knappe","o":["Knappe","knappe","Knape","knappä"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Knappe'."},
+  {"r":"freundlich","w":"freindlich","o":["freundlich","freindlich","fröindlich","freundlig"],"k":"b","tipp":"Regel: 'freundlich' kommt von 'Freund' und wird mit eu geschrieben."}
+]},
+{"s":3,"satz":"Für das Festmahl bringen die Diener Braten, Kuchen und süße Trauben in den Saal.","f":[
+  {"r":"Braten,","w":"Braten","o":["Braten,","Braten","Braten;","Braten."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"süße","w":"Süße","o":["süße","Süße","süßä","Süßä"],"k":"g","tipp":"Regel: Adjektive wie 'süß' schreibt man klein."},
+  {"r":"Festmahl","w":"Festmal","o":["Festmahl","Festmal","Fesdmahl","Festmaal"],"k":"b","tipp":"Regel: 'Mahl' (das Essen) hat ein Dehnungs-h: Fest-mahl."}
+]},
+{"s":3,"satz":"Der tapfere Ritter klettert auf die Mauer, weil der freche Drache seinen Helm geklaut hat.","f":[
+  {"r":"Mauer,","w":"Mauer","o":["Mauer,","Mauer","Mauer;","Mauer."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"freche","w":"Freche","o":["freche","Freche","frechä","Frechä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'frech' schreibt man klein, wenn sie nicht am Satzanfang stehen."},
+  {"r":"tapfere","w":"tapffere","o":["tapfere","tapffere","dapfere","tapferre"],"k":"b","tipp":"Regel: 'tapfer' schreibt man mit einem f und pf: tap-fer."}
+]},
+{"s":3,"satz":"Für das große Turnier braucht der Ritter seine Lanze, sein Schwert und seinen bunten Schild.","f":[
+  {"r":"Lanze,","w":"Lanze","o":["Lanze,","Lanze","Lanze;","Lanze."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Ritter","w":"ritter","o":["Ritter","ritter","Riter","Rittär"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Ritter'."},
+  {"r":"Schwert","w":"Shwert","o":["Schwert","Shwert","Schwerd","Schwärt"],"k":"b","tipp":"Regel: 'Schwert' beginnt mit sch und endet auf t: Schwert."}
+]}
+]

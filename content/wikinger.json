@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Das bunte Drachenboot gleitet über das ruhige Wasser zur fernen Insel hinaus.","f":[
+  {"r":"Drachenboot","w":"Drachenbot","o":["Drachenboot","Drachenbot","Drahenboot","Drachenbooth"],"k":"b","tipp":"Merksatz: Das Boot hat doppel-O: Boot, Dra-chen-boot."},
+  {"r":"gleitet","w":"glaitet","o":["gleitet","glaitet","gleited","gleittet"],"k":"b","tipp":"Merksatz: 'gleiten' schreibt man mit ei: glei-ten."},
+  {"r":"ruhige","w":"ruige","o":["ruhige","ruige","ruhiege","ruuhige"],"k":"b","tipp":"Merksatz: 'ruhig' hat ein Dehnungs-h: ru-hig."}
+]},
+{"s":1,"satz":"Der freundliche Wikinger trägt einen glänzenden Helm mit zwei gebogenen Hörnern.","f":[
+  {"r":"freundliche","w":"freuntliche","o":["freundliche","freuntliche","fröindliche","freundlieche"],"k":"b","tipp":"Merksatz: 'Freund' endet auf d – Probe: die Freunde, freund-lich."},
+  {"r":"glänzenden","w":"glenzenden","o":["glänzenden","glenzenden","glänzänden","glänzndenn"],"k":"b","tipp":"Merksatz: 'glänzen' kommt von 'Glanz' und wird mit ä geschrieben."},
+  {"r":"Helm","w":"Hellm","o":["Helm","Hellm","Helem","Hälm"],"k":"b","tipp":"Merksatz: 'Helm' hat nur ein l: Helm."}
+]},
+{"s":1,"satz":"Mit langem Bart segelt der mutige Entdecker über das wilde Nordmeer nach Hause.","f":[
+  {"r":"segelt","w":"seegelt","o":["segelt","seegelt","sägelt","segeld"],"k":"b","tipp":"Merksatz: 'segeln' kommt von 'Segel' mit einem e: se-gelt."},
+  {"r":"mutige","w":"muttige","o":["mutige","muttige","mudige","mutiege"],"k":"b","tipp":"Merksatz: 'mutig' kommt von 'Mut' und hat nur ein t: mu-tig."},
+  {"r":"Nordmeer","w":"Nortmeer","o":["Nordmeer","Nortmeer","Nordmehr","Nordmer"],"k":"b","tipp":"Merksatz: 'Nord' endet auf d – Probe: der Norden, Nord-meer."}
+]},
+{"s":1,"satz":"Im großen Becher schwappt der süße Met und kitzelt den langen Bart des Häuptlings.","f":[
+  {"r":"Becher","w":"Bächer","o":["Becher","Bächer","Bechher","Becherr"],"k":"b","tipp":"Merksatz: 'Becher' schreibt man mit e und ch: Be-cher."},
+  {"r":"schwappt","w":"schwapt","o":["schwappt","schwapt","schwabbt","schwappd"],"k":"b","tipp":"Merksatz: 'schwappen' hat doppel-P: schwap-pen."},
+  {"r":"süße","w":"süsse","o":["süße","süsse","sühße","sühse"],"k":"b","tipp":"Merksatz: 'süß' schreibt man mit ß: sü-ße."}
+]},
+{"s":1,"satz":"Die fleißigen Wikinger schleppen den glitzernden Schatz vorsichtig vom Strand ins Dorf.","f":[
+  {"r":"fleißigen","w":"fleisigen","o":["fleißigen","fleisigen","flaißigen","fleißiegen"],"k":"b","tipp":"Merksatz: 'fleißig' schreibt man mit ß: flei-ßig."},
+  {"r":"glitzernden","w":"glizernden","o":["glitzernden","glizernden","glitzärnden","glittzernden"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: glit-zern."},
+  {"r":"vorsichtig","w":"forsichtig","o":["vorsichtig","forsichtig","vorsichdig","vorsiechtig"],"k":"b","tipp":"Merksatz: 'vor-' schreibt man immer mit v: vor-sichtig."}
+]},
+{"s":1,"satz":"Der lustige Steuermann lenkt das schaukelnde Boot geschickt durch die hohen Wellen.","f":[
+  {"r":"Steuermann","w":"Steiermann","o":["Steuermann","Steiermann","Steuerman","Stoyermann"],"k":"b","tipp":"Merksatz: 'Steuer' schreibt man mit eu: Steu-er-mann."},
+  {"r":"schaukelnde","w":"schaokelnde","o":["schaukelnde","schaokelnde","schaukälnde","schauckelnde"],"k":"b","tipp":"Merksatz: 'schaukeln' schreibt man mit au: schau-keln."},
+  {"r":"geschickt","w":"geschikt","o":["geschickt","geschikt","geschickd","geschiekt"],"k":"b","tipp":"Merksatz: 'geschickt' schreibt man mit ck: ge-schickt."}
+]},
+{"s":1,"satz":"Am felsigen Ufer sammeln die staunenden Kinder bunte Muscheln neben dem alten Drachenboot.","f":[
+  {"r":"felsigen","w":"felzigen","o":["felsigen","felzigen","felsiegen","fellsigen"],"k":"b","tipp":"Merksatz: 'felsig' kommt von 'Fels' und wird mit s geschrieben."},
+  {"r":"Muscheln","w":"Musheln","o":["Muscheln","Musheln","Muschäln","Muschelln"],"k":"b","tipp":"Merksatz: Die Muschel hat ein sch: Mu-schel."},
+  {"r":"staunenden","w":"staonenden","o":["staunenden","staonenden","schtaunenden","staunändän"],"k":"b","tipp":"Merksatz: 'staunen' schreibt man mit au: stau-nen."}
+]},
+{"s":1,"satz":"Der bärtige Häuptling erzählt am wärmenden Feuer eine spannende Geschichte über ferne Länder.","f":[
+  {"r":"bärtige","w":"bertige","o":["bärtige","bertige","bärtiege","bährtige"],"k":"b","tipp":"Merksatz: 'bärtig' kommt von 'Bart' und wird mit ä geschrieben."},
+  {"r":"wärmenden","w":"wermenden","o":["wärmenden","wermenden","wärmändän","wärrmenden"],"k":"b","tipp":"Merksatz: 'wärmen' kommt von 'warm' und wird mit ä geschrieben."},
+  {"r":"Geschichte","w":"Geschiechte","o":["Geschichte","Geschiechte","Geschichd","Geschihte"],"k":"b","tipp":"Merksatz: 'Geschichte' schreibt man mit ch: Ge-schich-te."}
+]},
+{"s":1,"satz":"Mit kräftigen Armen rudern die starken Wikinger ihr Drachenboot gegen den frischen Wind.","f":[
+  {"r":"kräftigen","w":"kreftigen","o":["kräftigen","kreftigen","kräftiegen","kräfftigen"],"k":"b","tipp":"Merksatz: 'kräftig' kommt von 'Kraft' und wird mit ä geschrieben."},
+  {"r":"rudern","w":"ruddern","o":["rudern","ruddern","rudärn","ruhdern"],"k":"b","tipp":"Merksatz: 'rudern' hat nur ein d: ru-dern."},
+  {"r":"frischen","w":"frishen","o":["frischen","frishen","frischän","frrischen"],"k":"b","tipp":"Merksatz: 'frisch' endet auf sch: fri-schen Wind."}
+]},
+{"s":1,"satz":"Der neugierige Wikinger sammelt am Strand glänzende Münzen und schöne Bernsteine.","f":[
+  {"r":"neugierige","w":"neugirige","o":["neugierige","neugirige","neugieriege","neukierige"],"k":"b","tipp":"Merksatz: 'neugierig' schreibt man mit ie: neu-gie-rig."},
+  {"r":"sammelt","w":"samelt","o":["sammelt","samelt","sammeld","zammelt"],"k":"b","tipp":"Merksatz: 'sammeln' hat doppel-M: sam-meln."},
+  {"r":"Münzen","w":"Münssen","o":["Münzen","Münssen","Müntzen","Münzän"],"k":"b","tipp":"Merksatz: 'Münze' schreibt man mit z: Mün-ze, Mün-zen."}
+]},
+{"s":1,"satz":"In der kalten Nacht leuchten die hellen Sterne über dem schlafenden Wikingerdorf hell.","f":[
+  {"r":"leuchten","w":"loichten","o":["leuchten","loichten","leichten","leuchden"],"k":"b","tipp":"Merksatz: 'leuchten' schreibt man mit eu: leuch-ten."},
+  {"r":"Sterne","w":"Schterne","o":["Sterne","Schterne","Stärne","Sternne"],"k":"b","tipp":"Merksatz: 'Stern' beginnt mit st, gesprochen wie 'scht': Ster-ne."},
+  {"r":"schlafenden","w":"schlaffenden","o":["schlafenden","schlaffenden","schlahfenden","schlafändän"],"k":"b","tipp":"Merksatz: 'schlafen' hat nur ein f: schla-fen."}
+]},
+{"s":1,"satz":"Der tapfere Entdecker zeichnet eine genaue Karte von der neuen grünen Insel im Westen.","f":[
+  {"r":"tapfere","w":"tapffere","o":["tapfere","tapffere","dapfere","tapferre"],"k":"b","tipp":"Merksatz: 'tapfer' schreibt man mit einem f und pf: tap-fer."},
+  {"r":"zeichnet","w":"zaichnet","o":["zeichnet","zaichnet","zeichned","zeihnet"],"k":"b","tipp":"Merksatz: 'zeichnen' schreibt man mit ei: zeich-nen."},
+  {"r":"genaue","w":"genaoe","o":["genaue","genaoe","genauhe","genauä"],"k":"b","tipp":"Merksatz: 'genau' schreibt man mit au: ge-nau-e."}
+]},
+{"s":2,"satz":"Am Morgen stechen die mutigen Wikinger mit ihrem schnellen Drachenboot in See.","f":[
+  {"r":"Wikinger","w":"wikinger","o":["Wikinger","wikinger","Wickinger","Wikingär"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Wikinger'."},
+  {"r":"mutigen","w":"Mutigen","o":["mutigen","Mutigen","muttigen","mudigen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'mutig' schreibt man klein."},
+  {"r":"schnellen","w":"schnelen","o":["schnellen","schnelen","schnällen","schnellän"],"k":"b","tipp":"Regel: 'schnell' braucht doppel-L: schnel-len."}
+]},
+{"s":2,"satz":"Der weise Häuptling hebt seinen Becher und feiert mit dem Dorf ein fröhliches Fest.","f":[
+  {"r":"Häuptling","w":"häuptling","o":["Häuptling","häuptling","Heuptling","Häuptlink"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Häuptling'."},
+  {"r":"feiert","w":"Feiert","o":["feiert","Feiert","faiert","feierd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'feiern' schreibt man klein."},
+  {"r":"fröhliches","w":"fröliches","o":["fröhliches","fröliches","fröhlieches","frööhliches"],"k":"b","tipp":"Regel: 'fröhlich' hat ein Dehnungs-h: fröh-lich."}
+]},
+{"s":2,"satz":"Mit lautem Gejohle entdecken die Wikinger eine grüne Insel hinter dem dichten Nebel.","f":[
+  {"r":"Gejohle","w":"gejohle","o":["Gejohle","gejohle","Gejole","Gejohlle"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Gejohle'."},
+  {"r":"entdecken","w":"Entdecken","o":["entdecken","Entdecken","entdeken","entdeckän"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'entdecken' schreibt man klein."},
+  {"r":"dichten","w":"dichden","o":["dichten","dichden","diechten","dichtän"],"k":"b","tipp":"Regel: 'dicht' schreibt man mit ch und t: dich-ten."}
+]},
+{"s":2,"satz":"Der starke Schmied baut aus glühendem Eisen einen prächtigen Helm für den Anführer.","f":[
+  {"r":"Schmied","w":"schmied","o":["Schmied","schmied","Schmiet","Schmidd"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Schmied'."},
+  {"r":"glühendem","w":"Glühendem","o":["glühendem","Glühendem","glüendem","glühändem"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'glühend' schreibt man klein."},
+  {"r":"prächtigen","w":"prechtigen","o":["prächtigen","prechtigen","brächtigen","prächtiegen"],"k":"b","tipp":"Regel: 'prächtig' kommt von 'Pracht' und wird mit ä geschrieben."}
+]},
+{"s":2,"satz":"Im wilden Sturm hält der ruhige Steuermann das schwankende Boot tapfer auf Kurs.","f":[
+  {"r":"Sturm","w":"sturm","o":["Sturm","sturm","Schturm","Sturmm"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Sturm'."},
+  {"r":"ruhige","w":"Ruhige","o":["ruhige","Ruhige","ruige","ruhiege"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'ruhig' schreibt man klein."},
+  {"r":"schwankende","w":"schwankänd","o":["schwankende","schwankänd","schwangende","schwankendä"],"k":"b","tipp":"Regel: 'schwanken' endet auf '-kende': schwan-kende."}
+]},
+{"s":2,"satz":"Beim großen Fest singen die Wikinger laut und tanzen um das lodernde Lagerfeuer.","f":[
+  {"r":"Fest","w":"fest","o":["Fest","fest","Fäst","Fesst"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Fest'."},
+  {"r":"singen","w":"Singen","o":["singen","Singen","zingen","singän"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'singen' schreibt man klein."},
+  {"r":"lodernde","w":"lodärnde","o":["lodernde","lodärnde","loddernde","loderndä"],"k":"b","tipp":"Regel: 'lodern' schreibt man mit e: lo-dern-de."}
+]},
+{"s":2,"satz":"Der listige Entdecker versteckt seine wertvolle Truhe tief unter dem alten Segel.","f":[
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","versteckd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-steckt."},
+  {"r":"wertvolle","w":"Wertvolle","o":["wertvolle","Wertvolle","wertfolle","wärtvolle"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'wertvoll' schreibt man klein."},
+  {"r":"Truhe","w":"truhe","o":["Truhe","truhe","True","Truhhe"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Truhe'."}
+]},
+{"s":2,"satz":"Am sonnigen Strand reparieren die geschickten Wikinger ihr buntes Segel mit dicken Nadeln.","f":[
+  {"r":"reparieren","w":"reparirn","o":["reparieren","reparirn","repariehren","repparieren"],"k":"b","tipp":"Regel: 'reparieren' schreibt man mit ie: re-pa-rie-ren."},
+  {"r":"Segel","w":"segel","o":["Segel","segel","Sägel","Segell"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Segel'."},
+  {"r":"buntes","w":"Buntes","o":["buntes","Buntes","bundtes","buntdes"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'bunt' schreibt man klein."}
+]},
+{"s":2,"satz":"Der lange Bart des Häuptlings flattert lustig im kalten Wind über dem grauen Meer.","f":[
+  {"r":"Bart","w":"bart","o":["Bart","bart","Bard","Barrt"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Bart'."},
+  {"r":"lustig","w":"Lustig","o":["lustig","Lustig","lusstig","lusdig"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'lustig' schreibt man klein."},
+  {"r":"kalten","w":"kallten","o":["kalten","kallten","kaltän","kahlten"],"k":"b","tipp":"Regel: 'kalt' hat nur ein l: kal-ten."}
+]},
+{"s":2,"satz":"Mit einem fröhlichen Lied begrüßen die Wikinger das ferne Land am hellen Horizont.","f":[
+  {"r":"Lied","w":"lied","o":["Lied","lied","Liet","Liehd"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Lied'."},
+  {"r":"begrüßen","w":"begrüssen","o":["begrüßen","begrüssen","begrühßen","begrüsen"],"k":"b","tipp":"Regel: 'begrüßen' schreibt man mit ß: be-grü-ßen."},
+  {"r":"ferne","w":"Ferne","o":["ferne","Ferne","färne","fernne"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'fern' schreibt man klein."}
+]},
+{"s":2,"satz":"Der kleine Junge bestaunt den prächtigen Helm und putzt die glänzenden Hörner blank.","f":[
+  {"r":"Junge","w":"junge","o":["Junge","junge","Jungge","Junke"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Junge'."},
+  {"r":"prächtigen","w":"prechtigen","o":["prächtigen","prechtigen","brächtigen","prächtiegen"],"k":"b","tipp":"Regel: 'prächtig' kommt von 'Pracht' und wird mit ä geschrieben."},
+  {"r":"glänzenden","w":"Glänzenden","o":["glänzenden","Glänzenden","glenzenden","glänzändän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'glänzend' schreibt man klein."}
+]},
+{"s":2,"satz":"In der ruhigen Bucht ankern die müden Wikinger und braten frische Fische am Feuer.","f":[
+  {"r":"Bucht","w":"bucht","o":["Bucht","bucht","Buht","Buchd"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Bucht'."},
+  {"r":"ankern","w":"Ankern","o":["ankern","Ankern","anckern","ankärn"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'ankern' schreibt man klein."},
+  {"r":"frische","w":"frishe","o":["frische","frishe","frischä","frrische"],"k":"b","tipp":"Regel: 'frisch' endet auf sch: fri-sche Fische."}
+]},
+{"s":3,"satz":"Der mutige Wikinger segelt los, weil er eine ferne Insel entdecken möchte.","f":[
+  {"r":"los,","w":"los","o":["los,","los","los;","los."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"mutige","w":"Mutige","o":["mutige","Mutige","muttige","mudige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'mutig' schreibt man klein."},
+  {"r":"ferne","w":"färne","o":["ferne","färne","fernne","fehrne"],"k":"b","tipp":"Regel: 'fern' schreibt man mit e: fer-ne Insel."}
+]},
+{"s":3,"satz":"Im Drachenboot stapeln die Wikinger glänzende Truhen, Felle und Pelze, bevor sie heimwärts segeln.","f":[
+  {"r":"Truhen,","w":"Truhen","o":["Truhen,","Truhen","Truhen;","Truhen."],"k":"k","tipp":"Regel: In einer Aufzählung steht zwischen den Gliedern ein Komma."},
+  {"r":"stapeln","w":"Stapeln","o":["stapeln","Stapeln","schtapeln","stapelln"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'stapeln' schreibt man klein."},
+  {"r":"glänzende","w":"glenzende","o":["glänzende","glenzende","glänzändä","glänntzende"],"k":"b","tipp":"Regel: 'glänzen' kommt von 'Glanz' und wird mit ä geschrieben."}
+]},
+{"s":3,"satz":"Der bärtige Häuptling lacht laut, weil sein Becher voller süßem Met steht.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"bärtige","w":"Bärtige","o":["bärtige","Bärtige","bertige","bährtige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'bärtig' schreibt man klein."},
+  {"r":"süßem","w":"süssem","o":["süßem","süssem","süßäm","sühßem"],"k":"b","tipp":"Regel: 'süß' schreibt man mit ß: sü-ßem Met."}
+]},
+{"s":3,"satz":"Die Wikinger rudern kräftig, obwohl der starke Wind hohe Wellen vor sich her treibt.","f":[
+  {"r":"kräftig,","w":"kräftig","o":["kräftig,","kräftig","kräftig;","kräftig."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"starke","w":"Starke","o":["starke","Starke","schtarke","starcke"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'stark' schreibt man klein."},
+  {"r":"hohe","w":"hoche","o":["hohe","hoche","hohhe","hoohe"],"k":"b","tipp":"Regel: 'hoch' wird vor Wellen zu 'hohe' ohne ch: ho-he."}
+]},
+{"s":3,"satz":"Der junge Entdecker zeichnet die Karte, damit das Dorf den Weg zur Insel findet.","f":[
+  {"r":"Karte,","w":"Karte","o":["Karte,","Karte","Karte;","Karte."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"junge","w":"Junge","o":["junge","Junge","junke","jungge"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'jung' schreibt man klein."},
+  {"r":"zeichnet","w":"zaichnet","o":["zeichnet","zaichnet","zeichned","zeihnet"],"k":"b","tipp":"Regel: 'zeichnen' schreibt man mit ei: zeich-nen."}
+]},
+{"s":3,"satz":"Wenn der Nebel sich lichtet, steuern die Wikinger ihr Drachenboot sicher in die Bucht.","f":[
+  {"r":"lichtet,","w":"lichtet","o":["lichtet,","lichtet","lichtet;","lichtet."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'wenn' vorne, folgt danach ein Komma."},
+  {"r":"steuern","w":"Steuern","o":["steuern","Steuern","steiern","steuärn"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'steuern' schreibt man klein."},
+  {"r":"sicher","w":"siecher","o":["sicher","siecher","zicher","sichär"],"k":"b","tipp":"Regel: 'sicher' schreibt man mit i und ch: si-cher."}
+]},
+{"s":3,"satz":"Der listige Wikinger packt Brot, Äpfel und Käse ein, bevor die lange Reise beginnt.","f":[
+  {"r":"Brot,","w":"Brot","o":["Brot,","Brot","Brot;","Brot."],"k":"k","tipp":"Regel: In einer Aufzählung steht zwischen den Gliedern ein Komma."},
+  {"r":"listige","w":"Listige","o":["listige","Listige","lisstige","lisdige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'listig' schreibt man klein."},
+  {"r":"Käse","w":"Kese","o":["Käse","Kese","Kähse","Käsze"],"k":"b","tipp":"Regel: 'Käse' schreibt man mit ä: Kä-se."}
+]},
+{"s":3,"satz":"Die fröhlichen Wikinger feiern am Strand, weil sie den verlorenen Schatz gefunden haben.","f":[
+  {"r":"Strand,","w":"Strand","o":["Strand,","Strand","Strand;","Strand."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"fröhlichen","w":"Fröhlichen","o":["fröhlichen","Fröhlichen","frölichen","fröhliechen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'fröhlich' schreibt man klein."},
+  {"r":"verlorenen","w":"ferlorenen","o":["verlorenen","ferlorenen","verlohrenen","verlorennen"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-lorenen."}
+]},
+{"s":3,"satz":"Der alte Steuermann erzählt eine Sage, die von einem riesigen Seeungeheuer handelt.","f":[
+  {"r":"Sage,","w":"Sage","o":["Sage,","Sage","Sage;","Sage."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'die' steht ein Komma."},
+  {"r":"alte","w":"Alte","o":["alte","Alte","allte","alde"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'alt' schreibt man klein."},
+  {"r":"riesigen","w":"risigen","o":["riesigen","risigen","riesiegen","riessigen"],"k":"b","tipp":"Regel: 'riesig' schreibt man mit ie (langes i): rie-sig."}
+]},
+{"s":3,"satz":"Wenn das Drachenboot ankommt, begrüßen die Kinder mit lautem Jubel die heimkehrenden Wikinger.","f":[
+  {"r":"ankommt,","w":"ankommt","o":["ankommt,","ankommt","ankommt;","ankommt."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'wenn' vorne, folgt danach ein Komma."},
+  {"r":"begrüßen","w":"begrüssen","o":["begrüßen","begrüssen","begrühßen","begrüsen"],"k":"b","tipp":"Regel: 'begrüßen' schreibt man mit ß: be-grü-ßen."},
+  {"r":"Jubel","w":"jubel","o":["Jubel","jubel","Jubbel","Juubel"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Jubel'."}
+]},
+{"s":3,"satz":"Der starke Wikinger hebt den schweren Schild, damit der kalte Regen ihn nicht trifft.","f":[
+  {"r":"Schild,","w":"Schild","o":["Schild,","Schild","Schild;","Schild."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"schweren","w":"Schweren","o":["schweren","Schweren","schwären","schwehren"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schwer' schreibt man klein."},
+  {"r":"kalte","w":"kallte","o":["kalte","kallte","kaltä","kahlte"],"k":"b","tipp":"Regel: 'kalt' hat nur ein l: kal-te."}
+]},
+{"s":3,"satz":"Der freundliche Häuptling teilt den Met, weil das ganze Dorf seinen Geburtstag feiert.","f":[
+  {"r":"Met,","w":"Met","o":["Met,","Met","Met;","Met."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"freundliche","w":"Freundliche","o":["freundliche","Freundliche","freuntliche","fröindliche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'freundlich' schreibt man klein."},
+  {"r":"ganze","w":"gantze","o":["ganze","gantze","gannze","ganse"],"k":"b","tipp":"Regel: 'ganz' schreibt man mit z, nicht mit tz: gan-ze."}
+]}
+]

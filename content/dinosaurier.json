@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der hungrige Tyrannosaurus brüllt laut und stampft durch den dichten Urwald.","f":[
+  {"r":"Tyrannosaurus","w":"Tirannosaurus","o":["Tyrannosaurus","Tirannosaurus","Tyranosaurus","Tyrannosaorus"],"k":"b","tipp":"Merksatz: Der Tyrannosaurus beginnt mit Ty und hat doppel-N: Ty-ran-no-saurus."},
+  {"r":"brüllt","w":"brült","o":["brüllt","brült","prüllt","brülld"],"k":"b","tipp":"Merksatz: Wer laut brüllt, braucht doppel-L: brül-len."},
+  {"r":"stampft","w":"schtampft","o":["stampft","schtampft","stampfd","sdampft"],"k":"b","tipp":"Merksatz: 'St' spricht man 'Scht', schreibt es aber immer mit St: stampfen."}
+]},
+{"s":1,"satz":"Der gemütliche Stegosaurus knabbert genüsslich an grünen saftigen Farnen.","f":[
+  {"r":"Stegosaurus","w":"Stegosaorus","o":["Stegosaurus","Stegosaorus","Stegossaurus","Schtegosaurus"],"k":"b","tipp":"Merksatz: Der Saurus endet auf '-saurus' mit au: Stego-saurus."},
+  {"r":"knabbert","w":"knabert","o":["knabbert","knabert","gnabbert","knabberd"],"k":"b","tipp":"Merksatz: Nach kurzem Vokal steht doppel-B: knab-bern."},
+  {"r":"saftigen","w":"saftiegen","o":["saftigen","saftiegen","safdigen","sapftigen"],"k":"b","tipp":"Merksatz: 'saftig' kommt von 'Saft' – kurzes i, kein ie."}
+]},
+{"s":1,"satz":"Der riesige Vulkan spuckt glühende Lava über das urzeitliche heiße Land.","f":[
+  {"r":"riesige","w":"risige","o":["riesige","risige","riesiege","riessige"],"k":"b","tipp":"Merksatz: 'riesig' spricht man mit langem i – darum mit ie: rie-sig."},
+  {"r":"Vulkan","w":"Fulkan","o":["Vulkan","Fulkan","Vulkahn","Wulkan"],"k":"b","tipp":"Merksatz: Der Vulkan beginnt mit V, wie 'Vater'."},
+  {"r":"glühende","w":"glüende","o":["glühende","glüende","glühände","klühende"],"k":"b","tipp":"Merksatz: 'glühen' hat ein Dehnungs-h: glü-hen."}
+]},
+{"s":1,"satz":"Die mutige Forscherin findet ein verstecktes Fossil im harten grauen Stein.","f":[
+  {"r":"Forscherin","w":"Vorscherin","o":["Forscherin","Vorscherin","Forscherinn","Forscherrin"],"k":"b","tipp":"Merksatz: 'Forscherin' kommt von 'forschen' und beginnt mit f."},
+  {"r":"verstecktes","w":"ferstecktes","o":["verstecktes","ferstecktes","verstektes","versteggtes"],"k":"b","tipp":"Merksatz: Die Vorsilbe 'ver-' schreibt man immer mit v."},
+  {"r":"Fossil","w":"Fosil","o":["Fossil","Fosil","Vossil","Fossiel"],"k":"b","tipp":"Merksatz: Nach kurzem o steht doppel-S: Fos-sil."}
+]},
+{"s":1,"satz":"Der lange Brachiosaurus reckt seinen Hals und frisst Blätter vom hohen Baum.","f":[
+  {"r":"Brachiosaurus","w":"Brachiosaorus","o":["Brachiosaurus","Brachiosaorus","Brachiossaurus","Brachiosauros"],"k":"b","tipp":"Merksatz: Der Saurus endet auf '-saurus' mit au."},
+  {"r":"reckt","w":"rekt","o":["reckt","rekt","regt","reckd"],"k":"b","tipp":"Merksatz: Nach kurzem Vokal steht ck: re-cken."},
+  {"r":"frisst","w":"frist","o":["frisst","frist","frißt","frisßt"],"k":"b","tipp":"Merksatz: Nach kurzem i steht doppel-S: fris-sen, er frisst."}
+]},
+{"s":1,"satz":"In der Urzeit legen viele Dinosaurier ihre runden Dinoeier ins warme Nest.","f":[
+  {"r":"Urzeit","w":"Uhrzeit","o":["Urzeit","Uhrzeit","Urzait","Urzeitt"],"k":"b","tipp":"Merksatz: Die Urzeit ist uralt und schreibt sich ohne h: Ur-zeit."},
+  {"r":"Dinosaurier","w":"Dinosaorier","o":["Dinosaurier","Dinosaorier","Dinosaurrier","Dinnosaurier"],"k":"b","tipp":"Merksatz: Der Saurier hat au und ier: Dino-saur-ier."},
+  {"r":"Dinoeier","w":"Dinoeyer","o":["Dinoeier","Dinoeyer","Dinoeiar","Dinnoeier"],"k":"b","tipp":"Merksatz: Die Eier schreibt man mit ei: Dino-ei-er."}
+]},
+{"s":1,"satz":"Der schnelle Velociraptor pirscht leise durch das hohe trockene Gras.","f":[
+  {"r":"schnelle","w":"shnelle","o":["schnelle","shnelle","schnellä","schnele"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit sch: schnell."},
+  {"r":"pirscht","w":"pirsht","o":["pirscht","pirsht","birscht","pirschd"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit sch: pir-schen."},
+  {"r":"trockene","w":"trokene","o":["trockene","trokene","troggene","drockene"],"k":"b","tipp":"Merksatz: Nach kurzem Vokal steht ck: tro-cken."}
+]},
+{"s":1,"satz":"Der gepanzerte Triceratops senkt seine drei Hörner vor dem großen Felsen.","f":[
+  {"r":"gepanzerte","w":"gepanzärte","o":["gepanzerte","gepanzärte","gepanzerde","gebanzerte"],"k":"b","tipp":"Merksatz: 'panzern' schreibt man mit e: ge-pan-zer-te."},
+  {"r":"Triceratops","w":"Triseratops","o":["Triceratops","Triseratops","Trizeratops","Triceradops"],"k":"b","tipp":"Merksatz: Der Triceratops schreibt sich mit c: Tri-cera-tops."},
+  {"r":"Hörner","w":"Hörnar","o":["Hörner","Hörnar","Hörnerr","Höhrner"],"k":"b","tipp":"Merksatz: 'Hörner' endet auf '-er' wie 'Körner': Hör-ner."}
+]},
+{"s":1,"satz":"Ein staubiger Meteorit rast vom Himmel und kracht in die weite Ebene hinein.","f":[
+  {"r":"staubiger","w":"staobiger","o":["staubiger","staobiger","schtaubiger","staubieger"],"k":"b","tipp":"Merksatz: 'Staub' mit au – wie 'Au, das kitzelt in der Nase'."},
+  {"r":"Meteorit","w":"Meteoriet","o":["Meteorit","Meteoriet","Metheorit","Meteoritt"],"k":"b","tipp":"Merksatz: Der Meteorit endet auf '-rit' ohne ie: Mete-o-rit."},
+  {"r":"kracht","w":"krachd","o":["kracht","krachd","gracht","krachht"],"k":"b","tipp":"Merksatz: 'krachen' endet auf t: es kracht."}
+]},
+{"s":1,"satz":"Der freche Flugsaurier flattert über den Sumpf und schnappt nach einer Libelle.","f":[
+  {"r":"Flugsaurier","w":"Flugsaorier","o":["Flugsaurier","Flugsaorier","Vlugsaurier","Flugsaurrier"],"k":"b","tipp":"Merksatz: Der Saurier hat au: Flug-saur-ier."},
+  {"r":"flattert","w":"flatert","o":["flattert","flatert","vlattert","flatterd"],"k":"b","tipp":"Merksatz: Nach kurzem a steht doppel-T: flat-tern."},
+  {"r":"schnappt","w":"shnappt","o":["schnappt","shnappt","schnapt","schnappd"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit sch: schnap-pen."}
+]},
+{"s":1,"satz":"Tief im Wald brütet das Dinoweibchen geduldig auf seinen großen Eiern.","f":[
+  {"r":"brütet","w":"brühtet","o":["brütet","brühtet","prütet","brütät"],"k":"b","tipp":"Merksatz: 'brüten' schreibt man ohne Dehnungs-h: brü-ten."},
+  {"r":"Dinoweibchen","w":"Dinowaibchen","o":["Dinoweibchen","Dinowaibchen","Dinoweipchen","Dinnoweibchen"],"k":"b","tipp":"Merksatz: 'Weib' schreibt man mit ei: Dino-weib-chen."},
+  {"r":"geduldig","w":"geduldieg","o":["geduldig","geduldieg","getuldig","gedulldig"],"k":"b","tipp":"Merksatz: 'geduldig' kommt von 'Geduld' – kurzes i, kein ie."}
+]},
+{"s":1,"satz":"Der schwere Ankylosaurus schwingt seinen Schwanz und vertreibt den frechen Räuber.","f":[
+  {"r":"Ankylosaurus","w":"Ankilosaurus","o":["Ankylosaurus","Ankilosaurus","Ankylosaorus","Anggylosaurus"],"k":"b","tipp":"Merksatz: Der Ankylosaurus schreibt sich mit y: An-ky-lo-saurus."},
+  {"r":"schwingt","w":"shwingt","o":["schwingt","shwingt","schwingd","schwinkt"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit sch: schwin-gen."},
+  {"r":"vertreibt","w":"fertreibt","o":["vertreibt","fertreibt","vertraibt","vertreipt"],"k":"b","tipp":"Merksatz: Die Vorsilbe 'ver-' schreibt man immer mit v."}
+]},
+{"s":2,"satz":"Am Morgen entdeckt der junge Forscher ein riesiges Dinoskelett im Sand.","f":[
+  {"r":"Forscher","w":"forscher","o":["Forscher","forscher","Vorscher","vorscher"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Forscher' steht mit dem Begleiter 'der'."},
+  {"r":"riesiges","w":"risiges","o":["riesiges","risiges","riesieges","riessiges"],"k":"b","tipp":"Regel: 'riesig' schreibt man mit ie (langes i)."},
+  {"r":"junge","w":"Junge","o":["junge","Junge","jungä","Jungä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'jung' schreibt man klein."}
+]},
+{"s":2,"satz":"Der Tyrannosaurus jagt durch den Wald und sucht sein nächstes Frühstück dort.","f":[
+  {"r":"Tyrannosaurus","w":"tyrannosaurus","o":["Tyrannosaurus","tyrannosaurus","Tyranosaurus","tyranosaurus"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Tyrannosaurus' hat den Begleiter 'der'."},
+  {"r":"jagt","w":"Jagt","o":["jagt","Jagt","jagd","Jagd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'jagen' schreibt man klein."},
+  {"r":"Frühstück","w":"Frühstük","o":["Frühstück","Frühstük","Frühschtück","Frühstügg"],"k":"b","tipp":"Regel: Nach kurzem Vokal steht ck: Früh-stück."}
+]},
+{"s":2,"satz":"In der Urzeit brodelt der Vulkan und spuckt heiße Asche in den Himmel.","f":[
+  {"r":"Vulkan","w":"vulkan","o":["Vulkan","vulkan","Fulkan","fulkan"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Vulkan' steht mit dem Begleiter 'der'."},
+  {"r":"brodelt","w":"Brodelt","o":["brodelt","Brodelt","brodeld","Brodeld"],"k":"g","tipp":"Regel: Verben wie 'brodeln' schreibt man klein."},
+  {"r":"heiße","w":"haiße","o":["heiße","haiße","heisse","heiß"],"k":"b","tipp":"Regel: 'heiß' schreibt man mit ei und ß: hei-ße."}
+]},
+{"s":2,"satz":"Der Stegosaurus stapft langsam zum Fluss und trinkt das kühle Wasser.","f":[
+  {"r":"Stegosaurus","w":"stegosaurus","o":["Stegosaurus","stegosaurus","Stegosaorus","stegosaorus"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Stegosaurus'."},
+  {"r":"stapft","w":"Stapft","o":["stapft","Stapft","stapfd","Stapfd"],"k":"g","tipp":"Regel: Verben (Tunwörter) wie 'stapfen' schreibt man klein."},
+  {"r":"kühle","w":"kühlä","o":["kühle","kühlä","kühlle","kuhle"],"k":"b","tipp":"Regel: 'kühl' schreibt man mit ü und h: küh-le."}
+]},
+{"s":2,"satz":"Die Forscherin gräbt vorsichtig ein altes Fossil aus der harten Erde.","f":[
+  {"r":"Fossil","w":"fossil","o":["Fossil","fossil","Fosil","fosil"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Fossil' steht mit dem Begleiter 'das'."},
+  {"r":"gräbt","w":"Gräbt","o":["gräbt","Gräbt","gräbd","Gräbd"],"k":"g","tipp":"Regel: Verben wie 'graben' schreibt man klein."},
+  {"r":"vorsichtig","w":"vorsichtieg","o":["vorsichtig","vorsichtieg","forsichtig","vorsigtig"],"k":"b","tipp":"Regel: 'vorsichtig' endet auf '-ig' mit kurzem i."}
+]},
+{"s":2,"satz":"Der kleine Dinosaurier schlüpft aus dem Ei und piepst nach seiner Mutter.","f":[
+  {"r":"Dinosaurier","w":"dinosaurier","o":["Dinosaurier","dinosaurier","Dinosaorier","dinosaorier"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Dinosaurier'."},
+  {"r":"schlüpft","w":"Schlüpft","o":["schlüpft","Schlüpft","schlüpfd","Schlüpfd"],"k":"g","tipp":"Regel: Verben wie 'schlüpfen' schreibt man klein."},
+  {"r":"piepst","w":"piebst","o":["piepst","piebst","piepscht","pipst"],"k":"b","tipp":"Regel: 'piepsen' schreibt man mit ie und p: piep-sen."}
+]},
+{"s":2,"satz":"Am Abend schläft der müde Triceratops unter einem großen schützenden Farn.","f":[
+  {"r":"Triceratops","w":"triceratops","o":["Triceratops","triceratops","Triseratops","triseratops"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Triceratops'."},
+  {"r":"müde","w":"Müde","o":["müde","Müde","müdä","Müdä"],"k":"g","tipp":"Regel: Adjektive wie 'müde' schreibt man klein."},
+  {"r":"schützenden","w":"shützenden","o":["schützenden","shützenden","schüzenden","schützänden"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: schüt-zen."}
+]},
+{"s":2,"satz":"Der Flugsaurier gleitet über das Tal und beobachtet die grasenden Herden.","f":[
+  {"r":"Flugsaurier","w":"flugsaurier","o":["Flugsaurier","flugsaurier","Flugsaorier","flugsaorier"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Flugsaurier'."},
+  {"r":"gleitet","w":"Gleitet","o":["gleitet","Gleitet","gleidet","Gleidet"],"k":"g","tipp":"Regel: Verben wie 'gleiten' schreibt man klein."},
+  {"r":"beobachtet","w":"beopachtet","o":["beobachtet","beopachtet","beobachdet","beoobachtet"],"k":"b","tipp":"Regel: 'beobachten' schreibt man mit b: be-ob-ach-ten."}
+]},
+{"s":2,"satz":"Über den Sümpfen kreist der hungrige Raubsaurier und sucht eine fette Beute.","f":[
+  {"r":"Raubsaurier","w":"raubsaurier","o":["Raubsaurier","raubsaurier","Raobsaurier","raobsaurier"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Raubsaurier'."},
+  {"r":"kreist","w":"Kreist","o":["kreist","Kreist","kraist","Kraist"],"k":"g","tipp":"Regel: Verben wie 'kreisen' schreibt man klein."},
+  {"r":"hungrige","w":"hungriege","o":["hungrige","hungriege","hungerige","hungrigge"],"k":"b","tipp":"Regel: In 'hungrig' steckt der 'Hunger' – mit u und kurzem i."}
+]},
+{"s":2,"satz":"Im Museum bestaunt das Kind das gewaltige Skelett eines echten Sauriers.","f":[
+  {"r":"Museum","w":"museum","o":["Museum","museum","Musseum","musseum"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Museum' steht mit dem Begleiter 'das'."},
+  {"r":"bestaunt","w":"Bestaunt","o":["bestaunt","Bestaunt","bestaund","Bestaund"],"k":"g","tipp":"Regel: Verben wie 'bestaunen' schreibt man klein."},
+  {"r":"gewaltige","w":"gewaltiege","o":["gewaltige","gewaltiege","gewalltige","kewaltige"],"k":"b","tipp":"Regel: 'gewaltig' endet auf '-ig' mit kurzem i."}
+]},
+{"s":2,"satz":"Der neugierige Saurier schnüffelt am Boden und gräbt nach versteckten Wurzeln.","f":[
+  {"r":"Saurier","w":"saurier","o":["Saurier","saurier","Saorier","saorier"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Saurier'."},
+  {"r":"schnüffelt","w":"schnüfelt","o":["schnüffelt","schnüfelt","shnüffelt","schnüffeld"],"k":"b","tipp":"Regel: Nach kurzem Vokal steht doppel-F: schnüf-feln."},
+  {"r":"neugierige","w":"Neugierige","o":["neugierige","Neugierige","neugierieg","Neugierieg"],"k":"g","tipp":"Regel: Adjektive wie 'neugierig' schreibt man klein."}
+]},
+{"s":2,"satz":"Der wütende Tyrannosaurus rennt dem flüchtenden Stegosaurus laut brüllend hinterher.","f":[
+  {"r":"Tyrannosaurus","w":"tyrannosaurus","o":["Tyrannosaurus","tyrannosaurus","Tyranosaurus","tyranosaurus"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Tyrannosaurus'."},
+  {"r":"rennt","w":"Rennt","o":["rennt","Rennt","rennd","Rennd"],"k":"g","tipp":"Regel: Verben wie 'rennen' schreibt man klein."},
+  {"r":"flüchtenden","w":"flüchdenden","o":["flüchtenden","flüchdenden","flüchtänden","vlüchtenden"],"k":"b","tipp":"Regel: 'flüchten' schreibt man mit cht: flüch-ten."}
+]},
+{"s":3,"satz":"In der Urzeit lebten Dinosaurier, große Flugsaurier und winzige Insekten.","f":[
+  {"r":"Dinosaurier,","w":"Dinosaurier","o":["Dinosaurier,","Dinosaurier","Dinosaurier;","Dinosaurier."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Urzeit","w":"Uhrzeit","o":["Urzeit","Uhrzeit","Urzait","Urzeitt"],"k":"b","tipp":"Regel: Die Urzeit schreibt man ohne Dehnungs-h: Ur-zeit."},
+  {"r":"große","w":"Große","o":["große","Große","grosse","Grosse"],"k":"g","tipp":"Regel: Adjektive wie 'groß' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Forscher freut sich, weil er ein seltenes Fossil gefunden hat.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Fossil","w":"Fosil","o":["Fossil","Fosil","Vossil","Fossiel"],"k":"b","tipp":"Regel: Nach kurzem o steht doppel-S: Fos-sil."},
+  {"r":"seltenes","w":"Seltenes","o":["seltenes","Seltenes","seltänes","Seltänes"],"k":"g","tipp":"Regel: Adjektive wie 'selten' schreibt man klein."}
+]},
+{"s":3,"satz":"Die Forscherin weiß, dass der Vulkan vor langer Zeit ausgebrochen ist.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Vulkan","w":"vulkan","o":["Vulkan","vulkan","Fulkan","fulkan"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Vulkan'."},
+  {"r":"langer","w":"langä","o":["langer","langä","langger","lannger"],"k":"b","tipp":"Regel: 'lang' schreibt man mit ng und endet auf '-er': lan-ger."}
+]},
+{"s":3,"satz":"Der Tyrannosaurus, der durch den Wald rennt, brüllt furchtbar laut.","f":[
+  {"r":"Tyrannosaurus,","w":"Tyrannosaurus","o":["Tyrannosaurus,","Tyrannosaurus","Tyrannosaurus;","Tyrannosaurus."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'der' wird mit Kommas eingeschlossen."},
+  {"r":"Wald","w":"wald","o":["Wald","wald","Walt","walt"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'den Wald'."},
+  {"r":"furchtbar","w":"furchtbahr","o":["furchtbar","furchtbahr","furchdbar","vurchtbar"],"k":"b","tipp":"Regel: 'furchtbar' schreibt man ohne Dehnungs-h am Ende: furcht-bar."}
+]},
+{"s":3,"satz":"Der Stegosaurus ist riesig, aber der flinke Velociraptor ist viel schneller.","f":[
+  {"r":"riesig,","w":"riesig","o":["riesig,","riesig","riesig;","riesig."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"Stegosaurus","w":"Stegosaorus","o":["Stegosaurus","Stegosaorus","Stegossaurus","Schtegosaurus"],"k":"b","tipp":"Regel: Der Saurus endet auf '-saurus' mit au."},
+  {"r":"flinke","w":"Flinke","o":["flinke","Flinke","flinkä","Flinkä"],"k":"g","tipp":"Regel: Adjektive wie 'flink' schreibt man klein."}
+]},
+{"s":3,"satz":"Wenn der Meteorit einschlägt, fliehen die Dinosaurier in alle Richtungen.","f":[
+  {"r":"einschlägt,","w":"einschlägt","o":["einschlägt,","einschlägt","einschlägt;","einschlägt."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma."},
+  {"r":"Dinosaurier","w":"dinosaurier","o":["Dinosaurier","dinosaurier","Dinosaorier","dinosaorier"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Dinosaurier'."},
+  {"r":"Meteorit","w":"Meteoriet","o":["Meteorit","Meteoriet","Metheorit","Meteoritt"],"k":"b","tipp":"Regel: Der Meteorit endet auf '-rit' ohne ie."}
+]},
+{"s":3,"satz":"Das Dinobaby piept laut, damit seine starke Mutter es schnell findet.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Mutter","w":"mutter","o":["Mutter","mutter","Muter","muter"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Mutter'."},
+  {"r":"starke","w":"schtarke","o":["starke","schtarke","sdarke","starkä"],"k":"b","tipp":"Regel: 'St' spricht man 'Scht', schreibt es aber immer mit St: star-ke."}
+]},
+{"s":3,"satz":"Im Sumpf lauern Krokodile, hungrige Fische und gefährliche Raubsaurier.","f":[
+  {"r":"Krokodile,","w":"Krokodile","o":["Krokodile,","Krokodile","Krokodile;","Krokodile."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"hungrige","w":"hungriege","o":["hungrige","hungriege","hungerige","hungrigge"],"k":"b","tipp":"Regel: In 'hungrig' steckt der 'Hunger' – mit u und kurzem i."},
+  {"r":"gefährliche","w":"Gefährliche","o":["gefährliche","Gefährliche","gefährlichä","Gefährlichä"],"k":"g","tipp":"Regel: Adjektive wie 'gefährlich' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Saurier sucht ein Versteck, obwohl der Vulkan schon laut grollt.","f":[
+  {"r":"Versteck,","w":"Versteck","o":["Versteck,","Versteck","Versteck;","Versteck."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Vulkan","w":"vulkan","o":["Vulkan","vulkan","Fulkan","fulkan"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Vulkan'."},
+  {"r":"Saurier","w":"Saorier","o":["Saurier","Saorier","Saurrier","Saurjer"],"k":"b","tipp":"Regel: Der Saurier hat au: Saur-ier."}
+]},
+{"s":3,"satz":"Das Dinoei wackelt heftig, bevor das winzige Junge endlich herausschlüpft.","f":[
+  {"r":"heftig,","w":"heftig","o":["heftig,","heftig","heftig;","heftig."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bevor' steht ein Komma."},
+  {"r":"Dinoei","w":"dinoei","o":["Dinoei","dinoei","Dinoai","dinoai"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Dinoei'."},
+  {"r":"winzige","w":"winziege","o":["winzige","winziege","winzigge","winnzige"],"k":"b","tipp":"Regel: 'winzig' endet auf '-ig' mit kurzem i."}
+]},
+{"s":3,"satz":"Im Erdboden schlummern Knochen, versteinerte Eier und uralte Pflanzenreste.","f":[
+  {"r":"Knochen,","w":"Knochen","o":["Knochen,","Knochen","Knochen;","Knochen."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"versteinerte","w":"fersteinerte","o":["versteinerte","fersteinerte","verstainerte","versteinärte"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man immer mit v."},
+  {"r":"uralte","w":"Uralte","o":["uralte","Uralte","urallte","uraltä"],"k":"g","tipp":"Regel: Adjektive wie 'uralt' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Velociraptor versteckt sich im Gebüsch, weil der gewaltige Tyrannosaurus naht.","f":[
+  {"r":"Gebüsch,","w":"Gebüsch","o":["Gebüsch,","Gebüsch","Gebüsch;","Gebüsch."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"gewaltige","w":"Gewaltige","o":["gewaltige","Gewaltige","gewaltieg","Gewaltieg"],"k":"g","tipp":"Regel: Adjektive wie 'gewaltig' schreibt man klein."},
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","versteggt"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man immer mit v."}
+]}
+]

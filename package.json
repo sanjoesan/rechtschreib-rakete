@@ -1,0 +1,16 @@
+{
+  "name": "rechtschreib-rakete",
+  "version": "1.0.0",
+  "description": "Rechtschreib-Rakete 🚀 — spielerisches Deutsch-Rechtschreibtraining für Kinder von 8 bis 14",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node --check app.js && node --check data.js && node --check saetze.js",
+    "test": "node --test"
+  },
+  "devDependencies": {
+    "jsdom": "^24.1.3"
+  },
+  "license": "MIT"
+}

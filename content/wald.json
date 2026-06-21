@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Im tiefen Wald sammelt das fröhliche Eichhörnchen leckere Tannenzapfen für den Winter.","f":[
+  {"r":"fröhliche","w":"frööliche","o":["fröhliche","frööliche","fröliche","frölliche"],"k":"b","tipp":"Merksatz: In 'fröhlich' steckt ein Dehnungs-h nach dem ö: frö-h-lich."},
+  {"r":"Eichhörnchen","w":"Eichörnchen","o":["Eichhörnchen","Eichörnchen","Eichhörnschen","Aichhörnchen"],"k":"b","tipp":"Merksatz: Eichhörnchen = Eich + Hörnchen, darum gleich zweimal h: Eich-Hörnchen."},
+  {"r":"Tannenzapfen","w":"Tanenzapfen","o":["Tannenzapfen","Tanenzapfen","Tannenzapffen","Tannenzapven"],"k":"b","tipp":"Merksatz: Die Tanne hat doppel-N wie 'rennen': Tan-nen-zapfen."}
+]},
+{"s":1,"satz":"Der schlaue Fuchs schleicht leise zwischen den moosigen Bäumen umher.","f":[
+  {"r":"schlaue","w":"schlauhe","o":["schlaue","schlauhe","schlaoe","schlawe"],"k":"b","tipp":"Merksatz: 'schlau' endet auf au, ohne ein extra h: schl-au."},
+  {"r":"Fuchs","w":"Fux","o":["Fuchs","Fux","Fuks","Fuchz"],"k":"b","tipp":"Merksatz: Der Fuchs hat 'chs' im Pelz, auch wenn man 'x' hört: Fu-chs."},
+  {"r":"moosigen","w":"mosigen","o":["moosigen","mosigen","moossigen","mohsigen"],"k":"b","tipp":"Merksatz: Das Moos ist weich und doppelt: doppel-O wie in 'Boot'."}
+]},
+{"s":1,"satz":"Das scheue Reh knabbert am Waldrand an saftigen grünen Blättern.","f":[
+  {"r":"scheue","w":"scheuhe","o":["scheue","scheuhe","schaie","schoie"],"k":"b","tipp":"Merksatz: 'scheu' endet auf eu, ohne extra h: sch-eu."},
+  {"r":"Waldrand","w":"Walltrand","o":["Waldrand","Walltrand","Waldtrand","Waldrannd"],"k":"b","tipp":"Merksatz: Waldrand = Wald + Rand, der Wald endet auf d (Probe: des Waldes)."},
+  {"r":"saftigen","w":"safdigen","o":["saftigen","safdigen","saftiegen","saftigän"],"k":"b","tipp":"Merksatz: 'saftig' kommt von 'Saft' mit t: saf-tig."}
+]},
+{"s":1,"satz":"Der freundliche Förster pflanzt im Frühling viele junge Bäume am Hang.","f":[
+  {"r":"freundliche","w":"freundlige","o":["freundliche","freundlige","fröindliche","freundlieche"],"k":"b","tipp":"Merksatz: In 'freundlich' steckt der 'Freund' – mit eu und d."},
+  {"r":"Förster","w":"Förstor","o":["Förster","Förstor","Förrster","Försder"],"k":"b","tipp":"Merksatz: Der Förster arbeitet im Forst und endet auf '-er': Förs-ter."},
+  {"r":"Bäume","w":"Baume","o":["Bäume","Baume","Beume","Bäome"],"k":"b","tipp":"Merksatz: 'Bäume' kommt von 'Baum' – aus au wird äu: B-äu-me."}
+]},
+{"s":1,"satz":"Am weichen Moos wachsen rote Beeren und winzige Pilze zwischen den Wurzeln.","f":[
+  {"r":"weichen","w":"waichen","o":["weichen","waichen","weihen","weiken"],"k":"b","tipp":"Merksatz: 'weich' schreibt man mit ei, nicht mit ai: w-ei-ch."},
+  {"r":"Beeren","w":"Beren","o":["Beeren","Beren","Beehren","Beeern"],"k":"b","tipp":"Merksatz: Beeren wachsen in Massen – darum doppel-E: Be-e-ren."},
+  {"r":"Pilze","w":"Pielze","o":["Pilze","Pielze","Pilse","Pilzze"],"k":"b","tipp":"Merksatz: Der Pilz hat ein kurzes i, kein ie: P-i-lz."}
+]},
+{"s":1,"satz":"Ein lustiger Specht klopft fleißig gegen die dicke Rinde der Eiche.","f":[
+  {"r":"lustiger","w":"lustieger","o":["lustiger","lustieger","lusdiger","lustigger"],"k":"b","tipp":"Merksatz: 'lustig' kommt von 'Lust' mit kurzem u: lus-tig."},
+  {"r":"fleißig","w":"fleisig","o":["fleißig","fleisig","fleißieg","flaißig"],"k":"b","tipp":"Merksatz: 'fleißig' schreibt man mit ß nach dem langen ei: flei-ß-ig."},
+  {"r":"Rinde","w":"Rinte","o":["Rinde","Rinte","Rindte","Ründe"],"k":"b","tipp":"Merksatz: Die Rinde endet weich auf d (Probe: die Rinden): Rin-de."}
+]},
+{"s":1,"satz":"Hinter dem dicken Stamm versteckt sich ein neugieriger kleiner Igel.","f":[
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","versteggt"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
+  {"r":"neugieriger","w":"neugiriger","o":["neugieriger","neugiriger","noigieriger","neugierriger"],"k":"b","tipp":"Merksatz: 'neugierig' kommt von 'Gier' mit ie: neu-gie-rig."},
+  {"r":"kleiner","w":"klainer","o":["kleiner","klainer","kleinor","kleinner"],"k":"b","tipp":"Merksatz: 'klein' schreibt man mit ei, nicht ai: kl-ei-n."}
+]},
+{"s":1,"satz":"Die hungrige Eule lauert auf dem Ast nach einer flinken kleinen Maus.","f":[
+  {"r":"hungrige","w":"hungrieche","o":["hungrige","hungrieche","hungerige","hungrigge"],"k":"b","tipp":"Merksatz: In 'hungrig' steckt der 'Hunger' – mit u und g."},
+  {"r":"lauert","w":"lauhert","o":["lauert","lauhert","lawert","lauerd"],"k":"b","tipp":"Merksatz: 'lauern' endet auf au ohne extra h: la-u-ern."},
+  {"r":"flinken","w":"flingken","o":["flinken","flingken","flinkken","vlinken"],"k":"b","tipp":"Merksatz: 'flink' schreibt man mit nk wie 'trinken': fl-i-nk."}
+]},
+{"s":1,"satz":"Tief im Dickicht plätschert ein klarer Bach über glatte runde Steine.","f":[
+  {"r":"Dickicht","w":"Dikicht","o":["Dickicht","Dikicht","Dickischt","Dickigt"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: Di-ck-icht."},
+  {"r":"plätschert","w":"pletschert","o":["plätschert","pletschert","plätshert","blätschert"],"k":"b","tipp":"Merksatz: 'plätschern' kommt vom Platsch – aus a wird ä: pl-ä-tschern."},
+  {"r":"glatte","w":"glate","o":["glatte","glate","glattte","gladte"],"k":"b","tipp":"Merksatz: Nach kurzem a steht doppel-T: gla-tt-e."}
+]},
+{"s":1,"satz":"Der starke Hirsch röhrt am frühen Morgen laut durch den nebligen Wald.","f":[
+  {"r":"Hirsch","w":"Hirsh","o":["Hirsch","Hirsh","Hürsch","Hirsche"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit drei Buchstaben sch: Hir-sch."},
+  {"r":"röhrt","w":"rört","o":["röhrt","rört","röhrd","röhert"],"k":"b","tipp":"Merksatz: 'röhren' hat ein Dehnungs-h nach dem ö: rö-h-ren."},
+  {"r":"nebligen","w":"neebligen","o":["nebligen","neebligen","nebliegen","nepligen"],"k":"b","tipp":"Merksatz: 'neblig' kommt von 'Nebel' mit kurzem e: neb-lig."}
+]},
+{"s":1,"satz":"Eine fleißige Spinne webt zwischen den Zweigen ihr silbriges Netz.","f":[
+  {"r":"fleißige","w":"fleisige","o":["fleißige","fleisige","flaißige","fleißiege"],"k":"b","tipp":"Merksatz: 'fleißig' schreibt man mit ß nach langem ei: flei-ß-ig."},
+  {"r":"Spinne","w":"Spine","o":["Spinne","Spine","Schpinne","Spinnne"],"k":"b","tipp":"Merksatz: Die Spinne hat doppel-N wie 'rennen': Spi-nne."},
+  {"r":"Zweigen","w":"Zwaigen","o":["Zweigen","Zwaigen","Zwaygen","Zweighen"],"k":"b","tipp":"Merksatz: 'Zweig' schreibt man mit ei, nicht ai: Zw-ei-g."}
+]},
+{"s":1,"satz":"Am Waldweg blühen viele bunte Blumen und summende Bienen tanzen darüber.","f":[
+  {"r":"blühen","w":"blüen","o":["blühen","blüen","blühn","blüuen"],"k":"b","tipp":"Merksatz: 'blühen' hat ein Dehnungs-h nach dem ü: blü-h-en."},
+  {"r":"summende","w":"sumende","o":["summende","sumende","summmende","zummende"],"k":"b","tipp":"Merksatz: Die Biene macht 'summm' – darum doppel-M: su-mm-end."},
+  {"r":"Bienen","w":"Binen","o":["Bienen","Binen","Bieenen","Biennen"],"k":"b","tipp":"Merksatz: Die Biene hat ein langes ie: B-ie-ne."}
+]},
+{"s":2,"satz":"Am Morgen sucht der scheue Fuchs zwischen den Bäumen nach reifen Beeren.","f":[
+  {"r":"Fuchs","w":"fuchs","o":["Fuchs","fuchs","Fux","fux"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Fuchs' steht mit dem Begleiter 'der'."},
+  {"r":"Bäumen","w":"Baumen","o":["Bäumen","Baumen","Beumen","Bäomen"],"k":"b","tipp":"Regel: 'Bäume' kommt von 'Baum' – aus au wird äu: B-äu-men."},
+  {"r":"scheue","w":"Scheue","o":["scheue","Scheue","schoie","Schoie"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'scheu' schreibt man klein."}
+]},
+{"s":2,"satz":"Das kleine Reh frisst im Wald gern das frische Moos am Boden.","f":[
+  {"r":"Wald","w":"wald","o":["Wald","wald","Walt","walt"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'im Wald' steht mit dem Begleiter 'dem'."},
+  {"r":"frisst","w":"Frisst","o":["frisst","Frisst","frist","Frist"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'fressen' schreibt man klein."},
+  {"r":"frische","w":"frishe","o":["frische","frishe","frißche","frichse"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: fri-sch-e."}
+]},
+{"s":2,"satz":"Der freundliche Förster zeigt den Kindern einen seltenen großen Pilz.","f":[
+  {"r":"Förster","w":"förster","o":["Förster","förster","Förstor","förstor"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Förster' hat den Begleiter 'der'."},
+  {"r":"zeigt","w":"Zeigt","o":["zeigt","Zeigt","zeigd","Zeigd"],"k":"g","tipp":"Regel: Verben wie 'zeigen' schreibt man klein."},
+  {"r":"seltenen","w":"seldenen","o":["seltenen","seldenen","selltenen","seltänen"],"k":"b","tipp":"Regel: In der Wortmitte hört man hier 't': sel-ten."}
+]},
+{"s":2,"satz":"Im Herbst fallen die bunten Blätter leise von den hohen Bäumen.","f":[
+  {"r":"Blätter","w":"blätter","o":["Blätter","blätter","Bläter","bläter"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Blätter' steht mit dem Begleiter 'die'."},
+  {"r":"fallen","w":"Fallen","o":["fallen","Fallen","falen","Falen"],"k":"g","tipp":"Regel: Verben (Tunwörter) wie 'fallen' schreibt man klein."},
+  {"r":"hohen","w":"hoen","o":["hohen","hoen","hohän","hohenn"],"k":"b","tipp":"Regel: 'hohen' hat ein Dehnungs-h: ho-h-en."}
+]},
+{"s":2,"satz":"Auf dem Tannenzapfen sitzt das flinke Eichhörnchen und knackt eine harte Nuss mit Genuss.","f":[
+  {"r":"Eichhörnchen","w":"eichhörnchen","o":["Eichhörnchen","eichhörnchen","Eichörnchen","eichörnchen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Eichhörnchen' hat den Begleiter 'das'."},
+  {"r":"Nuss","w":"Nus","o":["Nuss","Nus","Nuß","Nuhs"],"k":"b","tipp":"Regel: Nach kurzem u steht ss: Nu-ss."},
+  {"r":"harte","w":"Harte","o":["harte","Harte","harde","Harde"],"k":"g","tipp":"Regel: Adjektive (Wiewörter) wie 'hart' schreibt man klein."}
+]},
+{"s":2,"satz":"Am Bach trinkt der durstige Hirsch und lauscht dem Plätschern im Moos.","f":[
+  {"r":"Hirsch","w":"hirsch","o":["Hirsch","hirsch","Hirsh","hirsh"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Hirsch' hat den Begleiter 'der'."},
+  {"r":"trinkt","w":"Trinkt","o":["trinkt","Trinkt","trinkd","Trinkd"],"k":"g","tipp":"Regel: Verben wie 'trinken' schreibt man klein."},
+  {"r":"durstige","w":"dursdige","o":["durstige","dursdige","durstiege","turstige"],"k":"b","tipp":"Regel: 'durstig' kommt von 'Durst' mit t: durs-tig."}
+]},
+{"s":2,"satz":"Der Specht zimmert eine warme Höhle hoch oben in die alte Eiche.","f":[
+  {"r":"Höhle","w":"höhle","o":["Höhle","höhle","Höle","höle"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'eine Höhle' steht mit dem Begleiter 'eine'."},
+  {"r":"zimmert","w":"zimert","o":["zimmert","zimert","zimmerd","tsimmert"],"k":"b","tipp":"Regel: 'zimmern' schreibt man mit doppel-M: zi-mm-ern."},
+  {"r":"warme","w":"Warme","o":["warme","Warme","warmä","Warmä"],"k":"g","tipp":"Regel: Adjektive wie 'warm' schreibt man klein."}
+]},
+{"s":2,"satz":"Beim Spazieren entdeckt die Wandergruppe ein verlassenes Vogelnest im dichten Dickicht.","f":[
+  {"r":"Spazieren","w":"spazieren","o":["Spazieren","spazieren","Spaziren","spaziren"],"k":"g","tipp":"Regel: Nach 'beim' wird das Verb zum Nomen und groß geschrieben: beim Spazieren."},
+  {"r":"verlassenes","w":"ferlassenes","o":["verlassenes","ferlassenes","verlasenes","verlassänes"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man immer mit v."},
+  {"r":"Vogelnest","w":"vogelnest","o":["Vogelnest","vogelnest","Vohgelnest","Wogelnest"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'ein Vogelnest' steht mit dem Begleiter 'ein'."}
+]},
+{"s":2,"satz":"Der mutige Wanderer klettert über die nassen Wurzeln hinauf zum Aussichtsturm.","f":[
+  {"r":"Wanderer","w":"wanderer","o":["Wanderer","wanderer","Wanderar","Wandrer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Wanderer' hat den Begleiter 'der'."},
+  {"r":"klettert","w":"kletert","o":["klettert","kletert","kletterd","gletter"],"k":"b","tipp":"Regel: 'klettern' schreibt man mit doppel-T: kle-tt-ern."},
+  {"r":"nassen","w":"Nassen","o":["nassen","Nassen","nasen","Nasen"],"k":"g","tipp":"Regel: Adjektive wie 'nass' schreibt man klein."}
+]},
+{"s":2,"satz":"Im Schatten der Tannen versteckt sich der scheue Dachs in seinem Bau.","f":[
+  {"r":"Schatten","w":"schatten","o":["Schatten","schatten","Schaten","schaten"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'im Schatten' steht mit dem Begleiter 'dem'."},
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","versteggt"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man immer mit v."},
+  {"r":"scheue","w":"Scheue","o":["scheue","Scheue","schoie","Schoie"],"k":"g","tipp":"Regel: Adjektive wie 'scheu' schreibt man klein."}
+]},
+{"s":2,"satz":"Die kleine Ameise schleppt einen riesigen Tannenzapfen zu ihrem hohen Hügel.","f":[
+  {"r":"Ameise","w":"ameise","o":["Ameise","ameise","Ameisse","ameisse"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Ameise' hat den Begleiter 'die'."},
+  {"r":"schleppt","w":"schlept","o":["schleppt","schlept","schlepd","shleppt"],"k":"b","tipp":"Regel: Nach kurzem e steht doppel-P: schle-pp-t."},
+  {"r":"riesigen","w":"risigen","o":["riesigen","risigen","riesiegen","riessigen"],"k":"b","tipp":"Regel: 'riesig' schreibt man mit ie (langes i)."}
+]},
+{"s":2,"satz":"Am Waldrand pflückt das fröhliche Mädchen einen Strauß aus duftenden Kräutern.","f":[
+  {"r":"Mädchen","w":"mädchen","o":["Mädchen","mädchen","Mädschen","Mädchän"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Mädchen' hat den Begleiter 'das'."},
+  {"r":"pflückt","w":"flückt","o":["pflückt","flückt","pflükt","pvlückt"],"k":"b","tipp":"Regel: 'pflücken' beginnt mit pf: p-f-lücken."},
+  {"r":"fröhliche","w":"Fröhliche","o":["fröhliche","Fröhliche","fröliche","Fröliche"],"k":"g","tipp":"Regel: Adjektive wie 'fröhlich' schreibt man klein."}
+]},
+{"s":3,"satz":"Im Wald wachsen Pilze, leuchtende Beeren und weiches grünes Moos.","f":[
+  {"r":"Pilze,","w":"Pilze","o":["Pilze,","Pilze","Pilze;","Pilze."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"leuchtende","w":"loichtende","o":["leuchtende","loichtende","leuchdende","leuchtände"],"k":"b","tipp":"Regel: 'leuchten' schreibt man mit eu: l-eu-chten."},
+  {"r":"weiches","w":"Weiches","o":["weiches","Weiches","waiches","Waiches"],"k":"g","tipp":"Regel: Adjektive wie 'weich' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Fuchs schleicht ganz leise, weil er das schlafende Reh nicht wecken will.","f":[
+  {"r":"leise,","w":"leise","o":["leise,","leise","leise;","leise."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Reh","w":"reh","o":["Reh","reh","Reeh","Rehh"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Reh' hat den Begleiter 'das'."},
+  {"r":"schleicht","w":"shleicht","o":["schleicht","shleicht","schlaicht","schleigt"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: sch-leicht."}
+]},
+{"s":3,"satz":"Der Förster weiß, dass im Herbst viele Pilze unter den Tannen sprießen werden.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Herbst","w":"herbst","o":["Herbst","herbst","Herpst","Herbsd"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'im Herbst' steht mit dem Begleiter 'dem'."},
+  {"r":"sprießen","w":"spriesen","o":["sprießen","spriesen","schprießen","sprißen"],"k":"b","tipp":"Regel: Nach langem ie steht hier ß: sprie-ß-en."}
+]},
+{"s":3,"satz":"Das alte Moos, das weich und kühl ist, bedeckt den dicken Stein am Bach.","f":[
+  {"r":"Moos,","w":"Moos","o":["Moos,","Moos","Moos;","Moos."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'das' wird mit Kommas eingeschlossen: 'Das Moos, das ..., bedeckt ...'."},
+  {"r":"Stein","w":"stein","o":["Stein","stein","Schtein","Stain"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'den Stein' steht mit dem Begleiter 'den'."},
+  {"r":"bedeckt","w":"bedekt","o":["bedeckt","bedekt","bedeggt","beteckt"],"k":"b","tipp":"Regel: Nach kurzem e steht ck: bede-ck-t."}
+]},
+{"s":3,"satz":"Der Hirsch ist sehr scheu, aber das junge Reh bleibt ganz ruhig stehen.","f":[
+  {"r":"scheu,","w":"scheu","o":["scheu,","scheu","scheu;","scheu."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"junge","w":"Junge","o":["junge","Junge","junnge","Junnge"],"k":"g","tipp":"Regel: Adjektive wie 'jung' schreibt man klein."},
+  {"r":"Hirsch","w":"Hirsh","o":["Hirsch","Hirsh","Hürsch","Hirschd"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: Hir-sch."}
+]},
+{"s":3,"satz":"Wenn der Nebel über die Wiese zieht, verschwinden die Bäume im weichen Grau.","f":[
+  {"r":"zieht,","w":"zieht","o":["zieht,","zieht","zieht;","zieht."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma: 'Wenn ..., verschwinden ...'."},
+  {"r":"Nebel","w":"nebel","o":["Nebel","nebel","Neebel","Nepel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Nebel' hat den Begleiter 'der'."},
+  {"r":"weichen","w":"waichen","o":["weichen","waichen","weihen","weiken"],"k":"b","tipp":"Regel: 'weich' schreibt man mit ei, nicht ai: w-ei-chen."}
+]},
+{"s":3,"satz":"Das Eichhörnchen klettert flink den Stamm hinauf, damit der Marder es nicht erwischt.","f":[
+  {"r":"hinauf,","w":"hinauf","o":["hinauf,","hinauf","hinauf;","hinauf."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"flink","w":"Flink","o":["flink","Flink","vlink","Vlink"],"k":"g","tipp":"Regel: Adjektive wie 'flink' schreibt man klein."},
+  {"r":"Stamm","w":"Stam","o":["Stamm","Stam","Schtamm","Stammm"],"k":"b","tipp":"Regel: Nach kurzem a steht doppel-M: Sta-mm."}
+]},
+{"s":3,"satz":"Der Förster freut sich, weil heute viele junge Tannen gepflanzt werden.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Tannen","w":"tannen","o":["Tannen","tannen","Tanen","tanen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'viele Tannen' sind Namenwörter."},
+  {"r":"gepflanzt","w":"geflanzt","o":["gepflanzt","geflanzt","gepvlanzt","gepflanst"],"k":"b","tipp":"Regel: 'pflanzen' beginnt mit pf: ge-p-f-lanzt."}
+]},
+{"s":3,"satz":"Im Sommer summen Bienen, flattern Schmetterlinge und zwitschern fröhliche Vögel.","f":[
+  {"r":"Bienen,","w":"Bienen","o":["Bienen,","Bienen","Bienen;","Bienen."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"flattern","w":"flatern","o":["flattern","flatern","fladtern","vlattern"],"k":"b","tipp":"Regel: Nach kurzem a steht doppel-T: fla-tt-ern."},
+  {"r":"fröhliche","w":"Fröhliche","o":["fröhliche","Fröhliche","fröliche","Fröliche"],"k":"g","tipp":"Regel: Adjektive wie 'fröhlich' schreibt man klein."}
+]},
+{"s":3,"satz":"Die Eule wartet geduldig, bis die kleine Maus aus ihrem Versteck huscht.","f":[
+  {"r":"geduldig,","w":"geduldig","o":["geduldig,","geduldig","geduldig;","geduldig."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bis' steht ein Komma."},
+  {"r":"Eule","w":"eule","o":["Eule","eule","Oile","Eulle"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Eule' hat den Begleiter 'die'."},
+  {"r":"Versteck","w":"Fersteck","o":["Versteck","Fersteck","Verstek","Versteckk"],"k":"b","tipp":"Regel: Das Wort 'Versteck' beginnt mit der Vorsilbe 'ver-' und wird mit v geschrieben."}
+]},
+{"s":3,"satz":"Der Dachs gräbt seinen Bau tief in die Erde, obwohl der Boden steinig ist.","f":[
+  {"r":"Erde,","w":"Erde","o":["Erde,","Erde","Erde;","Erde."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"gräbt","w":"grebt","o":["gräbt","grebt","gräpt","greebt"],"k":"b","tipp":"Regel: 'gräbt' kommt von 'graben' – aus a wird ä: gr-ä-bt."},
+  {"r":"steinig","w":"Steinig","o":["steinig","Steinig","stainig","Stainig"],"k":"g","tipp":"Regel: Adjektive wie 'steinig' schreibt man klein."}
+]},
+{"s":3,"satz":"Am Lagerfeuer erzählt der Förster spannende Geschichten, wenn die Sonne untergeht.","f":[
+  {"r":"Geschichten,","w":"Geschichten","o":["Geschichten,","Geschichten","Geschichten;","Geschichten."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"spannende","w":"spanende","o":["spannende","spanende","schpannende","spannännde"],"k":"b","tipp":"Regel: Nach kurzem a steht doppel-N: spa-nn-end."},
+  {"r":"Sonne","w":"sonne","o":["Sonne","sonne","Sone","sone"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Sonne' hat den Begleiter 'die'."}
+]}
+]

@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der schlaue Pirat versteckt die alte Schatzkarte tief unten im rechten Stiefel ganz heimlich.","f":[
+  {"r":"schlaue","w":"schlaoe","o":["schlaue","schlaoe","shlaue","schlauä"],"k":"b","tipp":"Merksatz: 'schlau' schreibt man mit au: schlau, der schlau-e."},
+  {"r":"Schatzkarte","w":"Schazkarte","o":["Schatzkarte","Schazkarte","Schatzkahrte","Schatzkarde"],"k":"b","tipp":"Merksatz: Nach kurzem a steht tz: Scha-tz, Schatz-kar-te."},
+  {"r":"Stiefel","w":"Stifel","o":["Stiefel","Stifel","Stieffel","Schtiefel"],"k":"b","tipp":"Merksatz: Der Stiefel schreibt man mit ie: Stie-fel."}
+]},
+{"s":1,"satz":"Auf der Schulter des Kapitäns sitzt der freche Papagei und krächzt sehr laut.","f":[
+  {"r":"Schulter","w":"Schultär","o":["Schulter","Schultär","Shulter","Schuldter"],"k":"b","tipp":"Merksatz: Die Schulter schreibt man mit sch: Schul-ter."},
+  {"r":"Kapitäns","w":"Kapitens","o":["Kapitäns","Kapitens","Kapietäns","Gapitäns"],"k":"b","tipp":"Merksatz: Der Kapitän schreibt man mit ä: Ka-pi-tän, des Ka-pi-täns."},
+  {"r":"Papagei","w":"Papagai","o":["Papagei","Papagai","Babagei","Papaggei"],"k":"b","tipp":"Merksatz: Der Papagei endet auf '-gei' mit ei: Pa-pa-gei."}
+]},
+{"s":1,"satz":"Der alte Seeräuber stapft mit dem hölzernen Holzbein über das schwankende Deck.","f":[
+  {"r":"Seeräuber","w":"Seereuber","o":["Seeräuber","Seereuber","Seeräuper","Seräuber"],"k":"b","tipp":"Merksatz: 'Räuber' kommt von 'rauben' und wird mit äu geschrieben."},
+  {"r":"hölzernen","w":"hölzärnen","o":["hölzernen","hölzärnen","höltzernen","hölzerneen"],"k":"b","tipp":"Merksatz: 'hölzern' kommt von 'Holz' und wird mit ö und z geschrieben."},
+  {"r":"schwankende","w":"shwankende","o":["schwankende","shwankende","schwankänden","schwanckende"],"k":"b","tipp":"Merksatz: 'schwanken' schreibt man mit sch und nk: schwan-ken."}
+]},
+{"s":1,"satz":"Mit der schwarzen Augenklappe schaut der grimmige Pirat über das weite Meer.","f":[
+  {"r":"schwarzen","w":"schwartzen","o":["schwarzen","schwartzen","shwarzen","schwarssen"],"k":"b","tipp":"Merksatz: 'schwarz' schreibt man mit einfachem z: schwarz, die schwar-zen."},
+  {"r":"Augenklappe","w":"Augenklape","o":["Augenklappe","Augenklape","Aogenklappe","Augenglappe"],"k":"b","tipp":"Merksatz: Die Klappe hat doppel-P: Klap-pe, Augen-klap-pe."},
+  {"r":"grimmige","w":"grimige","o":["grimmige","grimige","grimmiege","krimmige"],"k":"b","tipp":"Merksatz: 'grimmig' hat doppel-M: grim-mig, der grim-mi-ge."}
+]},
+{"s":1,"satz":"Die schweren Kanonen donnern laut und schießen bunte Konfettikugeln in die Luft.","f":[
+  {"r":"schweren","w":"shweren","o":["schweren","shweren","schwehren","schwären"],"k":"b","tipp":"Merksatz: 'schwer' beginnt mit sch: schwe-ren."},
+  {"r":"Kanonen","w":"Kannonen","o":["Kanonen","Kannonen","Kanohnen","Ganonen"],"k":"b","tipp":"Merksatz: Die Kanone hat nur ein n in der Mitte: Ka-no-ne."},
+  {"r":"schießen","w":"schiesen","o":["schießen","schiesen","schiessen","shießen"],"k":"b","tipp":"Merksatz: 'schießen' schreibt man nach langem ie mit ß: schie-ßen."}
+]},
+{"s":1,"satz":"Hoch im Mastkorb hält der mutige Matrose nach fremden Segelschiffen Ausschau.","f":[
+  {"r":"Mastkorb","w":"Masdkorb","o":["Mastkorb","Masdkorb","Mastkorp","Mastgorb"],"k":"b","tipp":"Merksatz: Der Mast endet auf t und 'Korb' auf b: Mast-korb."},
+  {"r":"Matrose","w":"Madrose","o":["Matrose","Madrose","Matrohse","Matrosse"],"k":"b","tipp":"Merksatz: Der Matrose schreibt man mit t und einem s: Ma-tro-se."},
+  {"r":"Segelschiffen","w":"Segelshiffen","o":["Segelschiffen","Segelshiffen","Segelschifen","Seegelschiffen"],"k":"b","tipp":"Merksatz: Das Schiff hat doppel-F: Schiff, Segel-schif-fen."}
+]},
+{"s":1,"satz":"In der hölzernen Truhe glitzert die wertvolle Beute aus blanken Goldmünzen und Perlen.","f":[
+  {"r":"Truhe","w":"True","o":["Truhe","True","Truhä","Druhe"],"k":"b","tipp":"Merksatz: Die Truhe hat ein Dehnungs-h: Tru-he."},
+  {"r":"wertvolle","w":"werdvolle","o":["wertvolle","werdvolle","wertfolle","wertvole"],"k":"b","tipp":"Merksatz: 'Wert' endet auf t – Probe: die Werte, wert-voll."},
+  {"r":"Goldmünzen","w":"Goltmünzen","o":["Goldmünzen","Goltmünzen","Goldmünssen","Goldmünzän"],"k":"b","tipp":"Merksatz: 'Gold' endet auf d – Probe: die goldene Münze."}
+]},
+{"s":1,"satz":"Auf der einsamen Insel sucht der Pirat unter der hohen Palme das vergrabene Gold.","f":[
+  {"r":"einsamen","w":"ainsamen","o":["einsamen","ainsamen","einnsamen","einsahmen"],"k":"b","tipp":"Merksatz: 'einsam' schreibt man mit ei: ein-sam, der ein-sa-me."},
+  {"r":"vergrabene","w":"fergrabene","o":["vergrabene","fergrabene","vergrahbene","vergrabäne"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-gra-ben."},
+  {"r":"Palme","w":"Pallme","o":["Palme","Pallme","Palmä","Balme"],"k":"b","tipp":"Merksatz: Die Palme hat nur ein l: Pal-me."}
+]},
+{"s":1,"satz":"Der hungrige Schiffskoch kocht eine dampfende Suppe in dem riesigen Kessel.","f":[
+  {"r":"hungrige","w":"hungrieche","o":["hungrige","hungrieche","hungerige","hungrigge"],"k":"b","tipp":"Merksatz: In 'hungrig' steckt der 'Hunger' – mit u und g."},
+  {"r":"Schiffskoch","w":"Shiffskoch","o":["Schiffskoch","Shiffskoch","Schifskoch","Schiffskoh"],"k":"b","tipp":"Merksatz: Das Schiff hat doppel-F: Schiff, Schiffs-koch."},
+  {"r":"Suppe","w":"Supe","o":["Suppe","Supe","Subbe","Suppä"],"k":"b","tipp":"Merksatz: Die Suppe hat doppel-P: Sup-pe."}
+]},
+{"s":1,"satz":"Mit einem lauten Brüllen entert die fröhliche Mannschaft das fremde Handelsschiff am Morgen.","f":[
+  {"r":"Brüllen","w":"Brülen","o":["Brüllen","Brülen","Brühllen","Prüllen"],"k":"b","tipp":"Merksatz: 'brüllen' hat doppel-L: brül-len, das Brül-len."},
+  {"r":"fröhliche","w":"frölliche","o":["fröhliche","frölliche","frölische","fröhlige"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h nach dem ö: fröh-lich."},
+  {"r":"Handelsschiff","w":"Handelsshiff","o":["Handelsschiff","Handelsshiff","Handelsschif","Handälsschiff"],"k":"b","tipp":"Merksatz: 'Handel' und 'Schiff' treffen sich: Handels-schiff mit dreimal s-Lauten."}
+]},
+{"s":1,"satz":"Der freche Schiffsjunge klettert flink an dem dicken Tau zur knatternden Flagge.","f":[
+  {"r":"freche","w":"fräche","o":["freche","fräche","frechä","fräsche"],"k":"b","tipp":"Merksatz: 'frech' schreibt man mit e: fre-che."},
+  {"r":"klettert","w":"kletert","o":["klettert","kletert","glettert","kletteert"],"k":"b","tipp":"Merksatz: 'klettern' hat doppel-T: klet-tern, er klet-tert."},
+  {"r":"knatternden","w":"knaternden","o":["knatternden","knaternden","gnatternden","knattärnden"],"k":"b","tipp":"Merksatz: 'knattern' hat doppel-T: knat-tern."}
+]},
+{"s":1,"satz":"Im Bauch des Schiffes versteckt sich der seekranke Pirat hinter den vollen Fässern leise.","f":[
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstäckt","versteckd"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-steckt."},
+  {"r":"seekranke","w":"sekranke","o":["seekranke","sekranke","seekrancke","seekrangke"],"k":"b","tipp":"Merksatz: 'See' schreibt man mit doppel-E: See, see-krank."},
+  {"r":"Fässern","w":"Fessern","o":["Fässern","Fessern","Fässärn","Fäsern"],"k":"b","tipp":"Merksatz: Das Fass schreibt man mit ä in der Mehrzahl: Fass, die Fäs-ser."}
+]},
+{"s":2,"satz":"Am Morgen entrollt der Pirat die alte Schatzkarte auf dem nassen Deck.","f":[
+  {"r":"Pirat","w":"pirat","o":["Pirat","pirat","Pierat","Birat"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Pirat' steht mit dem Begleiter 'der'."},
+  {"r":"entrollt","w":"Entrollt","o":["entrollt","Entrollt","entrolt","Entrolt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'entrollen' schreibt man klein."},
+  {"r":"Schatzkarte","w":"Schazkarte","o":["Schatzkarte","Schazkarte","Schatzkahrte","Schatzkarde"],"k":"b","tipp":"Regel: Nach kurzem a steht tz: Schatz, Schatz-kar-te."}
+]},
+{"s":2,"satz":"Auf dem Holzbein des Käpt'ns tanzt der bunte Papagei einen lustigen Hüpftanz.","f":[
+  {"r":"Papagei","w":"papagei","o":["Papagei","papagei","Papagai","Babagei"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Papagei' steht mit dem Begleiter 'der'."},
+  {"r":"tanzt","w":"Tanzt","o":["tanzt","Tanzt","tansst","Tansst"],"k":"g","tipp":"Regel: Verben wie 'tanzen' schreibt man klein."},
+  {"r":"lustigen","w":"lusdigen","o":["lustigen","lusdigen","lustieken","lusttigen"],"k":"b","tipp":"Regel: 'lustig' schreibt man mit st: lus-tig."}
+]},
+{"s":2,"satz":"Tief unten im Laderaum bewacht der treue Schiffshund die kostbare Beute.","f":[
+  {"r":"Schiffshund","w":"schiffshund","o":["Schiffshund","schiffshund","Schiffshunt","Schifshund"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Schiffshund' steht mit dem Begleiter 'der'."},
+  {"r":"bewacht","w":"Bewacht","o":["bewacht","Bewacht","bewachd","Bewachd"],"k":"g","tipp":"Regel: Verben wie 'bewachen' schreibt man klein."},
+  {"r":"kostbare","w":"kosdbare","o":["kostbare","kosdbare","kostpare","kosstbare"],"k":"b","tipp":"Regel: 'kostbar' kommt von 'kosten' und wird mit st geschrieben."}
+]},
+{"s":2,"satz":"Mit einem lauten Knall feuern die alten Kanonen bunte Seifenblasen ab.","f":[
+  {"r":"Kanonen","w":"kanonen","o":["Kanonen","kanonen","Kannonen","Ganonen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Kanonen' haben den Begleiter 'die'."},
+  {"r":"feuern","w":"Feuern","o":["feuern","Feuern","feiern","Feiern"],"k":"g","tipp":"Regel: Verben wie 'feuern' schreibt man klein."},
+  {"r":"Seifenblasen","w":"Saifenblasen","o":["Seifenblasen","Saifenblasen","Seifenplasen","Seifenblahsen"],"k":"b","tipp":"Regel: Die Seife schreibt man mit ei: Sei-fe, Sei-fen-bla-sen."}
+]},
+{"s":2,"satz":"Über das blaue Meer segelt das stolze Segelschiff mit geblähten weißen Segeln.","f":[
+  {"r":"Segelschiff","w":"segelschiff","o":["Segelschiff","segelschiff","Segelschif","Seegelschiff"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Segelschiff' steht mit dem Begleiter 'das'."},
+  {"r":"segelt","w":"Segelt","o":["segelt","Segelt","seegelt","Seegelt"],"k":"g","tipp":"Regel: Verben wie 'segeln' schreibt man klein."},
+  {"r":"weißen","w":"waißen","o":["weißen","waißen","weisen","weißän"],"k":"b","tipp":"Regel: 'weiß' schreibt man mit ei und ß: wei-ßen."}
+]},
+{"s":2,"satz":"Auf der fernen Insel buddelt der gierige Pirat ein riesiges Loch in den Sand.","f":[
+  {"r":"Insel","w":"insel","o":["Insel","insel","Innsel","Insäl"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Insel' steht mit dem Begleiter 'die'."},
+  {"r":"buddelt","w":"Buddelt","o":["buddelt","Buddelt","budelt","Budelt"],"k":"g","tipp":"Regel: Verben wie 'buddeln' schreibt man klein."},
+  {"r":"gierige","w":"gierieche","o":["gierige","gierieche","girige","gierigge"],"k":"b","tipp":"Regel: 'gierig' schreibt man mit ie: gie-rig, der gie-ri-ge."}
+]},
+{"s":2,"satz":"Vor dem Sturm zieht die fleißige Mannschaft die schweren Segel schnell ein.","f":[
+  {"r":"Mannschaft","w":"mannschaft","o":["Mannschaft","mannschaft","Manschaft","Mannschafd"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Mannschaft' steht mit dem Begleiter 'die'."},
+  {"r":"zieht","w":"Zieht","o":["zieht","Zieht","ziehd","Ziehd"],"k":"g","tipp":"Regel: Verben wie 'ziehen' schreibt man klein."},
+  {"r":"fleißige","w":"fleisige","o":["fleißige","fleisige","flaißige","fleißiege"],"k":"b","tipp":"Regel: 'fleißig' schreibt man mit ß: flei-ßig."}
+]},
+{"s":2,"satz":"Im flackernden Laternenlicht studiert der Steuermann den geheimnisvollen Seeweg.","f":[
+  {"r":"Steuermann","w":"steuermann","o":["Steuermann","steuermann","Steuerman","Steiermann"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Steuermann' steht mit dem Begleiter 'der'."},
+  {"r":"studiert","w":"Studiert","o":["studiert","Studiert","studirt","Studirt"],"k":"g","tipp":"Regel: Verben wie 'studieren' schreibt man klein."},
+  {"r":"geheimnisvollen","w":"geheimnisfollen","o":["geheimnisvollen","geheimnisfollen","gehaimnisvollen","geheimnisvolen"],"k":"b","tipp":"Regel: '-voll' schreibt man mit v: geheimnis-vol-len."}
+]},
+{"s":2,"satz":"Am Strand findet der staunende Junge eine alte Flaschenpost im warmen Sand.","f":[
+  {"r":"Flaschenpost","w":"flaschenpost","o":["Flaschenpost","flaschenpost","Flashenpost","Flaschenposd"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Flaschenpost' steht mit dem Begleiter 'eine'."},
+  {"r":"findet","w":"Findet","o":["findet","Findet","fintet","Fintet"],"k":"g","tipp":"Regel: Verben wie 'finden' schreibt man klein."},
+  {"r":"staunende","w":"staonende","o":["staunende","staonende","schtaunende","staunänd"],"k":"b","tipp":"Regel: 'staunen' schreibt man mit au: stau-nen, der stau-nen-de."}
+]},
+{"s":2,"satz":"Mit dem scharfen Fernrohr entdeckt der Ausguck das versteckte Piratennest hinter der Klippe.","f":[
+  {"r":"Fernrohr","w":"fernrohr","o":["Fernrohr","fernrohr","Fernror","Vernrohr"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Fernrohr' steht mit dem Begleiter 'dem'."},
+  {"r":"entdeckt","w":"Entdeckt","o":["entdeckt","Entdeckt","entdekt","Entdekt"],"k":"g","tipp":"Regel: Verben wie 'entdecken' schreibt man klein."},
+  {"r":"Piratennest","w":"Piratennesd","o":["Piratennest","Piratennesd","Piratennesst","Pieratennest"],"k":"b","tipp":"Regel: Das Nest endet auf t: Nest, Piraten-nest."}
+]},
+{"s":2,"satz":"In der dunklen Schatzhöhle leuchtet der glitzernde Diamant im schwachen Fackellicht.","f":[
+  {"r":"Schatzhöhle","w":"schatzhöhle","o":["Schatzhöhle","schatzhöhle","Schazhöhle","Schatzhöle"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Schatzhöhle' steht mit dem Begleiter 'der'."},
+  {"r":"leuchtet","w":"Leuchtet","o":["leuchtet","Leuchtet","leichtet","Leichtet"],"k":"g","tipp":"Regel: Verben wie 'leuchten' schreibt man klein."},
+  {"r":"glitzernde","w":"glizernde","o":["glitzernde","glizernde","glitzärnde","glittzernde"],"k":"b","tipp":"Regel: Nach kurzem i steht tz: glit-zern, der glit-zern-de."}
+]},
+{"s":2,"satz":"Beim wilden Sturm klammert sich der nasse Pirat fest an das schwankende Steuerrad.","f":[
+  {"r":"Pirat","w":"pirat","o":["Pirat","pirat","Pierat","Birat"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Pirat' steht mit dem Begleiter 'der'."},
+  {"r":"klammert","w":"Klammert","o":["klammert","Klammert","klamert","Klamert"],"k":"g","tipp":"Regel: Verben wie 'klammern' schreibt man klein."},
+  {"r":"schwankende","w":"shwankende","o":["schwankende","shwankende","schwanckende","schwankändä"],"k":"b","tipp":"Regel: 'schwanken' schreibt man mit sch: schwan-ken."}
+]},
+{"s":3,"satz":"Auf dem Schiff packen die Piraten Pulver, Säbel und einen Sack voll Beute ein.","f":[
+  {"r":"Pulver,","w":"Pulver","o":["Pulver,","Pulver","Pulver;","Pulver."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Piraten","w":"piraten","o":["Piraten","piraten","Pieraten","Biraten"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Piraten' haben den Begleiter 'die'."},
+  {"r":"Säbel","w":"Sebel","o":["Säbel","Sebel","Säbäl","Säbbel"],"k":"b","tipp":"Regel: Der Säbel schreibt man mit ä: Sä-bel."}
+]},
+{"s":3,"satz":"Der Kapitän grinst zufrieden, weil die schwere Schatztruhe endlich an Bord ist.","f":[
+  {"r":"zufrieden,","w":"zufrieden","o":["zufrieden,","zufrieden","zufrieden;","zufrieden."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"schwere","w":"Schwere","o":["schwere","Schwere","schwerä","Schwerä"],"k":"g","tipp":"Regel: Adjektive wie 'schwer' schreibt man klein."},
+  {"r":"Schatztruhe","w":"Schaztruhe","o":["Schatztruhe","Schaztruhe","Schatztrue","Schatztruhä"],"k":"b","tipp":"Regel: Nach kurzem a steht tz: Schatz, Schatz-tru-he."}
+]},
+{"s":3,"satz":"Der Papagei kreischt laut, als die alte Kanone plötzlich bunte Luftschlangen abfeuert.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'als' steht ein Komma."},
+  {"r":"alte","w":"Alte","o":["alte","Alte","allte","alde"],"k":"g","tipp":"Regel: Adjektive wie 'alt' schreibt man klein."},
+  {"r":"Luftschlangen","w":"Luftshlangen","o":["Luftschlangen","Luftshlangen","Lufdschlangen","Luftschlanken"],"k":"b","tipp":"Regel: 'Schlange' schreibt man mit sch: Schlan-ge, Luft-schlan-gen."}
+]},
+{"s":3,"satz":"Die Schatzkarte, die der Pirat findet, zeigt ein großes rotes Kreuz im Sand.","f":[
+  {"r":"Schatzkarte,","w":"Schatzkarte","o":["Schatzkarte,","Schatzkarte","Schatzkarte;","Schatzkarte."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'die' wird mit Kommas eingeschlossen: 'Die Schatzkarte, die ... findet, zeigt ...'."},
+  {"r":"rotes","w":"Rotes","o":["rotes","Rotes","rohtes","Rohtes"],"k":"g","tipp":"Regel: Adjektive wie 'rot' schreibt man klein."},
+  {"r":"großes","w":"grosses","o":["großes","grosses","grohses","großäs"],"k":"b","tipp":"Regel: 'groß' schreibt man nach langem o mit ß: gro-ßes."}
+]},
+{"s":3,"satz":"Wenn der Sturm tobt, klammert sich der Pirat fest an den hohen Mast.","f":[
+  {"r":"tobt,","w":"tobt","o":["tobt,","tobt","tobt;","tobt."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma: 'Wenn ..., klammert ...'."},
+  {"r":"Pirat","w":"pirat","o":["Pirat","pirat","Pierat","Birat"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Pirat' steht mit dem Begleiter 'der'."},
+  {"r":"hohen","w":"hohän","o":["hohen","hohän","hoen","hohenn"],"k":"b","tipp":"Regel: 'hoch' wird zu 'hohen' mit Dehnungs-h: ho-hen."}
+]},
+{"s":3,"satz":"Der Schiffsjunge weiß, dass die geheime Beute unter den knarrenden Planken liegt.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"geheime","w":"Geheime","o":["geheime","Geheime","geheimä","Geheimä"],"k":"g","tipp":"Regel: Adjektive wie 'geheim' schreibt man klein."},
+  {"r":"knarrenden","w":"knarenden","o":["knarrenden","knarenden","gnarrenden","knarrändän"],"k":"b","tipp":"Regel: 'knarren' hat doppel-R: knar-ren, die knar-ren-den."}
+]},
+{"s":3,"satz":"Der mutige Pirat springt ins Wasser, obwohl der hungrige Hai im Meer kreist.","f":[
+  {"r":"Wasser,","w":"Wasser","o":["Wasser,","Wasser","Wasser;","Wasser."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"mutige","w":"Mutige","o":["mutige","Mutige","mutigä","Mutigä"],"k":"g","tipp":"Regel: Adjektive wie 'mutig' schreibt man klein."},
+  {"r":"hungrige","w":"hungrieche","o":["hungrige","hungrieche","hungerige","hungrigge"],"k":"b","tipp":"Regel: In 'hungrig' steckt der 'Hunger' – mit u und g."}
+]},
+{"s":3,"satz":"Bevor die Sonne untergeht, ankert das Segelschiff in der ruhigen Bucht.","f":[
+  {"r":"untergeht,","w":"untergeht","o":["untergeht,","untergeht","untergeht;","untergeht."],"k":"k","tipp":"Regel: Steht der 'bevor'-Satz vorne, folgt danach ein Komma."},
+  {"r":"Segelschiff","w":"segelschiff","o":["Segelschiff","segelschiff","Segelschif","Seegelschiff"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Segelschiff' steht mit dem Begleiter 'das'."},
+  {"r":"ruhigen","w":"ruigen","o":["ruhigen","ruigen","ruhieken","ruhiegen"],"k":"b","tipp":"Regel: 'ruhig' hat ein Dehnungs-h: ru-hig, in der ru-hi-gen."}
+]},
+{"s":3,"satz":"Die Mannschaft jubelt, weil die volle Schatztruhe endlich auf dem Tisch steht.","f":[
+  {"r":"jubelt,","w":"jubelt","o":["jubelt,","jubelt","jubelt;","jubelt."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"volle","w":"Volle","o":["volle","Volle","vollä","Vollä"],"k":"g","tipp":"Regel: Adjektive wie 'voll' schreibt man klein."},
+  {"r":"Schatztruhe","w":"Schaztruhe","o":["Schatztruhe","Schaztruhe","Schatztrue","Schatztruhä"],"k":"b","tipp":"Regel: Nach kurzem a steht tz: Schatz, Schatz-tru-he."}
+]},
+{"s":3,"satz":"Auf der Insel sammelt der Pirat Muscheln, Perlen und glänzende Steine ein.","f":[
+  {"r":"Muscheln,","w":"Muscheln","o":["Muscheln,","Muscheln","Muscheln;","Muscheln."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"glänzende","w":"glenzende","o":["glänzende","glenzende","glänzändä","glänzänden"],"k":"b","tipp":"Regel: 'glänzen' kommt von 'Glanz' und wird mit ä geschrieben."},
+  {"r":"Perlen","w":"perlen","o":["Perlen","perlen","Perlän","Perllen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Perlen' haben den Begleiter 'die'."}
+]},
+{"s":3,"satz":"Der Koch brät in der Pfanne Fische, Würste und knusprigen Speck für die Mannschaft.","f":[
+  {"r":"Fische,","w":"Fische","o":["Fische,","Fische","Fische;","Fische."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"knusprigen","w":"knuschprigen","o":["knusprigen","knuschprigen","knussprigen","gnusprigen"],"k":"b","tipp":"Regel: 'knusprig' schreibt man mit sp: knus-prig."},
+  {"r":"Pfanne","w":"pfanne","o":["Pfanne","pfanne","Pfane","Panne"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Pfanne' steht mit dem Begleiter 'der'."}
+]},
+{"s":3,"satz":"Als der dichte Nebel aufzieht, sucht der Kapitän schnell den sicheren Hafen.","f":[
+  {"r":"aufzieht,","w":"aufzieht","o":["aufzieht,","aufzieht","aufzieht;","aufzieht."],"k":"k","tipp":"Regel: Steht der 'als'-Satz vorne, folgt danach ein Komma."},
+  {"r":"dichte","w":"Dichte","o":["dichte","Dichte","dichtä","Dichtä"],"k":"g","tipp":"Regel: Adjektive wie 'dicht' schreibt man klein."},
+  {"r":"sicheren","w":"siecheren","o":["sicheren","siecheren","sichären","sicherän"],"k":"b","tipp":"Regel: 'sicher' schreibt man mit kurzem i: si-cher, der si-che-re."}
+]}
+]

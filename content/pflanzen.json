@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Die fröhliche Sonnenblume reckt ihr goldenes Gesicht der warmen Sonne entgegen.","f":[
+  {"r":"Sonnenblume","w":"Sonenblume","o":["Sonnenblume","Sonenblume","Sonnenbluhme","Schonnenblume"],"k":"b","tipp":"Merksatz: In 'Sonne' steckt doppel-N – darum auch Son-nen-blume mit zwei n."},
+  {"r":"goldenes","w":"goldnes","o":["goldenes","goldnes","goltenes","goldenäs"],"k":"b","tipp":"Merksatz: 'golden' kommt von 'Gold' mit d – gol-de-nes."},
+  {"r":"warmen","w":"wahrmen","o":["warmen","wahrmen","warrmen","warmän"],"k":"b","tipp":"Merksatz: 'warm' braucht kein Dehnungs-h – ganz kurz: warm."}
+]},
+{"s":1,"satz":"Im bunten Garten blüht eine zarte Tulpe neben dem hohen Apfelbaum prächtig.","f":[
+  {"r":"Garten","w":"Gahrten","o":["Garten","Gahrten","Garden","Gartten"],"k":"b","tipp":"Merksatz: Der Garten endet hart auf '-ten' – kein Dehnungs-h: Gar-ten."},
+  {"r":"Tulpe","w":"Tullpe","o":["Tulpe","Tullpe","Dulpe","Tulppe"],"k":"b","tipp":"Merksatz: Die Tulpe hat nur EIN l: Tul-pe."},
+  {"r":"Apfelbaum","w":"Apfelbaom","o":["Apfelbaum","Apfelbaom","Apfälbaum","Appfelbaum"],"k":"b","tipp":"Merksatz: Der Baum klingt 'au!' wie beim Klettern – Ap-fel-baum mit au."}
+]},
+{"s":1,"satz":"Der stachelige Kaktus speichert kostbares Wasser in seinem dicken Stamm.","f":[
+  {"r":"Kaktus","w":"Kacktus","o":["Kaktus","Kacktus","Kaktuss","Gaktus"],"k":"b","tipp":"Merksatz: Der Kaktus hat nur EIN k in der Mitte, ohne ck: Kak-tus."},
+  {"r":"speichert","w":"speihert","o":["speichert","speihert","schpeichert","speichärt"],"k":"b","tipp":"Merksatz: In 'speichern' hört man 'ch' – spei-chert."},
+  {"r":"Wasser","w":"Waser","o":["Wasser","Waser","Wassär","Wahser"],"k":"b","tipp":"Merksatz: Nach kurzem a kommt doppel-S: Was-ser."}
+]},
+{"s":1,"satz":"Tief unter der Erde graben sich die kräftigen Wurzeln durch den feuchten Boden.","f":[
+  {"r":"Wurzeln","w":"Wurzehln","o":["Wurzeln","Wurzehln","Wurzelln","Wurtzeln"],"k":"b","tipp":"Merksatz: 'Wurzeln' braucht kein Dehnungs-h: Wur-zeln."},
+  {"r":"kräftigen","w":"kreftigen","o":["kräftigen","kreftigen","kräftiegen","kräfftigen"],"k":"b","tipp":"Merksatz: 'kräftig' kommt von 'Kraft' – darum mit ä."},
+  {"r":"feuchten","w":"feichten","o":["feuchten","feichten","feuchden","feuhten"],"k":"b","tipp":"Merksatz: 'feucht' schreibt man mit eu wie in 'Freude'."}
+]},
+{"s":1,"satz":"Aus den winzigen Samen wachsen schon bald die ersten grünen Triebe.","f":[
+  {"r":"winzigen","w":"winziegen","o":["winzigen","winziegen","winntzigen","winzigän"],"k":"b","tipp":"Merksatz: 'winzig' hat ein kurzes i – kein ie: win-zig."},
+  {"r":"Samen","w":"Sammen","o":["Samen","Sammen","Sahmen","Saamen"],"k":"b","tipp":"Merksatz: Der Samen hat nur EIN m: Sa-men."},
+  {"r":"grünen","w":"grühnen","o":["grünen","grühnen","grünnen","grühnän"],"k":"b","tipp":"Merksatz: 'grün' braucht kein Dehnungs-h: grü-nen."}
+]},
+{"s":1,"satz":"Der freundliche Gärtner gießt jeden Morgen die durstigen Pflanzen im Beet.","f":[
+  {"r":"Gärtner","w":"Gertner","o":["Gärtner","Gertner","Gärttner","Gährtner"],"k":"b","tipp":"Merksatz: Der Gärtner arbeitet im 'Garten' – darum mit ä."},
+  {"r":"durstigen","w":"durschtigen","o":["durstigen","durschtigen","dursdigen","durstiegen"],"k":"b","tipp":"Merksatz: In 'durstig' steckt 'Durst' – mit st, nicht scht."},
+  {"r":"Pflanzen","w":"Flanzen","o":["Pflanzen","Flanzen","Pflantzen","Pflanssen"],"k":"b","tipp":"Merksatz: 'Pflanze' beginnt mit pf – wie bei 'pflücken'."}
+]},
+{"s":1,"satz":"Im prächtigen Garten summen viele fleißige Bienen über den duftenden Blumen.","f":[
+  {"r":"prächtigen","w":"prechtigen","o":["prächtigen","prechtigen","prächtiegen","prähtigen"],"k":"b","tipp":"Merksatz: 'prächtig' kommt von 'Pracht' – darum mit ä."},
+  {"r":"fleißige","w":"fleisige","o":["fleißige","fleisige","fleißieg","vleißige"],"k":"b","tipp":"Merksatz: Nach langem ei kommt das scharfe ß: flei-ßig."},
+  {"r":"duftenden","w":"duvtenden","o":["duftenden","duvtenden","duftänden","dufftenden"],"k":"b","tipp":"Merksatz: 'duften' schreibt man mit f wie in 'Duft'."}
+]},
+{"s":1,"satz":"Die hungrige Raupe knabbert genüsslich an einem grünen Salatblatt im Gemüsebeet.","f":[
+  {"r":"hungrige","w":"hungrieche","o":["hungrige","hungrieche","hungerige","hungrigge"],"k":"b","tipp":"Merksatz: In 'hungrig' steckt der 'Hunger' – mit u und g."},
+  {"r":"knabbert","w":"knabert","o":["knabbert","knabert","gnabbert","knabbärt"],"k":"b","tipp":"Merksatz: Beim Knabbern beißt es doppelt – doppel-B: knab-bert."},
+  {"r":"genüsslich","w":"genüslich","o":["genüsslich","genüslich","genüßlich","genüsslig"],"k":"b","tipp":"Merksatz: Nach kurzem ü kommt doppel-S: ge-nüss-lich."}
+]},
+{"s":1,"satz":"Eine kleine Schnecke kriecht langsam über das Blatt der Erdbeerpflanze im Beet.","f":[
+  {"r":"Schnecke","w":"Schnege","o":["Schnecke","Schnege","Schnecge","Schnegke"],"k":"b","tipp":"Merksatz: Nach kurzem e kommt ck: Schne-cke."},
+  {"r":"kriecht","w":"kricht","o":["kriecht","kricht","kriehrt","krieht"],"k":"b","tipp":"Merksatz: 'kriechen' hat ein langes ie: krie-cht."},
+  {"r":"Erdbeerpflanze","w":"Erdberpflanze","o":["Erdbeerpflanze","Erdberpflanze","Ertbeerpflanze","Erdbeerflanze"],"k":"b","tipp":"Merksatz: Die Erdbeere hat doppel-E: Erd-beer-pflanze."}
+]},
+{"s":1,"satz":"Der mutige Marienkäfer klettert geschickt am Stängel der hohen Sonnenblume empor.","f":[
+  {"r":"Marienkäfer","w":"Marienkefer","o":["Marienkäfer","Marienkefer","Mariehnkäfer","Marienkäver"],"k":"b","tipp":"Merksatz: Der Käfer kommt von 'käfern' – darum mit ä."},
+  {"r":"geschickt","w":"geschiekt","o":["geschickt","geschiekt","geschickd","geshickt"],"k":"b","tipp":"Merksatz: Nach kurzem i kommt ck: ge-schickt."},
+  {"r":"Stängel","w":"Stengel","o":["Stängel","Stengel","Schtängel","Stänggel"],"k":"b","tipp":"Merksatz: Der Stängel kommt von 'Stange' – darum mit ä."}
+]},
+{"s":1,"satz":"Im Frühling sprießen die zarten Knospen am Kirschbaum schon ganz vorsichtig hervor.","f":[
+  {"r":"sprießen","w":"sprisen","o":["sprießen","sprisen","schprießen","sprießän"],"k":"b","tipp":"Merksatz: 'sprießen' hat ein langes ie und scharfes ß: sprie-ßen."},
+  {"r":"Knospen","w":"Knosben","o":["Knospen","Knosben","Knosppen","Gnospen"],"k":"b","tipp":"Merksatz: Die Knospe klingt hart auf 'sp': Knos-pe."},
+  {"r":"Kirschbaum","w":"Kirshbaum","o":["Kirschbaum","Kirshbaum","Kirschbaom","Kirschbahm"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit sch: Kir-sch-baum."}
+]},
+{"s":1,"satz":"Die kletternde Bohnenpflanze rankt sich neugierig um den hölzernen Stock im Beet.","f":[
+  {"r":"Bohnenpflanze","w":"Bonenpflanze","o":["Bohnenpflanze","Bonenpflanze","Bohnenflanze","Bohnänpflanze"],"k":"b","tipp":"Merksatz: Die Bohne hat ein Dehnungs-h: Boh-ne."},
+  {"r":"rankt","w":"ranggt","o":["rankt","ranggt","rankd","rangt"],"k":"b","tipp":"Merksatz: 'ranken' schreibt man mit nk: ran-kt."},
+  {"r":"hölzernen","w":"hölzernän","o":["hölzernen","hölzernän","höltzernen","hölzärnen"],"k":"b","tipp":"Merksatz: 'hölzern' kommt von 'Holz' – darum mit ö und z."}
+]},
+{"s":2,"satz":"Am Sonntag pflanzt der fleißige Gärtner eine bunte Reihe von Tulpen.","f":[
+  {"r":"Gärtner","w":"gärtner","o":["Gärtner","gärtner","Gertner","gertner"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Gärtner' steht mit dem Begleiter 'der'."},
+  {"r":"pflanzt","w":"Pflanzt","o":["pflanzt","Pflanzt","flanzt","pflantzt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'pflanzen' schreibt man klein."},
+  {"r":"bunte","w":"bundte","o":["bunte","bundte","Bunte","buntte"],"k":"b","tipp":"Regel: 'bunt' schreibt man mit t am Ende: bun-te."}
+]},
+{"s":2,"satz":"Die müde Biene ruht sich kurz auf der weichen Blüte im Garten aus.","f":[
+  {"r":"Biene","w":"biene","o":["Biene","biene","Biehne","Binne"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Biene' hat den Begleiter 'die'."},
+  {"r":"Garten","w":"Gahrten","o":["Garten","Gahrten","Garden","Gartten"],"k":"b","tipp":"Regel: 'Garten' braucht kein Dehnungs-h: Gar-ten."},
+  {"r":"weichen","w":"Weichen","o":["weichen","Weichen","weihen","weichän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'weich' schreibt man klein."}
+]},
+{"s":2,"satz":"Der stachelige Kaktus steht stolz auf der sonnigen Fensterbank im Wohnzimmer.","f":[
+  {"r":"Kaktus","w":"kaktus","o":["Kaktus","kaktus","Kacktus","kacktus"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Kaktus' steht mit dem Begleiter 'der'."},
+  {"r":"steht","w":"Steht","o":["steht","Steht","steth","stäht"],"k":"g","tipp":"Regel: Verben (Tunwörter) wie 'stehen' schreibt man klein."},
+  {"r":"sonnigen","w":"sonigen","o":["sonnigen","sonigen","sonniegen","sonnigän"],"k":"b","tipp":"Regel: 'sonnig' kommt von 'Sonne' mit doppel-N: son-nig."}
+]},
+{"s":2,"satz":"Tief in der Erde trinken die durstigen Wurzeln das frische Regenwasser.","f":[
+  {"r":"Erde","w":"erde","o":["Erde","erde","Erte","erte"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Erde' hat den Begleiter 'die'."},
+  {"r":"trinken","w":"Trinken","o":["trinken","Trinken","tringgen","drinken"],"k":"g","tipp":"Regel: Verben wie 'trinken' schreibt man klein."},
+  {"r":"frische","w":"frishe","o":["frische","frishe","frishche","frissche"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: fri-sche."}
+]},
+{"s":2,"satz":"Aus dem kleinen Samen wächst eine riesige Pflanze mit grünen Blättern.","f":[
+  {"r":"Samen","w":"samen","o":["Samen","samen","Sammen","sammen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'dem Samen' steht mit dem Begleiter 'dem'."},
+  {"r":"riesige","w":"risige","o":["riesige","risige","riesieg","riessige"],"k":"b","tipp":"Regel: 'riesig' schreibt man mit ie (langes i)."},
+  {"r":"grünen","w":"Grünen","o":["grünen","Grünen","grühnen","grünän"],"k":"g","tipp":"Regel: Adjektive (Wiewörter) wie 'grün' schreibt man klein."}
+]},
+{"s":2,"satz":"Im warmen Sommer öffnet die prächtige Sonnenblume ihre leuchtenden Blütenblätter.","f":[
+  {"r":"Sommer","w":"sommer","o":["Sommer","sommer","Somer","somer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'im Sommer' ist eine Jahreszeit."},
+  {"r":"öffnet","w":"Öffnet","o":["öffnet","Öffnet","öfnet","öffnät"],"k":"g","tipp":"Regel: Verben wie 'öffnen' schreibt man klein."},
+  {"r":"leuchtenden","w":"leichtenden","o":["leuchtenden","leichtenden","leuchdenden","leuchtändän"],"k":"b","tipp":"Regel: 'leuchten' schreibt man mit eu wie in 'Leuchte'."}
+]},
+{"s":2,"satz":"Die neugierige Schnecke frisst gern die saftigen Blätter im schattigen Salatbeet.","f":[
+  {"r":"Schnecke","w":"schnecke","o":["Schnecke","schnecke","Schnege","schnege"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Schnecke' hat den Begleiter 'die'."},
+  {"r":"frisst","w":"Frisst","o":["frisst","Frisst","frist","frißt"],"k":"g","tipp":"Regel: Verben wie 'fressen' schreibt man klein."},
+  {"r":"saftigen","w":"saftiegen","o":["saftigen","saftiegen","safdigen","safftigen"],"k":"b","tipp":"Regel: 'saftig' hat ein kurzes i – kein ie: saf-tig."}
+]},
+{"s":2,"satz":"Der fleißige Gärtner harkt am Vormittag die lockere Erde im großen Beet.","f":[
+  {"r":"Vormittag","w":"Formittag","o":["Vormittag","Formittag","Vormitag","Vormiettag"],"k":"b","tipp":"Regel: 'vor-' schreibt man mit v wie in 'vorne': Vor-mittag."},
+  {"r":"harkt","w":"Harkt","o":["harkt","Harkt","harkd","harggt"],"k":"g","tipp":"Regel: Verben wie 'harken' schreibt man klein."},
+  {"r":"lockere","w":"Lockere","o":["lockere","Lockere","logkere","lockähre"],"k":"g","tipp":"Regel: Adjektive wie 'locker' schreibt man klein."}
+]},
+{"s":2,"satz":"Eine zarte Knospe wächst langsam zur prächtigen Rose im duftenden Garten.","f":[
+  {"r":"Knospe","w":"knospe","o":["Knospe","knospe","Knosbe","knosbe"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'eine Knospe' hat den Begleiter 'eine'."},
+  {"r":"wächst","w":"Wächst","o":["wächst","Wächst","wechst","wäxt"],"k":"g","tipp":"Regel: Verben wie 'wachsen' schreibt man klein."},
+  {"r":"duftenden","w":"duvtenden","o":["duftenden","duvtenden","duftändän","dufftenden"],"k":"b","tipp":"Regel: 'duften' schreibt man mit f wie in 'Duft'."}
+]},
+{"s":2,"satz":"Am Mittag gießt das nette Mädchen die welken Blumen in dem alten Topf.","f":[
+  {"r":"Mädchen","w":"mädchen","o":["Mädchen","mädchen","Medchen","medchen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Mädchen' hat den Begleiter 'das'."},
+  {"r":"gießt","w":"Gießt","o":["gießt","Gießt","giest","giesst"],"k":"g","tipp":"Regel: Verben wie 'gießen' schreibt man klein."},
+  {"r":"welken","w":"wellken","o":["welken","wellken","wälken","welgen"],"k":"b","tipp":"Regel: 'welk' hat nur EIN l: wel-ken."}
+]},
+{"s":2,"satz":"Der bunte Schmetterling tanzt vergnügt über die offene Blüte der Tulpe.","f":[
+  {"r":"Schmetterling","w":"schmetterling","o":["Schmetterling","schmetterling","Schmeterling","schmeterling"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Schmetterling' hat den Begleiter 'der'."},
+  {"r":"tanzt","w":"Tanzt","o":["tanzt","Tanzt","tantzt","danzt"],"k":"g","tipp":"Regel: Verben wie 'tanzen' schreibt man klein."},
+  {"r":"vergnügt","w":"fergnügt","o":["vergnügt","fergnügt","vergnügd","verknügt"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v wie in 'vergessen'."}
+]},
+{"s":2,"satz":"Hinter dem Zaun blüht ein wilder Strauch mit roten Beeren im hohen Gras.","f":[
+  {"r":"Strauch","w":"strauch","o":["Strauch","strauch","Straoch","Schtrauch"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'ein Strauch' hat den Begleiter 'ein'."},
+  {"r":"blüht","w":"Blüht","o":["blüht","Blüht","blüt","blühd"],"k":"g","tipp":"Regel: Verben wie 'blühen' schreibt man klein."},
+  {"r":"wilder","w":"wielder","o":["wilder","wielder","Wilder","willder"],"k":"b","tipp":"Regel: 'wild' hat ein kurzes i – kein ie: wil-der."}
+]},
+{"s":3,"satz":"Im Garten blühen Tulpen, duftende Rosen und stachelige Kakteen.","f":[
+  {"r":"Tulpen,","w":"Tulpen","o":["Tulpen,","Tulpen","Tulpen;","Tulpen."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"duftende","w":"duftänte","o":["duftende","duftänte","duvtende","dufftende"],"k":"b","tipp":"Regel: 'duftend' schreibt man mit f und endet auf 'de': duf-ten-de."},
+  {"r":"stachelige","w":"Stachelige","o":["stachelige","Stachelige","stahelige","stachälige"],"k":"g","tipp":"Regel: Adjektive (Wiewörter) wie 'stachelig' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Gärtner freut sich, weil die kleinen Samen endlich gekeimt sind.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Samen","w":"samen","o":["Samen","samen","Sammen","sammen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Samen' haben den Begleiter 'die'."},
+  {"r":"gekeimt","w":"gekeimd","o":["gekeimt","gekeimd","gekeimmt","gekaimt"],"k":"b","tipp":"Regel: 'keimen' endet auf t: ge-keim-t."}
+]},
+{"s":3,"satz":"Die Tulpe weiß, dass sie im warmen Frühling besonders schön blüht.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Frühling","w":"frühling","o":["Frühling","frühling","Frühlling","frülling"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'im Frühling' ist eine Jahreszeit."},
+  {"r":"schön","w":"schöhn","o":["schön","schöhn","shön","schönn"],"k":"b","tipp":"Regel: 'schön' braucht kein Dehnungs-h: schön."}
+]},
+{"s":3,"satz":"Die starke Wurzel, die tief im Boden steckt, hält den Baum sicher fest.","f":[
+  {"r":"Wurzel,","w":"Wurzel","o":["Wurzel,","Wurzel","Wurzel;","Wurzel."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'die' wird mit Kommas eingeschlossen."},
+  {"r":"Boden","w":"boden","o":["Boden","boden","Boten","boten"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'im Boden' hat den Begleiter 'im'."},
+  {"r":"sicher","w":"siecher","o":["sicher","siecher","sichär","sigher"],"k":"b","tipp":"Regel: 'sicher' hat ein kurzes i – kein ie: si-cher."}
+]},
+{"s":3,"satz":"Der Kaktus braucht wenig Wasser, aber die durstige Tulpe trinkt sehr viel.","f":[
+  {"r":"Wasser,","w":"Wasser","o":["Wasser,","Wasser","Wasser;","Wasser."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"durstige","w":"Durstige","o":["durstige","Durstige","durschtige","dursdige"],"k":"g","tipp":"Regel: Adjektive wie 'durstig' schreibt man klein."},
+  {"r":"trinkt","w":"tringgt","o":["trinkt","tringgt","drinkt","trinkd"],"k":"b","tipp":"Regel: 'trinken' schreibt man mit nk: trin-kt."}
+]},
+{"s":3,"satz":"Wenn der Regen fällt, strecken die Pflanzen ihre durstigen Blätter aus.","f":[
+  {"r":"fällt,","w":"fällt","o":["fällt,","fällt","fällt;","fällt."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma."},
+  {"r":"Pflanzen","w":"pflanzen","o":["Pflanzen","pflanzen","Flanzen","flanzen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Pflanzen' haben den Begleiter 'die'."},
+  {"r":"durstigen","w":"durschtigen","o":["durstigen","durschtigen","dursdigen","durstiegen"],"k":"b","tipp":"Regel: In 'durstig' steckt 'Durst' – mit st, nicht scht."}
+]},
+{"s":3,"satz":"Die emsige Biene besucht viele Blumen, weil sie süßen Nektar sammeln will.","f":[
+  {"r":"Blumen,","w":"Blumen","o":["Blumen,","Blumen","Blumen;","Blumen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"süßen","w":"süsen","o":["süßen","süsen","süßän","sühßen"],"k":"b","tipp":"Regel: Nach langem ü steht das scharfe ß: sü-ßen."},
+  {"r":"sammeln","w":"Sammeln","o":["sammeln","Sammeln","sameln","sammäln"],"k":"g","tipp":"Regel: Verben wie 'sammeln' schreibt man klein."}
+]},
+{"s":3,"satz":"Der alte Baum ist riesig, doch der kleine Setzling wächst noch im Topf.","f":[
+  {"r":"riesig,","w":"riesig","o":["riesig,","riesig","riesig;","riesig."],"k":"k","tipp":"Regel: Vor 'doch' steht ein Komma."},
+  {"r":"Setzling","w":"setzling","o":["Setzling","setzling","Setzlling","Sezling"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Setzling' hat den Begleiter 'der'."},
+  {"r":"wächst","w":"wexst","o":["wächst","wexst","wechst","wäxt"],"k":"b","tipp":"Regel: 'wachsen' schreibt man mit chs: wä-chst."}
+]},
+{"s":3,"satz":"Im Beet wachsen Möhren, knackige Radieschen und grüner Salat ganz dicht beieinander.","f":[
+  {"r":"Möhren,","w":"Möhren","o":["Möhren,","Möhren","Möhren;","Möhren."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"knackige","w":"knakige","o":["knackige","knakige","gnackige","knackiege"],"k":"b","tipp":"Regel: Nach kurzem a steht ck: kna-cki-ge."},
+  {"r":"grüner","w":"Grüner","o":["grüner","Grüner","grühner","grünär"],"k":"g","tipp":"Regel: Adjektive wie 'grün' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Gärtner gießt jeden Abend, damit die zarten Setzlinge nicht vertrocknen können.","f":[
+  {"r":"Abend,","w":"Abend","o":["Abend,","Abend","Abend;","Abend."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"zarten","w":"Zarten","o":["zarten","Zarten","tzarten","zartten"],"k":"g","tipp":"Regel: Adjektive wie 'zart' schreibt man klein."},
+  {"r":"vertrocknen","w":"fertrocknen","o":["vertrocknen","fertrocknen","vertroknen","vertrocgnen"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v wie in 'verstecken'."}
+]},
+{"s":3,"satz":"Die Sonnenblume dreht sich zur Sonne, obwohl der Wind kräftig an ihr zerrt.","f":[
+  {"r":"Sonne,","w":"Sonne","o":["Sonne,","Sonne","Sonne;","Sonne."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Wind","w":"wind","o":["Wind","wind","Wint","wint"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Wind' hat den Begleiter 'der'."},
+  {"r":"kräftig","w":"kreftig","o":["kräftig","kreftig","kräfftig","kräftieg"],"k":"b","tipp":"Regel: 'kräftig' kommt von 'Kraft' – darum mit ä."}
+]},
+{"s":3,"satz":"Im Herbst fallen die bunten Blätter, und der Garten wird langsam ganz kahl.","f":[
+  {"r":"Blätter,","w":"Blätter","o":["Blätter,","Blätter","Blätter;","Blätter."],"k":"k","tipp":"Regel: Verbindet 'und' zwei ganze Sätze, darf ein Komma davorstehen."},
+  {"r":"Herbst","w":"herbst","o":["Herbst","herbst","Herpst","Herbsd"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'im Herbst' ist eine Jahreszeit."},
+  {"r":"langsam","w":"langsahm","o":["langsam","langsahm","langzam","lannsam"],"k":"b","tipp":"Regel: 'langsam' schreibt man ohne Dehnungs-h: lang-sam."}
+]}
+]

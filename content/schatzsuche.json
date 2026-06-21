@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Mit der alten Schatzkarte sucht der mutige Pirat den vergrabenen Goldschatz am Strand.","f":[
+  {"r":"Schatzkarte","w":"Schazkarte","o":["Schatzkarte","Schazkarte","Schatzkahrte","Schatzkharte"],"k":"b","tipp":"Merksatz: Nach kurzem a steht tz: Scha-tz-kar-te."},
+  {"r":"vergrabenen","w":"fergrabenen","o":["vergrabenen","fergrabenen","vergrahbenen","vergrabennen"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
+  {"r":"Goldschatz","w":"Goltschatz","o":["Goldschatz","Goltschatz","Goldschaz","Golldschatz"],"k":"b","tipp":"Merksatz: 'Gold' endet auf d – Probe: die goldene Münze."}
+]},
+{"s":1,"satz":"Der erfahrene Abenteurer hält den Kompass fest und folgt der gewundenen Spur zur Höhle.","f":[
+  {"r":"erfahrene","w":"erfarene","o":["erfahrene","erfarene","erfahrenne","ärfahrene"],"k":"b","tipp":"Merksatz: 'erfahren' hat ein Dehnungs-h: er-fah-ren."},
+  {"r":"Kompass","w":"Kompas","o":["Kompass","Kompas","Kompaß","Kompasss"],"k":"b","tipp":"Merksatz: Der Kompass hat doppel-s: Kom-pass."},
+  {"r":"gewundenen","w":"gewundennen","o":["gewundenen","gewundennen","gewuntenen","gewundänen"],"k":"b","tipp":"Merksatz: 'gewunden' kommt von 'winden' und hat nur ein n in der Mitte."}
+]},
+{"s":1,"satz":"In der dunklen Höhle entdeckt der junge Schatzsucher eine schwere Truhe voller Goldmünzen und Perlen.","f":[
+  {"r":"Höhle","w":"Höle","o":["Höhle","Höle","Höhlle","Höhlä"],"k":"b","tipp":"Merksatz: Die Höhle hat ein Dehnungs-h: Höh-le."},
+  {"r":"Schatzsucher","w":"Schazsucher","o":["Schatzsucher","Schazsucher","Schatzzucher","Schatzsuhcher"],"k":"b","tipp":"Merksatz: Nach kurzem a steht tz: Scha-tz-su-cher."},
+  {"r":"Goldmünzen","w":"Goltmünzen","o":["Goldmünzen","Goltmünzen","Goldmünssen","Goldmünzän"],"k":"b","tipp":"Merksatz: 'Gold' endet auf d – Probe: die goldene Münze."}
+]},
+{"s":1,"satz":"Auf dem geheimen Pfad findet der schlaue Seeräuber den ersten versteckten Hinweis am Felsen.","f":[
+  {"r":"geheimen","w":"gehaimen","o":["geheimen","gehaimen","geheimän","gehaimän"],"k":"b","tipp":"Merksatz: 'geheim' schreibt man mit ei: ge-heim."},
+  {"r":"Seeräuber","w":"Seeroiber","o":["Seeräuber","Seeroiber","Seerauber","Seeräuwer"],"k":"b","tipp":"Merksatz: 'Räuber' schreibt man mit äu (von 'rauben'): Räu-ber."},
+  {"r":"versteckten","w":"fersteckten","o":["versteckten","fersteckten","versteckdten","verschteckten"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-steckt."}
+]},
+{"s":1,"satz":"Der tapfere Kapitän gräbt im weichen Sand und stößt auf eine verrostete Eisentruhe.","f":[
+  {"r":"tapfere","w":"tapffere","o":["tapfere","tapffere","dapfere","tapferre"],"k":"b","tipp":"Merksatz: 'tapfer' schreibt man mit einem f und pf: tap-fer."},
+  {"r":"Kapitän","w":"Kapitehn","o":["Kapitän","Kapitehn","Kapiten","Kapittän"],"k":"b","tipp":"Merksatz: 'Kapitän' schreibt man mit ä: Ka-pi-tän."},
+  {"r":"verrostete","w":"ferrostete","o":["verrostete","ferrostete","verostete","verrosstete"],"k":"b","tipp":"Merksatz: 'verrostet' kommt von 'Rost' und hat doppel-r: ver-ros-tet."}
+]},
+{"s":1,"satz":"Mit der knisternden Fackel leuchtet der Forscher tief in die feuchte Tropfsteinhöhle hinein.","f":[
+  {"r":"knisternden","w":"knissternden","o":["knisternden","knissternden","gnisternden","knisterndän"],"k":"b","tipp":"Merksatz: 'knistern' hat nur ein s: knis-tern."},
+  {"r":"Fackel","w":"Fakel","o":["Fackel","Fakel","Fackäl","Fackkel"],"k":"b","tipp":"Merksatz: Nach kurzem a steht ck: Fa-ckel."},
+  {"r":"feuchte","w":"foichte","o":["feuchte","foichte","feuschte","feuchtte"],"k":"b","tipp":"Merksatz: 'feucht' schreibt man mit eu und cht: feuch-te."}
+]},
+{"s":1,"satz":"Der neugierige Junge entrollt die zerknitterte Schatzkarte und studiert das geheimnisvolle Kreuz darauf.","f":[
+  {"r":"neugierige","w":"noigierige","o":["neugierige","noigierige","neugieriege","neugierieche"],"k":"b","tipp":"Merksatz: 'neugierig' schreibt man mit eu und ie: neu-gie-rig."},
+  {"r":"zerknitterte","w":"zerkniterte","o":["zerknitterte","zerkniterte","zerknitterrte","zärknitterte"],"k":"b","tipp":"Merksatz: 'zerknittert' hat doppel-t: zer-knit-tert."},
+  {"r":"geheimnisvolle","w":"geheimnisfolle","o":["geheimnisvolle","geheimnisfolle","gehaimnisvolle","geheimnissvolle"],"k":"b","tipp":"Merksatz: 'voll' in 'geheimnisvoll' schreibt man mit v und doppel-l."}
+]},
+{"s":1,"satz":"Über die wackelige Hängebrücke balanciert die mutige Abenteurerin zur verborgenen Schatzinsel hinüber.","f":[
+  {"r":"wackelige","w":"wakelige","o":["wackelige","wakelige","wackeliege","wackälige"],"k":"b","tipp":"Merksatz: Nach kurzem a steht ck: wa-cke-lig."},
+  {"r":"Hängebrücke","w":"Hengebrücke","o":["Hängebrücke","Hengebrücke","Hängebrüke","Hängäbrücke"],"k":"b","tipp":"Merksatz: 'hängen' schreibt man mit ä: Hän-ge-brü-cke."},
+  {"r":"verborgenen","w":"ferborgenen","o":["verborgenen","ferborgenen","verborchenen","verborgennen"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-bor-gen."}
+]},
+{"s":1,"satz":"Der schlaue Papagei zeigt mit dem Flügel auf den Wasserfall am Rand der Felseninsel.","f":[
+  {"r":"schlaue","w":"schlaoe","o":["schlaue","schlaoe","schlauwe","schlauä"],"k":"b","tipp":"Merksatz: 'schlau' schreibt man mit au: schlau."},
+  {"r":"Papagei","w":"Pappagei","o":["Papagei","Pappagei","Papagai","Papageih"],"k":"b","tipp":"Merksatz: Der Papagei hat nur ein p in der Mitte: Pa-pa-gei."},
+  {"r":"Wasserfall","w":"Waserfall","o":["Wasserfall","Waserfall","Wasserfal","Wasserfahl"],"k":"b","tipp":"Merksatz: 'Wasser' hat doppel-s und 'Fall' doppel-l."}
+]},
+{"s":1,"satz":"Am sandigen Ufer entdeckt der Schiffsjunge eine Flaschenpost mit einem wichtigen Hinweis darin.","f":[
+  {"r":"sandigen","w":"santigen","o":["sandigen","santigen","sandiegen","sanndigen"],"k":"b","tipp":"Merksatz: 'sandig' kommt von 'Sand' und endet auf d."},
+  {"r":"Schiffsjunge","w":"Schifsjunge","o":["Schiffsjunge","Schifsjunge","Schiffsjunke","Shiffsjunge"],"k":"b","tipp":"Merksatz: Das Schiff hat doppel-f: Schiffs-jun-ge."},
+  {"r":"Flaschenpost","w":"Flachenpost","o":["Flaschenpost","Flachenpost","Flaschenposst","Flaschänpost"],"k":"b","tipp":"Merksatz: 'Flasche' schreibt man mit sch: Fla-schen-post."}
+]},
+{"s":1,"satz":"Der listige Pirat zählt die glänzenden Goldmünzen und versteckt seinen Schatz im hohlen Baum.","f":[
+  {"r":"listige","w":"lisstige","o":["listige","lisstige","listieche","listigge"],"k":"b","tipp":"Merksatz: 'listig' kommt von 'List' und hat nur ein s: lis-tig."},
+  {"r":"glänzenden","w":"glenzenden","o":["glänzenden","glenzenden","glänzänden","glänzndenn"],"k":"b","tipp":"Merksatz: 'glänzen' kommt von 'Glanz' – darum mit ä."},
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","versteckd","verschteckt"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-steckt."}
+]},
+{"s":1,"satz":"In der geheimnisvollen Grotte plätschert ein kleiner Bach an der funkelnden Schatztruhe vorbei.","f":[
+  {"r":"geheimnisvollen","w":"geheimnisfollen","o":["geheimnisvollen","geheimnisfollen","gehaimnisvollen","geheimnissvollen"],"k":"b","tipp":"Merksatz: 'voll' in 'geheimnisvoll' schreibt man mit v: ge-heim-nis-voll."},
+  {"r":"plätschert","w":"pletschert","o":["plätschert","pletschert","plätschärt","plätzschert"],"k":"b","tipp":"Merksatz: 'plätschern' schreibt man mit ä: plät-schern."},
+  {"r":"funkelnden","w":"funckelnden","o":["funkelnden","funckelnden","funkälnden","funkeldnen"],"k":"b","tipp":"Merksatz: 'funkeln' schreibt man mit k, nicht ck: fun-keln."}
+]},
+{"s":2,"satz":"Am Morgen rollt der Pirat die Schatzkarte aus, weil er den Weg genau studieren will.","f":[
+  {"r":"Pirat","w":"pirat","o":["Pirat","pirat","Pirrat","Piraht"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Pirat'."},
+  {"r":"Schatzkarte","w":"Schazkarte","o":["Schatzkarte","Schazkarte","Schatzkahrte","Schatzkharte"],"k":"b","tipp":"Regel: Nach kurzem a steht tz: Scha-tz-kar-te."},
+  {"r":"studieren","w":"Studieren","o":["studieren","Studieren","studiren","schtudieren"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'studieren' schreibt man klein."}
+]},
+{"s":2,"satz":"Der mutige Abenteurer betritt die Höhle, weil der Kompass genau dorthin zeigt.","f":[
+  {"r":"mutige","w":"Mutige","o":["mutige","Mutige","muttige","mutieche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'mutig' schreibt man klein."},
+  {"r":"betritt","w":"betridt","o":["betritt","betridt","betrit","betriett"],"k":"b","tipp":"Regel: 'betritt' kommt von 'treten' und hat doppel-t: be-tritt."},
+  {"r":"Kompass","w":"kompass","o":["Kompass","kompass","Kompas","Kompaß"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Kompass'."}
+]},
+{"s":2,"satz":"Die kluge Schatzsucherin folgt den Hinweisen, weil sie den verborgenen Schatz finden möchte.","f":[
+  {"r":"kluge","w":"Kluge","o":["kluge","Kluge","kluuge","kluche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klug' schreibt man klein."},
+  {"r":"Schatzsucherin","w":"schatzsucherin","o":["Schatzsucherin","schatzsucherin","Schazsucherin","Schatzzucherin"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Schatzsucherin'."},
+  {"r":"verborgenen","w":"ferborgenen","o":["verborgenen","ferborgenen","verborchenen","verborgennen"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-bor-gen."}
+]},
+{"s":2,"satz":"Im Dschungel gräbt der Forscher nach der Truhe, weil dort die Goldmünzen versteckt liegen.","f":[
+  {"r":"gräbt","w":"grebt","o":["gräbt","grebt","gräbd","grääbt"],"k":"b","tipp":"Regel: 'gräbt' kommt von 'graben' und wird mit ä geschrieben."},
+  {"r":"Forscher","w":"forscher","o":["Forscher","forscher","Forscha","Forschär"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Forscher'."},
+  {"r":"versteckt","w":"Versteckt","o":["versteckt","Versteckt","versteckd","verschteckt"],"k":"g","tipp":"Regel: Hier ist 'versteckt' ein Tunwort (Verb) und wird kleingeschrieben."}
+]},
+{"s":2,"satz":"Der schlaue Pirat liest den Geheimtext, obwohl die alte Tinte schon verblasst ist.","f":[
+  {"r":"schlaue","w":"Schlaue","o":["schlaue","Schlaue","schlaoe","schlauwe"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schlau' schreibt man klein."},
+  {"r":"Pirat","w":"pirat","o":["Pirat","pirat","Pirrat","Piraht"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Pirat'."},
+  {"r":"verblasst","w":"ferblasst","o":["verblasst","ferblasst","verblast","verblassd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-blasst."}
+]},
+{"s":2,"satz":"Hinter dem Wasserfall entdeckt die Taucherin eine Höhle, in der ein alter Anker liegt.","f":[
+  {"r":"Wasserfall","w":"Waserfall","o":["Wasserfall","Waserfall","Wasserfal","Wasserfahl"],"k":"b","tipp":"Regel: 'Wasser' hat doppel-s: Was-ser-fall."},
+  {"r":"Taucherin","w":"taucherin","o":["Taucherin","taucherin","Taocherin","Tauscherin"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Taucherin'."},
+  {"r":"alter","w":"Alter","o":["alter","Alter","allter","aldter"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'alt' schreibt man klein."}
+]},
+{"s":2,"satz":"Am Lagerfeuer erzählt der Kapitän vom Schatz, weil ihn die spannende Geschichte begeistert.","f":[
+  {"r":"erzählt","w":"erzehlt","o":["erzählt","erzehlt","erzähld","erzäält"],"k":"b","tipp":"Regel: 'erzählen' kommt von 'Zahl' und wird mit ä geschrieben."},
+  {"r":"Kapitän","w":"kapitän","o":["Kapitän","kapitän","Kapiten","Kapittän"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Kapitän'."},
+  {"r":"spannende","w":"Spannende","o":["spannende","Spannende","schpannende","spanende"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'spannend' schreibt man klein."}
+]},
+{"s":2,"satz":"Die Abenteurer rudern zur einsamen Insel, weil dort der sagenhafte Goldschatz vergraben sein soll.","f":[
+  {"r":"rudern","w":"Rudern","o":["rudern","Rudern","ruhdern","ruddern"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'rudern' schreibt man klein."},
+  {"r":"einsamen","w":"ainsamen","o":["einsamen","ainsamen","einsammen","einsamän"],"k":"b","tipp":"Regel: 'einsam' schreibt man mit ei: ein-sam."},
+  {"r":"Goldschatz","w":"goldschatz","o":["Goldschatz","goldschatz","Goltschatz","Goldschaz"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Goldschatz'."}
+]},
+{"s":2,"satz":"Der junge Matrose klettert den Mast hinauf, weil er die ferne Schatzinsel suchen will.","f":[
+  {"r":"junge","w":"Junge","o":["junge","Junge","jungge","junnge"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'jung' schreibt man klein."},
+  {"r":"Matrose","w":"matrose","o":["Matrose","matrose","Matrohse","Mattrose"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Matrose'."},
+  {"r":"ferne","w":"färne","o":["ferne","färne","ferrne","fernne"],"k":"b","tipp":"Regel: 'fern' schreibt man mit e: fer-ne."}
+]},
+{"s":2,"satz":"Mit dem Kompass bestimmt der Pirat die Richtung, weil der Nordstern hell am Himmel leuchtet.","f":[
+  {"r":"bestimmt","w":"bestimt","o":["bestimmt","bestimt","beschtimmt","bestimmd"],"k":"b","tipp":"Regel: 'bestimmen' hat doppel-m: be-stim-men."},
+  {"r":"Pirat","w":"pirat","o":["Pirat","pirat","Pirrat","Piraht"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Pirat'."},
+  {"r":"hell","w":"Hell","o":["hell","Hell","hel","häll"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'hell' schreibt man klein."}
+]},
+{"s":2,"satz":"Der schlaue Seeräuber prüft die Schatzkarte, weil er den geheimen Weg auswendig lernen möchte.","f":[
+  {"r":"Seeräuber","w":"Seeroiber","o":["Seeräuber","Seeroiber","Seerauber","Seeräuwer"],"k":"b","tipp":"Regel: 'Räuber' schreibt man mit äu (von 'rauben'): Räu-ber."},
+  {"r":"prüft","w":"Prüft","o":["prüft","Prüft","prühft","prüfd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'prüfen' schreibt man klein."},
+  {"r":"geheimen","w":"Geheimen","o":["geheimen","Geheimen","gehaimen","geheimän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'geheim' schreibt man klein."}
+]},
+{"s":2,"satz":"Tief im Berg leuchtet der Edelstein, weil die Fackel den dunklen Gang erhellt.","f":[
+  {"r":"leuchtet","w":"loichtet","o":["leuchtet","loichtet","leuchdet","leuchttet"],"k":"b","tipp":"Regel: 'leuchten' schreibt man mit eu und cht: leuch-ten."},
+  {"r":"Fackel","w":"fackel","o":["Fackel","fackel","Fakel","Fackäl"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Fackel'."},
+  {"r":"dunklen","w":"Dunklen","o":["dunklen","Dunklen","dunkeln","dunklän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'dunkel' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Pirat packt die Schatzkarte, den Kompass und die Lupe ein, bevor er aufbricht.","f":[
+  {"r":"Schatzkarte,","w":"Schatzkarte","o":["Schatzkarte,","Schatzkarte","Schatzkarte;","Schatzkarte."],"k":"k","tipp":"Regel: Bei einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"Kompass","w":"Kompas","o":["Kompass","Kompas","Kompaß","Kompasss"],"k":"b","tipp":"Regel: Der Kompass hat doppel-s: Kom-pass."},
+  {"r":"Lupe","w":"lupe","o":["Lupe","lupe","Luppe","Luhpe"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Lupe'."}
+]},
+{"s":3,"satz":"Die Abenteurer betreten die Höhle, weil die Schatzkarte den verborgenen Eingang genau anzeigt.","f":[
+  {"r":"Höhle,","w":"Höhle","o":["Höhle,","Höhle","Höhle;","Höhle."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Schatzkarte","w":"Schazkarte","o":["Schatzkarte","Schazkarte","Schatzkahrte","Schatzkharte"],"k":"b","tipp":"Regel: Nach kurzem a steht tz: Scha-tz-kar-te."},
+  {"r":"verborgenen","w":"Verborgenen","o":["verborgenen","Verborgenen","ferborgenen","verborchenen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'verborgen' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Kapitän gräbt im Sand, doch die schwere Truhe steckt noch tief im Boden.","f":[
+  {"r":"Sand,","w":"Sand","o":["Sand,","Sand","Sand;","Sand."],"k":"k","tipp":"Regel: Vor 'doch' steht ein Komma."},
+  {"r":"schwere","w":"Schwere","o":["schwere","Schwere","schwehre","schwerre"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schwer' schreibt man klein."},
+  {"r":"Truhe","w":"Truche","o":["Truhe","Truche","Truhhe","Truhä"],"k":"b","tipp":"Regel: Die Truhe schreibt man mit h: Tru-he."}
+]},
+{"s":3,"satz":"Der Seeräuber weiß genau, dass die Goldmünzen unter dem alten Palmenbaum vergraben liegen.","f":[
+  {"r":"genau,","w":"genau","o":["genau,","genau","genau;","genau."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Goldmünzen","w":"Goltmünzen","o":["Goldmünzen","Goltmünzen","Goldmünssen","Goldmünzän"],"k":"b","tipp":"Regel: 'Gold' endet auf d – Probe: die goldene Münze."},
+  {"r":"alten","w":"Alten","o":["alten","Alten","allten","aldten"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'alt' schreibt man klein."}
+]},
+{"s":3,"satz":"Im Rucksack trägt der Forscher eine Fackel, einen Kompass und ein Seil zur Höhle.","f":[
+  {"r":"Fackel,","w":"Fackel","o":["Fackel,","Fackel","Fackel;","Fackel."],"k":"k","tipp":"Regel: Bei einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"Rucksack","w":"Ruksack","o":["Rucksack","Ruksack","Rucksak","Rukksack"],"k":"b","tipp":"Regel: Nach kurzem u steht ck: Ruck-sack."},
+  {"r":"Forscher","w":"forscher","o":["Forscher","forscher","Forscha","Forschär"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Forscher'."}
+]},
+{"s":3,"satz":"Die mutige Abenteurerin klettert in die Schlucht, obwohl der schmale Pfad gefährlich wirkt.","f":[
+  {"r":"Schlucht,","w":"Schlucht","o":["Schlucht,","Schlucht","Schlucht;","Schlucht."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"mutige","w":"Mutige","o":["mutige","Mutige","muttige","mutieche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'mutig' schreibt man klein."},
+  {"r":"schmale","w":"schmahle","o":["schmale","schmahle","schmaale","schmalle"],"k":"b","tipp":"Regel: 'schmal' schreibt man ohne h: schma-le."}
+]},
+{"s":3,"satz":"Der Pirat öffnet die Truhe, die seit hundert Jahren im Sand vergraben gewesen ist.","f":[
+  {"r":"Truhe,","w":"Truhe","o":["Truhe,","Truhe","Truhe;","Truhe."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'die' steht ein Komma."},
+  {"r":"öffnet","w":"öfnet","o":["öffnet","öfnet","öffned","öffnät"],"k":"b","tipp":"Regel: 'öffnen' hat doppel-f: öff-nen."},
+  {"r":"vergraben","w":"Vergraben","o":["vergraben","Vergraben","fergraben","vergrahben"],"k":"g","tipp":"Regel: Hier ist 'vergraben' ein Tunwort (Verb) und wird kleingeschrieben."}
+]},
+{"s":3,"satz":"Wenn der Kompass nach Norden zeigt, dann führt der Weg geradewegs zur Goldhöhle.","f":[
+  {"r":"zeigt,","w":"zeigt","o":["zeigt,","zeigt","zeigt;","zeigt."],"k":"k","tipp":"Regel: Nach einem vorangestellten Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"Kompass","w":"Kompas","o":["Kompass","Kompas","Kompaß","Kompasss"],"k":"b","tipp":"Regel: Der Kompass hat doppel-s: Kom-pass."},
+  {"r":"führt","w":"Führt","o":["führt","Führt","fürt","fühhrt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'führen' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Schatzsucher untersucht die Karte, den Felsen und die Höhle nach weiteren geheimen Zeichen.","f":[
+  {"r":"Karte,","w":"Karte","o":["Karte,","Karte","Karte;","Karte."],"k":"k","tipp":"Regel: Bei einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"untersucht","w":"Untersucht","o":["untersucht","Untersucht","untersuhct","untersuchd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'untersuchen' schreibt man klein."},
+  {"r":"geheimen","w":"gehaimen","o":["geheimen","gehaimen","geheimän","gehaimän"],"k":"b","tipp":"Regel: 'geheim' schreibt man mit ei: ge-heim."}
+]},
+{"s":3,"satz":"Die Abenteurer feiern am Strand, denn sie haben den vergrabenen Goldschatz endlich gefunden.","f":[
+  {"r":"Strand,","w":"Strand","o":["Strand,","Strand","Strand;","Strand."],"k":"k","tipp":"Regel: Vor 'denn' steht ein Komma."},
+  {"r":"vergrabenen","w":"fergrabenen","o":["vergrabenen","fergrabenen","vergrahbenen","vergrabennen"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-gra-ben."},
+  {"r":"Goldschatz","w":"goldschatz","o":["Goldschatz","goldschatz","Goltschatz","Goldschaz"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Goldschatz'."}
+]},
+{"s":3,"satz":"Der Kapitän verteilt die Goldmünzen, weil die tapfere Mannschaft den Schatz gemeinsam gehoben hat.","f":[
+  {"r":"Goldmünzen,","w":"Goldmünzen","o":["Goldmünzen,","Goldmünzen","Goldmünzen;","Goldmünzen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"verteilt","w":"ferteilt","o":["verteilt","ferteilt","verteild","vertailt"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-teilt."},
+  {"r":"tapfere","w":"Tapfere","o":["tapfere","Tapfere","tapffere","dapfere"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'tapfer' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Schatzsucher rollt die Schatzkarte aus, weil das alte Pergament den verborgenen Pfad zeigt.","f":[
+  {"r":"aus,","w":"aus","o":["aus,","aus","aus;","aus."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Schatzkarte","w":"Schazkarte","o":["Schatzkarte","Schazkarte","Schatzkahrte","Schatzkharte"],"k":"b","tipp":"Regel: Nach kurzem a steht tz: Scha-tz-kar-te."},
+  {"r":"alte","w":"Alte","o":["alte","Alte","allte","aldte"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'alt' schreibt man klein."}
+]}
+]

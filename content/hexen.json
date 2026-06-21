@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Die lustige Hexe rührt mit dem großen Löffel in ihrem dampfenden Zauberkessel herum.","f":[
+  {"r":"Hexe","w":"Hekse","o":["Hexe","Hekse","Heckse","Hexxe"],"k":"b","tipp":"Merksatz: Die Hexe niest 'hatschix' – darum mit x: He-xe."},
+  {"r":"Löffel","w":"Löfel","o":["Löffel","Löfel","Löffäl","Löffell"],"k":"b","tipp":"Merksatz: Beim Löffel klappert es doppelt – darum doppel-F: Löf-fel."},
+  {"r":"Zauberkessel","w":"Zauberkesel","o":["Zauberkessel","Zauberkesel","Zaoberkessel","Zauberkässel"],"k":"b","tipp":"Merksatz: Im Kessel zischt es doppelt – darum doppel-S: Kes-sel."}
+]},
+{"s":1,"satz":"Auf ihrem schnellen Besen fliegt die freche Hexe über den dunklen Wald.","f":[
+  {"r":"Besen","w":"Beesen","o":["Besen","Beesen","Bäsen","Besenn"],"k":"b","tipp":"Merksatz: Der Besen hat nur ein e am Anfang: Be-sen."},
+  {"r":"fliegt","w":"fligt","o":["fliegt","fligt","fliegd","fliecht"],"k":"b","tipp":"Merksatz: 'fliegen' schreibt man mit ie wie 'viel' – flie-gen."},
+  {"r":"freche","w":"fräche","o":["freche","fräche","frechä","frächä"],"k":"b","tipp":"Merksatz: 'frech' hört man mit e wie in 'Fee' – fre-che."}
+]},
+{"s":1,"satz":"Die schwarze Katze schnurrt zufrieden neben dem brodelnden Zaubertrank der Hexe.","f":[
+  {"r":"schwarze","w":"schwartze","o":["schwarze","schwartze","schwarzze","schwarse"],"k":"b","tipp":"Merksatz: 'schwarz' schreibt man mit z ohne t: schwar-ze."},
+  {"r":"schnurrt","w":"schnurt","o":["schnurrt","schnurt","schnurd","schnnurrt"],"k":"b","tipp":"Merksatz: Die Katze schnurrt ganz laut – darum doppel-R: schnur-ren."},
+  {"r":"Zaubertrank","w":"Zaobertrank","o":["Zaubertrank","Zaobertrank","Zaubertrang","Zaubärtrank"],"k":"b","tipp":"Merksatz: 'Zauber' schreibt man mit au – wie 'Au, das ist Magie!'."}
+]},
+{"s":1,"satz":"Mit ihrem krummen Zauberstab verwandelt die Hexe einen Frosch in einen Goldfisch.","f":[
+  {"r":"Zauberstab","w":"Zauberstaab","o":["Zauberstab","Zauberstaab","Zauberschtab","Zaoberstab"],"k":"b","tipp":"Merksatz: Der Stab endet hart auf b – Probe: die Stäbe, der Stab."},
+  {"r":"verwandelt","w":"ferwandelt","o":["verwandelt","ferwandelt","verwandält","verwantelt"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
+  {"r":"Frosch","w":"Frosh","o":["Frosch","Frosh","Froosch","Vrosch"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit sch: Fro-sch."}
+]},
+{"s":1,"satz":"In der gruseligen Vollmondnacht tanzen die Hexen kichernd um ihr knisterndes Feuer.","f":[
+  {"r":"gruseligen","w":"gruzeligen","o":["gruseligen","gruzeligen","gruseliegen","grusseligen"],"k":"b","tipp":"Merksatz: 'gruselig' schreibt man mit s, das wie ein leises z klingt."},
+  {"r":"Hexen","w":"Heksen","o":["Hexen","Heksen","Hexxen","Hecksen"],"k":"b","tipp":"Merksatz: Die Hexe und die Hexen niesen 'hatschix' – immer mit x."},
+  {"r":"kichernd","w":"kiechernd","o":["kichernd","kiechernd","kichernt","gichernd"],"k":"b","tipp":"Merksatz: 'kichern' hört man mit kurzem i ohne e: ki-chern."}
+]},
+{"s":1,"satz":"Die zauberhafte Fee schenkt der jungen Hexe ein leuchtendes Glühwürmchen für die Reise.","f":[
+  {"r":"zauberhafte","w":"zaoberhafte","o":["zauberhafte","zaoberhafte","zauberhaffte","zauberhaftte"],"k":"b","tipp":"Merksatz: 'Zauber' schreibt man mit au: zau-ber-haft."},
+  {"r":"leuchtendes","w":"leichtendes","o":["leuchtendes","leichtendes","leuchtändes","leuchdendes"],"k":"b","tipp":"Merksatz: 'leuchten' schreibt man mit eu wie in 'Feuer'."},
+  {"r":"Glühwürmchen","w":"Glüwürmchen","o":["Glühwürmchen","Glüwürmchen","Glühwürmschen","Glühwürmchän"],"k":"b","tipp":"Merksatz: 'glühen' hat ein Dehnungs-h nach dem ü: glüh-wür-mchen."}
+]},
+{"s":1,"satz":"Der weise Zauberer braut einen sprudelnden Trank aus Spinnenbeinen und Krötenschleim.","f":[
+  {"r":"Zauberer","w":"Zauberrer","o":["Zauberer","Zauberrer","Zaoberer","Zauberär"],"k":"b","tipp":"Merksatz: Der Zauberer endet auf '-erer' mit nur einem r in der Mitte."},
+  {"r":"sprudelnden","w":"schprudelnden","o":["sprudelnden","schprudelnden","sprudälnden","sprutelnden"],"k":"b","tipp":"Merksatz: 'Sp' spricht man 'Schp', schreibt es aber immer Sp – wie in Sprudel."},
+  {"r":"Spinnenbeinen","w":"Spinenbeinen","o":["Spinnenbeinen","Spinenbeinen","Spinnenbainen","Schpinnenbeinen"],"k":"b","tipp":"Merksatz: Die Spinne hat doppel-N: Spin-ne, Spin-nen-bei-nen."}
+]},
+{"s":1,"satz":"Plötzlich verschwindet die magische Hexe in einer Wolke aus buntem Glitzerstaub.","f":[
+  {"r":"Plötzlich","w":"Plözlich","o":["Plötzlich","Plözlich","Plötzlig","Plözzlich"],"k":"b","tipp":"Merksatz: Nach kurzem ö steht tz: plötz-lich."},
+  {"r":"verschwindet","w":"ferschwindet","o":["verschwindet","ferschwindet","verschwintet","verschwindät"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'vergessen'."},
+  {"r":"magische","w":"magiesche","o":["magische","magiesche","magishe","machische"],"k":"b","tipp":"Merksatz: 'magisch' hat ein kurzes i ohne e: ma-gisch."}
+]},
+{"s":1,"satz":"Die kleine Hexe sammelt im Mondschein glitzernde Sterne für ihren neuen Zaubertrank.","f":[
+  {"r":"sammelt","w":"samelt","o":["sammelt","samelt","sammält","sammeld"],"k":"b","tipp":"Merksatz: Beim Sammeln häuft sich alles doppelt – darum doppel-M: sam-meln."},
+  {"r":"Mondschein","w":"Mondshein","o":["Mondschein","Mondshein","Montschein","Mondschain"],"k":"b","tipp":"Merksatz: 'Schein' beginnt mit sch und hat ei: Mond-schein."},
+  {"r":"glitzernde","w":"glitzärnde","o":["glitzernde","glitzärnde","glizernde","glitzerndä"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: glit-zern."}
+]},
+{"s":1,"satz":"Eine fröhliche Hexe reitet auf dem Besen und winkt allen Kindern im Dorf zu.","f":[
+  {"r":"fröhliche","w":"frööliche","o":["fröhliche","frööliche","fröliche","fröhlige"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h nach dem ö: fröh-lich."},
+  {"r":"reitet","w":"raitet","o":["reitet","raitet","reidet","reittet"],"k":"b","tipp":"Merksatz: 'reiten' schreibt man mit ei wie in 'Eis'."},
+  {"r":"winkt","w":"wingt","o":["winkt","wingt","winckt","winkd"],"k":"b","tipp":"Merksatz: 'winken' schreibt man mit nk: win-ken."}
+]},
+{"s":1,"satz":"Im verzauberten Schloss versteckt die alte Hexe ihren wertvollen Hexenbesen.","f":[
+  {"r":"verzauberten","w":"ferzauberten","o":["verzauberten","ferzauberten","verzaobertän","verzaubertän"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-zau-bert."},
+  {"r":"Schloss","w":"Schlos","o":["Schloss","Schlos","Schloß","Shloss"],"k":"b","tipp":"Merksatz: Nach kurzem o steht doppel-S: Schloss."},
+  {"r":"wertvollen","w":"werdvollen","o":["wertvollen","werdvollen","wertfollen","wertvolen"],"k":"b","tipp":"Merksatz: 'Wert' schreibt man mit t – Probe: die Werte."}
+]},
+{"s":1,"satz":"Die neugierige Katze springt auf den Besen und kullert kopfüber in den Kessel.","f":[
+  {"r":"neugierige","w":"neugierieche","o":["neugierige","neugierieche","neugiriege","neugierriche"],"k":"b","tipp":"Merksatz: 'neugierig' kommt von 'Gier' mit ie: neu-gie-rig."},
+  {"r":"springt","w":"schpringt","o":["springt","schpringt","springd","sprigt"],"k":"b","tipp":"Merksatz: 'Sp' spricht man 'Schp', schreibt es aber immer Sp – wie in springen."},
+  {"r":"kopfüber","w":"kopfieber","o":["kopfüber","kopfieber","kobfüber","kopfübär"],"k":"b","tipp":"Merksatz: 'Kopf' schreibt man mit pf: Kopf-über."}
+]},
+{"s":2,"satz":"Am Abend braut die kluge Hexe einen geheimnisvollen Trank gegen den Schnupfen.","f":[
+  {"r":"Hexe","w":"hexe","o":["Hexe","hexe","Hekse","hekse"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Hexe' steht mit dem Begleiter 'die'."},
+  {"r":"braut","w":"Braut","o":["braut","Braut","braud","Braud"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'brauen' schreibt man klein."},
+  {"r":"geheimnisvollen","w":"geheimnisfollen","o":["geheimnisvollen","geheimnisfollen","gehaimnisvollen","geheimnisvolen"],"k":"b","tipp":"Regel: Das Wort 'voll' beginnt mit v – geheimnis-voll."}
+]},
+{"s":2,"satz":"Der freche Zauberlehrling versteckt den Besen heimlich hinter dem alten Schrank.","f":[
+  {"r":"Zauberlehrling","w":"zauberlehrling","o":["Zauberlehrling","zauberlehrling","Zauberlerling","Zauberlährling"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Zauberlehrling' steht mit dem Begleiter 'der'."},
+  {"r":"versteckt","w":"Versteckt","o":["versteckt","Versteckt","versteckd","Versteckd"],"k":"g","tipp":"Regel: Verben (Tunwörter) wie 'verstecken' schreibt man klein."},
+  {"r":"heimlich","w":"haimlich","o":["heimlich","haimlich","heimlig","heimllich"],"k":"b","tipp":"Regel: 'heimlich' schreibt man mit ei wie in 'Heim'."}
+]},
+{"s":2,"satz":"In der Nacht reitet die Hexe auf ihrem Besen zum funkelnden Sternenhimmel.","f":[
+  {"r":"Nacht","w":"nacht","o":["Nacht","nacht","Nachd","nachd"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Nacht' hat den Begleiter 'die'."},
+  {"r":"reitet","w":"Reitet","o":["reitet","Reitet","reidet","Reidet"],"k":"g","tipp":"Regel: Verben wie 'reiten' schreibt man klein."},
+  {"r":"funkelnden","w":"vunkelnden","o":["funkelnden","vunkelnden","funkellnden","funggelnden"],"k":"b","tipp":"Regel: Das Wort 'funkeln' kommt von 'Funke' und beginnt mit f, nicht v."}
+]},
+{"s":2,"satz":"Die schwarze Katze beobachtet, wie der Zauberer einen riesigen Frosch herbeihext.","f":[
+  {"r":"Katze","w":"katze","o":["Katze","katze","Katse","Kazte"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Katze' steht mit dem Begleiter 'die'."},
+  {"r":"schwarze","w":"Schwarze","o":["schwarze","Schwarze","schwartze","Schwartze"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schwarz' schreibt man klein."},
+  {"r":"riesigen","w":"risigen","o":["riesigen","risigen","riesiegen","riessigen"],"k":"b","tipp":"Regel: 'riesig' schreibt man mit ie (langes i)."}
+]},
+{"s":2,"satz":"Über dem Kessel steigt der bunte Zauberdampf und kitzelt die kleine Hexe.","f":[
+  {"r":"Kessel","w":"kessel","o":["Kessel","kessel","Kesel","kesel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'dem Kessel' steht mit dem Begleiter 'dem'."},
+  {"r":"steigt","w":"Steigt","o":["steigt","Steigt","steigd","Steigd"],"k":"g","tipp":"Regel: Verben wie 'steigen' schreibt man klein."},
+  {"r":"bunte","w":"bundte","o":["bunte","bundte","buntte","bunnte"],"k":"b","tipp":"Regel: 'bunt' schreibt man mit einfachem t: bun-te."}
+]},
+{"s":2,"satz":"Am Morgen pflückt die Hexe geheimnisvolle Kräuter für ihren magischen Trank.","f":[
+  {"r":"Kräuter","w":"kräuter","o":["Kräuter","kräuter","Kreuter","Kräuder"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Kräuter'."},
+  {"r":"pflückt","w":"Pflückt","o":["pflückt","Pflückt","pflükt","Pflükt"],"k":"g","tipp":"Regel: Verben wie 'pflücken' schreibt man klein."},
+  {"r":"magischen","w":"magieschen","o":["magischen","magieschen","machischen","magisschen"],"k":"b","tipp":"Regel: 'magisch' hat ein kurzes i ohne e: ma-gisch."}
+]},
+{"s":2,"satz":"Die Hexe verwandelt den mutigen Ritter in einen grünen Kürbis aus Zucker.","f":[
+  {"r":"Hexe","w":"hexe","o":["Hexe","hexe","Hekse","hekse"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Hexe' hat den Begleiter 'die'."},
+  {"r":"verwandelt","w":"ferwandelt","o":["verwandelt","ferwandelt","verwantelt","verwandält"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v, wie in 'verzaubern'."},
+  {"r":"grünen","w":"Grünen","o":["grünen","Grünen","grünän","Grünän"],"k":"g","tipp":"Regel: Farb-Wiewörter wie 'grün' schreibt man klein."}
+]},
+{"s":2,"satz":"Die Hexe lacht laut, als ihr Besen plötzlich einen wilden Looping fliegt.","f":[
+  {"r":"Besen","w":"besen","o":["Besen","besen","Beesen","Bäsen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'ihr Besen' steht mit dem Begleiter 'ihr'."},
+  {"r":"lacht","w":"Lacht","o":["lacht","Lacht","lachd","Lachd"],"k":"g","tipp":"Regel: Verben wie 'lachen' schreibt man klein."},
+  {"r":"wilden","w":"willden","o":["wilden","willden","wildän","willdän"],"k":"b","tipp":"Regel: 'wild' schreibt man mit einem l: wil-den."}
+]},
+{"s":2,"satz":"Im dunklen Turm rührt die Hexe den blubbernden Trank mit einem Drachenzahn.","f":[
+  {"r":"Turm","w":"turm","o":["Turm","turm","Durm","Turmm"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'dem Turm' steht mit dem Begleiter 'dem'."},
+  {"r":"rührt","w":"Rührt","o":["rührt","Rührt","rührd","Rührd"],"k":"g","tipp":"Regel: Verben wie 'rühren' schreibt man klein."},
+  {"r":"blubbernden","w":"blubernden","o":["blubbernden","blubernden","bluppernden","blubberndän"],"k":"b","tipp":"Regel: 'blubbern' schreibt man mit doppel-B: blub-bern."}
+]},
+{"s":2,"satz":"Die kleine Hexe füttert ihre Katze mit gezaubertem Käse und warmer Milch.","f":[
+  {"r":"Käse","w":"käse","o":["Käse","käse","Keese","Käze"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Käse'."},
+  {"r":"füttert","w":"fütert","o":["füttert","fütert","füttärt","fütterd"],"k":"b","tipp":"Regel: 'füttern' schreibt man mit doppel-T: füt-tern."},
+  {"r":"warmer","w":"Warmer","o":["warmer","Warmer","warmär","Warmär"],"k":"g","tipp":"Regel: Adjektive wie 'warm' schreibt man klein."}
+]},
+{"s":2,"satz":"Voller Stolz zeigt die Hexe dem Drachen ihren funkelnden, selbstgemachten Zaubertrank.","f":[
+  {"r":"Stolz","w":"stolz","o":["Stolz","stolz","Schtolz","Stolts"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'voller Stolz' meint das Gefühl, den Stolz."},
+  {"r":"zeigt","w":"Zeigt","o":["zeigt","Zeigt","zeigd","Zeigd"],"k":"g","tipp":"Regel: Verben wie 'zeigen' schreibt man klein."},
+  {"r":"selbstgemachten","w":"selpstgemachten","o":["selbstgemachten","selpstgemachten","selbstgemachdän","sellbstgemachten"],"k":"b","tipp":"Regel: 'selbst' schreibt man mit b – Probe: ich selber."}
+]},
+{"s":2,"satz":"Die junge Hexe putzt vor dem Wettbewerb ihren staubigen Besen mit großer Sorgfalt.","f":[
+  {"r":"Hexe","w":"hexe","o":["Hexe","hexe","Hekse","hekse"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Hexe' steht mit dem Begleiter 'die'."},
+  {"r":"putzt","w":"Putzt","o":["putzt","Putzt","putzd","Putzd"],"k":"g","tipp":"Regel: Verben wie 'putzen' schreibt man klein."},
+  {"r":"staubigen","w":"staobigen","o":["staubigen","staobigen","schtaubigen","staubiegen"],"k":"b","tipp":"Regel: 'Staub' schreibt man mit au: stau-big."}
+]},
+{"s":3,"satz":"Die Hexe rührt im Kessel Kröten, Spinnen und glitzernde Sternenfunken zusammen.","f":[
+  {"r":"Kröten,","w":"Kröten","o":["Kröten,","Kröten","Kröten;","Kröten."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"glitzernde","w":"Glitzernde","o":["glitzernde","Glitzernde","glizernde","Glizernde"],"k":"g","tipp":"Regel: Adjektive wie 'glitzernd' schreibt man klein."},
+  {"r":"Spinnen","w":"Spinen","o":["Spinnen","Spinen","Schpinnen","Spinnän"],"k":"b","tipp":"Regel: Die Spinne hat doppel-N: Spin-ne, Spin-nen."}
+]},
+{"s":3,"satz":"Die Hexe freut sich, weil ihr Zaubertrank endlich rosa Blubberblasen wirft.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Zaubertrank","w":"zaubertrank","o":["Zaubertrank","zaubertrank","Zaobertrank","Zaubertrang"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'ihr Zaubertrank' hat den Begleiter 'ihr'."},
+  {"r":"endlich","w":"entlich","o":["endlich","entlich","endlig","ändlich"],"k":"b","tipp":"Regel: 'endlich' kommt von 'Ende' und wird mit d geschrieben."}
+]},
+{"s":3,"satz":"Der Zauberer weiß, dass die schwarze Katze gern auf dem Besen schläft und schnarcht.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Katze","w":"katze","o":["Katze","katze","Katse","Kazte"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Katze'."},
+  {"r":"schläft","w":"schleft","o":["schläft","schleft","schläfd","schlääft"],"k":"b","tipp":"Regel: 'schläft' kommt von 'schlafen' und wird mit ä geschrieben."}
+]},
+{"s":3,"satz":"Die Hexe, die einen spitzen Hut trägt, fliegt mutig durch das Gewitter.","f":[
+  {"r":"Hexe,","w":"Hexe","o":["Hexe,","Hexe","Hexe;","Hexe."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'die' wird mit Kommas eingeschlossen: 'Die Hexe, die ... trägt, fliegt ...'."},
+  {"r":"spitzen","w":"spizen","o":["spitzen","spizen","schpitzen","spitssen"],"k":"b","tipp":"Regel: Nach kurzem i steht tz: spit-zen."},
+  {"r":"mutig","w":"Mutig","o":["mutig","Mutig","mutieg","Mutieg"],"k":"g","tipp":"Regel: Adjektive wie 'mutig' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Zaubertrank ist fast fertig, aber das knusprige Spinnenbein fehlt der Hexe noch.","f":[
+  {"r":"fertig,","w":"fertig","o":["fertig,","fertig","fertig;","fertig."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"Zaubertrank","w":"zaubertrank","o":["Zaubertrank","zaubertrank","Zaobertrank","Zaubertrang"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Zaubertrank'."},
+  {"r":"Spinnenbein","w":"Spinenbein","o":["Spinnenbein","Spinenbein","Schpinnenbein","Spinnenbain"],"k":"b","tipp":"Regel: Die Spinne hat doppel-N: Spin-nen-bein."}
+]},
+{"s":3,"satz":"Wenn der Mond aufgeht, beginnt die Hexe mit ihrem geheimen Zauberspruch.","f":[
+  {"r":"aufgeht,","w":"aufgeht","o":["aufgeht,","aufgeht","aufgeht;","aufgeht."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma: 'Wenn ..., beginnt ...'."},
+  {"r":"Hexe","w":"hexe","o":["Hexe","hexe","Hekse","hekse"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Hexe'."},
+  {"r":"geheimen","w":"gehaimen","o":["geheimen","gehaimen","geheimän","geheemen"],"k":"b","tipp":"Regel: 'geheim' schreibt man mit ei wie in 'Heim'."}
+]},
+{"s":3,"satz":"Die Katze schnurrt zufrieden, obwohl der Zaubertrank nach fauligen Pilzen riecht und qualmt.","f":[
+  {"r":"zufrieden,","w":"zufrieden","o":["zufrieden,","zufrieden","zufrieden;","zufrieden."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Katze","w":"katze","o":["Katze","katze","Katse","Kazte"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Katze'."},
+  {"r":"riecht","w":"ribecht","o":["riecht","ribecht","riechd","riächt"],"k":"b","tipp":"Regel: 'riechen' schreibt man mit ie: rie-chen."}
+]},
+{"s":3,"satz":"Die alte Hexe verrät der jungen Schülerin, wie man einen Frosch elegant verzaubert und verschwinden lässt.","f":[
+  {"r":"Schülerin,","w":"Schülerin","o":["Schülerin,","Schülerin","Schülerin;","Schülerin."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'wie' steht ein Komma."},
+  {"r":"alte","w":"Alte","o":["alte","Alte","allte","alde"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'alt' schreibt man klein."},
+  {"r":"verzaubert","w":"ferzaubert","o":["verzaubert","ferzaubert","verzaobert","verzaubärt"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v, wie in 'verwandeln'."}
+]},
+{"s":3,"satz":"Der Besen wackelt gefährlich, weil die freche Katze daran herumknabbert.","f":[
+  {"r":"gefährlich,","w":"gefährlich","o":["gefährlich,","gefährlich","gefährlich;","gefährlich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Besen","w":"besen","o":["Besen","besen","Beesen","Bäsen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Besen'."},
+  {"r":"freche","w":"fräche","o":["freche","fräche","frechä","frecche"],"k":"b","tipp":"Regel: 'frech' schreibt man mit e: fre-che."}
+]},
+{"s":3,"satz":"Die Hexe ruft ihre Katze, ihren Raben und ihre Eule zum Festmahl zusammen.","f":[
+  {"r":"Katze,","w":"Katze","o":["Katze,","Katze","Katze;","Katze."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Hexe","w":"hexe","o":["Hexe","hexe","Hekse","hekse"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Hexe'."},
+  {"r":"Festmahl","w":"Festmal","o":["Festmahl","Festmal","Fesdmahl","Festmaal"],"k":"b","tipp":"Regel: 'Mahl' (das Essen) hat ein Dehnungs-h: Fest-mahl."}
+]},
+{"s":3,"satz":"Der Zauberer staunt, als die kleine Hexe den größten Drachen einfach kitzelt.","f":[
+  {"r":"staunt,","w":"staunt","o":["staunt,","staunt","staunt;","staunt."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'als' steht ein Komma."},
+  {"r":"Hexe","w":"hexe","o":["Hexe","hexe","Hekse","hekse"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Hexe'."},
+  {"r":"größten","w":"grösten","o":["größten","grösten","gröhsten","grössten"],"k":"b","tipp":"Regel: 'größten' kommt von 'groß' und wird mit ß geschrieben."}
+]},
+{"s":3,"satz":"Die Hexe packt für den Ausflug ihren Besen, ihren Hut und ihre Zauberbücher ein.","f":[
+  {"r":"Besen,","w":"Besen","o":["Besen,","Besen","Besen;","Besen."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Hexe","w":"hexe","o":["Hexe","hexe","Hekse","hekse"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Hexe'."},
+  {"r":"Zauberbücher","w":"Zauberbücker","o":["Zauberbücher","Zauberbücker","Zaoberbücher","Zauberbüscher"],"k":"b","tipp":"Regel: 'Bücher' kommt von 'Buch' und wird mit ch geschrieben."}
+]}
+]

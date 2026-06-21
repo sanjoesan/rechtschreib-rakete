@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Das schnelle Auto rast mit lautem Hupen über die holprige Straße zum Markt.","f":[
+  {"r":"schnelle","w":"schnele","o":["schnelle","schnele","schnälle","schnelde"],"k":"b","tipp":"Merksatz: 'schnell' hat doppel-L: schn-e-ll-e."},
+  {"r":"Hupen","w":"Huppen","o":["Hupen","Huppen","Huhpen","Hubpen"],"k":"b","tipp":"Merksatz: Das Auto macht 'Hup' mit nur einem p: Hu-pen."},
+  {"r":"Straße","w":"Strasse","o":["Straße","Strasse","Schtraße","Strahse"],"k":"b","tipp":"Merksatz: Nach langem a steht ß: Stra-ß-e."}
+]},
+{"s":1,"satz":"Mein buntes Fahrrad klingelt fröhlich auf dem matschigen Waldweg.","f":[
+  {"r":"Fahrrad","w":"Farrad","o":["Fahrrad","Farrad","Fahrad","Faarrad"],"k":"b","tipp":"Merksatz: Im Fahrrad steckt 'fahren' mit h und doppel-R: Fah-rr-ad."},
+  {"r":"klingelt","w":"klinkelt","o":["klingelt","klinkelt","glingelt","klingeld"],"k":"b","tipp":"Merksatz: 'klingeln' schreibt man mit g, wie 'Klang': kling-elt."},
+  {"r":"matschigen","w":"matchigen","o":["matschigen","matchigen","madschigen","matschiegen"],"k":"b","tipp":"Merksatz: 'matschig' hört man mit tsch: ma-tsch-ig."}
+]},
+{"s":1,"satz":"Der gelbe Bus bremst quietschend vor der vollen Haltestelle am Park.","f":[
+  {"r":"gelbe","w":"gellbe","o":["gelbe","gellbe","gälbe","gelpe"],"k":"b","tipp":"Merksatz: 'gelb' hat nur ein l: gel-b."},
+  {"r":"bremst","w":"premst","o":["bremst","premst","bremmst","bremmd"],"k":"b","tipp":"Merksatz: 'bremsen' beginnt mit b, nicht mit p: b-remst."},
+  {"r":"Haltestelle","w":"Haltestele","o":["Haltestelle","Haltestele","Haldestelle","Halteställe"],"k":"b","tipp":"Merksatz: Die Stelle hat doppel-L: Halte-ste-ll-e."}
+]},
+{"s":1,"satz":"Ein langer Zug fährt schnaufend durch den dunklen Tunnel im Berg.","f":[
+  {"r":"langer","w":"langger","o":["langer","langger","lannger","langor"],"k":"b","tipp":"Merksatz: 'lang' hat nur ein g: lan-ger."},
+  {"r":"schnaufend","w":"schnaufänd","o":["schnaufend","schnaufänd","schnauvend","schnauffend"],"k":"b","tipp":"Merksatz: 'schnaufen' schreibt man mit au und f: schn-au-fend."},
+  {"r":"Tunnel","w":"Tunel","o":["Tunnel","Tunel","Tunnäl","Dunnel"],"k":"b","tipp":"Merksatz: Der Tunnel hat doppel-N: Tu-nn-el."}
+]},
+{"s":1,"satz":"Die rote Ampel leuchtet plötzlich an der breiten Kreuzung auf.","f":[
+  {"r":"Ampel","w":"Ampäl","o":["Ampel","Ampäl","Amppel","Ambel"],"k":"b","tipp":"Merksatz: Die Ampel schreibt man mit p und e: Am-pel."},
+  {"r":"plötzlich","w":"plözlich","o":["plötzlich","plözlich","plötzlig","plötslich"],"k":"b","tipp":"Merksatz: Nach kurzem ö steht tz: plö-tz-lich."},
+  {"r":"Kreuzung","w":"Kroizung","o":["Kreuzung","Kroizung","Kreutzung","Kreuzunk"],"k":"b","tipp":"Merksatz: 'Kreuzung' schreibt man mit eu: Kr-eu-zung."}
+]},
+{"s":1,"satz":"Die laute Feuerwehr braust mit blinkendem Blaulicht zum brennenden Haus.","f":[
+  {"r":"Feuerwehr","w":"Foierwehr","o":["Feuerwehr","Foierwehr","Feuerwer","Feueerwehr"],"k":"b","tipp":"Merksatz: 'Feuer' schreibt man mit eu, 'Wehr' mit Dehnungs-h: Feu-er-wehr."},
+  {"r":"blinkendem","w":"blinckendem","o":["blinkendem","blinckendem","plinkendem","blinkändem"],"k":"b","tipp":"Merksatz: Nach m oder n steht meist k statt ck: blin-k-end."},
+  {"r":"brennenden","w":"brenenden","o":["brennenden","brenenden","prennenden","brennänden"],"k":"b","tipp":"Merksatz: 'brennen' hat doppel-N: bre-nn-en."}
+]},
+{"s":1,"satz":"Ein kleiner Hubschrauber knattert über die staunende Menschenmenge hinweg.","f":[
+  {"r":"Hubschrauber","w":"Hupschrauber","o":["Hubschrauber","Hupschrauber","Hubschrouber","Hubschrauper"],"k":"b","tipp":"Merksatz: Im Hubschrauber steckt 'Hub' mit b (Probe: heben): Hub-schrauber."},
+  {"r":"knattert","w":"knatert","o":["knattert","knatert","gnattert","knatterd"],"k":"b","tipp":"Merksatz: 'knattern' hat doppel-T: kna-tt-ert."},
+  {"r":"staunende","w":"stounende","o":["staunende","stounende","schtaunende","staunänte"],"k":"b","tipp":"Merksatz: 'staunen' schreibt man mit au: st-au-nend."}
+]},
+{"s":1,"satz":"Über den breiten Zebrastreifen hüpfen die Kinder vorsichtig zur Schule.","f":[
+  {"r":"Zebrastreifen","w":"Zebrastraifen","o":["Zebrastreifen","Zebrastraifen","Zebrastreiven","Zeprastreifen"],"k":"b","tipp":"Merksatz: 'Streifen' schreibt man mit ei: Zebra-str-ei-fen."},
+  {"r":"hüpfen","w":"hüppfen","o":["hüpfen","hüppfen","hüpven","hupfen"],"k":"b","tipp":"Merksatz: 'hüpfen' schreibt man mit pf: hü-pf-en."},
+  {"r":"vorsichtig","w":"forsichtig","o":["vorsichtig","forsichtig","vorsichdig","vorsigtig"],"k":"b","tipp":"Merksatz: Die Vorsilbe 'vor-' schreibt man mit v: vor-sichtig."}
+]},
+{"s":1,"satz":"Der mutige Motorradfahrer flitzt elegant durch die enge Kurve am Fluss.","f":[
+  {"r":"mutige","w":"muhtige","o":["mutige","muhtige","mudige","muttige"],"k":"b","tipp":"Merksatz: 'mutig' kommt von 'Mut' mit nur einem t: mu-tig."},
+  {"r":"flitzt","w":"flizt","o":["flitzt","flizt","flitst","vlitzt"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: fli-tz-t."},
+  {"r":"Kurve","w":"Kurfe","o":["Kurve","Kurfe","Kurwe","Kurvve"],"k":"b","tipp":"Merksatz: Die Kurve schreibt man mit v: Kur-v-e."}
+]},
+{"s":1,"satz":"Am Bahnhof wartet die freundliche Schaffnerin geduldig auf den Schnellzug.","f":[
+  {"r":"Bahnhof","w":"Banhof","o":["Bahnhof","Banhof","Bahnhoff","Baanhof"],"k":"b","tipp":"Merksatz: Die Bahn hat ein Dehnungs-h: Bah-n-hof."},
+  {"r":"Schaffnerin","w":"Schafnerin","o":["Schaffnerin","Schafnerin","Schaffnährin","Shaffnerin"],"k":"b","tipp":"Merksatz: Die Schaffnerin hat doppel-F: Scha-ff-nerin."},
+  {"r":"geduldig","w":"gedultig","o":["geduldig","gedultig","gedulldig","gedutlig"],"k":"b","tipp":"Merksatz: 'geduldig' kommt von 'Geduld' mit d: gedul-d-ig."}
+]},
+{"s":1,"satz":"Der dicke Lastwagen transportiert schwere Steine über die wackelige Brücke zur Baustelle.","f":[
+  {"r":"Lastwagen","w":"Lastwagn","o":["Lastwagen","Lastwagn","Lasdwagen","Lastwaggen"],"k":"b","tipp":"Merksatz: Im Lastwagen steckt 'Wagen' mit e: Last-wa-gen."},
+  {"r":"transportiert","w":"transbortiert","o":["transportiert","transbortiert","transportirt","dransportiert"],"k":"b","tipp":"Merksatz: 'transportieren' schreibt man mit p, wie 'Sport': trans-p-ortiert."},
+  {"r":"Brücke","w":"Brüke","o":["Brücke","Brüke","Brügge","Brükke"],"k":"b","tipp":"Merksatz: Nach kurzem ü steht ck: Brü-ck-e."}
+]},
+{"s":1,"satz":"Das wendige Polizeiauto verfolgt mit heulender Sirene den frechen Dieb.","f":[
+  {"r":"wendige","w":"wändige","o":["wendige","wändige","wenndige","wendiege"],"k":"b","tipp":"Merksatz: 'wendig' schreibt man mit e, nicht mit ä: w-e-ndig."},
+  {"r":"verfolgt","w":"ferfolgt","o":["verfolgt","ferfolgt","verfollgt","verfolkt"],"k":"b","tipp":"Merksatz: Die Vorsilbe 'ver-' schreibt man mit v: ver-folgt."},
+  {"r":"Sirene","w":"Sirehne","o":["Sirene","Sirehne","Sireene","Siräne"],"k":"b","tipp":"Merksatz: Die Sirene schreibt man ohne extra h: Si-re-ne."}
+]},
+{"s":2,"satz":"Das rote Auto parkt heute ordentlich vor der großen Garage am Haus.","f":[
+  {"r":"Auto","w":"auto","o":["Auto","auto","Aoto","aoto"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Auto' hat den Begleiter 'das'."},
+  {"r":"parkt","w":"Parkt","o":["parkt","Parkt","barkt","parggt"],"k":"g","tipp":"Regel: Verben wie 'parken' schreibt man klein."},
+  {"r":"Garage","w":"Garrage","o":["Garage","Garrage","Garasche","Garrasche"],"k":"b","tipp":"Regel: Die Garage hat nur ein r: Ga-ra-ge."}
+]},
+{"s":2,"satz":"Der schnelle Zug saust pünktlich durch den langen dunklen Tunnel.","f":[
+  {"r":"Zug","w":"zug","o":["Zug","zug","Zuk","zuk"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Zug' hat den Begleiter 'der'."},
+  {"r":"saust","w":"sausd","o":["saust","sausd","saußt","zaust"],"k":"b","tipp":"Regel: 'sausen' schreibt man mit s und endet auf t: sau-s-t."},
+  {"r":"schnelle","w":"Schnelle","o":["schnelle","Schnelle","schnälle","Schnälle"],"k":"g","tipp":"Regel: Adjektive wie 'schnell' schreibt man klein."}
+]},
+{"s":2,"satz":"Am Morgen fährt der grüne Bus brummend zur weit entfernten Schule.","f":[
+  {"r":"Bus","w":"bus","o":["Bus","bus","Buss","buss"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Bus' hat den Begleiter 'der'."},
+  {"r":"brummend","w":"brumend","o":["brummend","brumend","prummend","brummänd"],"k":"b","tipp":"Regel: 'brummen' hat doppel-M: bru-mm-end."},
+  {"r":"grüne","w":"Grüne","o":["grüne","Grüne","grühne","Grühne"],"k":"g","tipp":"Regel: Adjektive wie 'grün' schreibt man klein."}
+]},
+{"s":2,"satz":"Die rote Ampel zeigt jetzt streng ein deutliches Stoppsignal für alle.","f":[
+  {"r":"Ampel","w":"ampel","o":["Ampel","ampel","Ampäl","ampäl"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Ampel' hat den Begleiter 'die'."},
+  {"r":"zeigt","w":"Zeigt","o":["zeigt","Zeigt","zaigt","Zaigt"],"k":"g","tipp":"Regel: Verben wie 'zeigen' schreibt man klein."},
+  {"r":"deutliches","w":"doitliches","o":["deutliches","doitliches","deudliches","deutligees"],"k":"b","tipp":"Regel: 'deutlich' schreibt man mit eu: d-eu-tlich."}
+]},
+{"s":2,"satz":"Mein neues Fahrrad glänzt prächtig in der warmen Sonne am Fluss.","f":[
+  {"r":"Fahrrad","w":"fahrrad","o":["Fahrrad","fahrrad","Fahrad","fahrad"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Fahrrad' hat den Begleiter 'das'."},
+  {"r":"glänzt","w":"glenzt","o":["glänzt","glenzt","glänst","klänzt"],"k":"b","tipp":"Regel: 'glänzt' kommt von 'Glanz' – aus a wird ä: gl-ä-nzt."},
+  {"r":"neues","w":"Neues","o":["neues","Neues","noies","Noies"],"k":"g","tipp":"Regel: Adjektive wie 'neu' schreibt man klein."}
+]},
+{"s":2,"satz":"Die mutige Feuerwehr löscht tapfer den gefährlichen Brand im Hochhaus.","f":[
+  {"r":"Feuerwehr","w":"feuerwehr","o":["Feuerwehr","feuerwehr","Feuerwer","feuerwer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Feuerwehr' hat den Begleiter 'die'."},
+  {"r":"löscht","w":"löschd","o":["löscht","löschd","löschtt","lescht"],"k":"b","tipp":"Regel: 'löschen' schreibt man mit ö und endet auf t: lö-sch-t."},
+  {"r":"mutige","w":"Mutige","o":["mutige","Mutige","muhtige","Muhtige"],"k":"g","tipp":"Regel: Adjektive wie 'mutig' schreibt man klein."}
+]},
+{"s":2,"satz":"Am Zebrastreifen warten die kleinen Kinder geduldig auf das grüne Männchen.","f":[
+  {"r":"Kinder","w":"kinder","o":["Kinder","kinder","Kindor","kindor"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Kinder' hat den Begleiter 'die'."},
+  {"r":"warten","w":"Warten","o":["warten","Warten","wahrten","Wahrten"],"k":"g","tipp":"Regel: Verben wie 'warten' schreibt man klein."},
+  {"r":"geduldig","w":"gedultig","o":["geduldig","gedultig","gedulldig","gedutlig"],"k":"b","tipp":"Regel: 'geduldig' kommt von 'Geduld' mit d: gedul-d-ig."}
+]},
+{"s":2,"satz":"Der laute Hubschrauber kreist brummend über dem riesigen blauen See.","f":[
+  {"r":"Hubschrauber","w":"hubschrauber","o":["Hubschrauber","hubschrauber","Hupschrauber","hupschrauber"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Hubschrauber' hat den Begleiter 'der'."},
+  {"r":"kreist","w":"kraist","o":["kreist","kraist","greist","kreisd"],"k":"b","tipp":"Regel: 'kreisen' schreibt man mit ei: kr-ei-st."},
+  {"r":"laute","w":"Laute","o":["laute","Laute","laude","Laude"],"k":"g","tipp":"Regel: Adjektive wie 'laut' schreibt man klein."}
+]},
+{"s":2,"satz":"Vor dem Bahnhof steht das alte Taxi geduldig im strömenden Regen.","f":[
+  {"r":"Taxi","w":"taxi","o":["Taxi","taxi","Taksi","taksi"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Taxi' hat den Begleiter 'das'."},
+  {"r":"steht","w":"stet","o":["steht","stet","schteht","steeht"],"k":"b","tipp":"Regel: 'steht' hat ein Dehnungs-h: ste-h-t."},
+  {"r":"alte","w":"Alte","o":["alte","Alte","allte","Allte"],"k":"g","tipp":"Regel: Adjektive wie 'alt' schreibt man klein."}
+]},
+{"s":2,"satz":"Der schwere Lastwagen hupt laut vor der schmalen alten Brücke.","f":[
+  {"r":"Lastwagen","w":"lastwagen","o":["Lastwagen","lastwagen","Lasdwagen","lasdwagen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Lastwagen' hat den Begleiter 'der'."},
+  {"r":"hupt","w":"hupd","o":["hupt","hupd","huppt","hubt"],"k":"b","tipp":"Regel: 'hupen' schreibt man mit einem p und endet auf t: hu-p-t."},
+  {"r":"schwere","w":"Schwere","o":["schwere","Schwere","schwähre","Schwähre"],"k":"g","tipp":"Regel: Adjektive wie 'schwer' schreibt man klein."}
+]},
+{"s":2,"satz":"Am Nachmittag flitzt der schnelle Roller wendig über den glatten Gehweg.","f":[
+  {"r":"Roller","w":"roller","o":["Roller","roller","Rollor","rollor"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Roller' hat den Begleiter 'der'."},
+  {"r":"flitzt","w":"Flitzt","o":["flitzt","Flitzt","flizt","Flizt"],"k":"g","tipp":"Regel: Verben wie 'flitzen' schreibt man klein."},
+  {"r":"glatten","w":"glaten","o":["glatten","glaten","klatten","gladten"],"k":"b","tipp":"Regel: Nach kurzem a steht doppel-T: gla-tt-en."}
+]},
+{"s":2,"satz":"Die wendige Straßenbahn klingelt fröhlich an der vollen belebten Station vorbei.","f":[
+  {"r":"Straßenbahn","w":"Strassenbahn","o":["Straßenbahn","Strassenbahn","Straßenban","Schtraßenbahn"],"k":"b","tipp":"Regel: Nach langem a steht ß: Stra-ß-enbahn."},
+  {"r":"Station","w":"station","o":["Station","station","Stazion","stazion"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Station' hat den Begleiter 'der'."},
+  {"r":"wendige","w":"Wendige","o":["wendige","Wendige","wändige","Wändige"],"k":"g","tipp":"Regel: Adjektive wie 'wendig' schreibt man klein."}
+]},
+{"s":3,"satz":"An der Kreuzung warten Autos, Busse und laute Motorräder vor der Ampel.","f":[
+  {"r":"Autos,","w":"Autos","o":["Autos,","Autos","Autos;","Autos."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Busse","w":"buse","o":["Busse","buse","Buse","busse"],"k":"b","tipp":"Regel: Nach kurzem u steht doppel-S: Bu-ss-e."},
+  {"r":"laute","w":"Laute","o":["laute","Laute","laude","Laude"],"k":"g","tipp":"Regel: Adjektive wie 'laut' schreibt man klein."}
+]},
+{"s":3,"satz":"Das Auto bleibt sofort stehen, weil die Ampel plötzlich rot leuchtet.","f":[
+  {"r":"stehen,","w":"stehen","o":["stehen,","stehen","stehen;","stehen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Ampel","w":"ampel","o":["Ampel","ampel","Ampäl","ampäl"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Ampel' hat den Begleiter 'die'."},
+  {"r":"plötzlich","w":"plözlich","o":["plötzlich","plözlich","plötzlig","plötslich"],"k":"b","tipp":"Regel: Nach kurzem ö steht tz: plö-tz-lich."}
+]},
+{"s":3,"satz":"Der Junge nimmt das Fahrrad, das in der vollen Garage steht.","f":[
+  {"r":"Fahrrad,","w":"Fahrrad","o":["Fahrrad,","Fahrrad","Fahrrad;","Fahrrad."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'das' steht ein Komma."},
+  {"r":"Junge","w":"junge","o":["Junge","junge","Jungge","jungge"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Junge' hat den Begleiter 'der'."},
+  {"r":"vollen","w":"follen","o":["vollen","follen","vohlen","vollän"],"k":"b","tipp":"Regel: 'voll' schreibt man mit v und doppel-L: v-o-ll."}
+]},
+{"s":3,"satz":"Der Zug hält am Bahnhof, doch die Türen öffnen sich nicht sofort.","f":[
+  {"r":"Bahnhof,","w":"Bahnhof","o":["Bahnhof,","Bahnhof","Bahnhof;","Bahnhof."],"k":"k","tipp":"Regel: Vor 'doch' steht ein Komma, weil ein neuer Satzteil folgt."},
+  {"r":"Türen","w":"türen","o":["Türen","türen","Tühren","tühren"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Türen' hat den Begleiter 'die'."},
+  {"r":"öffnen","w":"öfnen","o":["öffnen","öfnen","öffnän","öffenen"],"k":"b","tipp":"Regel: 'öffnen' schreibt man mit doppel-F: ö-ff-nen."}
+]},
+{"s":3,"satz":"Die Feuerwehr rast eilig los, weil ein gefährlicher Brand gemeldet wird.","f":[
+  {"r":"los,","w":"los","o":["los,","los","los;","los."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Feuerwehr","w":"feuerwehr","o":["Feuerwehr","feuerwehr","Feuerwer","feuerwer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Feuerwehr' hat den Begleiter 'die'."},
+  {"r":"gefährlicher","w":"geferlicher","o":["gefährlicher","geferlicher","gefährligher","gefehrlicher"],"k":"b","tipp":"Regel: 'gefährlich' kommt von 'Gefahr' – aus a wird ä: gef-ä-hrlich."}
+]},
+{"s":3,"satz":"Am Zebrastreifen halten die Autos an, damit die Kinder sicher hinübergehen.","f":[
+  {"r":"an,","w":"an","o":["an,","an","an;","an."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Kinder","w":"kinder","o":["Kinder","kinder","Kindor","kindor"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Kinder' hat den Begleiter 'die'."},
+  {"r":"sicher","w":"siecher","o":["sicher","siecher","sigher","sichor"],"k":"b","tipp":"Regel: 'sicher' schreibt man mit kurzem i und ch: si-ch-er."}
+]},
+{"s":3,"satz":"Der Hubschrauber landet vorsichtig auf dem Dach, obwohl der Wind stark weht.","f":[
+  {"r":"Dach,","w":"Dach","o":["Dach,","Dach","Dach;","Dach."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Hubschrauber","w":"hubschrauber","o":["Hubschrauber","hubschrauber","Hupschrauber","hupschrauber"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Hubschrauber' hat den Begleiter 'der'."},
+  {"r":"vorsichtig","w":"forsichtig","o":["vorsichtig","forsichtig","vorsichdig","vorsigtig"],"k":"b","tipp":"Regel: Die Vorsilbe 'vor-' schreibt man mit v: vor-sichtig."}
+]},
+{"s":3,"satz":"Wenn die Ampel grün wird, fahren die Autos endlich wieder weiter.","f":[
+  {"r":"wird,","w":"wird","o":["wird,","wird","wird;","wird."],"k":"k","tipp":"Regel: Nach einem vorangestellten Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"Ampel","w":"ampel","o":["Ampel","ampel","Ampäl","ampäl"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Ampel' hat den Begleiter 'die'."},
+  {"r":"grün","w":"grühn","o":["grün","grühn","krün","gruhn"],"k":"b","tipp":"Regel: 'grün' schreibt man ohne extra h: gr-ü-n."}
+]},
+{"s":3,"satz":"Der Bus wartet noch kurz, bevor er zur nächsten Haltestelle losfährt.","f":[
+  {"r":"kurz,","w":"kurz","o":["kurz,","kurz","kurz;","kurz."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bevor' steht ein Komma."},
+  {"r":"Bus","w":"bus","o":["Bus","bus","Buss","buss"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Bus' hat den Begleiter 'der'."},
+  {"r":"nächsten","w":"nexten","o":["nächsten","nexten","nähsten","nächten"],"k":"b","tipp":"Regel: 'nächsten' schreibt man mit ä und chs: n-ä-chsten."}
+]},
+{"s":3,"satz":"Das schnelle Motorrad knattert davon, sobald die lange Schranke wieder hochgeht.","f":[
+  {"r":"davon,","w":"davon","o":["davon,","davon","davon;","davon."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+  {"r":"schnelle","w":"Schnelle","o":["schnelle","Schnelle","schnälle","Schnälle"],"k":"g","tipp":"Regel: Adjektive wie 'schnell' schreibt man klein."},
+  {"r":"Schranke","w":"Schrancke","o":["Schranke","Schrancke","Schrangke","Shranke"],"k":"b","tipp":"Regel: Nach n steht meist k statt ck: Schran-k-e."}
+]},
+{"s":3,"satz":"Der Zugführer pfeift kurz, weil der lange Güterzug nun losrollen darf.","f":[
+  {"r":"kurz,","w":"kurz","o":["kurz,","kurz","kurz;","kurz."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Zugführer","w":"zugführer","o":["Zugführer","zugführer","Zukführer","zukführer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Zugführer' hat den Begleiter 'der'."},
+  {"r":"pfeift","w":"feift","o":["pfeift","feift","pfaift","pfeifd"],"k":"b","tipp":"Regel: 'pfeifen' beginnt mit pf: pf-ei-ft."}
+]},
+{"s":3,"satz":"An der Tankstelle hält der Wagen an, damit der Tank wieder voll wird.","f":[
+  {"r":"an,","w":"an","o":["an,","an","an;","an."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Wagen","w":"wagen","o":["Wagen","wagen","Waggen","waggen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Wagen' hat den Begleiter 'der'."},
+  {"r":"Tankstelle","w":"Tankstele","o":["Tankstelle","Tankstele","Tangstelle","Tankschtelle"],"k":"b","tipp":"Regel: Die Stelle hat doppel-L: Tank-ste-ll-e."}
+]}
+]

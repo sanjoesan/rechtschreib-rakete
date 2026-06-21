@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der treue Hund wedelt mit dem Schwanz und apportiert den Ball aus dem Garten zurück.","f":[
+  {"r":"wedelt","w":"wetelt","o":["wedelt","wetelt","weddelt","wedeld"],"k":"b","tipp":"Merksatz: 'wedeln' schreibt man mit d wie 'der': we-deln."},
+  {"r":"apportiert","w":"aportiert","o":["apportiert","aportiert","abportiert","apportierd"],"k":"b","tipp":"Merksatz: 'apportieren' hat doppel-P: ap-por-tieren."},
+  {"r":"Garten","w":"Gartn","o":["Garten","Gartn","Garden","Gahrten"],"k":"b","tipp":"Merksatz: Im Garten hörst du das e: Gar-ten."}
+]},
+{"s":1,"satz":"Die schnurrende Katze schleicht durch die Wohnung und jagt einen roten Wollfaden umher.","f":[
+  {"r":"schnurrende","w":"schnurende","o":["schnurrende","schnurende","schnurränte","schnurrendä"],"k":"b","tipp":"Merksatz: Die Katze schnurrt doppelt zufrieden – doppel-R: schnur-ren."},
+  {"r":"Wohnung","w":"Wonung","o":["Wohnung","Wonung","Wohnnung","Wohnug"],"k":"b","tipp":"Merksatz: In 'Wohnung' steckt 'wohnen' mit Dehnungs-h: Woh-nung."},
+  {"r":"Wollfaden","w":"Wolfaden","o":["Wollfaden","Wolfaden","Wollfaten","Wohlfaden"],"k":"b","tipp":"Merksatz: Die Wolle hat doppel-L, also auch der Wollfaden: Woll-faden."}
+]},
+{"s":1,"satz":"Der kleine Hamster stopft seine prallen Backen voll und rennt durch das bunte Laufrad herum.","f":[
+  {"r":"Hamster","w":"Hampster","o":["Hamster","Hampster","Hamstr","Hammster"],"k":"b","tipp":"Merksatz: Der Hamster hat kein p in der Mitte: Ham-ster."},
+  {"r":"stopft","w":"stoppft","o":["stopft","stoppft","schtopft","stopfd"],"k":"b","tipp":"Merksatz: 'stopfen' hat pf, aber nur EIN p: stop-fen."},
+  {"r":"Laufrad","w":"Laufrat","o":["Laufrad","Laufrat","Laofrad","Lauffrad"],"k":"b","tipp":"Merksatz: Am Ende klingt es wie t, verlängere: die Räder, also Laufrad mit d."}
+]},
+{"s":1,"satz":"Das flauschige Kaninchen mümmelt zufrieden an einer knackigen Möhre im Stall.","f":[
+  {"r":"Kaninchen","w":"Kanninchen","o":["Kaninchen","Kanninchen","Kaninschen","Gaaninchen"],"k":"b","tipp":"Merksatz: Das Kaninchen hat nur EIN n in der Mitte: Ka-nin-chen."},
+  {"r":"mümmelt","w":"mümelt","o":["mümmelt","mümelt","mümmeld","mümmält"],"k":"b","tipp":"Merksatz: Beim Mümmeln mahlt es doppelt – doppel-M: müm-meln."},
+  {"r":"knackigen","w":"knakigen","o":["knackigen","knakigen","gnackigen","knackiegen"],"k":"b","tipp":"Merksatz: Nach kurzem a steht ck: knack-ig."}
+]},
+{"s":1,"satz":"Der bunte Wellensittich zwitschert vergnügt und pickt frische Körner aus dem Napf.","f":[
+  {"r":"Wellensittich","w":"Welensittich","o":["Wellensittich","Welensittich","Wellensitich","Wellänsittich"],"k":"b","tipp":"Merksatz: Wellen haben doppel-L und der Sittich doppel-T: Wel-len-sit-tich."},
+  {"r":"zwitschert","w":"zwitchert","o":["zwitschert","zwitchert","zwidschert","zwitscherd"],"k":"b","tipp":"Merksatz: 'zwitschern' schreibt man mit tsch: zwit-schern."},
+  {"r":"Körner","w":"Kärner","o":["Körner","Kärner","Körnner","Köhrner"],"k":"b","tipp":"Merksatz: 'Körner' kommt von 'Korn' – mit ö: Kör-ner."}
+]},
+{"s":1,"satz":"Der glänzende Goldfisch dreht im runden Glas seine ruhigen Runden ganz allein.","f":[
+  {"r":"Goldfisch","w":"Goltfisch","o":["Goldfisch","Goltfisch","Golldfisch","Goldfich"],"k":"b","tipp":"Merksatz: Goldfisch kommt von 'Gold' mit d: Gold-fisch."},
+  {"r":"glänzende","w":"glenzende","o":["glänzende","glenzende","glänzänte","glänzendä"],"k":"b","tipp":"Merksatz: 'glänzen' kommt von 'Glanz' – mit ä: glän-zen."},
+  {"r":"ruhigen","w":"ruigen","o":["ruhigen","ruigen","ruhiegen","ruuhigen"],"k":"b","tipp":"Merksatz: 'ruhig' hat ein Dehnungs-h: ru-hig."}
+]},
+{"s":1,"satz":"Am Abend kuschelt sich der müde Hund gemütlich in seinen weichen Korb.","f":[
+  {"r":"kuschelt","w":"kuschellt","o":["kuschelt","kuschellt","guschelt","kuscheld"],"k":"b","tipp":"Merksatz: 'kuscheln' hat nur EIN L: ku-scheln."},
+  {"r":"gemütlich","w":"gemütlig","o":["gemütlich","gemütlig","gemühtlich","gemütliech"],"k":"b","tipp":"Merksatz: Die Endung '-lich' schreibt man immer mit ch: gemüt-lich."},
+  {"r":"weichen","w":"waichen","o":["weichen","waichen","weichän","weiechen"],"k":"b","tipp":"Merksatz: 'weich' schreibt man mit ei: wei-chen."}
+]},
+{"s":1,"satz":"Die neugierige Katze klettert blitzschnell auf den Schrank und schaut frech herunter.","f":[
+  {"r":"neugierige","w":"neugirige","o":["neugierige","neugirige","noigierige","neugieriege"],"k":"b","tipp":"Merksatz: 'neugierig' kommt von 'Gier' mit ie: neu-gie-rig."},
+  {"r":"Schrank","w":"Schrang","o":["Schrank","Schrang","Schranck","Schraank"],"k":"b","tipp":"Merksatz: 'Schrank' endet auf nk, verlängere: die Schränke, also Schrank."},
+  {"r":"frech","w":"frej","o":["frech","frej","freh","fräch"],"k":"b","tipp":"Merksatz: 'frech' schreibt man hinten mit ch: frech."}
+]},
+{"s":1,"satz":"Der dicke Hamster versteckt heimlich ein paar Sonnenblumenkerne in seinem kuscheligen Häuschen drin.","f":[
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","versteckkt","versteggt"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
+  {"r":"heimlich","w":"haimlich","o":["heimlich","haimlich","heimlig","heimliech"],"k":"b","tipp":"Merksatz: 'heimlich' schreibt man mit ei: heim-lich."},
+  {"r":"Häuschen","w":"Heuschen","o":["Häuschen","Heuschen","Häushen","Häuschän"],"k":"b","tipp":"Merksatz: 'Häuschen' kommt von 'Haus' – aus au wird äu: Häus-chen."}
+]},
+{"s":1,"satz":"Das weiche Kaninchen hoppelt fröhlich über die Wiese und buddelt eine tiefe Höhle.","f":[
+  {"r":"hoppelt","w":"hopelt","o":["hoppelt","hopelt","hoppäld","hoppeld"],"k":"b","tipp":"Merksatz: Nach kurzem o steht doppel-P: hop-peln."},
+  {"r":"fröhlich","w":"frölich","o":["fröhlich","frölich","fröhlig","fröhliech"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h nach dem ö: fröh-lich."},
+  {"r":"buddelt","w":"budelt","o":["buddelt","budelt","buddäld","buddeld"],"k":"b","tipp":"Merksatz: Nach kurzem u steht doppel-D: bud-deln."}
+]},
+{"s":1,"satz":"Der zahme Wellensittich landet sanft auf der Schulter und knabbert am kleinen Ohr.","f":[
+  {"r":"zahme","w":"zame","o":["zahme","zame","zahmä","tsahme"],"k":"b","tipp":"Merksatz: 'zahm' hat ein Dehnungs-h: zah-me."},
+  {"r":"landet","w":"lantet","o":["landet","lantet","landät","landed"],"k":"b","tipp":"Merksatz: 'landen' schreibt man mit d wie 'Land': lan-det."},
+  {"r":"Schulter","w":"Schuldter","o":["Schulter","Schuldter","Scholter","Schullter"],"k":"b","tipp":"Merksatz: 'Schulter' schreibt man mit einfachem lt: Schul-ter."}
+]},
+{"s":1,"satz":"Der ruhige Goldfisch und das schnurrende Kätzchen staunen gemeinsam über die bunte Welt.","f":[
+  {"r":"Kätzchen","w":"Ketzchen","o":["Kätzchen","Ketzchen","Kätschen","Kätzschen"],"k":"b","tipp":"Merksatz: 'Kätzchen' kommt von 'Katze' – aus a wird ä: Kätz-chen."},
+  {"r":"staunen","w":"staonen","o":["staunen","staonen","schtaunen","staunän"],"k":"b","tipp":"Merksatz: 'staunen' schreibt man mit au: stau-nen."},
+  {"r":"gemeinsam","w":"gemainsam","o":["gemeinsam","gemainsam","gemeinzam","gemeinssam"],"k":"b","tipp":"Merksatz: 'gemeinsam' schreibt man mit ei: ge-mein-sam."}
+]},
+{"s":2,"satz":"Am Morgen begrüßt der fröhliche Hund seine Familie mit einem lauten Bellen.","f":[
+  {"r":"Hund","w":"hund","o":["Hund","hund","Hunt","hunt"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Hund' steht mit dem Begleiter 'der'."},
+  {"r":"begrüßt","w":"begrüst","o":["begrüßt","begrüst","Begrüßt","begrüßd"],"k":"b","tipp":"Regel: 'begrüßen' schreibt man mit ß: be-grü-ßen."},
+  {"r":"fröhliche","w":"Fröhliche","o":["fröhliche","Fröhliche","frölliche","Frölliche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'fröhlich' schreibt man klein."}
+]},
+{"s":2,"satz":"Die verschmuste Katze schnurrt am Nachmittag laut auf dem warmen Sofa.","f":[
+  {"r":"Katze","w":"katze","o":["Katze","katze","Katse","katse"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Katze' hat den Begleiter 'die'."},
+  {"r":"schnurrt","w":"Schnurrt","o":["schnurrt","Schnurrt","schnurt","Schnurt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schnurren' schreibt man klein."},
+  {"r":"warmen","w":"wahrmen","o":["warmen","wahrmen","Warmen","warrmen"],"k":"b","tipp":"Regel: 'warm' schreibt man ohne Dehnungs-h: war-men."}
+]},
+{"s":2,"satz":"Der flinke Hamster dreht sich am Abend ausdauernd in seinem quietschenden Rad.","f":[
+  {"r":"Hamster","w":"hamster","o":["Hamster","hamster","Hampster","hampster"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Hamster' hat den Begleiter 'der'."},
+  {"r":"flinke","w":"Flinke","o":["flinke","Flinke","flincke","Flincke"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'flink' schreibt man klein."},
+  {"r":"quietschenden","w":"quitschenden","o":["quietschenden","quitschenden","Quietschenden","quietchenden"],"k":"b","tipp":"Regel: In 'quietschen' steckt das lange i als ie: quiet-schen."}
+]},
+{"s":2,"satz":"Im Stall knabbert das süße Kaninchen genüsslich an einem frischen Salatblatt.","f":[
+  {"r":"Kaninchen","w":"kaninchen","o":["Kaninchen","kaninchen","Kanninchen","kanninchen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Kaninchen' hat den Begleiter 'das'."},
+  {"r":"süße","w":"Süße","o":["süße","Süße","süsse","Süsse"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'süß' schreibt man klein."},
+  {"r":"genüsslich","w":"genüslich","o":["genüsslich","genüslich","Genüsslich","genüssliech"],"k":"b","tipp":"Regel: Nach kurzem ü steht doppel-S: ge-nüss-lich."}
+]},
+{"s":2,"satz":"Am Fenster putzt der zahme Wellensittich eifrig sein buntes Gefieder sauber.","f":[
+  {"r":"Wellensittich","w":"wellensittich","o":["Wellensittich","wellensittich","Welensittich","welensittich"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Wellensittich' hat den Begleiter 'der'."},
+  {"r":"putzt","w":"Putzt","o":["putzt","Putzt","putst","Putst"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'putzen' schreibt man klein."},
+  {"r":"Gefieder","w":"Gefider","o":["Gefieder","Gefider","gefieder","Gefieter"],"k":"b","tipp":"Regel: In 'Gefieder' steckt 'Feder' und ein langes i als ie: Ge-fie-der."}
+]},
+{"s":2,"satz":"Der bunte Goldfisch schwimmt am Mittag elegant durch das klare Aquarium.","f":[
+  {"r":"Goldfisch","w":"goldfisch","o":["Goldfisch","goldfisch","Goltfisch","goltfisch"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Goldfisch' hat den Begleiter 'der'."},
+  {"r":"schwimmt","w":"Schwimmt","o":["schwimmt","Schwimmt","schwimt","Schwimt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schwimmen' schreibt man klein."},
+  {"r":"klare","w":"klahre","o":["klare","klahre","Klare","klaare"],"k":"b","tipp":"Regel: 'klar' schreibt man ohne Dehnungs-h: kla-re."}
+]},
+{"s":2,"satz":"Am Sonntag tollt der verspielte Hund mit den Kindern durch den nassen Schnee.","f":[
+  {"r":"Hund","w":"hund","o":["Hund","hund","Hunt","hunt"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Hund' hat den Begleiter 'der'."},
+  {"r":"verspielte","w":"ferspielte","o":["verspielte","ferspielte","Verspielte","verspielde"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-spielt."},
+  {"r":"tollt","w":"Tollt","o":["tollt","Tollt","tolld","Tolld"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'tollen' schreibt man klein."}
+]},
+{"s":2,"satz":"Die schlaue Katze fängt am Vormittag eine kleine Spielmaus aus weichem Stoff.","f":[
+  {"r":"Katze","w":"katze","o":["Katze","katze","Katse","katse"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Katze' hat den Begleiter 'die'."},
+  {"r":"fängt","w":"fengt","o":["fängt","fengt","Fängt","fängd"],"k":"b","tipp":"Regel: 'fangen' wird zu 'fängt' mit ä: fängt."},
+  {"r":"schlaue","w":"Schlaue","o":["schlaue","Schlaue","schloue","Schloue"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schlau' schreibt man klein."}
+]},
+{"s":2,"satz":"Der gemütliche Hamster schläft am Tag tief in seinem kuscheligen Nest.","f":[
+  {"r":"Hamster","w":"hamster","o":["Hamster","hamster","Hampster","hampster"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Hamster' hat den Begleiter 'der'."},
+  {"r":"schläft","w":"schleft","o":["schläft","schleft","Schläft","schläfd"],"k":"b","tipp":"Regel: 'schlafen' wird zu 'schläft' mit ä: schläft."},
+  {"r":"gemütliche","w":"Gemütliche","o":["gemütliche","Gemütliche","gemütlieche","Gemütlieche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'gemütlich' schreibt man klein."}
+]},
+{"s":2,"satz":"Im Käfig hüpft das muntere Kaninchen am Morgen über sein weiches Stroh.","f":[
+  {"r":"Kaninchen","w":"kaninchen","o":["Kaninchen","kaninchen","Kanninchen","kanninchen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Kaninchen' hat den Begleiter 'das'."},
+  {"r":"hüpft","w":"Hüpft","o":["hüpft","Hüpft","hübft","Hübft"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'hüpfen' schreibt man klein."},
+  {"r":"muntere","w":"montere","o":["muntere","montere","Muntere","munterä"],"k":"b","tipp":"Regel: 'munter' schreibt man mit u: mun-ter."}
+]},
+{"s":2,"satz":"Der zwitschernde Wellensittich begrüßt jeden Morgen die strahlende Sonne am Himmel.","f":[
+  {"r":"Wellensittich","w":"wellensittich","o":["Wellensittich","wellensittich","Welensittich","welensittich"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Wellensittich' hat den Begleiter 'der'."},
+  {"r":"strahlende","w":"stralende","o":["strahlende","stralende","Strahlende","strahlände"],"k":"b","tipp":"Regel: 'strahlen' hat ein Dehnungs-h: strah-len."},
+  {"r":"zwitschernde","w":"Zwitschernde","o":["zwitschernde","Zwitschernde","zwitchernde","Zwitchernde"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'zwitschernd' schreibt man klein."}
+]},
+{"s":2,"satz":"Am Wochenende kämmt das nette Mädchen ihren treuen Hund mit einer weichen Bürste.","f":[
+  {"r":"Hund","w":"hund","o":["Hund","hund","Hunt","hunt"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'den Hund' steht mit dem Begleiter 'den'."},
+  {"r":"kämmt","w":"kemmt","o":["kämmt","kemmt","Kämmt","kämmd"],"k":"b","tipp":"Regel: 'kämmen' kommt von 'Kamm' – aus a wird ä: kämmt."},
+  {"r":"treuen","w":"Treuen","o":["treuen","Treuen","troien","Troien"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'treu' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Hund bellt freudig, weil sein bestes Frauchen endlich nach Hause kommt.","f":[
+  {"r":"freudig,","w":"freudig","o":["freudig,","freudig","freudig;","freudig."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"bestes","w":"Bestes","o":["bestes","Bestes","bästes","Bästes"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'beste' schreibt man klein."},
+  {"r":"Frauchen","w":"Frauschen","o":["Frauchen","Frauschen","Frauchän","Fraochen"],"k":"b","tipp":"Regel: 'Frauchen' kommt von 'Frau' mit au: Frau-chen."}
+]},
+{"s":3,"satz":"Die Katze, die so leise schnurrt, sitzt zufrieden auf dem warmen Fensterbrett oben.","f":[
+  {"r":"Katze,","w":"Katze","o":["Katze,","Katze","Katze;","Katze."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'die' steht ein Komma."},
+  {"r":"leise","w":"Leise","o":["leise","Leise","laise","Laise"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'leise' schreibt man klein."},
+  {"r":"Fensterbrett","w":"Fensterbret","o":["Fensterbrett","Fensterbret","Fensterprett","Fänsterbrett"],"k":"b","tipp":"Regel: Nach kurzem e steht doppel-T: Brett."}
+]},
+{"s":3,"satz":"Der Hamster läuft schnell, damit er die leckeren Körner rechtzeitig sammeln kann.","f":[
+  {"r":"schnell,","w":"schnell","o":["schnell,","schnell","schnell;","schnell."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"leckeren","w":"Leckeren","o":["leckeren","Leckeren","leckerän","Leckerän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'lecker' schreibt man klein."},
+  {"r":"rechtzeitig","w":"rechtzeitieg","o":["rechtzeitig","rechtzeitieg","Rechtzeitig","rechtzeidig"],"k":"b","tipp":"Regel: 'rechtzeitig' kommt von 'Zeit' mit ei: recht-zei-tig."}
+]},
+{"s":3,"satz":"Das Kaninchen, das so weiche Ohren hat, knabbert genüsslich an einem grünen Salatkopf.","f":[
+  {"r":"Kaninchen,","w":"Kaninchen","o":["Kaninchen,","Kaninchen","Kaninchen;","Kaninchen."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'das' steht ein Komma."},
+  {"r":"weiche","w":"Weiche","o":["weiche","Weiche","waiche","Waiche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'weich' schreibt man klein."},
+  {"r":"genüsslich","w":"genüslich","o":["genüsslich","genüslich","Genüsslich","genüssliech"],"k":"b","tipp":"Regel: Nach kurzem ü steht doppel-S: ge-nüss-lich."}
+]},
+{"s":3,"satz":"Der Wellensittich singt sein Lied, obwohl die kleine Katze ihn neugierig beobachtet.","f":[
+  {"r":"Lied,","w":"Lied","o":["Lied,","Lied","Lied;","Lied."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"kleine","w":"Kleine","o":["kleine","Kleine","klaine","Klaine"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klein' schreibt man klein."},
+  {"r":"neugierig","w":"neugirig","o":["neugierig","neugirig","Neugierig","neugieriech"],"k":"b","tipp":"Regel: 'neugierig' kommt von 'Gier' mit ie: neu-gie-rig."}
+]},
+{"s":3,"satz":"Der Goldfisch schwimmt zur Oberfläche, wenn das hungrige Kind ihm frisches Futter streut.","f":[
+  {"r":"Oberfläche,","w":"Oberfläche","o":["Oberfläche,","Oberfläche","Oberfläche;","Oberfläche."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"hungrige","w":"Hungrige","o":["hungrige","Hungrige","hungriege","Hungriege"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'hungrig' schreibt man klein."},
+  {"r":"frisches","w":"frischäs","o":["frisches","frischäs","frishes","frrisches"],"k":"b","tipp":"Regel: 'frisch' schreibt man mit sch: fri-sches."}
+]},
+{"s":3,"satz":"Der Hund wartet geduldig, bis das fröhliche Herrchen mit dem Spaziergang beginnt.","f":[
+  {"r":"geduldig,","w":"geduldig","o":["geduldig,","geduldig","geduldig;","geduldig."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bis' steht ein Komma."},
+  {"r":"fröhliche","w":"Fröhliche","o":["fröhliche","Fröhliche","frölliche","Frölliche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'fröhlich' schreibt man klein."},
+  {"r":"Herrchen","w":"Herchen","o":["Herrchen","Herchen","Herrschen","Härrchen"],"k":"b","tipp":"Regel: 'Herrchen' kommt von 'Herr' mit doppel-R: Herr-chen."}
+]},
+{"s":3,"satz":"Die Katze faucht den Hund an, denn sie verteidigt mutig ihr gemütliches Plätzchen.","f":[
+  {"r":"an,","w":"an","o":["an,","an","an;","an."],"k":"k","tipp":"Regel: Vor 'denn' steht ein Komma."},
+  {"r":"mutig","w":"Mutig","o":["mutig","Mutig","muhtig","Muhtig"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'mutig' schreibt man klein."},
+  {"r":"verteidigt","w":"ferteidigt","o":["verteidigt","ferteidigt","verteidiegt","verteidichd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-tei-digt."}
+]},
+{"s":3,"satz":"Das Kaninchen buddelt eifrig, weil es eine tiefe Höhle im weichen Boden graben will.","f":[
+  {"r":"eifrig,","w":"eifrig","o":["eifrig,","eifrig","eifrig;","eifrig."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"tiefe","w":"Tiefe","o":["tiefe","Tiefe","tiffe","Tiffe"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'tief' schreibt man klein."},
+  {"r":"buddelt","w":"budelt","o":["buddelt","budelt","buddeld","buddält"],"k":"b","tipp":"Regel: Nach kurzem u steht doppel-D: bud-deln."}
+]},
+{"s":3,"satz":"Der Wellensittich, der so bunte Federn hat, flattert vergnügt durch das helle Zimmer.","f":[
+  {"r":"Wellensittich,","w":"Wellensittich","o":["Wellensittich,","Wellensittich","Wellensittich;","Wellensittich."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'der' steht ein Komma."},
+  {"r":"bunte","w":"Bunte","o":["bunte","Bunte","bonte","Bonte"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'bunt' schreibt man klein."},
+  {"r":"flattert","w":"flatert","o":["flattert","flatert","flatterd","vlattert"],"k":"b","tipp":"Regel: Nach kurzem a steht doppel-T: flat-tern."}
+]},
+{"s":3,"satz":"Das Kaninchen frisst sein Heu, während der neugierige Hamster gespannt durch die Gitterstäbe schaut.","f":[
+  {"r":"Heu,","w":"Heu","o":["Heu,","Heu","Heu;","Heu."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'während' steht ein Komma."},
+  {"r":"neugierige","w":"Neugierige","o":["neugierige","Neugierige","neugiriege","Neugiriege"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'neugierig' schreibt man klein."},
+  {"r":"gespannt","w":"gespant","o":["gespannt","gespant","Gespannt","gespanntd"],"k":"b","tipp":"Regel: 'gespannt' hat doppel-N: ge-spannt."}
+]},
+{"s":3,"satz":"Der Goldfisch und der Hamster ruhen sich aus, bevor der lange Tag richtig anfängt.","f":[
+  {"r":"aus,","w":"aus","o":["aus,","aus","aus;","aus."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bevor' steht ein Komma."},
+  {"r":"lange","w":"Lange","o":["lange","Lange","lanke","Lanke"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'lang' schreibt man klein."},
+  {"r":"ruhen","w":"ruen","o":["ruhen","ruen","ruhän","ruuhen"],"k":"b","tipp":"Regel: 'ruhen' hat ein Dehnungs-h: ru-hen."}
+]}
+]

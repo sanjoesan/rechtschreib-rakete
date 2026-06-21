@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Die kleine Fee streut glitzernden Zauberstaub über die schlafenden Blumen im Garten.","f":[
+  {"r":"glitzernden","w":"glizernden","o":["glitzernden","glizernden","glitzärnden","klitzernden"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: gli-tzern."},
+  {"r":"Zauberstaub","w":"Zaoberstaub","o":["Zauberstaub","Zaoberstaub","Zauberstaob","Tsauberstaub"],"k":"b","tipp":"Merksatz: 'Zauber' und 'Staub' haben beide ein au: Zau-ber-staub."},
+  {"r":"schlafenden","w":"schlaffenden","o":["schlafenden","schlaffenden","schlafänden","schlavenden"],"k":"b","tipp":"Merksatz: 'schlafen' hat nur EIN f: schla-fen."}
+]},
+{"s":1,"satz":"Der winzige Elf wohnt vergnügt in einem bunten Blütenhaus unter dem Holunderstrauch.","f":[
+  {"r":"winzige","w":"winzieche","o":["winzige","winzieche","winnzige","winsige"],"k":"b","tipp":"Merksatz: 'winzig' endet auf '-ig': win-zig."},
+  {"r":"Blütenhaus","w":"Blütenhaos","o":["Blütenhaus","Blütenhaos","Blüttenhaus","Plütenhaus"],"k":"b","tipp":"Merksatz: Das 'Haus' schreibt man mit au: Haus."},
+  {"r":"vergnügt","w":"fergnügt","o":["vergnügt","fergnügt","vergnükt","vergnügd"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'vergessen'."}
+]},
+{"s":1,"satz":"Mit ihren zarten Flügeln schwebt die Blumenfee leise über den glitzernden Bach.","f":[
+  {"r":"zarten","w":"tsarten","o":["zarten","tsarten","zardten","zahrten"],"k":"b","tipp":"Merksatz: 'zart' beginnt mit z wie 'Zauber': zar-ten."},
+  {"r":"Flügeln","w":"Flügelln","o":["Flügeln","Flügelln","Flügäln","Vlügeln"],"k":"b","tipp":"Merksatz: 'Flügeln' kommt von 'Flügel' und hat ein l: Flü-geln."},
+  {"r":"schwebt","w":"schwebd","o":["schwebt","schwebd","schwept","schwepd"],"k":"b","tipp":"Merksatz: 'schweben' endet auf b (Probe: sie schweben) – also schwebt."}
+]},
+{"s":1,"satz":"Die freundliche Elfe pflückt funkelnde Sterne und steckt sie in ihre Tasche.","f":[
+  {"r":"freundliche","w":"freuntliche","o":["freundliche","freuntliche","fröindliche","freundlige"],"k":"b","tipp":"Merksatz: In 'freundlich' steckt der 'Freund' – mit d in der Mitte."},
+  {"r":"pflückt","w":"flückt","o":["pflückt","flückt","pflükt","pfllückt"],"k":"b","tipp":"Merksatz: 'pflücken' beginnt mit pf wie 'Pflanze': pflü-cken."},
+  {"r":"funkelnde","w":"funggelnde","o":["funkelnde","funggelnde","funkellnde","vunkelnde"],"k":"b","tipp":"Merksatz: Die Sterne FUNKeln wie ein 'Funke' – mit einem k."}
+]},
+{"s":1,"satz":"Der kleine Waldelf reitet auf einer schnellen Libelle durch den geheimnisvollen Zauberwald.","f":[
+  {"r":"reitet","w":"raitet","o":["reitet","raitet","reittet","reited"],"k":"b","tipp":"Merksatz: 'reiten' schreibt man mit ei: rei-ten."},
+  {"r":"schnellen","w":"schnelen","o":["schnellen","schnelen","schnällen","schnellän"],"k":"b","tipp":"Merksatz: Wer schnell ist, rennt – darum doppel-L wie in 'schnell'."},
+  {"r":"geheimnisvollen","w":"gehaimnisvollen","o":["geheimnisvollen","gehaimnisvollen","geheimnisfollen","geheimnissvollen"],"k":"b","tipp":"Merksatz: In 'geheimnisvoll' steckt 'geheim' mit ei: ge-heim-nis-voll."}
+]},
+{"s":1,"satz":"Die Blütenfee tanzt fröhlich im warmen Sonnenlicht zwischen den duftenden Rosen.","f":[
+  {"r":"fröhlich","w":"frölich","o":["fröhlich","frölich","fröhlig","frööhlich"],"k":"b","tipp":"Merksatz: 'fröhlich' braucht das Dehnungs-h: fröh-lich."},
+  {"r":"Sonnenlicht","w":"Sonenlicht","o":["Sonnenlicht","Sonenlicht","Sonnenliecht","Sonnenligt"],"k":"b","tipp":"Merksatz: Die 'Sonne' strahlt doppelt – darum doppel-N: Son-ne."},
+  {"r":"duftenden","w":"duvtenden","o":["duftenden","duvtenden","duftänden","dufdenden"],"k":"b","tipp":"Merksatz: 'duften' kommt von 'Duft' mit f: duf-ten."}
+]},
+{"s":1,"satz":"Der gute Hauself versteckt seine winzigen Schätze tief im hohlen Baumstamm der Eiche.","f":[
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","versteckd"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
+  {"r":"winzigen","w":"winziegen","o":["winzigen","winziegen","winnzigen","winsigen"],"k":"b","tipp":"Merksatz: 'winzig' endet auf '-ig': win-zig."},
+  {"r":"Baumstamm","w":"Baumstam","o":["Baumstamm","Baumstam","Baomstamm","Paumstamm"],"k":"b","tipp":"Merksatz: Der 'Stamm' endet auf doppel-M: Stamm."}
+]},
+{"s":1,"satz":"Die zauberhafte Fee verwandelt einen grauen Kieselstein in eine glänzende Perle.","f":[
+  {"r":"zauberhafte","w":"tsauberhafte","o":["zauberhafte","tsauberhafte","zaoberhafte","zauberhafde"],"k":"b","tipp":"Merksatz: 'Zauber' beginnt mit z und hat au: Zau-ber."},
+  {"r":"verwandelt","w":"ferwandelt","o":["verwandelt","ferwandelt","verwandellt","verwandeld"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verwandeln'."},
+  {"r":"glänzende","w":"glenzende","o":["glänzende","glenzende","klänzende","glänzännde"],"k":"b","tipp":"Merksatz: 'glänzen' kommt von 'Glanz' – darum mit ä."}
+]},
+{"s":1,"satz":"Am Abend zünden die fleißigen Elfen viele kleine Glühwürmchen für die Party an.","f":[
+  {"r":"fleißigen","w":"flaißigen","o":["fleißigen","flaißigen","fleisigen","fleißiegen"],"k":"b","tipp":"Merksatz: 'fleißig' schreibt man mit ei und ß: flei-ßig."},
+  {"r":"Glühwürmchen","w":"Glüwürmchen","o":["Glühwürmchen","Glüwürmchen","Glühwürmschen","Glühwürmken"],"k":"b","tipp":"Merksatz: 'glühen' braucht das Dehnungs-h: Glüh-würmchen."},
+  {"r":"viele","w":"fiele","o":["viele","fiele","viehle","vielle"],"k":"b","tipp":"Merksatz: 'viele' schreibt man mit v und ie: vie-le."}
+]},
+{"s":1,"satz":"Die mutige Elfe klettert geschickt über den moosigen Stein zum versteckten Feenring hinauf.","f":[
+  {"r":"klettert","w":"kletert","o":["klettert","kletert","kletterd","glettert"],"k":"b","tipp":"Merksatz: Beim Klettern braucht man doppel-T: klet-tert."},
+  {"r":"geschickt","w":"geschikt","o":["geschickt","geschikt","geschiggt","geschickd"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: geschi-ckt."},
+  {"r":"Feenring","w":"Fehnring","o":["Feenring","Fehnring","Feenrinng","Feehnring"],"k":"b","tipp":"Merksatz: 'Feen' hat doppel-E: Fe-en-ring."}
+]},
+{"s":1,"satz":"Der kleine Kobold stiehlt heimlich einen Tropfen Honig aus dem goldenen Bienenstock.","f":[
+  {"r":"stiehlt","w":"stilt","o":["stiehlt","stilt","schtiehlt","stiehld"],"k":"b","tipp":"Merksatz: 'stehlen' wird zu 'stiehlt' mit ie und h: stiehlt."},
+  {"r":"heimlich","w":"haimlich","o":["heimlich","haimlich","heimlig","heihmlich"],"k":"b","tipp":"Merksatz: 'heimlich' schreibt man mit ei: heim-lich."},
+  {"r":"goldenen","w":"goltenen","o":["goldenen","goltenen","golldenen","goldenän"],"k":"b","tipp":"Merksatz: 'golden' kommt von 'Gold' mit d: gol-de-nen."}
+]},
+{"s":1,"satz":"Die Sternenfee sammelt fallende Sternschnuppen in ihrem kleinen Körbchen aus Birkenrinde.","f":[
+  {"r":"fallende","w":"fallände","o":["fallende","fallände","falende","vallende"],"k":"b","tipp":"Merksatz: 'fallen' hat doppel-L: fal-len-de."},
+  {"r":"Sternschnuppen","w":"Sternschnupen","o":["Sternschnuppen","Sternschnupen","Schternschnuppen","Sternschnuppän"],"k":"b","tipp":"Merksatz: Die 'Schnuppe' hat doppel-P: Schnup-pen."},
+  {"r":"Körbchen","w":"Körbschen","o":["Körbchen","Körbschen","Körpchen","Körbgen"],"k":"b","tipp":"Merksatz: Das 'Körbchen' kommt von 'Korb' mit b: Körb-chen."}
+]},
+{"s":2,"satz":"Am Morgen weckt die Fee mit leisem Klingeln die ganze schlafende Blumenwiese.","f":[
+  {"r":"Fee","w":"fee","o":["Fee","fee","Feh","feh"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Fee' steht mit dem Begleiter 'die'."},
+  {"r":"leisem","w":"laisem","o":["leisem","laisem","leißem","leisäm"],"k":"b","tipp":"Regel: 'leise' schreibt man mit ei und s: lei-se."},
+  {"r":"schlafende","w":"Schlafende","o":["schlafende","Schlafende","schlaffende","Schlaffende"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schlafend' schreibt man klein."}
+]},
+{"s":2,"satz":"Die kleine Elfe fliegt zum Teich im Wald, weil dort die schönsten Seerosen blühen.","f":[
+  {"r":"Teich","w":"teich","o":["Teich","teich","Taich","taich"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Teich' hat den Begleiter 'der'."},
+  {"r":"fliegt","w":"Fliegt","o":["fliegt","Fliegt","fliegd","Fliegd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'fliegen' schreibt man klein."},
+  {"r":"schönsten","w":"schönnsten","o":["schönsten","schönnsten","schönschten","schönsdten"],"k":"b","tipp":"Regel: 'schön' hat nur EIN n: schöns-ten."}
+]},
+{"s":2,"satz":"In der Nacht streut die müde Fee glitzernden Zauberstaub über das stille Dorf.","f":[
+  {"r":"Nacht","w":"nacht","o":["Nacht","nacht","Nachd","nachd"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Nacht' hat den Begleiter 'die'."},
+  {"r":"glitzernden","w":"glizernden","o":["glitzernden","glizernden","klitzernden","glitzärnden"],"k":"b","tipp":"Regel: Nach kurzem i steht tz: gli-tzern."},
+  {"r":"müde","w":"Müde","o":["müde","Müde","müte","Müte"],"k":"g","tipp":"Regel: Adjektive wie 'müde' schreibt man klein."}
+]},
+{"s":2,"satz":"Die freche Elfe kichert laut, doch die strenge Königin bleibt ganz ernst.","f":[
+  {"r":"Königin","w":"königin","o":["Königin","königin","Köniegin","köniegin"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Königin'."},
+  {"r":"kichert","w":"kichard","o":["kichert","kichard","kicherd","kischert"],"k":"b","tipp":"Regel: 'kichern' schreibt man mit 'ch' und endet auf '-ert': ki-chert."},
+  {"r":"strenge","w":"Strenge","o":["strenge","Strenge","schtrenge","strennge"],"k":"g","tipp":"Regel: Adjektive wie 'streng' schreibt man klein (außer am Satzanfang)."}
+]},
+{"s":2,"satz":"Am Mittag pflanzt die fleißige Fee bunte Blumen in den weichen Waldboden.","f":[
+  {"r":"Mittag","w":"mittag","o":["Mittag","mittag","Mitag","mitag"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Mittag'."},
+  {"r":"pflanzt","w":"flanzt","o":["pflanzt","flanzt","pflannzt","pflansst"],"k":"b","tipp":"Regel: 'pflanzen' beginnt mit pf wie 'Pflanze': pflan-zt."},
+  {"r":"fleißige","w":"Fleißige","o":["fleißige","Fleißige","flaißige","Flaißige"],"k":"g","tipp":"Regel: Adjektive wie 'fleißig' schreibt man klein."}
+]},
+{"s":2,"satz":"Der kleine Elf baut sich am Abend ein gemütliches Bett aus weichem Moos.","f":[
+  {"r":"Abend","w":"abend","o":["Abend","abend","Abent","abent"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Abend'."},
+  {"r":"gemütliches","w":"gemühtliches","o":["gemütliches","gemühtliches","gemütliges","gemüdliches"],"k":"b","tipp":"Regel: 'gemütlich' schreibt man mit t und ohne Dehnungs-h: ge-müt-lich."},
+  {"r":"baut","w":"Baut","o":["baut","Baut","baud","Baud"],"k":"g","tipp":"Regel: Verben wie 'bauen' schreibt man klein."}
+]},
+{"s":2,"satz":"Die kluge Elfenmutter lehrt ihre Kinder das Zaubern hoch oben im Baumwipfel.","f":[
+  {"r":"Elfenmutter","w":"elfenmutter","o":["Elfenmutter","elfenmutter","Elfenmuter","elfenmuter"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Elfenmutter'."},
+  {"r":"Zaubern","w":"zaubern","o":["Zaubern","zaubern","Tsaubern","tsaubern"],"k":"g","tipp":"Regel: Das nominalisierte Verb 'das Zaubern' wird groß geschrieben, weil 'das' davorsteht."},
+  {"r":"lehrt","w":"lert","o":["lehrt","lert","leerd","lehrd"],"k":"b","tipp":"Regel: 'lehren' braucht das Dehnungs-h: leh-ren."}
+]},
+{"s":2,"satz":"Die gütige Fee schenkt dem traurigen Kind einen leuchtenden Wunschstern vom Himmel.","f":[
+  {"r":"Kind","w":"kind","o":["Kind","kind","Kint","kint"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Kind'."},
+  {"r":"leuchtenden","w":"loichtenden","o":["leuchtenden","loichtenden","leuchdenden","löichtenden"],"k":"b","tipp":"Regel: 'leuchten' schreibt man mit eu: leuch-ten."},
+  {"r":"traurigen","w":"Traurigen","o":["traurigen","Traurigen","traorigen","Traorigen"],"k":"g","tipp":"Regel: Adjektive wie 'traurig' schreibt man klein."}
+]},
+{"s":2,"satz":"Plötzlich erscheint eine glitzernde Fee und schwebt über dem stillen See im Mondlicht.","f":[
+  {"r":"See","w":"see","o":["See","see","Seh","seh"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der See'."},
+  {"r":"glitzernde","w":"glizernde","o":["glitzernde","glizernde","klitzernde","glitzärnde"],"k":"b","tipp":"Regel: Nach kurzem i steht tz: gli-tzern."},
+  {"r":"erscheint","w":"Erscheint","o":["erscheint","Erscheint","erschaint","Erschaint"],"k":"g","tipp":"Regel: Verben wie 'erscheinen' schreibt man klein."}
+]},
+{"s":2,"satz":"Im Morgengrauen sammelt die emsige Elfe glitzernde Tautropfen für ihren Zaubertrank.","f":[
+  {"r":"Tautropfen","w":"tautropfen","o":["Tautropfen","tautropfen","Taotropfen","taotropfen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Tautropfen'."},
+  {"r":"emsige","w":"Emsige","o":["emsige","Emsige","emsieche","Emsieche"],"k":"g","tipp":"Regel: Adjektive wie 'emsig' schreibt man klein."},
+  {"r":"glitzernde","w":"glizernde","o":["glitzernde","glizernde","klitzernde","glitzärnde"],"k":"b","tipp":"Regel: Nach kurzem i steht tz: gli-tzern."}
+]},
+{"s":2,"satz":"Die alte Fee erzählt am Lagerfeuer von ihren wunderbaren Abenteuern im Feenreich.","f":[
+  {"r":"Lagerfeuer","w":"lagerfeuer","o":["Lagerfeuer","lagerfeuer","Lagerfeier","lagerfeier"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Lagerfeuer'."},
+  {"r":"erzählt","w":"erzehlt","o":["erzählt","erzehlt","erzällt","erzähld"],"k":"b","tipp":"Regel: 'erzählen' wird mit ä und h geschrieben: er-zäh-len."},
+  {"r":"alte","w":"Alte","o":["alte","Alte","allte","alde"],"k":"g","tipp":"Regel: Adjektive wie 'alt' schreibt man klein."}
+]},
+{"s":2,"satz":"Im Frühling weckt die fröhliche Fee mit ihrem Lied die müden Murmeltiere im Bau.","f":[
+  {"r":"Frühling","w":"frühling","o":["Frühling","frühling","Frülling","frülling"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Frühling'."},
+  {"r":"fröhliche","w":"frölliche","o":["fröhliche","frölliche","frölische","fröhlige"],"k":"b","tipp":"Regel: 'fröhlich' braucht das Dehnungs-h: fröh-lich."},
+  {"r":"müden","w":"Müden","o":["müden","Müden","müeden","Müeden"],"k":"g","tipp":"Regel: Adjektive wie 'müde' schreibt man klein."}
+]},
+{"s":3,"satz":"Die kleine Fee weint leise, weil ihr funkelnder Zauberstab verschwunden ist.","f":[
+  {"r":"leise,","w":"leise","o":["leise,","leise","leise;","leise."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Zauberstab","w":"zauberstab","o":["Zauberstab","zauberstab","Zauberstap","zauberstap"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Zauberstab'."},
+  {"r":"funkelnder","w":"funggelnder","o":["funkelnder","funggelnder","vunkelnder","funkellnder"],"k":"b","tipp":"Regel: 'funkeln' kommt von 'Funke' und wird mit einem k geschrieben."}
+]},
+{"s":3,"satz":"Im Blütenhaus duften Rosen, zarte Veilchen und süße Maiglöckchen ganz wunderbar.","f":[
+  {"r":"Rosen,","w":"Rosen","o":["Rosen,","Rosen","Rosen;","Rosen."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"süße","w":"süsse","o":["süße","süsse","süeße","süßße"],"k":"b","tipp":"Regel: Nach langem Vokal steht ß: sü-ße."},
+  {"r":"zarte","w":"Zarte","o":["zarte","Zarte","zardte","Zardte"],"k":"g","tipp":"Regel: Adjektive wie 'zart' schreibt man klein."}
+]},
+{"s":3,"satz":"Der kleine Elf weiß, dass sein Zauberstaub bald für immer aufgebraucht ist.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Zauberstaub","w":"zauberstaub","o":["Zauberstaub","zauberstaub","Zauberstaob","zauberstaob"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Zauberstaub'."},
+  {"r":"aufgebraucht","w":"aufgebraocht","o":["aufgebraucht","aufgebraocht","aufgebraughd","aufgebraugt"],"k":"b","tipp":"Regel: 'gebraucht' kommt von 'brauchen' mit au: ge-braucht."}
+]},
+{"s":3,"satz":"Die zauberhafte Fee, die im Mondschein tanzt, verzaubert den ganzen alten Wald ringsum.","f":[
+  {"r":"Fee,","w":"Fee","o":["Fee,","Fee","Fee;","Fee."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'die' wird mit Kommas eingeschlossen."},
+  {"r":"Wald","w":"wald","o":["Wald","wald","Walt","walt"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Wald'."},
+  {"r":"verzaubert","w":"ferzaubert","o":["verzaubert","ferzaubert","verzaobert","verzauberd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v, wie in 'verzaubern'."}
+]},
+{"s":3,"satz":"Die Elfe ist winzig klein, aber ihr mutiges Herz ist riesengroß und tapfer.","f":[
+  {"r":"klein,","w":"klein","o":["klein,","klein","klein;","klein."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"Herz","w":"herz","o":["Herz","herz","Herts","herts"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Herz'."},
+  {"r":"riesengroß","w":"risengroß","o":["riesengroß","risengroß","riesengros","riessengroß"],"k":"b","tipp":"Regel: 'riesen' schreibt man mit ie (langes i): rie-sen-groß."}
+]},
+{"s":3,"satz":"Wenn der Mond aufgeht, beginnen die kleinen Elfen ihren fröhlichen Reigentanz.","f":[
+  {"r":"aufgeht,","w":"aufgeht","o":["aufgeht,","aufgeht","aufgeht;","aufgeht."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma."},
+  {"r":"Elfen","w":"elfen","o":["Elfen","elfen","Ellfen","ellfen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Elfen'."},
+  {"r":"fröhlichen","w":"frölichen","o":["fröhlichen","frölichen","fröhliegen","frööhlichen"],"k":"b","tipp":"Regel: 'fröhlich' braucht das Dehnungs-h: fröh-lich."}
+]},
+{"s":3,"satz":"Die gute Fee hilft dem verirrten Käfer, obwohl sie selbst den Heimweg sucht.","f":[
+  {"r":"Käfer,","w":"Käfer","o":["Käfer,","Käfer","Käfer;","Käfer."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"gute","w":"Gute","o":["gute","Gute","gude","Gude"],"k":"g","tipp":"Regel: Adjektive wie 'gut' schreibt man klein."},
+  {"r":"verirrten","w":"ferirrten","o":["verirrten","ferirrten","verirten","verirrtän"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v, wie in 'verirren'."}
+]},
+{"s":3,"satz":"Die Elfe summt ein Lied, sobald die ersten Sonnenstrahlen den Wald erhellen.","f":[
+  {"r":"Lied,","w":"Lied","o":["Lied,","Lied","Lied;","Lied."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+  {"r":"Sonnenstrahlen","w":"sonnenstrahlen","o":["Sonnenstrahlen","sonnenstrahlen","Sonenstrahlen","sonenstrahlen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Sonnenstrahlen'."},
+  {"r":"summt","w":"sumt","o":["summt","sumt","summd","sumd"],"k":"b","tipp":"Regel: 'summen' hat doppel-M: sum-mt."}
+]},
+{"s":3,"satz":"Die freundliche Fee, die im Garten wohnt, beschützt jede einzelne kleine Blume.","f":[
+  {"r":"Fee,","w":"Fee","o":["Fee,","Fee","Fee;","Fee."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'die' wird mit Kommas eingeschlossen."},
+  {"r":"Garten","w":"garten","o":["Garten","garten","Gartten","gartten"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Garten'."},
+  {"r":"beschützt","w":"beschüzt","o":["beschützt","beschüzt","beschüttzt","beschützd"],"k":"b","tipp":"Regel: Nach kurzem ü steht tz: beschü-tzt."}
+]},
+{"s":3,"satz":"Die Fee hebt ihren Stab, damit der ganze Garten in goldenem Licht erstrahlt.","f":[
+  {"r":"Stab,","w":"Stab","o":["Stab,","Stab","Stab;","Stab."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Garten","w":"garten","o":["Garten","garten","Gartten","gartten"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Garten'."},
+  {"r":"goldenem","w":"goltenem","o":["goldenem","goltenem","golldenem","goldenäm"],"k":"b","tipp":"Regel: 'golden' kommt von 'Gold' mit d: gol-de-nem."}
+]},
+{"s":3,"satz":"Sobald die Glocke läutet, versammeln sich alle Elfen am großen Zauberbrunnen.","f":[
+  {"r":"läutet,","w":"läutet","o":["läutet,","läutet","läutet;","läutet."],"k":"k","tipp":"Regel: Steht der 'sobald'-Satz vorne, folgt danach ein Komma."},
+  {"r":"Elfen","w":"elfen","o":["Elfen","elfen","Ellfen","ellfen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Elfen'."},
+  {"r":"großen","w":"grosen","o":["großen","grosen","grossen","großßen"],"k":"b","tipp":"Regel: Nach langem o steht ß: gro-ßen."}
+]},
+{"s":3,"satz":"Die kleine Fee gießt ihre Blumen, sooft der Tau am frühen Morgen verdunstet.","f":[
+  {"r":"Blumen,","w":"Blumen","o":["Blumen,","Blumen","Blumen;","Blumen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sooft' steht ein Komma."},
+  {"r":"Tau","w":"tau","o":["Tau","tau","Tao","tao"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Tau'."},
+  {"r":"gießt","w":"giest","o":["gießt","giest","gißt","giesst"],"k":"b","tipp":"Regel: 'gießen' schreibt man mit ie und ß: gie-ßen."}
+]}
+]

@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der tapfere Feuerwehrmann klettert mit dem langen Schlauch flink die hohe Leiter hinauf.","f":[
+  {"r":"Feuerwehrmann","w":"Feierwehrmann","o":["Feuerwehrmann","Feierwehrmann","Feuerwermann","Feuerwehrman"],"k":"b","tipp":"Merksatz: In 'Feuer' steckt 'euer' – mit eu: Feu-er-wehr-mann."},
+  {"r":"Schlauch","w":"Schlaouch","o":["Schlauch","Schlaouch","Schlauh","Schlauchh"],"k":"b","tipp":"Merksatz: Der Schlauch schreibt sich mit au und ch: Schlau-ch."},
+  {"r":"Leiter","w":"Laiter","o":["Leiter","Laiter","Leitter","Leider"],"k":"b","tipp":"Merksatz: Die Leiter schreibt man mit ei: Lei-ter."}
+]},
+{"s":1,"satz":"Die fröhliche Bäckerin knetet am frühen Morgen einen riesigen Berg aus klebrigem Teig.","f":[
+  {"r":"Bäckerin","w":"Beckerin","o":["Bäckerin","Beckerin","Bäkerin","Bäckärin"],"k":"b","tipp":"Merksatz: 'Bäcker' kommt von 'backen' – mit ä: Bä-cke-rin."},
+  {"r":"frühen","w":"früen","o":["frühen","früen","frühän","früchen"],"k":"b","tipp":"Merksatz: 'früh' hat ein Dehnungs-h nach dem ü: frü-hen."},
+  {"r":"klebrigem","w":"klebriegem","o":["klebrigem","klebriegem","glebrigem","klebriggem"],"k":"b","tipp":"Merksatz: 'klebrig' kommt von 'kleben' – mit e: kleb-rig."}
+]},
+{"s":1,"satz":"Die freundliche Tierärztin untersucht vorsichtig die kranke Katze mit ihrem warmen Stethoskop.","f":[
+  {"r":"Tierärztin","w":"Tirärztin","o":["Tierärztin","Tirärztin","Tierertztin","Tierärtzin"],"k":"b","tipp":"Merksatz: In 'Tier' steckt das langes i mit ie: Tier-ärz-tin."},
+  {"r":"untersucht","w":"untersuhct","o":["untersucht","untersuhct","untersukt","unterzucht"],"k":"b","tipp":"Merksatz: 'suchen' schreibt man mit ch: unter-such-t."},
+  {"r":"kranke","w":"granke","o":["kranke","granke","krangke","krannke"],"k":"b","tipp":"Merksatz: 'krank' beginnt mit einem harten k: kran-ke."}
+]},
+{"s":1,"satz":"Der mutige Pilot steuert das brummende Flugzeug sicher durch die dicken Wolken hindurch.","f":[
+  {"r":"steuert","w":"steiert","o":["steuert","steiert","steuärt","steuertt"],"k":"b","tipp":"Merksatz: 'steuern' schreibt man mit eu: steu-ert."},
+  {"r":"Flugzeug","w":"Flukzeug","o":["Flugzeug","Flukzeug","Flugzeig","Flugzeugk"],"k":"b","tipp":"Merksatz: 'Flug' kommt von 'fliegen' – mit g: Flug-zeug."},
+  {"r":"Wolken","w":"Volken","o":["Wolken","Volken","Wollken","Wolkän"],"k":"b","tipp":"Merksatz: Die Wolken schreibt man mit w: Wol-ken."}
+]},
+{"s":1,"satz":"Der schwebende Astronaut hüpft mit seinem schweren Anzug langsam über den staubigen Mond.","f":[
+  {"r":"Astronaut","w":"Astronaot","o":["Astronaut","Astronaot","Asdronaut","Astronaud"],"k":"b","tipp":"Merksatz: Der Astronaut endet auf 'naut' mit au: Astro-naut."},
+  {"r":"schweren","w":"schwären","o":["schweren","schwären","schweeren","schwerän"],"k":"b","tipp":"Merksatz: 'schwer' schreibt man mit e: schwe-ren."},
+  {"r":"staubigen","w":"staobigen","o":["staubigen","staobigen","staubiegen","staubiggen"],"k":"b","tipp":"Merksatz: 'staubig' kommt von 'Staub' – mit au: stau-big."}
+]},
+{"s":1,"satz":"Der fleißige Gärtner gießt mit der grünen Kanne die durstigen Blumen im sonnigen Beet.","f":[
+  {"r":"Gärtner","w":"Gertner","o":["Gärtner","Gertner","Gärtnär","Gärdner"],"k":"b","tipp":"Merksatz: 'Gärtner' kommt von 'Garten' – mit ä: Gärt-ner."},
+  {"r":"durstigen","w":"durstiegen","o":["durstigen","durstiegen","durzigen","dursdigen"],"k":"b","tipp":"Merksatz: 'durstig' kommt von 'Durst' – ohne e: durs-tig."},
+  {"r":"sonnigen","w":"sonigen","o":["sonnigen","sonigen","sonniegen","sonnigän"],"k":"b","tipp":"Merksatz: 'sonnig' kommt von 'Sonne' – mit doppel-N: son-nig."}
+]},
+{"s":1,"satz":"Die strenge Polizistin regelt mit ihrer Trillerpfeife den wilden Verkehr an der großen Kreuzung.","f":[
+  {"r":"Polizistin","w":"Polizisstin","o":["Polizistin","Polizisstin","Bolizistin","Polizisdin"],"k":"b","tipp":"Merksatz: Die Polizistin hat nur EIN s in der Mitte: Po-li-zis-tin."},
+  {"r":"Trillerpfeife","w":"Trilerpfeife","o":["Trillerpfeife","Trilerpfeife","Trillerpfaife","Trillerpheife"],"k":"b","tipp":"Merksatz: 'Triller' braucht doppel-L: Tril-ler-pfei-fe."},
+  {"r":"Verkehr","w":"Ferkehr","o":["Verkehr","Ferkehr","Verker","Verkährr"],"k":"b","tipp":"Merksatz: 'Verkehr' beginnt mit 'ver-' und hat ein Dehnungs-h: Ver-kehr."}
+]},
+{"s":1,"satz":"Der starke Maurer stapelt mit großer Geduld die schweren Steine zu einer hohen Mauer.","f":[
+  {"r":"Maurer","w":"Maorer","o":["Maurer","Maorer","Maurär","Maurrer"],"k":"b","tipp":"Merksatz: Der Maurer baut eine Mauer – mit au: Mau-rer."},
+  {"r":"Geduld","w":"Gedult","o":["Geduld","Gedult","Keduld","Gedulld"],"k":"b","tipp":"Merksatz: Am Ende hörst du ein d – verlängere: die Geduld, geduldig, also -duld."},
+  {"r":"Steine","w":"Schteine","o":["Steine","Schteine","Staine","Steinne"],"k":"b","tipp":"Merksatz: 'Stein' schreibt man mit st und ei: Stei-ne."}
+]},
+{"s":1,"satz":"Die lachende Bäckerin verkauft am Vormittag knusprige Brötchen mit goldener Kruste.","f":[
+  {"r":"verkauft","w":"ferkauft","o":["verkauft","ferkauft","verkaoft","verkauftt"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-kauft."},
+  {"r":"knusprige","w":"knusbrige","o":["knusprige","knusbrige","gnusprige","knuspriege"],"k":"b","tipp":"Merksatz: 'knusprig' kommt von 'Knusper' – mit p: knus-prig."},
+  {"r":"goldener","w":"goldänner","o":["goldener","goldänner","koldener","goldenär"],"k":"b","tipp":"Merksatz: 'golden' kommt von 'Gold' – mit e: gol-de-ner."}
+]},
+{"s":1,"satz":"Der geschickte Pilot winkt den staunenden Kindern aus dem hohen Cockpit fröhlich zu.","f":[
+  {"r":"geschickte","w":"geschikte","o":["geschickte","geschikte","geschiggte","keschickte"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: ge-schick-te."},
+  {"r":"staunenden","w":"staonenden","o":["staunenden","staonenden","staunänden","staunendän"],"k":"b","tipp":"Merksatz: 'staunen' schreibt man mit au: stau-nen."},
+  {"r":"fröhlich","w":"frölich","o":["fröhlich","frölich","fröhlig","fröhliech"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h nach dem ö: fröh-lich."}
+]},
+{"s":1,"satz":"Die kluge Tierärztin verbindet ganz behutsam die verletzte Pfote des winselnden Hundes.","f":[
+  {"r":"verbindet","w":"ferbindet","o":["verbindet","ferbindet","verbindät","verpindet"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-bin-det."},
+  {"r":"verletzte","w":"verletste","o":["verletzte","verletste","ferletzte","verlettzte"],"k":"b","tipp":"Merksatz: Nach kurzem e steht tz: ver-letz-te."},
+  {"r":"behutsam","w":"behuhtsam","o":["behutsam","behuhtsam","pehutsam","behutssam"],"k":"b","tipp":"Merksatz: 'behutsam' schreibt man ohne Dehnungs-h: be-hut-sam."}
+]},
+{"s":1,"satz":"Der nette Gärtner pflanzt am Beet einen kleinen Apfelbaum und summt dabei ein Lied.","f":[
+  {"r":"pflanzt","w":"flanzt","o":["pflanzt","flanzt","pflantzt","pflanst"],"k":"b","tipp":"Merksatz: 'pflanzen' beginnt mit pf: pflan-zt."},
+  {"r":"Apfelbaum","w":"Apfelbaom","o":["Apfelbaum","Apfelbaom","Aplfelbaum","Apfälbaum"],"k":"b","tipp":"Merksatz: Der Baum schreibt sich mit au: Apfel-baum."},
+  {"r":"summt","w":"sumt","o":["summt","sumt","zummt","summmt"],"k":"b","tipp":"Merksatz: 'summen' hat doppel-M: sum-mt."}
+]},
+{"s":2,"satz":"Am Morgen löscht der mutige Feuerwehrmann mit viel Wasser das brennende Haus.","f":[
+  {"r":"Feuerwehrmann","w":"feuerwehrmann","o":["Feuerwehrmann","feuerwehrmann","Feierwehrmann","Feuerwermann"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Feuerwehrmann' steht mit dem Begleiter 'der'."},
+  {"r":"löscht","w":"Löscht","o":["löscht","Löscht","löshct","löschd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'löschen' schreibt man klein."},
+  {"r":"Wasser","w":"Waser","o":["Wasser","Waser","Vasser","Wassser"],"k":"b","tipp":"Regel: Im Wasser plätschert es doppelt – doppel-S: Was-ser."}
+]},
+{"s":2,"satz":"Die geschickte Bäckerin formt aus dem weichen Teig viele lustige Brezeln für den Markt.","f":[
+  {"r":"Bäckerin","w":"bäckerin","o":["Bäckerin","bäckerin","Beckerin","Bäkerin"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Bäckerin' steht mit dem Begleiter 'die'."},
+  {"r":"weichen","w":"Weichen","o":["weichen","Weichen","waichen","weichän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'weich' schreibt man klein."},
+  {"r":"Brezeln","w":"Bretzeln","o":["Brezeln","Bretzeln","Bräzeln","Brezelln"],"k":"b","tipp":"Regel: Die Brezel schreibt man mit z, nicht mit tz: Bre-zel."}
+]},
+{"s":2,"satz":"In der Praxis impft die freundliche Tierärztin ganz geduldig den zitternden kleinen Hund.","f":[
+  {"r":"Tierärztin","w":"tierärztin","o":["Tierärztin","tierärztin","Tirärztin","Tierärtzin"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Tierärztin' steht mit dem Begleiter 'die'."},
+  {"r":"zitternden","w":"Zitternden","o":["zitternden","Zitternden","zittärnden","zitterndän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'zitternd' schreibt man klein."},
+  {"r":"geduldig","w":"gedultig","o":["geduldig","gedultig","keduldig","geduldich"],"k":"b","tipp":"Regel: 'geduldig' kommt von 'Geduld' – mit d: ge-dul-dig."}
+]},
+{"s":2,"satz":"Über den Wolken landet der erfahrene Pilot das große Flugzeug ganz sanft.","f":[
+  {"r":"Pilot","w":"pilot","o":["Pilot","pilot","Bilot","Pilott"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Pilot' steht mit dem Begleiter 'der'."},
+  {"r":"landet","w":"Landet","o":["landet","Landet","landät","lanted"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'landen' schreibt man klein."},
+  {"r":"Flugzeug","w":"Flukzeug","o":["Flugzeug","Flukzeug","Flugzeig","Flugzeugk"],"k":"b","tipp":"Regel: 'Flug' kommt von 'fliegen' – mit g: Flug-zeug."}
+]},
+{"s":2,"satz":"Hoch oben schwebt der staunende Astronaut durch die endlose dunkle Weite.","f":[
+  {"r":"Astronaut","w":"astronaut","o":["Astronaut","astronaut","Astronaot","Asdronaut"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Astronaut' steht mit dem Begleiter 'der'."},
+  {"r":"dunkle","w":"Dunkle","o":["dunkle","Dunkle","dungkle","dunkkle"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'dunkel' schreibt man klein."},
+  {"r":"endlose","w":"entlose","o":["endlose","entlose","endloze","endlosse"],"k":"b","tipp":"Regel: 'endlos' kommt von 'Ende' – mit d: end-lo-se."}
+]},
+{"s":2,"satz":"Im Garten gießt der fleißige Gärtner die zarten Pflanzen mit lauwarmem Wasser.","f":[
+  {"r":"Gärtner","w":"gärtner","o":["Gärtner","gärtner","Gertner","Gärdner"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Gärtner' steht mit dem Begleiter 'der'."},
+  {"r":"zarten","w":"Zarten","o":["zarten","Zarten","tsarten","zardän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'zart' schreibt man klein."},
+  {"r":"Pflanzen","w":"Flanzen","o":["Pflanzen","Flanzen","Pflantzen","Pflanssen"],"k":"b","tipp":"Regel: 'Pflanze' beginnt mit pf: Pflan-zen."}
+]},
+{"s":2,"satz":"An der Ampel hält die wachsame Polizistin den schnellen Verkehr sofort an.","f":[
+  {"r":"Polizistin","w":"polizistin","o":["Polizistin","polizistin","Polizisstin","Bolizistin"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Polizistin' steht mit dem Begleiter 'die'."},
+  {"r":"schnellen","w":"Schnellen","o":["schnellen","Schnellen","schnälen","schnellän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schnell' schreibt man klein."},
+  {"r":"wachsame","w":"waxame","o":["wachsame","waxame","wachzame","wachssame"],"k":"b","tipp":"Regel: 'wachsam' schreibt man mit chs, nicht mit x: wach-sam."}
+]},
+{"s":2,"satz":"Auf der Baustelle mauert der kräftige Maurer aus roten Ziegeln eine gerade Wand.","f":[
+  {"r":"Maurer","w":"maurer","o":["Maurer","maurer","Maorer","Maurär"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Maurer' steht mit dem Begleiter 'der'."},
+  {"r":"gerade","w":"Gerade","o":["gerade","Gerade","gärade","geradä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'gerade' schreibt man klein."},
+  {"r":"Ziegeln","w":"Zigeln","o":["Ziegeln","Zigeln","Tsiegeln","Ziegelln"],"k":"b","tipp":"Regel: Der Ziegel schreibt sich mit ie: Zie-gel."}
+]},
+{"s":2,"satz":"Am Abend füttert die müde Tierärztin den hungrigen Kater mit frischem Futter.","f":[
+  {"r":"Tierärztin","w":"tierärztin","o":["Tierärztin","tierärztin","Tirärztin","Tierärtzin"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Tierärztin' steht mit dem Begleiter 'die'."},
+  {"r":"hungrigen","w":"Hungrigen","o":["hungrigen","Hungrigen","hungriegen","hunggrigen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'hungrig' schreibt man klein."},
+  {"r":"frischem","w":"frieschem","o":["frischem","frieschem","frischäm","frichsem"],"k":"b","tipp":"Regel: 'frisch' schreibt man mit kurzem i und sch: fri-sch."}
+]},
+{"s":2,"satz":"Vor dem Start prüft der ruhige Pilot die wichtigen Hebel im großen Cockpit.","f":[
+  {"r":"Pilot","w":"pilot","o":["Pilot","pilot","Bilot","Pilott"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Pilot' steht mit dem Begleiter 'der'."},
+  {"r":"wichtigen","w":"Wichtigen","o":["wichtigen","Wichtigen","wigtigen","wichdigen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'wichtig' schreibt man klein."},
+  {"r":"prüft","w":"prühft","o":["prüft","prühft","brüft","prüfd"],"k":"b","tipp":"Regel: 'prüfen' schreibt man ohne Dehnungs-h: prü-ft."}
+]},
+{"s":2,"satz":"Beim Notruf rast der schnelle Feuerwehrmann zur brennenden Scheune am Feld.","f":[
+  {"r":"Feuerwehrmann","w":"feuerwehrmann","o":["Feuerwehrmann","feuerwehrmann","Feierwehrmann","Feuerwermann"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Feuerwehrmann' steht mit dem Begleiter 'der'."},
+  {"r":"brennenden","w":"Brennenden","o":["brennenden","Brennenden","brenenden","brennändän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'brennend' schreibt man klein."},
+  {"r":"Scheune","w":"Scheine","o":["Scheune","Scheine","Schöine","Scheunne"],"k":"b","tipp":"Regel: Die Scheune schreibt man mit eu: Scheu-ne."}
+]},
+{"s":2,"satz":"Im Park pflanzt der lustige Gärtner einen kleinen Baum neben die alte Bank.","f":[
+  {"r":"Gärtner","w":"gärtner","o":["Gärtner","gärtner","Gertner","Gärdner"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Gärtner' steht mit dem Begleiter 'der'."},
+  {"r":"kleinen","w":"Kleinen","o":["kleinen","Kleinen","klainen","kleinän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klein' schreibt man klein."},
+  {"r":"pflanzt","w":"flanzt","o":["pflanzt","flanzt","pflantzt","pflanst"],"k":"b","tipp":"Regel: 'pflanzen' beginnt mit pf: pflan-zt."}
+]},
+{"s":3,"satz":"Der Feuerwehrmann greift zum Schlauch, weil das alte Dachgebälk hell in Flammen steht.","f":[
+  {"r":"Schlauch,","w":"Schlauch","o":["Schlauch,","Schlauch","Schlauch;","Schlauch."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"alte","w":"Alte","o":["alte","Alte","allte","alde"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'alt' schreibt man klein."},
+  {"r":"Flammen","w":"Flamen","o":["Flammen","Flamen","Vlammen","Flammän"],"k":"b","tipp":"Regel: Nach kurzem a steht doppel-M: Flam-men."}
+]},
+{"s":3,"satz":"Die Bäckerin formt den Teig, obwohl der heiße Ofen schon viel zu lange wartet.","f":[
+  {"r":"Teig,","w":"Teig","o":["Teig,","Teig","Teig;","Teig."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"heiße","w":"Heiße","o":["heiße","Heiße","haiße","heisse"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'heiß' schreibt man klein."},
+  {"r":"Ofen","w":"Offen","o":["Ofen","Offen","Owen","Ofän"],"k":"b","tipp":"Regel: Der Ofen hat nur EIN f: O-fen."}
+]},
+{"s":3,"satz":"Die Tierärztin streichelt die Katze, die mit einer verletzten Pfote in die Praxis kam.","f":[
+  {"r":"Katze,","w":"Katze","o":["Katze,","Katze","Katze;","Katze."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'die' steht ein Komma."},
+  {"r":"verletzten","w":"Verletzten","o":["verletzten","Verletzten","verletsten","ferletzten"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'verletzt' schreibt man klein."},
+  {"r":"Praxis","w":"Praksis","o":["Praxis","Praksis","Braxis","Praxiss"],"k":"b","tipp":"Regel: 'Praxis' schreibt man mit x: Pra-xis."}
+]},
+{"s":3,"satz":"Der Pilot startet den Motor, denn die wartenden Gäste wollen endlich in den Urlaub fliegen.","f":[
+  {"r":"Motor,","w":"Motor","o":["Motor,","Motor","Motor;","Motor."],"k":"k","tipp":"Regel: Vor 'denn' steht ein Komma."},
+  {"r":"wartenden","w":"Wartenden","o":["wartenden","Wartenden","wardenden","wartändän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'wartend' schreibt man klein."},
+  {"r":"Urlaub","w":"Urlaob","o":["Urlaub","Urlaob","Urlauh","Urlaup"],"k":"b","tipp":"Regel: 'Urlaub' schreibt man mit au: Ur-laub."}
+]},
+{"s":3,"satz":"Der Astronaut schwebt zum Fenster, weil die blaue Erde unten so winzig aussieht.","f":[
+  {"r":"Fenster,","w":"Fenster","o":["Fenster,","Fenster","Fenster;","Fenster."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"blaue","w":"Blaue","o":["blaue","Blaue","blaoue","blauä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'blau' schreibt man klein."},
+  {"r":"winzig","w":"winsig","o":["winzig","winsig","wintzig","winzich"],"k":"b","tipp":"Regel: 'winzig' schreibt man mit z und endet auf '-ig'."}
+]},
+{"s":3,"satz":"Der Gärtner gießt die Blumen, damit die bunten Blüten im warmen Sommer kräftig blühen.","f":[
+  {"r":"Blumen,","w":"Blumen","o":["Blumen,","Blumen","Blumen;","Blumen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"bunten","w":"Bunten","o":["bunten","Bunten","bunden","buntän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'bunt' schreibt man klein."},
+  {"r":"Blüten","w":"Blühten","o":["Blüten","Blühten","Blütän","Blütten"],"k":"b","tipp":"Regel: Die Blüte schreibt man ohne Dehnungs-h: Blü-te."}
+]},
+{"s":3,"satz":"Die Polizistin hebt die Hand, weil das schnelle Auto bei Rot über die Ampel fährt.","f":[
+  {"r":"Hand,","w":"Hand","o":["Hand,","Hand","Hand;","Hand."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"schnelle","w":"Schnelle","o":["schnelle","Schnelle","schnälle","schnele"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schnell' schreibt man klein."},
+  {"r":"Auto","w":"Aoto","o":["Auto","Aoto","Audo","Autto"],"k":"b","tipp":"Regel: Das Auto schreibt man mit au: Au-to."}
+]},
+{"s":3,"satz":"Der Maurer setzt den Stein, obwohl der kalte Regen ihm dauernd auf den Helm tropft.","f":[
+  {"r":"Stein,","w":"Stein","o":["Stein,","Stein","Stein;","Stein."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"kalte","w":"Kalte","o":["kalte","Kalte","gallte","kaltä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'kalt' schreibt man klein."},
+  {"r":"dauernd","w":"daoernd","o":["dauernd","daoernd","dauärnd","dauerndt"],"k":"b","tipp":"Regel: 'dauernd' schreibt man mit au: dau-ernd."}
+]},
+{"s":3,"satz":"Die Bäckerin holt die Brötchen, denn der hungrige Kunde wartet schon vor der Tür.","f":[
+  {"r":"Brötchen,","w":"Brötchen","o":["Brötchen,","Brötchen","Brötchen;","Brötchen."],"k":"k","tipp":"Regel: Vor 'denn' steht ein Komma."},
+  {"r":"hungrige","w":"Hungrige","o":["hungrige","Hungrige","hungriege","hunggrige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'hungrig' schreibt man klein."},
+  {"r":"Kunde","w":"Kunte","o":["Kunde","Kunte","Gunde","Kundä"],"k":"b","tipp":"Regel: Der Kunde schreibt sich mit d: Kun-de."}
+]},
+{"s":3,"satz":"Der Feuerwehrmann rettet die Katze, die ängstlich auf dem hohen Baum sitzt.","f":[
+  {"r":"Katze,","w":"Katze","o":["Katze,","Katze","Katze;","Katze."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'die' steht ein Komma."},
+  {"r":"ängstlich","w":"Ängstlich","o":["ängstlich","Ängstlich","ängztlich","ängstlig"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'ängstlich' schreibt man klein."},
+  {"r":"hohen","w":"hoen","o":["hohen","hoen","hohän","hochen"],"k":"b","tipp":"Regel: 'hoch' bekommt hier ein Dehnungs-h: ho-hen."}
+]},
+{"s":3,"satz":"Der Astronaut betritt die Rakete, weil die spannende Reise zum Mond gleich beginnt.","f":[
+  {"r":"Rakete,","w":"Rakete","o":["Rakete,","Rakete","Rakete;","Rakete."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"spannende","w":"Spannende","o":["spannende","Spannende","spanende","schpannende"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'spannend' schreibt man klein."},
+  {"r":"Reise","w":"Raise","o":["Reise","Raise","Reisse","Reiße"],"k":"b","tipp":"Regel: Die Reise schreibt man mit ei und einem s: Rei-se."}
+]},
+{"s":3,"satz":"Der Gärtner harkt den Weg, weil die müde Polizistin gleich auf einen Kaffee vorbeikommt.","f":[
+  {"r":"Weg,","w":"Weg","o":["Weg,","Weg","Weg;","Weg."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"müde","w":"Müde","o":["müde","Müde","mühde","müdä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'müde' schreibt man klein."},
+  {"r":"Kaffee","w":"Kafee","o":["Kaffee","Kafee","Gaffee","Kaffäe"],"k":"b","tipp":"Regel: Der Kaffee braucht doppel-F und doppel-E: Kaf-fee."}
+]}
+]

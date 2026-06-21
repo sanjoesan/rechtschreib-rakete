@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Im Traum fliegt das kichernde Kaninchen zum riesigen Wolkenschloss hinauf.","f":[
+ {"r":"fliegt","w":"fligt","o":["fliegt","fligt","fliegd","fliecht"],"k":"b","tipp":"Merksatz: In 'fliegen' steckt ein langes i, darum schreibt man es mit ie."},
+ {"r":"riesigen","w":"risigen","o":["riesigen","risigen","riesiegen","riessigen"],"k":"b","tipp":"Merksatz: Ein 'Riese' ist riesig – beide mit ie geschrieben."},
+ {"r":"Wolkenschloss","w":"Wolkenschloß","o":["Wolkenschloss","Wolkenschloß","Wolkenschlos","Wolkenschlosss"],"k":"b","tipp":"Merksatz: Nach kurzem o steht Doppel-s: Schloss."}
+]},
+{"s":1,"satz":"Die sprechende Schnecke erzählt im Wunderland ihre verrückten Träume ganz langsam.","f":[
+ {"r":"sprechende","w":"schprechende","o":["sprechende","schprechende","sprächende","sprechänte"],"k":"b","tipp":"Merksatz: 'sprechen' beginnt mit sp, gesprochen wie schp, geschrieben mit sp."},
+ {"r":"erzählt","w":"erzähld","o":["erzählt","erzähld","erzehlt","ärzählt"],"k":"b","tipp":"Merksatz: 'erzählt' endet wie 'malt' auf t."},
+ {"r":"Träume","w":"Treume","o":["Träume","Treume","Träeume","Träüme"],"k":"b","tipp":"Merksatz: 'Träume' kommt von 'Traum' – darum mit ä."}
+]},
+{"s":1,"satz":"Auf der weichen Wolke hüpft der fröhliche Frosch bis zum Mond.","f":[
+ {"r":"weichen","w":"weihen","o":["weichen","weihen","waichen","weichän"],"k":"b","tipp":"Merksatz: 'weich' hat ein ch in der Mitte, wie 'Bauch'."},
+ {"r":"hüpft","w":"hüpvt","o":["hüpft","hüpvt","hübft","hüpfd"],"k":"b","tipp":"Merksatz: 'hüpfen' schreibt man mit pf wie 'Apfel'."},
+ {"r":"fröhliche","w":"frölliche","o":["fröhliche","frölliche","fröliche","frööhliche"],"k":"b","tipp":"Merksatz: In 'fröhlich' steckt ein stummes Dehnungs-h nach dem ö."}
+]},
+{"s":1,"satz":"Der Zauberdrache niest und verwandelt die ganze Wiese in Erdbeerpudding.","f":[
+ {"r":"niest","w":"niesst","o":["niest","niesst","nießt","niesd"],"k":"b","tipp":"Merksatz: 'niesen' schreibt man mit einem einfachen s und langem ie."},
+ {"r":"verwandelt","w":"ferwandelt","o":["verwandelt","ferwandelt","verwandeld","verwendelt"],"k":"b","tipp":"Merksatz: Die Vorsilbe 'ver-' schreibt man immer mit v."},
+ {"r":"Wiese","w":"Wise","o":["Wiese","Wise","Wiehse","Wiesse"],"k":"b","tipp":"Merksatz: Die 'Wiese' hat ein langes i, geschrieben mit ie."}
+]},
+{"s":1,"satz":"In meinem Traum schwebt ein Pferd aus Marshmallows durch das Klassenzimmer hindurch.","f":[
+ {"r":"schwebt","w":"schwäbt","o":["schwebt","schwäbt","schwebd","schweptt"],"k":"b","tipp":"Merksatz: 'schweben' schreibt man mit e, nicht mit ä."},
+ {"r":"Pferd","w":"Ferd","o":["Pferd","Ferd","Pfärd","Pferdt"],"k":"b","tipp":"Merksatz: Das 'Pferd' beginnt mit pf wie 'Pfanne'."},
+ {"r":"Klassenzimmer","w":"Klasenzimmer","o":["Klassenzimmer","Klasenzimmer","Klassenzimer","Klassenziemmer"],"k":"b","tipp":"Merksatz: Nach kurzem a steht Doppel-s: Klasse."}
+]},
+{"s":1,"satz":"Das schlafende Mädchen träumt von einer Brücke aus glitzerndem Zuckerguss.","f":[
+ {"r":"Mädchen","w":"Mädschen","o":["Mädchen","Mädschen","Mädchän","Medchen"],"k":"b","tipp":"Merksatz: Die Endung '-chen' schreibt man mit ch wie in 'Kätzchen'."},
+ {"r":"Brücke","w":"Brüke","o":["Brücke","Brüke","Brügge","Brückke"],"k":"b","tipp":"Merksatz: Nach kurzem ü steht ck, nicht nur k: Brü-cke."},
+ {"r":"glitzerndem","w":"glizerndem","o":["glitzerndem","glizerndem","glitzärndem","glittzerndem"],"k":"b","tipp":"Merksatz: Nach kurzem i steht oft tz: glit-zern."}
+]},
+{"s":1,"satz":"Der fliegende Teppich bringt uns zum zuckersüßen Frühstück ins ferne Fantasieland.","f":[
+ {"r":"Teppich","w":"Tepich","o":["Teppich","Tepich","Teppisch","Teppieh"],"k":"b","tipp":"Merksatz: Nach kurzem e steht Doppel-p: Tep-pich."},
+ {"r":"zuckersüßen","w":"zukersüßen","o":["zuckersüßen","zukersüßen","zuckersüssen","zuckersühßen"],"k":"b","tipp":"Merksatz: Nach kurzem u steht ck: Zu-cker."},
+ {"r":"Frühstück","w":"Frühstük","o":["Frühstück","Frühstük","Frustück","Frühstücck"],"k":"b","tipp":"Merksatz: Nach kurzem ü steht ck: Stü-ck."}
+]},
+{"s":1,"satz":"Ein winziger Wassertropfen träumt davon, ein riesiger Wasserfall zu werden.","f":[
+ {"r":"winziger","w":"winziega","o":["winziger","winziega","windziger","winzieger"],"k":"b","tipp":"Merksatz: 'winzig' endet auf -ig wie 'wenig'."},
+ {"r":"Wassertropfen","w":"Wasertropfen","o":["Wassertropfen","Wasertropfen","Wassertropven","Wassertroppfen"],"k":"b","tipp":"Merksatz: Nach kurzem a steht Doppel-s: Was-ser."},
+ {"r":"Wasserfall","w":"Wasserfal","o":["Wasserfall","Wasserfal","Waserfall","Wasserfahl"],"k":"b","tipp":"Merksatz: Der 'Fall' braucht Doppel-l am Ende."}
+]},
+{"s":1,"satz":"Die kichernde Wolke verstreut über dem Spielplatz lauter funkelnde Sternchen.","f":[
+ {"r":"verstreut","w":"ferstreut","o":["verstreut","ferstreut","verschtreut","verstroit"],"k":"b","tipp":"Merksatz: Die Vorsilbe 'ver-' schreibt man immer mit v."},
+ {"r":"Spielplatz","w":"Spilplatz","o":["Spielplatz","Spilplatz","Spielplaz","Schpielplatz"],"k":"b","tipp":"Merksatz: 'spielen' hat ein langes i, darum ie."},
+ {"r":"funkelnde","w":"funckelnde","o":["funkelnde","funckelnde","funkkelnde","funkählnde"],"k":"b","tipp":"Merksatz: Nach dem n steht hier ein einfaches k: fun-keln."}
+]},
+{"s":1,"satz":"Im Schlummerland tanzt der freundliche Riese mit acht quietschenden Gummibärchen.","f":[
+ {"r":"freundliche","w":"freunliche","o":["freundliche","freunliche","fröindliche","freuntliche"],"k":"b","tipp":"Merksatz: In 'freundlich' steckt der 'Freund' mit d."},
+ {"r":"Riese","w":"Rise","o":["Riese","Rise","Riehse","Riesse"],"k":"b","tipp":"Merksatz: Der 'Riese' ist riesig – beide mit ie."},
+ {"r":"quietschenden","w":"kvietschenden","o":["quietschenden","kvietschenden","quitschenden","quietshenden"],"k":"b","tipp":"Merksatz: Das gesprochene kw schreibt man mit qu wie in 'Quelle'."}
+]},
+{"s":1,"satz":"Der verträumte Kater segelt auf einem Pfannkuchen über das endlose Meer.","f":[
+ {"r":"verträumte","w":"ferträumte","o":["verträumte","ferträumte","verträumpte","verträume"],"k":"b","tipp":"Merksatz: Die Vorsilbe 'ver-' schreibt man immer mit v."},
+ {"r":"Pfannkuchen","w":"Pfankuchen","o":["Pfannkuchen","Pfankuchen","Fannkuchen","Pfannkuhen"],"k":"b","tipp":"Merksatz: Nach kurzem a steht Doppel-n: Pfan-ne, Pfann-kuchen."},
+ {"r":"endlose","w":"entlose","o":["endlose","entlose","ändlose","endloose"],"k":"b","tipp":"Merksatz: 'Ende' schreibt man mit d, darum auch 'endlos'."}
+]},
+{"s":1,"satz":"Nachts hüpfen die Träume wie bunte Seifenblasen durch mein gemütliches Zelt.","f":[
+ {"r":"hüpfen","w":"hüpven","o":["hüpfen","hüpven","hübfen","hüppfen"],"k":"b","tipp":"Merksatz: 'hüpfen' schreibt man mit pf wie 'Apfel'."},
+ {"r":"Seifenblasen","w":"Saifenblasen","o":["Seifenblasen","Saifenblasen","Seivenblasen","Seifenblahsen"],"k":"b","tipp":"Merksatz: 'Seife' schreibt man mit ei wie 'Eis'."},
+ {"r":"gemütliches","w":"gemüttliches","o":["gemütliches","gemüttliches","gemütlieches","gemütlihes"],"k":"b","tipp":"Merksatz: 'gemütlich' hat nur ein t: ge-müt-lich."}
+]},
+{"s":2,"satz":"Im Wolkenschloss kann die schlaue Prinzessin jeden Mittag rückwärts durch Wände schweben und kichern.","f":[
+ {"r":"Prinzessin","w":"prinzessin","o":["Prinzessin","prinzessin","Prinsessin","Prinzässin"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'die Prinzessin' schreibt man groß."},
+ {"r":"rückwärts","w":"Rückwärts","o":["rückwärts","Rückwärts","rückwerts","rükwärts"],"k":"g","tipp":"Regel: Wiewörter und Umstandswörter wie 'rückwärts' schreibt man klein."},
+ {"r":"schweben","w":"schwäben","o":["schweben","schwäben","schwebän","shweben"],"k":"b","tipp":"Regel: 'schweben' schreibt man mit e, nicht mit ä."}
+]},
+{"s":2,"satz":"Mein Kuscheltier erzählt mir, dass es nachts heimlich durch die Galaxie reist.","f":[
+ {"r":"Kuscheltier","w":"kuscheltier","o":["Kuscheltier","kuscheltier","Kuschältier","Kuscheltiehr"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'das Kuscheltier' schreibt man groß."},
+ {"r":"heimlich","w":"Heimlich","o":["heimlich","Heimlich","heimlieh","haimlich"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'heimlich' schreibt man klein."},
+ {"r":"Galaxie","w":"Galaksie","o":["Galaxie","Galaksie","galaxie","Galaxhie"],"k":"b","tipp":"Regel: Das gesprochene ks schreibt man hier mit x: Ga-la-xie."}
+]},
+{"s":2,"satz":"Beim Träumen verwandelt sich mein Bett in ein schaukelndes Piratenschiff.","f":[
+ {"r":"Träumen","w":"träumen","o":["Träumen","träumen","Treumen","Träeumen"],"k":"g","tipp":"Regel: Nach 'beim' wird das Tunwort zum Namenwort und groß: 'beim Träumen'."},
+ {"r":"Bett","w":"Bet","o":["Bett","Bet","Bätt","Bettt"],"k":"b","tipp":"Regel: Nach kurzem e steht Doppel-t: Bett."},
+ {"r":"schaukelndes","w":"Schaukelndes","o":["schaukelndes","Schaukelndes","schaukälndes","schauckelndes"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schaukelnd' schreibt man klein."}
+]},
+{"s":2,"satz":"Der freche Kobold im Wunderland kichert über meinen plötzlich tanzenden Pyjama.","f":[
+ {"r":"Kobold","w":"kobold","o":["Kobold","kobold","Kobbold","Kohbold"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'der Kobold' schreibt man groß."},
+ {"r":"kichert","w":"Kichert","o":["kichert","Kichert","kicherte","kicherd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'kichern' schreibt man klein."},
+ {"r":"plötzlich","w":"plözlich","o":["plötzlich","plözlich","plötzlieh","plötzlig"],"k":"b","tipp":"Regel: Nach kurzem ö steht tz: plötz-lich."}
+]},
+{"s":2,"satz":"Aus meinem Kopfkissen wachsen über Nacht zwei flauschige Regenbogenflügel.","f":[
+ {"r":"Kopfkissen","w":"kopfkissen","o":["Kopfkissen","kopfkissen","Kopfkisen","Kopvkissen"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'das Kopfkissen' schreibt man groß."},
+ {"r":"wachsen","w":"waksen","o":["wachsen","waksen","wachschen","wacksen"],"k":"b","tipp":"Regel: Das gesprochene ks schreibt man in 'wachsen' mit chs."},
+ {"r":"flauschige","w":"Flauschige","o":["flauschige","Flauschige","flausige","flauschiege"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'flauschig' schreibt man klein."}
+]},
+{"s":2,"satz":"Die sprechende Eule behauptet stets, im Traum bis zum fernsten Stern gleiten zu können.","f":[
+ {"r":"Eule","w":"eule","o":["Eule","eule","Oile","Eulle"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'die Eule' schreibt man groß."},
+ {"r":"behauptet","w":"behaubtet","o":["behauptet","behaubtet","Behauptet","behaubdet"],"k":"b","tipp":"Regel: 'behaupten' schreibt man mit pt, nicht mit bt."},
+ {"r":"gleiten","w":"Gleiten","o":["gleiten","Gleiten","glaiten","gleitten"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'gleiten' schreibt man klein."}
+]},
+{"s":2,"satz":"Im Land der Fantasie verteilt ein Zwerg an die müden Wolken kleine Sterne.","f":[
+ {"r":"Fantasie","w":"fantasie","o":["Fantasie","fantasie","Fantasiee","Fantasieh"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'die Fantasie' schreibt man groß."},
+ {"r":"verteilt","w":"ferteilt","o":["verteilt","ferteilt","verteild","vertailt"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man immer mit v."},
+ {"r":"müden","w":"Müden","o":["müden","Müden","müeden","mühden"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'müde' schreibt man klein."}
+]},
+{"s":2,"satz":"Beim Fliegen über das Traumland kitzeln mich die weichen Schäfchenwolken.","f":[
+ {"r":"Fliegen","w":"fliegen","o":["Fliegen","fliegen","Fligen","Flieegen"],"k":"g","tipp":"Regel: Nach 'beim' wird das Tunwort zum Namenwort und groß: 'beim Fliegen'."},
+ {"r":"kitzeln","w":"kizeln","o":["kitzeln","kizeln","Kitzeln","kittzeln"],"k":"b","tipp":"Regel: Nach kurzem i steht tz: kit-zeln."},
+ {"r":"weichen","w":"Weichen","o":["weichen","Weichen","waichen","weihen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'weich' schreibt man klein."}
+]},
+{"s":2,"satz":"Ein winziges Einhorn malt mit seinem Schweif glitzernde Muster an den Nachthimmel.","f":[
+ {"r":"Einhorn","w":"einhorn","o":["Einhorn","einhorn","Ainhorn","Einhoorn"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'das Einhorn' schreibt man groß."},
+ {"r":"malt","w":"mahlt","o":["malt","mahlt","Malt","mald"],"k":"b","tipp":"Regel: 'malen' mit Farbe schreibt man ohne h, anders als 'mahlen' beim Müller."},
+ {"r":"Schweif","w":"Schwaif","o":["Schweif","Schwaif","Schweiv","Schweiff"],"k":"b","tipp":"Regel: 'Schweif' schreibt man mit ei wie 'Eis'."}
+]},
+{"s":2,"satz":"Der schlaue Fuchs verkauft im Traummarkt bunte Träume gegen leckere Kekse.","f":[
+ {"r":"Fuchs","w":"fuchs","o":["Fuchs","fuchs","Fux","Fuks"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'der Fuchs' schreibt man groß."},
+ {"r":"verkauft","w":"ferkauft","o":["verkauft","ferkauft","verkaufd","verkaufft"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man immer mit v."},
+ {"r":"leckere","w":"Leckere","o":["leckere","Leckere","leckkere","lekere"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'lecker' schreibt man klein."}
+]},
+{"s":2,"satz":"Beim Einschlafen öffnet sich ein Tor in das funkelnde Reich der fernen Sterne.","f":[
+ {"r":"Einschlafen","w":"einschlafen","o":["Einschlafen","einschlafen","Einschlaffen","Ainschlafen"],"k":"g","tipp":"Regel: Nach 'beim' wird das Tunwort zum Namenwort und groß: 'beim Einschlafen'."},
+ {"r":"Tor","w":"tor","o":["Tor","tor","Tohr","Toor"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'ein Tor' schreibt man groß."},
+ {"r":"funkelnde","w":"funckelnde","o":["funkelnde","funckelnde","funkählnde","funkkelnde"],"k":"b","tipp":"Regel: In 'funkeln' steht nach dem n ein einfaches k."}
+]},
+{"s":2,"satz":"Mein verrückter Wecker singt ein Schlaflied und entführt mich nach Schlummerhausen.","f":[
+ {"r":"Wecker","w":"wecker","o":["Wecker","wecker","Wekker","Wäcker"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'der Wecker' schreibt man groß."},
+ {"r":"entführt","w":"endführt","o":["entführt","endführt","entfürt","entfuhrt"],"k":"b","tipp":"Regel: Die Vorsilbe 'ent-' schreibt man mit t, nicht mit d."},
+ {"r":"verrückter","w":"Verrückter","o":["verrückter","Verrückter","verükter","verrükter"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'verrückt' schreibt man klein."}
+]},
+{"s":3,"satz":"Der träumende Drache fliegt los, weil er das Wolkenschloss besuchen möchte.","f":[
+ {"r":"los,","w":"los","o":["los,","los","los;","los."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+ {"r":"Drache","w":"drache","o":["Drache","drache","Drasche","Drachhe"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'der Drache' schreibt man groß."},
+ {"r":"besuchen","w":"besuhen","o":["besuchen","besuhen","Besuchen","besucken"],"k":"b","tipp":"Regel: 'besuchen' schreibt man mit ch in der Mitte."}
+]},
+{"s":3,"satz":"Im Traum fliege ich zum Mond, obwohl ich gar keine glitzernden Flügel habe.","f":[
+ {"r":"Mond,","w":"Mond","o":["Mond,","Mond","Mond;","Mond."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+ {"r":"fliege","w":"flige","o":["fliege","flige","Fliege","flieege"],"k":"b","tipp":"Regel: 'fliegen' schreibt man mit langem i, also ie."},
+ {"r":"glitzernden","w":"Glitzernden","o":["glitzernden","Glitzernden","glizernden","glittzernden"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'glitzernd' schreibt man klein."}
+]},
+{"s":3,"satz":"Die kleine Fee zaubert Bonbons, Sterne und einen lachenden Regenbogen herbei.","f":[
+ {"r":"Bonbons,","w":"Bonbons","o":["Bonbons,","Bonbons","Bonbons;","Bonbons."],"k":"k","tipp":"Regel: In einer Aufzählung steht zwischen den Gliedern ein Komma."},
+ {"r":"Fee","w":"fee","o":["Fee","fee","Feh","Fée"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'die Fee' schreibt man groß."},
+ {"r":"lachenden","w":"Lachenden","o":["lachenden","Lachenden","lahenden","lackenden"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'lachend' schreibt man klein."}
+]},
+{"s":3,"satz":"Mein Bett hebt ab, sobald ich von fliegenden Pfannkuchen zu träumen beginne.","f":[
+ {"r":"ab,","w":"ab","o":["ab,","ab","ab;","ab."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+ {"r":"Pfannkuchen","w":"Fannkuchen","o":["Pfannkuchen","Fannkuchen","Pfankuchen","Pfannkuhen"],"k":"b","tipp":"Regel: Das 'Pferd' und der 'Pfannkuchen' beginnen mit pf."},
+ {"r":"fliegenden","w":"Fliegenden","o":["fliegenden","Fliegenden","fligenden","fliegänden"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'fliegend' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Zaubervogel trällert ein Lied, damit das ganze Wunderland sanft einschläft.","f":[
+ {"r":"Lied,","w":"Lied","o":["Lied,","Lied","Lied;","Lied."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+ {"r":"Zaubervogel","w":"Zauberfogel","o":["Zaubervogel","Zauberfogel","zaubervogel","Zaubervohgel"],"k":"b","tipp":"Regel: Der 'Vogel' wird mit v geschrieben."},
+ {"r":"sanft","w":"Sanft","o":["sanft","Sanft","sannft","sanvt"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'sanft' schreibt man klein."}
+]},
+{"s":3,"satz":"Im Schlaf reite ich auf einer Qualle, die mich durch das Traummeer schaukelt.","f":[
+ {"r":"Qualle,","w":"Qualle","o":["Qualle,","Qualle","Qualle;","Qualle."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'die' steht ein Komma."},
+ {"r":"reite","w":"raite","o":["reite","raite","Reite","reitte"],"k":"b","tipp":"Regel: 'reiten' schreibt man mit ei wie 'Eis'."},
+ {"r":"Schlaf","w":"schlaf","o":["Schlaf","schlaf","Schlav","Schlaff"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'der Schlaf' schreibt man groß."}
+]},
+{"s":3,"satz":"Die mutige Maus erklärt, dass sie nachts heimlich Wolkenschlösser baut.","f":[
+ {"r":"erklärt,","w":"erklärt","o":["erklärt,","erklärt","erklärt;","erklärt."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+ {"r":"Maus","w":"maus","o":["Maus","maus","Mauss","Maaus"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'die Maus' schreibt man groß."},
+ {"r":"heimlich","w":"haimlich","o":["heimlich","haimlich","heimlieh","heimligh"],"k":"b","tipp":"Regel: 'heimlich' schreibt man mit ei wie 'Eis'."}
+]},
+{"s":3,"satz":"Wenn der Mond lacht, regnet es flauschige Wattebällchen über das ganze Traumland.","f":[
+ {"r":"lacht,","w":"lacht","o":["lacht,","lacht","lacht;","lacht."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'wenn' vorne, folgt danach ein Komma."},
+ {"r":"flauschige","w":"Flauschige","o":["flauschige","Flauschige","flausige","flauschiege"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'flauschig' schreibt man klein."},
+ {"r":"Wattebällchen","w":"Watebällchen","o":["Wattebällchen","Watebällchen","Wattebälchen","Wattebellchen"],"k":"b","tipp":"Regel: Nach kurzem a steht Doppel-t: Wat-te."}
+]},
+{"s":3,"satz":"Der lustige Clown jongliert im Wolkenzirkus mit Sternen, Monden und Kometen.","f":[
+ {"r":"Sternen,","w":"Sternen","o":["Sternen,","Sternen","Sternen;","Sternen."],"k":"k","tipp":"Regel: In einer Aufzählung steht zwischen den Gliedern ein Komma."},
+ {"r":"Clown","w":"clown","o":["Clown","clown","Cloun","Klown"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'der Clown' schreibt man groß."},
+ {"r":"jongliert","w":"jonkliert","o":["jongliert","jonkliert","Jongliert","jongliehrt"],"k":"b","tipp":"Regel: 'jonglieren' schreibt man mit ng in der Mitte."}
+]},
+{"s":3,"satz":"Mein Traumboot segelt davon, bevor der grummelige Wecker mich wecken kann.","f":[
+ {"r":"davon,","w":"davon","o":["davon,","davon","davon;","davon."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bevor' steht ein Komma."},
+ {"r":"Traumboot","w":"traumboot","o":["Traumboot","traumboot","Traumbot","Traumbooot"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'das Traumboot' schreibt man groß."},
+ {"r":"grummelige","w":"grumelige","o":["grummelige","grumelige","grummelieg","grummälige"],"k":"b","tipp":"Regel: Nach kurzem u steht Doppel-m: grum-melig."}
+]},
+{"s":3,"satz":"Die schlafende Stadt schwebt empor, weil alle Bewohner zugleich dasselbe träumen.","f":[
+ {"r":"empor,","w":"empor","o":["empor,","empor","empor;","empor."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+ {"r":"Stadt","w":"stadt","o":["Stadt","stadt","Statt","statt"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'die Stadt' schreibt man groß."},
+ {"r":"Bewohner","w":"Bewoner","o":["Bewohner","Bewoner","bewohner","Bewohnär"],"k":"b","tipp":"Regel: 'wohnen' hat ein Dehnungs-h, darum auch 'Bewohner'."}
+]},
+{"s":3,"satz":"Im Wunderland trinkt der Hase Limonade, die nach süßen Regenbogen schmeckt.","f":[
+ {"r":"Limonade,","w":"Limonade","o":["Limonade,","Limonade","Limonade;","Limonade."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'die' steht ein Komma."},
+ {"r":"Hase","w":"hase","o":["Hase","hase","Hasse","Hahse"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'der Hase' schreibt man groß."},
+ {"r":"süßen","w":"süssen","o":["süßen","süssen","Süßen","süühßen"],"k":"b","tipp":"Regel: Nach langem ü steht oft ß: süß."}
+]}
+]

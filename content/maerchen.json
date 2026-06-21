@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Die schöne Prinzessin verliert auf der Schlosstreppe ihren goldenen Pantoffel beim Tanzen.","f":[
+  {"r":"Prinzessin","w":"Prinzesin","o":["Prinzessin","Prinzesin","Prinzässin","Prinzessien"],"k":"b","tipp":"Merksatz: Die Prinzessin trägt doppel-S in der Mitte: Prin-zes-sin."},
+  {"r":"Pantoffel","w":"Pantofel","o":["Pantoffel","Pantofel","Bantoffel","Pantoffl"],"k":"b","tipp":"Merksatz: Der Pantoffel hat doppel-F: Pan-tof-fel."},
+  {"r":"Schlosstreppe","w":"Schlostreppe","o":["Schlosstreppe","Schlostreppe","Schloßtreppe","Schlosstrebbe"],"k":"b","tipp":"Merksatz: Schloss endet mit ss, darum trifft im Wort ss auf t: Schloss-Treppe."}
+]},
+{"s":1,"satz":"Im finsteren Wald baut die freundliche Hexe aus Lebkuchen und Bonbons ihr Haus.","f":[
+  {"r":"finsteren","w":"vinsteren","o":["finsteren","vinsteren","finstren","finnsteren"],"k":"b","tipp":"Merksatz: 'finster' beginnt mit f wie 'Finger im Dunkeln'."},
+  {"r":"Lebkuchen","w":"Lebguchen","o":["Lebkuchen","Lebguchen","Leppkuchen","Lebkuhen"],"k":"b","tipp":"Merksatz: Im Lebkuchen steckt der 'Kuchen' mit k: Leb-Kuchen."},
+  {"r":"Bonbons","w":"Bombons","o":["Bonbons","Bombons","Bonpons","Bonbonns"],"k":"b","tipp":"Merksatz: Ein Bonbon schreibt man mit n in der Mitte: Bon-bon."}
+]},
+{"s":1,"satz":"Der mutige Königssohn reitet durch das Dornengestrüpp zum verzauberten Dornröschen.","f":[
+  {"r":"Königssohn","w":"Köningssohn","o":["Königssohn","Köningssohn","Königsohn","Könichssohn"],"k":"b","tipp":"Merksatz: König mit 'nig', dann der Sohn dahinter: Königs-Sohn."},
+  {"r":"Dornengestrüpp","w":"Dornengestrüp","o":["Dornengestrüpp","Dornengestrüp","Dornengeschtrüpp","Dornengestrübb"],"k":"b","tipp":"Merksatz: Das Gestrüpp endet mit doppel-P: Ge-strüpp."},
+  {"r":"verzauberten","w":"ferzauberten","o":["verzauberten","ferzauberten","verzaobertn","verzauberden"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verstecken'."}
+]},
+{"s":1,"satz":"Die kleine Meerjungfrau singt mit ihrer zauberhaften Stimme ein Lied im tiefen Ozean.","f":[
+  {"r":"Meerjungfrau","w":"Mehrjungfrau","o":["Meerjungfrau","Mehrjungfrau","Meerjunkfrau","Meerjungfrao"],"k":"b","tipp":"Merksatz: Das Meer ist riesig und hat doppel-E: Meer-Jungfrau."},
+  {"r":"zauberhaften","w":"zaoberhaften","o":["zauberhaften","zaoberhaften","zauberhavten","zauberhafden"],"k":"b","tipp":"Merksatz: 'Zauber' kommt von 'zaubern' mit au: Zau-ber."},
+  {"r":"tiefen","w":"tifen","o":["tiefen","tifen","thiefen","tieffen"],"k":"b","tipp":"Merksatz: 'tief' schreibt man mit ie wie ein langes i: tief."}
+]},
+{"s":1,"satz":"Der listige Wolf verkleidet sich als Großmutter und legt sich heimlich ins Bett.","f":[
+  {"r":"listige","w":"listieche","o":["listige","listieche","lisstige","listiege"],"k":"b","tipp":"Merksatz: 'listig' endet auf '-ig' wie 'lustig': lis-tig."},
+  {"r":"verkleidet","w":"ferkleidet","o":["verkleidet","ferkleidet","verkleitet","verkleidd"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verlieren'."},
+  {"r":"heimlich","w":"heymlich","o":["heimlich","heymlich","heimmlich","heimlig"],"k":"b","tipp":"Merksatz: 'heimlich' kommt von 'Heim' mit ei: heim-lich."}
+]},
+{"s":1,"satz":"Sieben kleine Zwerge graben tief im Berg nach funkelnden Edelsteinen und Gold.","f":[
+  {"r":"Zwerge","w":"Zwärge","o":["Zwerge","Zwärge","Zwerke","Zwergge"],"k":"b","tipp":"Merksatz: Der Zwerg klingt wie 'Berg' – mit e: Zwer-ge."},
+  {"r":"funkelnden","w":"funggelnden","o":["funkelnden","funggelnden","funkellnden","vunkelnden"],"k":"b","tipp":"Merksatz: Es FUNKelt wie ein 'Funke' – mit einem k: fun-keln."},
+  {"r":"Edelsteinen","w":"Eddelsteinen","o":["Edelsteinen","Eddelsteinen","Edelschteinen","Edelsteynen"],"k":"b","tipp":"Merksatz: Edel hat nur EIN d: E-del-steine."}
+]},
+{"s":1,"satz":"Die böse Königin fragt täglich ihren magischen Spiegel nach der Schönsten im Land.","f":[
+  {"r":"Königin","w":"Köningin","o":["Königin","Köningin","Königien","Könichin"],"k":"b","tipp":"Merksatz: Die Königin endet auf '-nigin' wie der König: Kö-ni-gin."},
+  {"r":"magischen","w":"magieschen","o":["magischen","magieschen","mahischen","maggischen"],"k":"b","tipp":"Merksatz: 'magisch' kommt von 'Magie', aber endet auf '-isch': ma-gisch."},
+  {"r":"Spiegel","w":"Spigel","o":["Spiegel","Spigel","Schpiegel","Spieggel"],"k":"b","tipp":"Merksatz: Im Spiegel siehst du dich mit ie: Spie-gel."}
+]},
+{"s":1,"satz":"Der tapfere Froschkönig springt aus dem kühlen Brunnen direkt auf den Teller.","f":[
+  {"r":"tapfere","w":"tabfere","o":["tapfere","tabfere","tappfere","dapfere"],"k":"b","tipp":"Merksatz: In 'tapfer' steckt das 'pf' wie in 'Apfel': tap-fer."},
+  {"r":"Froschkönig","w":"Froschköning","o":["Froschkönig","Froschköning","Froschkönik","Vroschkönig"],"k":"b","tipp":"Merksatz: Der König endet auf '-nig': Frosch-Kö-nig."},
+  {"r":"Brunnen","w":"Brunen","o":["Brunnen","Brunen","Prunnen","Brunnenn"],"k":"b","tipp":"Merksatz: Im Brunnen plätschert es doppelt: doppel-N im Brun-nen."}
+]},
+{"s":1,"satz":"Rapunzel lässt ihr langes goldenes Haar aus dem hohen Turmfenster herunter.","f":[
+  {"r":"langes","w":"langges","o":["langes","langges","lannges","langhes"],"k":"b","tipp":"Merksatz: 'lang' hat nur ein g: lan-ges."},
+  {"r":"goldenes","w":"goldnes","o":["goldenes","goldnes","golldenes","goltenes"],"k":"b","tipp":"Merksatz: 'golden' kommt von 'Gold' mit d: gol-den."},
+  {"r":"Turmfenster","w":"Turmfänster","o":["Turmfenster","Turmfänster","Turmfensder","Thurmfenster"],"k":"b","tipp":"Merksatz: Das Fenster schreibt man mit e: Turm-Fens-ter."}
+]},
+{"s":1,"satz":"Der hungrige Riese stapft über die grüne Wiese brummend zum geheimen Zauberschloss hinüber.","f":[
+  {"r":"hungrige","w":"hungrieche","o":["hungrige","hungrieche","hungerige","hungrigge"],"k":"b","tipp":"Merksatz: In 'hungrig' steckt der 'Hunger' – mit u und g."},
+  {"r":"Wiese","w":"Wise","o":["Wiese","Wise","Wieße","Wiehse"],"k":"b","tipp":"Merksatz: Auf der Wiese wächst Gras mit ie: Wie-se."},
+  {"r":"Zauberschloss","w":"Zauberschlos","o":["Zauberschloss","Zauberschlos","Zaoberschloss","Zauberschloß"],"k":"b","tipp":"Merksatz: Das Schloss endet mit doppel-S: Zauber-Schloss."}
+]},
+{"s":1,"satz":"Die fleißige Müllerstochter spinnt mit Hilfe des Rumpelstilzchens viel Stroh zu Gold.","f":[
+  {"r":"fleißige","w":"fleisige","o":["fleißige","fleisige","fleißiege","vleißige"],"k":"b","tipp":"Merksatz: 'fleißig' schreibt man mit ß nach langem ei: flei-ßig."},
+  {"r":"Müllerstochter","w":"Müllerstochta","o":["Müllerstochter","Müllerstochta","Müllerstohter","Müllerstochda"],"k":"b","tipp":"Merksatz: Die Tochter endet auf '-ter': Müllers-Toch-ter."},
+  {"r":"Rumpelstilzchens","w":"Rumpelstielzchens","o":["Rumpelstilzchens","Rumpelstielzchens","Rumpelschtilzchens","Rumpelstilzchen"],"k":"b","tipp":"Merksatz: Im Stilzchen steckt ein kurzes i ohne e: Stilz-chen."}
+]},
+{"s":1,"satz":"Das tapfere Schneiderlein erschlägt sieben fette Fliegen mit einem einzigen Schlag.","f":[
+  {"r":"Schneiderlein","w":"Schneidalein","o":["Schneiderlein","Schneidalein","Schneiderlain","Schnaiderlein"],"k":"b","tipp":"Merksatz: Das Schneiderlein endet auf '-lein' mit ei: Schnei-der-lein."},
+  {"r":"sieben","w":"siben","o":["sieben","siben","siebn","sieeben"],"k":"b","tipp":"Merksatz: Die Zahl sieben schreibt man mit ie: sie-ben."},
+  {"r":"einzigen","w":"einziechen","o":["einzigen","einziechen","einzigenn","ainzigen"],"k":"b","tipp":"Merksatz: 'einzig' endet auf '-ig' wie 'wenig': ein-zig."}
+]},
+{"s":2,"satz":"Am Abend erzählt die alte Großmutter den Kindern ein gruseliges Märchen.","f":[
+  {"r":"Großmutter","w":"großmutter","o":["Großmutter","großmutter","Großmuter","Grosmutter"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Großmutter' steht mit dem Begleiter 'die'."},
+  {"r":"gruseliges","w":"gruslieges","o":["gruseliges","gruslieges","gruseligges","gruseeliges"],"k":"b","tipp":"Regel: 'gruselig' kommt von 'Grusel' und behält das e: gru-se-lig."},
+  {"r":"erzählt","w":"Erzählt","o":["erzählt","Erzählt","erzehlt","Erzehlt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'erzählen' schreibt man klein."}
+]},
+{"s":2,"satz":"Im Schloss wohnt eine zauberhafte Fee, die jeden Wunsch erfüllen kann.","f":[
+  {"r":"Schloss","w":"schloss","o":["Schloss","schloss","Schloß","Schlos"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Schloss' hat den Begleiter 'das'."},
+  {"r":"zauberhafte","w":"Zauberhafte","o":["zauberhafte","Zauberhafte","zaoberhafte","zauberhavte"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'zauberhaft' schreibt man klein."},
+  {"r":"erfüllen","w":"erfülen","o":["erfüllen","erfülen","ervüllen","erfülln"],"k":"b","tipp":"Regel: 'erfüllen' kommt von 'voll' und hat doppel-L: er-fül-len."}
+]},
+{"s":2,"satz":"Die kluge Gretel schiebt die böse Hexe schnell in den heißen Backofen.","f":[
+  {"r":"Hexe","w":"hexe","o":["Hexe","hexe","Hekse","hekse"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Hexe' steht mit dem Begleiter 'die'."},
+  {"r":"böse","w":"Böse","o":["böse","Böse","böhse","bööse"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'böse' schreibt man klein."},
+  {"r":"schiebt","w":"schibt","o":["schiebt","schibt","schiept","schiebd"],"k":"b","tipp":"Regel: 'schieben' schreibt man mit ie und b: schie-ben."}
+]},
+{"s":2,"satz":"Der verzauberte Prinz wartet im dunklen Turm auf seine mutige Retterin.","f":[
+  {"r":"Prinz","w":"prinz","o":["Prinz","prinz","Prinnz","Brinz"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Prinz' steht mit dem Begleiter 'der'."},
+  {"r":"verzauberte","w":"ferzauberte","o":["verzauberte","ferzauberte","verzaoberte","verzauberde"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man mit v, wie in 'verstecken'."},
+  {"r":"mutige","w":"Mutige","o":["mutige","Mutige","muttige","muutige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'mutig' schreibt man klein."}
+]},
+{"s":2,"satz":"Am Brunnen trifft das traurige Mädchen einen sprechenden grünen Frosch.","f":[
+  {"r":"Mädchen","w":"mädchen","o":["Mädchen","mädchen","Mädchän","Mätchen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Mädchen' hat den Begleiter 'das'."},
+  {"r":"sprechenden","w":"Sprechenden","o":["sprechenden","Sprechenden","schprechenden","sprechendn"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'sprechen' schreibt man klein."},
+  {"r":"traurige","w":"traorige","o":["traurige","traorige","traurieche","drauerige"],"k":"b","tipp":"Regel: 'traurig' schreibt man mit au: trau-rig."}
+]},
+{"s":2,"satz":"Die fleißigen Heinzelmännchen putzen nachts die ganze staubige Werkstatt.","f":[
+  {"r":"Heinzelmännchen","w":"heinzelmännchen","o":["Heinzelmännchen","heinzelmännchen","Heinzelmänchen","Hainzelmännchen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Heinzelmännchen' hat den Begleiter 'die'."},
+  {"r":"putzen","w":"Putzen","o":["putzen","Putzen","budzen","putzn"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'putzen' schreibt man klein."},
+  {"r":"staubige","w":"staobige","o":["staubige","staobige","schtaubige","staubiege"],"k":"b","tipp":"Regel: 'staubig' kommt von 'Staub' mit au: stau-big."}
+]},
+{"s":2,"satz":"Der goldene Ball rollt in den tiefen Brunnen und versinkt im kalten Wasser.","f":[
+  {"r":"Brunnen","w":"brunnen","o":["Brunnen","brunnen","Brunen","Prunnen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'den Brunnen' steht mit dem Begleiter 'den'."},
+  {"r":"goldene","w":"Goldene","o":["goldene","Goldene","goltene","golldene"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'golden' schreibt man klein."},
+  {"r":"versinkt","w":"versingt","o":["versinkt","versingt","fersinkt","versinngt"],"k":"b","tipp":"Regel: 'versinken' endet hart auf k, zur Probe: er versinkt – sin-ken."}
+]},
+{"s":2,"satz":"Die wunderschöne Schneewittchen beißt ahnungslos in den vergifteten roten Apfel.","f":[
+  {"r":"Schneewittchen","w":"schneewittchen","o":["Schneewittchen","schneewittchen","Schneewitchen","Schnewittchen"],"k":"g","tipp":"Regel: Namen schreibt man groß – Schneewittchen ist ein Name."},
+  {"r":"wunderschöne","w":"Wunderschöne","o":["wunderschöne","Wunderschöne","wunderschöhne","wundaschöne"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'wunderschön' schreibt man klein."},
+  {"r":"vergifteten","w":"fergifteten","o":["vergifteten","fergifteten","vergivteten","vergiffteten"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man mit v, wie in 'vergessen'."}
+]},
+{"s":2,"satz":"Der gestiefelte Kater überlistet den großen Zauberer mit einem schlauen Trick.","f":[
+  {"r":"Kater","w":"kater","o":["Kater","kater","Kather","Kader"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Kater' steht mit dem Begleiter 'der'."},
+  {"r":"großen","w":"Großen","o":["großen","Großen","grosen","großn"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'groß' schreibt man klein."},
+  {"r":"überlistet","w":"überlisstet","o":["überlistet","überlisstet","überlisted","übalistet"],"k":"b","tipp":"Regel: 'überlisten' kommt von 'List' mit einem s: über-lis-ten."}
+]},
+{"s":2,"satz":"Im verwunschenen Garten blühen seltsame Blumen, die leise im Wind flüstern.","f":[
+  {"r":"Garten","w":"garten","o":["Garten","garten","Garden","Gardten"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Garten' hat den Begleiter 'der'."},
+  {"r":"seltsame","w":"Seltsame","o":["seltsame","Seltsame","selltsame","seltzame"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'seltsam' schreibt man klein."},
+  {"r":"verwunschenen","w":"ferwunschenen","o":["verwunschenen","ferwunschenen","verwunschennen","verwunchenen"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man mit v, wie in 'verzaubern'."}
+]},
+{"s":2,"satz":"Der freundliche Holzfäller rettet das mutige Rotkäppchen aus dem Bauch des Wolfes.","f":[
+  {"r":"Holzfäller","w":"holzfäller","o":["Holzfäller","holzfäller","Holzfeller","Holzfäler"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Holzfäller' steht mit dem Begleiter 'der'."},
+  {"r":"freundliche","w":"Freundliche","o":["freundliche","Freundliche","fraundliche","vreundliche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'freundlich' schreibt man klein."},
+  {"r":"Rotkäppchen","w":"Rotkäpchen","o":["Rotkäppchen","Rotkäpchen","Rotkeppchen","Rottkäppchen"],"k":"b","tipp":"Regel: Im Käppchen steckt die 'Kappe' mit doppel-P: Käpp-chen."}
+]},
+{"s":2,"satz":"Die geheimnisvolle Fee verwandelt den hässlichen Kürbis in eine glitzernde Kutsche.","f":[
+  {"r":"Fee","w":"fee","o":["Fee","fee","Feh","Fää"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Fee' steht mit dem Begleiter 'die'."},
+  {"r":"hässlichen","w":"Hässlichen","o":["hässlichen","Hässlichen","hesslichen","häßlichen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'hässlich' schreibt man klein."},
+  {"r":"verwandelt","w":"ferwandelt","o":["verwandelt","ferwandelt","verwandellt","verwandeld"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man mit v, wie in 'verstecken'."}
+]},
+{"s":3,"satz":"Die Prinzessin weint, weil ihr goldener Ball in den dunklen Brunnen gefallen ist.","f":[
+  {"r":"weint,","w":"weint","o":["weint,","weint","weint;","weint."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Prinzessin","w":"prinzessin","o":["Prinzessin","prinzessin","Prinzesin","Brinzessin"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Prinzessin' steht mit dem Begleiter 'die'."},
+  {"r":"goldener","w":"Goldener","o":["goldener","Goldener","goltener","golldener"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'golden' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Zauberer murmelt einen Spruch, damit die schlafende Burg wieder erwacht.","f":[
+  {"r":"Spruch,","w":"Spruch","o":["Spruch,","Spruch","Spruch;","Spruch."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Zauberer","w":"zauberer","o":["Zauberer","zauberer","Zauberrer","Zaoberer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Zauberer' steht mit dem Begleiter 'der'."},
+  {"r":"schlafende","w":"Schlafende","o":["schlafende","Schlafende","schlavende","schlaffende"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schlafend' schreibt man klein."}
+]},
+{"s":3,"satz":"Hänsel sammelt kleine Steine, weil er den Weg nach Hause finden möchte.","f":[
+  {"r":"Steine,","w":"Steine","o":["Steine,","Steine","Steine;","Steine."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"kleine","w":"Kleine","o":["kleine","Kleine","kleyne","klaine"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klein' schreibt man klein."},
+  {"r":"finden","w":"vinden","o":["finden","vinden","finnden","findn"],"k":"b","tipp":"Regel: 'finden' beginnt mit f, wie 'Finger': fin-den."}
+]},
+{"s":3,"satz":"Der König lädt Hexen, Feen und Zwerge zu seinem prächtigen Fest ins Schloss ein.","f":[
+  {"r":"Hexen,","w":"Hexen","o":["Hexen,","Hexen","Hexen;","Hexen."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"prächtigen","w":"prechtigen","o":["prächtigen","prechtigen","prächtiegen","brächtigen"],"k":"b","tipp":"Regel: 'prächtig' kommt von 'Pracht' mit ä: präch-tig."},
+  {"r":"König","w":"könig","o":["König","könig","Köning","Könik"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der König' steht mit dem Begleiter 'der'."}
+]},
+{"s":3,"satz":"Aschenputtel tanzt fröhlich, obwohl die Uhr schon fast Mitternacht zeigt.","f":[
+  {"r":"fröhlich,","w":"fröhlich","o":["fröhlich,","fröhlich","fröhlich;","fröhlich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"tanzt","w":"Tanzt","o":["tanzt","Tanzt","tannzt","tanzd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'tanzen' schreibt man klein."},
+  {"r":"Mitternacht","w":"Mitanacht","o":["Mitternacht","Mitanacht","Miternacht","Mitternachd"],"k":"b","tipp":"Regel: Mitternacht hat doppel-T in der Mitte: Mit-ter-nacht."}
+]},
+{"s":3,"satz":"Die Fee schenkt dem Mädchen Kleider, Schuhe und einen funkelnden Zauberstab.","f":[
+  {"r":"Kleider,","w":"Kleider","o":["Kleider,","Kleider","Kleider;","Kleider."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"funkelnden","w":"funggelnden","o":["funkelnden","funggelnden","funkellnden","vunkelnden"],"k":"b","tipp":"Regel: Es FUNKelt wie ein 'Funke' – mit einem k: fun-keln."},
+  {"r":"Mädchen","w":"mädchen","o":["Mädchen","mädchen","Mätchen","Mädchän"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'dem Mädchen' steht mit dem Begleiter 'dem'."}
+]},
+{"s":3,"satz":"Der Wolf rennt schnell, weil ihn die sieben kleinen Geißlein verfolgen wollen.","f":[
+  {"r":"schnell,","w":"schnell","o":["schnell,","schnell","schnell;","schnell."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"rennt","w":"rent","o":["rennt","rent","rännt","renndt"],"k":"b","tipp":"Regel: 'rennen' hat doppel-N: ren-nen."},
+  {"r":"sieben","w":"Sieben","o":["sieben","Sieben","siben","siebn"],"k":"g","tipp":"Regel: Zahlwörter wie 'sieben' schreibt man klein."}
+]},
+{"s":3,"satz":"Die Hexe braut einen Trank, der jeden mutigen Helden in eine graue Maus verwandelt und verzaubert.","f":[
+  {"r":"Trank,","w":"Trank","o":["Trank,","Trank","Trank;","Trank."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'der' steht ein Komma."},
+  {"r":"verwandelt","w":"ferwandelt","o":["verwandelt","ferwandelt","verwandeld","verwandellt"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man mit v, wie in 'verzaubern'."},
+  {"r":"mutigen","w":"Mutigen","o":["mutigen","Mutigen","muttigen","muutigen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'mutig' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Prinz reitet durch den Wald, obwohl ein gefährlicher Drache dort lauert.","f":[
+  {"r":"Wald,","w":"Wald","o":["Wald,","Wald","Wald;","Wald."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"gefährlicher","w":"gefehrlicher","o":["gefährlicher","gefehrlicher","gefährliecher","gevährlicher"],"k":"b","tipp":"Regel: 'gefährlich' kommt von 'Gefahr' mit ä: ge-fähr-lich."},
+  {"r":"Drache","w":"drache","o":["Drache","drache","Drahe","Trache"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'ein Drache' steht mit dem Begleiter 'ein'."}
+]},
+{"s":3,"satz":"Das Schneiderlein ruft laut, dass es sieben auf einen Streich erledigt hat.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Schneiderlein","w":"schneiderlein","o":["Schneiderlein","schneiderlein","Schneidalein","Schnaiderlein"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Schneiderlein' steht mit dem Begleiter 'das'."},
+  {"r":"erledigt","w":"erletigt","o":["erledigt","erletigt","erlediegt","erleedigt"],"k":"b","tipp":"Regel: 'erledigen' schreibt man mit d und endet auf '-igt': er-le-digt."}
+]},
+{"s":3,"satz":"Im Schloss poltern nachts die Kobolde, weil die alten Gespenster sie ständig erschrecken.","f":[
+  {"r":"Kobolde,","w":"Kobolde","o":["Kobolde,","Kobolde","Kobolde;","Kobolde."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"poltern","w":"boltern","o":["poltern","boltern","polltern","poltan"],"k":"b","tipp":"Regel: 'poltern' beginnt mit p, hörbar am Anfang: pol-tern."},
+  {"r":"Gespenster","w":"gespenster","o":["Gespenster","gespenster","Gespänster","Gesbenster"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Gespenster' steht mit dem Begleiter 'die'."}
+]},
+{"s":3,"satz":"Die kluge Müllerstochter zittert, weil das Rumpelstilzchen ihr Kind verlangt.","f":[
+  {"r":"zittert,","w":"zittert","o":["zittert,","zittert","zittert;","zittert."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"kluge","w":"Kluge","o":["kluge","Kluge","kluuge","klugge"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klug' schreibt man klein."},
+  {"r":"Rumpelstilzchen","w":"Rumpelstielzchen","o":["Rumpelstilzchen","Rumpelstielzchen","Rumpelschtilzchen","Rumpelstilzchän"],"k":"b","tipp":"Regel: Im Stilzchen steckt ein kurzes i ohne e: Stilz-chen."}
+]}
+]

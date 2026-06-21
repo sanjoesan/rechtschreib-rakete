@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der schlaue Detektiv untersucht mit seiner Lupe die geheimnisvolle Spur im Garten.","f":[
+  {"r":"schlaue","w":"schlaoe","o":["schlaue","schlaoe","schlauwe","schlauä"],"k":"b","tipp":"Merksatz: 'schlau' schreibt man mit au – wie 'Au, der ist clever'."},
+  {"r":"Detektiv","w":"Dedektiv","o":["Detektiv","Dedektiv","Detektief","Detecktiv"],"k":"b","tipp":"Merksatz: Der Detektiv wird mit t geschrieben: De-tek-tiv."},
+  {"r":"geheimnisvolle","w":"geheimnisfolle","o":["geheimnisvolle","geheimnisfolle","gehaimnisvolle","geheimnissvolle"],"k":"b","tipp":"Merksatz: 'voll' in 'geheimnisvoll' schreibt man mit v und doppel-l."}
+]},
+{"s":1,"satz":"Mit der starken Lupe entdeckt der Spürhund einen winzigen Fingerabdruck am Fenster.","f":[
+  {"r":"starken","w":"schtarken","o":["starken","schtarken","starcken","starkän"],"k":"b","tipp":"Merksatz: 'stark' spricht man scht, schreibt man aber mit st: stark."},
+  {"r":"Spürhund","w":"Spührhund","o":["Spürhund","Spührhund","Spürhunt","Schpürhund"],"k":"b","tipp":"Merksatz: 'spüren' hat kein h nach dem ü: Spür-hund."},
+  {"r":"Fingerabdruck","w":"Fingerabdruk","o":["Fingerabdruck","Fingerabdruk","Fingerabtruck","Fingärabdruck"],"k":"b","tipp":"Merksatz: Nach kurzem u steht ck: Ab-druck."}
+]},
+{"s":1,"satz":"Der heimliche Spion versteckt sich hinter der Hecke und beobachtet das verdächtige Haus.","f":[
+  {"r":"heimliche","w":"haimliche","o":["heimliche","haimliche","heimlieche","heimlicheh"],"k":"b","tipp":"Merksatz: 'heimlich' schreibt man mit ei: heim-lich."},
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","versteckd","verschteckt"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
+  {"r":"beobachtet","w":"beopachtet","o":["beobachtet","beopachtet","beobachdet","beobbachtet"],"k":"b","tipp":"Merksatz: 'beobachten' hat zwei o hintereinander: be-ob-ach-ten."}
+]},
+{"s":1,"satz":"Im dunklen Keller findet der kluge Ermittler eine wichtige Spur aus roter Farbe.","f":[
+  {"r":"dunklen","w":"dunkeln","o":["dunklen","dunkeln","dunclen","dunklän"],"k":"b","tipp":"Merksatz: 'dunkel' wird zu 'dunklen' – das e fällt weg: dun-klen."},
+  {"r":"Ermittler","w":"Ermitler","o":["Ermittler","Ermitler","Ermidtler","Ärmittler"],"k":"b","tipp":"Merksatz: Der Ermittler hat doppel-t: Er-mitt-ler."},
+  {"r":"wichtige","w":"wigtige","o":["wichtige","wigtige","wichtieche","wichtigge"],"k":"b","tipp":"Merksatz: 'wichtig' schreibt man mit cht: wich-tig."}
+]},
+{"s":1,"satz":"Der neugierige Reporter notiert jeden Hinweis sorgfältig in sein geheimes Notizbuch hinein.","f":[
+  {"r":"neugierige","w":"noigierige","o":["neugierige","noigierige","neugieriege","neugierieche"],"k":"b","tipp":"Merksatz: 'neugierig' schreibt man mit eu und ie: neu-gie-rig."},
+  {"r":"sorgfältig","w":"sorkfältig","o":["sorgfältig","sorkfältig","sorgfeltig","sorgfältieg"],"k":"b","tipp":"Merksatz: 'sorgfältig' kommt von 'Sorge' und 'falten' – mit g und ä."},
+  {"r":"Notizbuch","w":"Notitzbuch","o":["Notizbuch","Notitzbuch","Notizbuhch","Nottizbuch"],"k":"b","tipp":"Merksatz: 'Notiz' schreibt man mit einfachem z: No-tiz."}
+]},
+{"s":1,"satz":"Mit einem geheimen Geheimcode öffnet die mutige Detektivin die verschlossene Truhe.","f":[
+  {"r":"geheimen","w":"gehaimen","o":["geheimen","gehaimen","gehaimän","geheimän"],"k":"b","tipp":"Merksatz: 'geheim' schreibt man mit ei: ge-heim."},
+  {"r":"Geheimcode","w":"Geheimkode","o":["Geheimcode","Geheimkode","Gehaimcode","Geheimcohde"],"k":"b","tipp":"Merksatz: 'Code' kommt aus dem Englischen und wird mit c geschrieben."},
+  {"r":"verschlossene","w":"ferschlossene","o":["verschlossene","ferschlossene","verschlosene","verschlossäne"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-schlos-sen."}
+]},
+{"s":1,"satz":"Der verdächtige Nachbar trägt einen großen Koffer mit verdächtig vielen Goldmünzen davon.","f":[
+  {"r":"Nachbar","w":"Nachpar","o":["Nachbar","Nachpar","Nahbar","Nachbahr"],"k":"b","tipp":"Merksatz: Der Nachbar wohnt 'nach' nebenan – mit b: Nach-bar."},
+  {"r":"Koffer","w":"Kofer","o":["Koffer","Kofer","Coffer","Koffär"],"k":"b","tipp":"Merksatz: Der Koffer hat doppel-f: Kof-fer."},
+  {"r":"Goldmünzen","w":"Goltmünzen","o":["Goldmünzen","Goltmünzen","Goldmünssen","Goldmünzän"],"k":"b","tipp":"Merksatz: 'Gold' endet auf d – Probe: die goldene Münze."}
+]},
+{"s":1,"satz":"Die clevere Spürnase erschnüffelt die frische Spur und folgt ihr durch den dichten Wald.","f":[
+  {"r":"clevere","w":"klevere","o":["clevere","klevere","cleverre","clevähre"],"k":"b","tipp":"Merksatz: 'clever' kommt aus dem Englischen und beginnt mit c."},
+  {"r":"erschnüffelt","w":"erschnüfelt","o":["erschnüffelt","erschnüfelt","erschnüffeld","erschnüffält"],"k":"b","tipp":"Merksatz: 'schnüffeln' hat doppel-f: schnüf-feln."},
+  {"r":"dichten","w":"digten","o":["dichten","digten","dichdten","diechten"],"k":"b","tipp":"Merksatz: 'dicht' schreibt man mit cht: dich-ten."}
+]},
+{"s":1,"satz":"Der berühmte Detektiv löst den kniffligen Fall mit nur einem einzigen Fingerabdruck.","f":[
+  {"r":"berühmte","w":"berümte","o":["berühmte","berümte","beruhmte","berühmmte"],"k":"b","tipp":"Merksatz: 'berühmt' hat ein Dehnungs-h nach dem ü: be-rühmt."},
+  {"r":"kniffligen","w":"knifligen","o":["kniffligen","knifligen","kniffliegen","gniffligen"],"k":"b","tipp":"Merksatz: 'knifflig' hat doppel-f: knif-flig."},
+  {"r":"einzigen","w":"ainzigen","o":["einzigen","ainzigen","einziegen","einzieggen"],"k":"b","tipp":"Merksatz: 'einzig' schreibt man mit ei: ein-zig."}
+]},
+{"s":1,"satz":"Hinter der staubigen Bücherwand entdeckt das Spürauge eine geheimnisvolle Geheimtür im Mauerwerk.","f":[
+  {"r":"staubigen","w":"staobigen","o":["staubigen","staobigen","schtaubigen","staubiegen"],"k":"b","tipp":"Merksatz: 'Staub' schreibt man mit au: stau-big."},
+  {"r":"Bücherwand","w":"Büscherwand","o":["Bücherwand","Büscherwand","Bücherwant","Bücharwand"],"k":"b","tipp":"Merksatz: 'Bücher' schreibt man mit ch: Bü-cher-wand."},
+  {"r":"Geheimtür","w":"Gehaimtür","o":["Geheimtür","Gehaimtür","Geheimtühr","Geheimdür"],"k":"b","tipp":"Merksatz: 'geheim' schreibt man mit ei: Ge-heim-tür."}
+]},
+{"s":1,"satz":"Der pfiffige Detektiv prüft das zerbrochene Fenster und sammelt jeden kleinen Hinweis ein.","f":[
+  {"r":"pfiffige","w":"pfifige","o":["pfiffige","pfifige","fiffige","pfiffieche"],"k":"b","tipp":"Merksatz: 'pfiffig' hat pf und doppel-f: pfif-fig."},
+  {"r":"prüft","w":"prühft","o":["prüft","prühft","prüfd","brüft"],"k":"b","tipp":"Merksatz: 'prüfen' hat kein h: prü-fen, prüft."},
+  {"r":"zerbrochene","w":"zerprochene","o":["zerbrochene","zerprochene","zärbrochene","zerbrochäne"],"k":"b","tipp":"Merksatz: 'zerbrochen' kommt von 'brechen' – mit b: zer-bro-chen."}
+]},
+{"s":1,"satz":"Mit der Taschenlampe leuchtet der Ermittler in die finstere Höhle voller geheimer Hinweise.","f":[
+  {"r":"Taschenlampe","w":"Taschenlanpe","o":["Taschenlampe","Taschenlanpe","Taschenlampä","Tahschenlampe"],"k":"b","tipp":"Merksatz: Vor p und b steht m: Lam-pe."},
+  {"r":"finstere","w":"finstäre","o":["finstere","finstäre","finsdere","finsterre"],"k":"b","tipp":"Merksatz: 'finster' schreibt man mit e: fin-ster."},
+  {"r":"Höhle","w":"Höle","o":["Höhle","Höle","Höhlle","Höhlä"],"k":"b","tipp":"Merksatz: Die Höhle hat ein Dehnungs-h: Höh-le."}
+]},
+{"s":2,"satz":"Am Morgen sucht der Detektiv mit der Lupe im Park nach winzigen Spuren.","f":[
+  {"r":"Detektiv","w":"detektiv","o":["Detektiv","detektiv","Dedektiv","Detektief"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Detektiv'."},
+  {"r":"Lupe","w":"lupe","o":["Lupe","lupe","Luppe","Luhpe"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Lupe'."},
+  {"r":"winzigen","w":"winziegen","o":["winzigen","winziegen","winzichen","wintzigen"],"k":"b","tipp":"Regel: 'winzig' schreibt man mit z: win-zig."}
+]},
+{"s":2,"satz":"Der Verdächtige läuft schnell weg, weil der Spürhund laut zu bellen beginnt.","f":[
+  {"r":"Verdächtige","w":"verdächtige","o":["Verdächtige","verdächtige","Verdechtige","Värdächtige"],"k":"g","tipp":"Regel: Hier ist 'der Verdächtige' ein Namenwort und wird großgeschrieben."},
+  {"r":"läuft","w":"leuft","o":["läuft","leuft","läufd","läufft"],"k":"b","tipp":"Regel: 'läuft' kommt von 'laufen' und wird mit äu geschrieben."},
+  {"r":"bellen","w":"Bellen","o":["bellen","Bellen","belen","bellän"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'bellen' schreibt man klein."}
+]},
+{"s":2,"satz":"Die kluge Detektivin entdeckt einen Fingerabdruck, den der Dieb am Tresor hinterlassen hat.","f":[
+  {"r":"kluge","w":"Kluge","o":["kluge","Kluge","kluuge","kluche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klug' schreibt man klein."},
+  {"r":"entdeckt","w":"entdekt","o":["entdeckt","entdekt","entteckt","entdeckd"],"k":"b","tipp":"Regel: Nach kurzem e steht ck: ent-deckt."},
+  {"r":"Tresor","w":"tresor","o":["Tresor","tresor","Tressor","Tresohr"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Tresor'."}
+]},
+{"s":2,"satz":"Im geheimen Versteck untersucht der Spion die Hinweise, weil dort der Geheimcode liegt.","f":[
+  {"r":"untersucht","w":"Untersucht","o":["untersucht","Untersucht","untersuhct","untersuchd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'untersuchen' schreibt man klein."},
+  {"r":"Versteck","w":"versteck","o":["Versteck","versteck","Fersteck","Verschteck"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Versteck'."},
+  {"r":"Geheimcode","w":"Geheimkode","o":["Geheimcode","Geheimkode","Gehaimcode","Geheimcohde"],"k":"b","tipp":"Regel: 'Code' kommt aus dem Englischen und wird mit c geschrieben."}
+]},
+{"s":2,"satz":"Der Spürhund schnüffelt aufgeregt an der Tür, weil er die frische Spur riecht.","f":[
+  {"r":"Spürhund","w":"spürhund","o":["Spürhund","spürhund","Spührhund","Schpürhund"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Spürhund'."},
+  {"r":"schnüffelt","w":"schnüfelt","o":["schnüffelt","schnüfelt","schnüffeld","schnüffält"],"k":"b","tipp":"Regel: 'schnüffeln' schreibt man mit doppel-f: schnüf-feln."},
+  {"r":"frische","w":"Frische","o":["frische","Frische","frieche","frissche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'frisch' schreibt man klein."}
+]},
+{"s":2,"satz":"Hinter der alten Mauer findet der Detektiv eine Truhe, die der Räuber versteckt hat.","f":[
+  {"r":"alten","w":"Alten","o":["alten","Alten","allten","aldten"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'alt' schreibt man klein."},
+  {"r":"Mauer","w":"mauer","o":["Mauer","mauer","Maoer","Mauär"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Mauer'."},
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","versteckd","verschteckt"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-steckt."}
+]},
+{"s":2,"satz":"Der schlaue Ermittler verhört den Zeugen genau, weil dieser etwas Wichtiges gesehen hat.","f":[
+  {"r":"schlaue","w":"Schlaue","o":["schlaue","Schlaue","schlaoe","schlauwe"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schlau' schreibt man klein."},
+  {"r":"verhört","w":"ferhört","o":["verhört","ferhört","verhörd","verhöhrt"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-hört."},
+  {"r":"Wichtiges","w":"wichtiges","o":["Wichtiges","wichtiges","Wigtiges","Wichtieges"],"k":"g","tipp":"Regel: 'etwas Wichtiges' wird großgeschrieben, weil es ein Namenwort ist."}
+]},
+{"s":2,"satz":"Mit der Lupe prüft die Detektivin den Brief, weil darin ein geheimer Hinweis steckt.","f":[
+  {"r":"prüft","w":"Prüft","o":["prüft","Prüft","prühft","prüfd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'prüfen' schreibt man klein."},
+  {"r":"Hinweis","w":"Hinwais","o":["Hinweis","Hinwais","Hinweiss","Hinwaisch"],"k":"b","tipp":"Regel: 'Hinweis' schreibt man mit ei: Hin-weis."},
+  {"r":"geheimer","w":"Geheimer","o":["geheimer","Geheimer","gehaimer","geheimär"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'geheim' schreibt man klein."}
+]},
+{"s":2,"satz":"Der mutige Detektiv klettert in die dunkle Höhle hinein, obwohl er sich fürchtet.","f":[
+  {"r":"mutige","w":"Mutige","o":["mutige","Mutige","muttige","mutieche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'mutig' schreibt man klein."},
+  {"r":"Höhle","w":"Höle","o":["Höhle","Höle","höhle","Höhlle"],"k":"b","tipp":"Regel: Die Höhle hat ein Dehnungs-h: Höh-le."},
+  {"r":"dunkle","w":"Dunkle","o":["dunkle","Dunkle","dunckle","dunklle"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'dunkel' schreibt man klein."}
+]},
+{"s":2,"satz":"Am Abend liest der Detektiv den Geheimcode, weil ihn die spannende Botschaft neugierig macht.","f":[
+  {"r":"liest","w":"Liest","o":["liest","Liest","liesst","liehst"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'lesen' schreibt man klein."},
+  {"r":"Botschaft","w":"botschaft","o":["Botschaft","botschaft","Botschafft","Bottschaft"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Botschaft'."},
+  {"r":"neugierig","w":"noigierig","o":["neugierig","noigierig","neugierieg","neugierich"],"k":"b","tipp":"Regel: 'neugierig' schreibt man mit eu und ie: neu-gie-rig."}
+]},
+{"s":2,"satz":"Die Spurensicherung entdeckt einen Fingerabdruck, der dem heimlichen Dieb gehört.","f":[
+  {"r":"Spurensicherung","w":"spurensicherung","o":["Spurensicherung","spurensicherung","Schpurensicherung","Spurensicherunk"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Spurensicherung'."},
+  {"r":"heimlichen","w":"haimlichen","o":["heimlichen","haimlichen","heimliechen","heimlichän"],"k":"b","tipp":"Regel: 'heimlich' schreibt man mit ei: heim-lich."},
+  {"r":"Dieb","w":"dieb","o":["Dieb","dieb","Dib","Dieeb"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Dieb'."}
+]},
+{"s":2,"satz":"Der Detektiv verfolgt die Spur bis zur Brücke, weil dort der Verdächtige wartet und lauscht.","f":[
+  {"r":"verfolgt","w":"ferfolgt","o":["verfolgt","ferfolgt","verfolkt","verfolgd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-folgt."},
+  {"r":"Verdächtige","w":"verdächtige","o":["Verdächtige","verdächtige","Verdechtige","Värdächtige"],"k":"g","tipp":"Regel: Hier ist 'der Verdächtige' ein Namenwort und wird großgeschrieben."},
+  {"r":"wartet","w":"Wartet","o":["wartet","Wartet","wardet","warttet"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'warten' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Detektiv prüft die Lupe, die Spur und den Brief, bevor er das Rätsel löst.","f":[
+  {"r":"Lupe,","w":"Lupe","o":["Lupe,","Lupe","Lupe;","Lupe."],"k":"k","tipp":"Regel: Bei einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"Spur","w":"Schpur","o":["Spur","Schpur","Spuhr","Spurr"],"k":"b","tipp":"Regel: 'Spur' spricht man schp, schreibt man aber mit sp."},
+  {"r":"Rätsel","w":"rätsel","o":["Rätsel","rätsel","Retsel","Rätzel"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Rätsel'."}
+]},
+{"s":3,"satz":"Die Detektivin öffnet die Truhe, weil der Geheimcode endlich zu dem alten Schloss passt.","f":[
+  {"r":"Truhe,","w":"Truhe","o":["Truhe,","Truhe","Truhe;","Truhe."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Geheimcode","w":"Geheimkode","o":["Geheimcode","Geheimkode","Gehaimcode","Geheimcohde"],"k":"b","tipp":"Regel: 'Code' kommt aus dem Englischen und wird mit c geschrieben."},
+  {"r":"alten","w":"Alten","o":["alten","Alten","allten","aldten"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'alt' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Spürhund schnüffelt am Boden, doch die Spur führt mitten in die dunkle Höhle.","f":[
+  {"r":"Boden,","w":"Boden","o":["Boden,","Boden","Boden;","Boden."],"k":"k","tipp":"Regel: Vor 'doch' steht ein Komma."},
+  {"r":"schnüffelt","w":"schnüfelt","o":["schnüffelt","schnüfelt","schnüffeld","schnüffält"],"k":"b","tipp":"Regel: 'schnüffeln' schreibt man mit doppel-f: schnüf-feln."},
+  {"r":"dunkle","w":"Dunkle","o":["dunkle","Dunkle","dunckle","dunklle"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'dunkel' schreibt man klein."}
+]},
+{"s":3,"satz":"Der schlaue Ermittler weiß, dass der Verdächtige den Fingerabdruck am Fenster hinterlassen hat.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"schlaue","w":"Schlaue","o":["schlaue","Schlaue","schlaoe","schlauwe"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schlau' schreibt man klein."},
+  {"r":"Fingerabdruck","w":"Fingerabdruk","o":["Fingerabdruck","Fingerabdruk","Fingerabtruck","Fingärabdruck"],"k":"b","tipp":"Regel: Nach kurzem u steht ck: Ab-druck."}
+]},
+{"s":3,"satz":"Im Koffer findet der Detektiv eine Lupe, eine Karte und einen geheimnisvollen Geheimcode.","f":[
+  {"r":"Lupe,","w":"Lupe","o":["Lupe,","Lupe","Lupe;","Lupe."],"k":"k","tipp":"Regel: Bei einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"Koffer","w":"Kofer","o":["Koffer","Kofer","Coffer","Koffär"],"k":"b","tipp":"Regel: Der Koffer hat doppel-f: Kof-fer."},
+  {"r":"geheimnisvollen","w":"geheimnisfollen","o":["geheimnisvollen","geheimnisfollen","gehaimnisvollen","geheimnissvollen"],"k":"b","tipp":"Regel: 'voll' in 'geheimnisvoll' schreibt man mit v: ge-heim-nis-voll."}
+]},
+{"s":3,"satz":"Der Reporter notiert jeden Hinweis, obwohl die Spur immer geheimnisvoller wird.","f":[
+  {"r":"Hinweis,","w":"Hinweis","o":["Hinweis,","Hinweis","Hinweis;","Hinweis."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"notiert","w":"notirt","o":["notiert","notirt","nottiert","notierd"],"k":"b","tipp":"Regel: 'notieren' schreibt man mit ie: no-tie-ren."},
+  {"r":"geheimnisvoller","w":"Geheimnisvoller","o":["geheimnisvoller","Geheimnisvoller","geheimnisfoller","gehaimnisvoller"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'geheimnisvoll' schreibt man klein."}
+]},
+{"s":3,"satz":"Die Detektivin verhört den Zeugen, der den verdächtigen Mann am Tatort gesehen hat.","f":[
+  {"r":"Zeugen,","w":"Zeugen","o":["Zeugen,","Zeugen","Zeugen;","Zeugen."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'der' steht ein Komma."},
+  {"r":"verhört","w":"ferhört","o":["verhört","ferhört","verhörd","verhöhrt"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-hört."},
+  {"r":"verdächtigen","w":"Verdächtigen","o":["verdächtigen","Verdächtigen","verdechtigen","värdächtigen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'verdächtig' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Spion entkommt durch das Fenster, weil der wachsame Detektiv kurz nicht aufgepasst hat.","f":[
+  {"r":"Fenster,","w":"Fenster","o":["Fenster,","Fenster","Fenster;","Fenster."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"wachsame","w":"waxame","o":["wachsame","waxame","wachsamme","wachzame"],"k":"b","tipp":"Regel: 'wachsam' kommt von 'wachen' und wird mit chs geschrieben."},
+  {"r":"Detektiv","w":"detektiv","o":["Detektiv","detektiv","Dedektiv","Detektief"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Detektiv'."}
+]},
+{"s":3,"satz":"Wenn der Detektiv die Spur findet, dann löst er den geheimnisvollen Fall sofort.","f":[
+  {"r":"findet,","w":"findet","o":["findet,","findet","findet;","findet."],"k":"k","tipp":"Regel: Nach einem vorangestellten Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"geheimnisvollen","w":"geheimnisfollen","o":["geheimnisvollen","geheimnisfollen","gehaimnisvollen","geheimnissvollen"],"k":"b","tipp":"Regel: 'voll' in 'geheimnisvoll' schreibt man mit v: ge-heim-nis-voll."},
+  {"r":"löst","w":"Löst","o":["löst","Löst","löhst","lösst"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'lösen' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Detektiv folgt der frischen Spur, denn der Dieb hat die Goldmünzen dort verloren.","f":[
+  {"r":"Spur,","w":"Spur","o":["Spur,","Spur","Spur;","Spur."],"k":"k","tipp":"Regel: Vor 'denn' steht ein Komma."},
+  {"r":"frischen","w":"Frischen","o":["frischen","Frischen","friechen","frisschen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'frisch' schreibt man klein."},
+  {"r":"Goldmünzen","w":"Goltmünzen","o":["Goldmünzen","Goltmünzen","Goldmünssen","Goldmünzän"],"k":"b","tipp":"Regel: 'Gold' endet auf d – Probe: die goldene Münze."}
+]},
+{"s":3,"satz":"Die clevere Detektivin entschlüsselt den Geheimcode, weil sie das alte Notizbuch gefunden hat.","f":[
+  {"r":"Geheimcode,","w":"Geheimcode","o":["Geheimcode,","Geheimcode","Geheimcode;","Geheimcode."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"clevere","w":"Clevere","o":["clevere","Clevere","klevere","cleverre"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'clever' schreibt man klein."},
+  {"r":"entschlüsselt","w":"entschlüselt","o":["entschlüsselt","entschlüselt","entschlüsseld","entschlüssält"],"k":"b","tipp":"Regel: 'entschlüsseln' schreibt man mit doppel-s: ent-schlüs-seln."}
+]},
+{"s":3,"satz":"Der Ermittler durchsucht den Keller, das Dachzimmer und den Garten nach weiteren Hinweisen.","f":[
+  {"r":"Keller,","w":"Keller","o":["Keller,","Keller","Keller;","Keller."],"k":"k","tipp":"Regel: Bei einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"durchsucht","w":"durchsuhct","o":["durchsucht","durchsuhct","durchsuchd","durchzucht"],"k":"b","tipp":"Regel: 'suchen' schreibt man mit ch: durch-sucht."},
+  {"r":"weiteren","w":"Weiteren","o":["weiteren","Weiteren","waiteren","weiterän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'weiter' schreibt man klein."}
+]}
+]

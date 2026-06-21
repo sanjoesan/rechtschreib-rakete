@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der hungrige Koch belegt die knusprige Pizza mit frischen Tomaten und Käse.","f":[
+  {"r":"hungrige","w":"hungriche","o":["hungrige","hungriche","hungerige","hungrigge"],"k":"b","tipp":"Merksatz: In 'hungrig' steckt der 'Hunger' – mit u und g."},
+  {"r":"knusprige","w":"knusprieche","o":["knusprige","knusprieche","gnusprige","knussprige"],"k":"b","tipp":"Merksatz: 'knusprig' schreibt man mit sp: knus-prig."},
+  {"r":"Tomaten","w":"Tomahten","o":["Tomaten","Tomahten","Domaten","Tomatän"],"k":"b","tipp":"Merksatz: 'Tomate' schreibt man ohne Dehnungs-h: To-ma-te."}
+]},
+{"s":1,"satz":"In der dampfenden Küche kocht die fröhliche Oma eine leckere Suppe für alle.","f":[
+  {"r":"dampfenden","w":"dampffenden","o":["dampfenden","dampffenden","dampfändän","dambfenden"],"k":"b","tipp":"Merksatz: 'dampfen' schreibt man mit pf: damp-fen."},
+  {"r":"fröhliche","w":"frölliche","o":["fröhliche","frölliche","fröliche","fröhlige"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h nach dem ö: fröh-lich."},
+  {"r":"Suppe","w":"Supe","o":["Suppe","Supe","Subpe","Suppä"],"k":"b","tipp":"Merksatz: Die Suppe hat doppel-P: Sup-pe."}
+]},
+{"s":1,"satz":"Mit langen Gabeln essen die Kinder die heißen Spaghetti am großen Tisch.","f":[
+  {"r":"Gabeln","w":"Gabbeln","o":["Gabeln","Gabbeln","Gahbeln","Gapeln"],"k":"b","tipp":"Merksatz: 'Gabel' hat nur ein b: Ga-bel."},
+  {"r":"Spaghetti","w":"Spageti","o":["Spaghetti","Spageti","Spaghetty","Schpaghetti"],"k":"b","tipp":"Merksatz: 'Spaghetti' hat ein h nach dem g und doppel-T: Spa-ghet-ti."},
+  {"r":"heißen","w":"haißen","o":["heißen","haißen","heisen","heißän"],"k":"b","tipp":"Merksatz: 'heiß' schreibt man mit ei und ß: hei-ßen."}
+]},
+{"s":1,"satz":"Der freundliche Bäcker backt jeden Morgen einen duftenden Kuchen im Ofen.","f":[
+  {"r":"freundliche","w":"freindliche","o":["freundliche","freindliche","fröindliche","freundlige"],"k":"b","tipp":"Merksatz: 'freundlich' kommt von 'Freund' und wird mit eu geschrieben."},
+  {"r":"backt","w":"bakt","o":["backt","bakt","backd","bagt"],"k":"b","tipp":"Merksatz: Nach kurzem a steht ck: ba-cken, backt."},
+  {"r":"duftenden","w":"dufftenden","o":["duftenden","dufftenden","duftändän","dufdenden"],"k":"b","tipp":"Merksatz: 'duften' schreibt man mit einem f: duf-ten."}
+]},
+{"s":1,"satz":"Auf dem bunten Teller liegt frisches Obst neben der süßen Marmelade aus Kirschen.","f":[
+  {"r":"bunten","w":"bundten","o":["bunten","bundten","buntän","bunnten"],"k":"b","tipp":"Merksatz: 'bunt' schreibt man mit t: bun-ten."},
+  {"r":"Obst","w":"Opst","o":["Obst","Opst","Obsd","Ohbst"],"k":"b","tipp":"Merksatz: 'Obst' schreibt man mit b – Probe: das Obstes."},
+  {"r":"Marmelade","w":"Marmelahde","o":["Marmelade","Marmelahde","Marmälade","Marmeladä"],"k":"b","tipp":"Merksatz: 'Marmelade' schreibt man ohne Dehnungs-h: Mar-me-la-de."}
+]},
+{"s":1,"satz":"Die geschickte Köchin liest das alte Rezept und schnippelt das frische Gemüse klein.","f":[
+  {"r":"geschickte","w":"geschikte","o":["geschickte","geschikte","geschickde","geshickte"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: ge-schick-te."},
+  {"r":"Rezept","w":"Rezebt","o":["Rezept","Rezebt","Resept","Rezepd"],"k":"b","tipp":"Merksatz: 'Rezept' schreibt man mit z und endet auf pt: Re-zept."},
+  {"r":"Gemüse","w":"Gemühse","o":["Gemüse","Gemühse","Gemüese","Gemüsä"],"k":"b","tipp":"Merksatz: 'Gemüse' schreibt man ohne Dehnungs-h: Ge-mü-se."}
+]},
+{"s":1,"satz":"Der nette Pizzabäcker streut würzigen Käse über den dünnen Teig der Pizza.","f":[
+  {"r":"Pizzabäcker","w":"Pizzabecker","o":["Pizzabäcker","Pizzabecker","Pizzabäkker","Pizzapäcker"],"k":"b","tipp":"Merksatz: Der 'Bäcker' kommt von 'backen' und wird mit ä geschrieben."},
+  {"r":"würzigen","w":"würziechen","o":["würzigen","würziechen","würtzigen","würzieken"],"k":"b","tipp":"Merksatz: 'würzig' kommt von 'Würze' und wird mit z geschrieben."},
+  {"r":"dünnen","w":"dünen","o":["dünnen","dünen","dühnen","dünnän"],"k":"b","tipp":"Merksatz: 'dünn' hat doppel-N: dün-nen."}
+]},
+{"s":1,"satz":"Beim Kochen rührt der lustige Junge mit dem hölzernen Löffel die heiße Suppe um.","f":[
+  {"r":"rührt","w":"rürt","o":["rührt","rürt","ruhrt","rührd"],"k":"b","tipp":"Merksatz: 'rühren' hat ein Dehnungs-h nach dem ü: rüh-ren."},
+  {"r":"hölzernen","w":"hölzärnen","o":["hölzernen","hölzärnen","höltzernen","hölzernän"],"k":"b","tipp":"Merksatz: 'hölzern' kommt von 'Holz' und wird mit ö und z geschrieben."},
+  {"r":"Löffel","w":"Löfel","o":["Löffel","Löfel","Löffäl","Löffl"],"k":"b","tipp":"Merksatz: Der Löffel hat doppel-F: Löf-fel."}
+]},
+{"s":1,"satz":"Die gesunde Marmelade aus reifen Erdbeeren schmeckt am liebsten auf warmem Brot.","f":[
+  {"r":"gesunde","w":"gesonde","o":["gesunde","gesonde","gezunde","gesundä"],"k":"b","tipp":"Merksatz: 'gesund' schreibt man mit u: ge-sund."},
+  {"r":"reifen","w":"raifen","o":["reifen","raifen","reiffen","reifän"],"k":"b","tipp":"Merksatz: 'reif' schreibt man mit ei: rei-fen."},
+  {"r":"schmeckt","w":"schmekt","o":["schmeckt","schmekt","schmeckd","shmeckt"],"k":"b","tipp":"Merksatz: Nach kurzem e steht ck: schme-cken, schmeckt."}
+]},
+{"s":1,"satz":"Im warmen Ofen backt die emsige Bäckerin einen riesigen Apfelkuchen mit Zimt.","f":[
+  {"r":"emsige","w":"emsiege","o":["emsige","emsiege","ämsige","emssige"],"k":"b","tipp":"Merksatz: 'emsig' schreibt man mit e und einem s: em-sig."},
+  {"r":"riesigen","w":"risigen","o":["riesigen","risigen","riesiegen","riessigen"],"k":"b","tipp":"Merksatz: 'riesig' schreibt man mit ie (langes i): rie-sig."},
+  {"r":"Apfelkuchen","w":"Apffelkuchen","o":["Apfelkuchen","Apffelkuchen","Apfelkuhchen","Abfelkuchen"],"k":"b","tipp":"Merksatz: 'Apfel' schreibt man mit einem p und pf: Ap-fel."}
+]},
+{"s":1,"satz":"Der vergessliche Koch sucht überall das verschwundene Rezept für die scharfe Suppe.","f":[
+  {"r":"vergessliche","w":"fergessliche","o":["vergessliche","fergessliche","vergesliche","vergässliche"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-gess-lich."},
+  {"r":"verschwundene","w":"ferschwundene","o":["verschwundene","ferschwundene","verschwondene","verschwundänä"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-schwun-den."},
+  {"r":"scharfe","w":"sharfe","o":["scharfe","sharfe","scharffe","scharve"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit sch: schar-fe."}
+]},
+{"s":1,"satz":"Mit großem Hunger naschen die Geschwister vom süßen Kuchen und vom reifen Obst.","f":[
+  {"r":"Hunger","w":"Hunher","o":["Hunger","Hunher","Hungär","Hungger"],"k":"b","tipp":"Merksatz: 'Hunger' schreibt man mit ng: Hun-ger."},
+  {"r":"naschen","w":"nashen","o":["naschen","nashen","naschän","nasschen"],"k":"b","tipp":"Merksatz: 'naschen' schreibt man mit sch: na-schen."},
+  {"r":"Geschwister","w":"Geshwister","o":["Geschwister","Geshwister","Geschwißter","Geschwiester"],"k":"b","tipp":"Merksatz: 'Geschwister' schreibt man mit sch in der Mitte: Ge-schwis-ter."}
+]},
+{"s":2,"satz":"Am Sonntag backt die freundliche Hexe einen riesigen Kürbiskuchen im Ofen.","f":[
+  {"r":"Hexe","w":"hexe","o":["Hexe","hexe","Hekse","hekse"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Hexe' steht mit dem Begleiter 'die'."},
+  {"r":"backt","w":"Backt","o":["backt","Backt","bakt","Bakt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'backen' schreibt man klein."},
+  {"r":"riesigen","w":"risigen","o":["riesigen","risigen","riesiegen","riessigen"],"k":"b","tipp":"Regel: 'riesig' schreibt man mit ie (langes i): rie-sig."}
+]},
+{"s":2,"satz":"In der Pfanne brutzelt die leckere Pizza mit viel würzigem Käse.","f":[
+  {"r":"Pizza","w":"pizza","o":["Pizza","pizza","Pizsa","Bizza"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Pizza' steht mit dem Begleiter 'die'."},
+  {"r":"brutzelt","w":"Brutzelt","o":["brutzelt","Brutzelt","brutselt","Brutselt"],"k":"g","tipp":"Regel: Verben wie 'brutzeln' schreibt man klein."},
+  {"r":"würzigem","w":"würziechem","o":["würzigem","würziechem","würtzigem","würzieckem"],"k":"b","tipp":"Regel: 'würzig' kommt von 'Würze' und wird mit z geschrieben."}
+]},
+{"s":2,"satz":"Nach dem Essen wäscht der müde Vater das schmutzige Gemüse im Becken.","f":[
+  {"r":"Vater","w":"Fater","o":["Vater","Fater","Vatär","Vatter"],"k":"b","tipp":"Regel: 'Vater' schreibt man mit v: Va-ter."},
+  {"r":"wäscht","w":"Wäscht","o":["wäscht","Wäscht","wäschd","Wäschd"],"k":"g","tipp":"Regel: Verben wie 'waschen' schreibt man klein."},
+  {"r":"Gemüse","w":"gemüse","o":["Gemüse","gemüse","Gemühse","Gemüese"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Gemüse' steht mit dem Begleiter 'das'."}
+]},
+{"s":2,"satz":"Die geschickte Köchin liest leise das alte Rezept für die feine Suppe.","f":[
+  {"r":"Köchin","w":"köchin","o":["Köchin","köchin","Köchien","Kööchin"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Köchin' steht mit dem Begleiter 'die'."},
+  {"r":"liest","w":"Liest","o":["liest","Liest","list","List"],"k":"g","tipp":"Regel: Verben wie 'lesen' schreibt man klein."},
+  {"r":"Rezept","w":"Rezebt","o":["Rezept","Rezebt","Resept","Rezepd"],"k":"b","tipp":"Regel: 'Rezept' schreibt man mit z und endet auf pt: Re-zept."}
+]},
+{"s":2,"satz":"Auf dem Markt kauft die sparsame Mutter frisches Obst und reife Birnen.","f":[
+  {"r":"Mutter","w":"mutter","o":["Mutter","mutter","Muter","Muttär"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Mutter' steht mit dem Begleiter 'die'."},
+  {"r":"kauft","w":"Kauft","o":["kauft","Kauft","kaufd","Kaufd"],"k":"g","tipp":"Regel: Verben wie 'kaufen' schreibt man klein."},
+  {"r":"frisches","w":"frishes","o":["frisches","frishes","frischäs","frissches"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: fri-sches."}
+]},
+{"s":2,"satz":"Beim Backen klebt der süße Teig für den Kuchen an den Fingern.","f":[
+  {"r":"Teig","w":"teig","o":["Teig","teig","Taig","Teich"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Teig' steht mit dem Begleiter 'der'."},
+  {"r":"klebt","w":"Klebt","o":["klebt","Klebt","klebd","Klebd"],"k":"g","tipp":"Regel: Verben wie 'kleben' schreibt man klein."},
+  {"r":"süße","w":"süsse","o":["süße","süsse","süßä","süeße"],"k":"b","tipp":"Regel: Nach langem ü steht ß: sü-ße."}
+]},
+{"s":2,"satz":"In der warmen Küche probiert der neugierige Junge die heiße Marmelade.","f":[
+  {"r":"Küche","w":"küche","o":["Küche","küche","Küuche","Kühche"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Küche' steht mit dem Begleiter 'die'."},
+  {"r":"probiert","w":"Probiert","o":["probiert","Probiert","probirt","Probirt"],"k":"g","tipp":"Regel: Verben wie 'probieren' schreibt man klein."},
+  {"r":"neugierige","w":"neugieriege","o":["neugierige","neugieriege","neigierige","neugierieche"],"k":"b","tipp":"Regel: 'neugierig' schreibt man mit eu und ie: neu-gie-rig."}
+]},
+{"s":2,"satz":"Der hungrige Hund stibitzt heimlich die warme Pizza vom runden Tisch.","f":[
+  {"r":"Pizza","w":"pizza","o":["Pizza","pizza","Pizsa","Bizza"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Pizza' steht mit dem Begleiter 'die'."},
+  {"r":"stibitzt","w":"Stibitzt","o":["stibitzt","Stibitzt","stibizt","Stibizt"],"k":"g","tipp":"Regel: Verben wie 'stibitzen' schreibt man klein."},
+  {"r":"hungrige","w":"hungriche","o":["hungrige","hungriche","hungerige","hungrigge"],"k":"b","tipp":"Regel: In 'hungrig' steckt der 'Hunger' – mit u und g."}
+]},
+{"s":2,"satz":"Mit großem Appetit schlürft das Mädchen die heiße Suppe vom tiefen Teller.","f":[
+  {"r":"Mädchen","w":"mädchen","o":["Mädchen","mädchen","Mädschen","Medchen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Mädchen' steht mit dem Begleiter 'das'."},
+  {"r":"schlürft","w":"Schlürft","o":["schlürft","Schlürft","schlürfd","Schlürfd"],"k":"g","tipp":"Regel: Verben wie 'schlürfen' schreibt man klein."},
+  {"r":"Appetit","w":"Apetit","o":["Appetit","Apetit","Appetiet","Abpetit"],"k":"b","tipp":"Regel: 'Appetit' hat doppel-P: Ap-pe-tit."}
+]},
+{"s":2,"satz":"Vor dem Backen wiegt die genaue Bäckerin das feine Mehl auf der Waage.","f":[
+  {"r":"Bäckerin","w":"bäckerin","o":["Bäckerin","bäckerin","Beckerin","Bäkkerin"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Bäckerin' steht mit dem Begleiter 'die'."},
+  {"r":"wiegt","w":"Wiegt","o":["wiegt","Wiegt","wigt","Wigt"],"k":"g","tipp":"Regel: Verben wie 'wiegen' schreibt man klein."},
+  {"r":"Mehl","w":"Mel","o":["Mehl","Mel","Mehll","Meel"],"k":"b","tipp":"Regel: 'Mehl' hat ein Dehnungs-h: Mehl."}
+]},
+{"s":2,"satz":"Auf dem Herd köchelt die würzige Suppe aus frischem Gemüse und Bohnen.","f":[
+  {"r":"Suppe","w":"suppe","o":["Suppe","suppe","Supe","Suppä"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Suppe' steht mit dem Begleiter 'die'."},
+  {"r":"köchelt","w":"Köchelt","o":["köchelt","Köchelt","köcheld","Köcheld"],"k":"g","tipp":"Regel: Verben wie 'köcheln' schreibt man klein."},
+  {"r":"frischem","w":"frishem","o":["frischem","frishem","frischäm","frisschem"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: fri-schem."}
+]},
+{"s":2,"satz":"Zum Nachtisch verteilt der Kellner den fruchtigen Kuchen auf die kleinen Teller.","f":[
+  {"r":"Kuchen","w":"kuchen","o":["Kuchen","kuchen","Kuhchen","Guchen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'den Kuchen' steht mit dem Begleiter 'den'."},
+  {"r":"verteilt","w":"Verteilt","o":["verteilt","Verteilt","ferteilt","Ferteilt"],"k":"g","tipp":"Regel: Verben wie 'verteilen' schreibt man klein."},
+  {"r":"fruchtigen","w":"fruchtieken","o":["fruchtigen","fruchtieken","fruchtiechen","fruchdigen"],"k":"b","tipp":"Regel: 'fruchtig' kommt von 'Frucht' und wird mit ch geschrieben."}
+]},
+{"s":3,"satz":"Auf dem Tisch stehen Suppe, Kuchen und frisches Obst für die Gäste.","f":[
+  {"r":"Suppe,","w":"Suppe","o":["Suppe,","Suppe","Suppe;","Suppe."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"frisches","w":"Frisches","o":["frisches","Frisches","frischäs","Frischäs"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'frisch' schreibt man klein."},
+  {"r":"Kuchen","w":"Kuhchen","o":["Kuchen","Kuhchen","Kuchän","Guchen"],"k":"b","tipp":"Regel: 'Kuchen' schreibt man ohne Dehnungs-h: Ku-chen."}
+]},
+{"s":3,"satz":"Die Köchin probiert die Suppe, weil das scharfe Gewürz vielleicht fehlt.","f":[
+  {"r":"Suppe,","w":"Suppe","o":["Suppe,","Suppe","Suppe;","Suppe."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Köchin","w":"köchin","o":["Köchin","köchin","Köchien","Kööchin"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Köchin'."},
+  {"r":"scharfe","w":"sharfe","o":["scharfe","sharfe","scharffe","scharve"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: schar-fe."}
+]},
+{"s":3,"satz":"Der Bäcker weiß, dass der süße Kuchen bald aus dem Ofen kommt.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Bäcker","w":"bäcker","o":["Bäcker","bäcker","Becker","Bäkker"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Bäcker'."},
+  {"r":"süße","w":"süsse","o":["süße","süsse","süßä","süeße"],"k":"b","tipp":"Regel: Nach langem ü steht ß: sü-ße."}
+]},
+{"s":3,"satz":"Die Pizza, die im heißen Ofen brutzelt, duftet schon durch die ganze Küche.","f":[
+  {"r":"Pizza,","w":"Pizza","o":["Pizza,","Pizza","Pizza;","Pizza."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'die' wird mit Kommas eingeschlossen: 'Die Pizza, die ... brutzelt, duftet ...'."},
+  {"r":"heißen","w":"haißen","o":["heißen","haißen","heisen","heißän"],"k":"b","tipp":"Regel: 'heiß' schreibt man mit ei und ß: hei-ßen."},
+  {"r":"ganze","w":"Ganze","o":["ganze","Ganze","gantze","Gantze"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'ganz' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Teig ist schon fertig, aber der ungeduldige Junge wartet noch auf den Kuchen.","f":[
+  {"r":"fertig,","w":"fertig","o":["fertig,","fertig","fertig;","fertig."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"Teig","w":"teig","o":["Teig","teig","Taig","Teich"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Teig'."},
+  {"r":"ungeduldige","w":"ungedultige","o":["ungeduldige","ungedultige","ungedoldige","ungeduldieche"],"k":"b","tipp":"Regel: 'geduldig' kommt von 'Geduld' und wird mit d geschrieben."}
+]},
+{"s":3,"satz":"Wenn die Suppe kocht, wirft die Oma das frische Gemüse in den Topf.","f":[
+  {"r":"kocht,","w":"kocht","o":["kocht,","kocht","kocht;","kocht."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma: 'Wenn ..., wirft ...'."},
+  {"r":"Gemüse","w":"gemüse","o":["Gemüse","gemüse","Gemühse","Gemüese"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Gemüse'."},
+  {"r":"frische","w":"frishe","o":["frische","frishe","frischä","frissche"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: fri-sche."}
+]},
+{"s":3,"satz":"Der Koch lacht laut, obwohl die salzige Suppe ihm gar nicht gelingt.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Suppe","w":"suppe","o":["Suppe","suppe","Supe","Suppä"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Suppe'."},
+  {"r":"salzige","w":"salziege","o":["salzige","salziege","saltzige","salzieche"],"k":"b","tipp":"Regel: 'salzig' kommt von 'Salz' und wird mit z geschrieben."}
+]},
+{"s":3,"satz":"Die Mutter ruft fröhlich, dass das warme Essen jetzt auf dem Tisch steht.","f":[
+  {"r":"fröhlich,","w":"fröhlich","o":["fröhlich,","fröhlich","fröhlich;","fröhlich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"warme","w":"Warme","o":["warme","Warme","warmä","Warmä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'warm' schreibt man klein."},
+  {"r":"Essen","w":"Esen","o":["Essen","Esen","Essän","Ässen"],"k":"b","tipp":"Regel: 'Essen' schreibt man mit doppel-S: Es-sen."}
+]},
+{"s":3,"satz":"Der Bäcker staunt, als der lockere Kuchen plötzlich über den Rand wächst.","f":[
+  {"r":"staunt,","w":"staunt","o":["staunt,","staunt","staunt;","staunt."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'als' steht ein Komma."},
+  {"r":"Bäcker","w":"bäcker","o":["Bäcker","bäcker","Becker","Bäkker"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Bäcker'."},
+  {"r":"lockere","w":"lokere","o":["lockere","lokere","lockäre","loggere"],"k":"b","tipp":"Regel: Nach kurzem o steht ck: lo-cke-re."}
+]},
+{"s":3,"satz":"Im Korb liegen Äpfel, Birnen und süße Trauben für das gesunde Obst.","f":[
+  {"r":"Äpfel,","w":"Äpfel","o":["Äpfel,","Äpfel","Äpfel;","Äpfel."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"süße","w":"Süße","o":["süße","Süße","süßä","Süßä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'süß' schreibt man klein."},
+  {"r":"gesunde","w":"gesonde","o":["gesunde","gesonde","gezunde","gesundä"],"k":"b","tipp":"Regel: 'gesund' schreibt man mit u: ge-sund."}
+]},
+{"s":3,"satz":"Die Oma rührt im Topf, weil die dicke Marmelade nicht anbrennen soll.","f":[
+  {"r":"Topf,","w":"Topf","o":["Topf,","Topf","Topf;","Topf."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"dicke","w":"Dicke","o":["dicke","Dicke","dickä","Dickä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'dick' schreibt man klein, wenn sie nicht am Satzanfang stehen."},
+  {"r":"Marmelade","w":"Marmelahde","o":["Marmelade","Marmelahde","Marmälade","Marmeladä"],"k":"b","tipp":"Regel: 'Marmelade' schreibt man ohne Dehnungs-h: Mar-me-la-de."}
+]},
+{"s":3,"satz":"Für das Festmahl braucht der Koch Gemüse, Nudeln und einen großen Topf.","f":[
+  {"r":"Gemüse,","w":"Gemüse","o":["Gemüse,","Gemüse","Gemüse;","Gemüse."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"großen","w":"Großen","o":["großen","Großen","grossen","Grossen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'groß' schreibt man klein."},
+  {"r":"Festmahl","w":"Festmal","o":["Festmahl","Festmal","Fesdmahl","Festmaal"],"k":"b","tipp":"Regel: 'Mahl' (das Essen) hat ein Dehnungs-h: Fest-mahl."}
+]}
+]

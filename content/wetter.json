@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der heftige Regen prasselt fröhlich gegen das nasse Fenster meiner Hütte.","f":[
+  {"r":"heftige","w":"hevtige","o":["heftige","hevtige","heftiege","hefftige"],"k":"b","tipp":"Merksatz: 'heftig' schreibt man mit f, nicht mit v: hef-tig."},
+  {"r":"prasselt","w":"praselt","o":["prasselt","praselt","brasselt","prasseld"],"k":"b","tipp":"Merksatz: Der Regen prasselt mit doppel-S: pra-ss-elt."},
+  {"r":"Fenster","w":"Fpenster","o":["Fenster","Fpenster","Fensder","Vfenster"],"k":"b","tipp":"Merksatz: Das Fenster beginnt mit F, nicht mit Pf: F-enster."}
+]},
+{"s":1,"satz":"Beim lauten Gewitter zuckt ein greller Blitz über den dunklen Himmel.","f":[
+  {"r":"Gewitter","w":"Gewiter","o":["Gewitter","Gewiter","Gewittor","Gewidter"],"k":"b","tipp":"Merksatz: Das Gewitter rumpelt doppelt – doppel-T: Gewi-tt-er."},
+  {"r":"greller","w":"greler","o":["greller","greler","grellor","grählar"],"k":"b","tipp":"Merksatz: Der Blitz ist grell mit doppel-L: gre-ll-er."},
+  {"r":"Blitz","w":"Blits","o":["Blitz","Blits","Blizt","Plitz"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: Bli-tz."}
+]},
+{"s":1,"satz":"Der weiße Schnee bedeckt am Morgen leise die stille Straße vor dem Haus.","f":[
+  {"r":"weiße","w":"weise","o":["weiße","weise","waiße","waisse"],"k":"b","tipp":"Merksatz: Die Farbe 'weiß' schreibt man mit ß nach langem ei: w-ei-ß."},
+  {"r":"Schnee","w":"Schne","o":["Schnee","Schne","Shnee","Schneee"],"k":"b","tipp":"Merksatz: Der Schnee fällt doppelt – doppel-E: Schn-ee."},
+  {"r":"Straße","w":"Strasse","o":["Straße","Strasse","Schtraße","Stráße"],"k":"b","tipp":"Merksatz: Nach langem a steht ß: Stra-ß-e."}
+]},
+{"s":1,"satz":"Nach dem Regen leuchtet ein bunter Regenbogen über dem feuchten Tal.","f":[
+  {"r":"leuchtet","w":"loichtet","o":["leuchtet","loichtet","leuchdet","leichtet"],"k":"b","tipp":"Merksatz: 'leuchten' schreibt man mit eu: l-eu-chten."},
+  {"r":"Regenbogen","w":"Regenbohgen","o":["Regenbogen","Regenbohgen","Reegenbogen","Regenboogen"],"k":"b","tipp":"Merksatz: Regenbogen = Regen + Bogen, der Bogen ohne extra h: Re-gen-bo-gen."},
+  {"r":"feuchten","w":"foichten","o":["feuchten","foichten","feuchden","feichten"],"k":"b","tipp":"Merksatz: 'feucht' schreibt man mit eu: f-eu-cht."}
+]},
+{"s":1,"satz":"Ein wilder Sturm fegt heulend durch die schwankenden hohen Bäume.","f":[
+  {"r":"wilder","w":"wielder","o":["wilder","wielder","willder","wilter"],"k":"b","tipp":"Merksatz: 'wild' hat ein kurzes i, kein ie: w-i-ld."},
+  {"r":"fegt","w":"fechd","o":["fegt","fechd","vegt","fegd"],"k":"b","tipp":"Merksatz: 'fegen' schreibt man mit g (Probe: er fegte): fe-g-t."},
+  {"r":"heulend","w":"hoilend","o":["heulend","hoilend","heuhlend","heilend"],"k":"b","tipp":"Merksatz: 'heulen' schreibt man mit eu: h-eu-lend."}
+]},
+{"s":1,"satz":"Am Mittag scheint der warme Sonnenschein golden auf die blühende Wiese.","f":[
+  {"r":"Sonnenschein","w":"Sonenschein","o":["Sonnenschein","Sonenschein","Sonnenshein","Sonnenschain"],"k":"b","tipp":"Merksatz: Die Sonne hat doppel-N: So-nn-enschein."},
+  {"r":"golden","w":"golten","o":["golden","golten","goltden","golldenn"],"k":"b","tipp":"Merksatz: 'golden' kommt von 'Gold' mit d: gol-d-en."},
+  {"r":"blühende","w":"blüende","o":["blühende","blüende","blühänte","blüuende"],"k":"b","tipp":"Merksatz: 'blühen' hat ein Dehnungs-h nach dem ü: blü-h-end."}
+]},
+{"s":1,"satz":"Dichter Nebel kriecht am frühen Morgen lautlos über das kühle Feld.","f":[
+  {"r":"Nebel","w":"Neebel","o":["Nebel","Neebel","Nepel","Nebbel"],"k":"b","tipp":"Merksatz: Der Nebel hat ein kurzes e und ein b: Ne-bel."},
+  {"r":"kriecht","w":"kriegt","o":["kriecht","kriegt","krischt","krieht"],"k":"b","tipp":"Merksatz: 'kriechen' schreibt man mit ch, nicht mit g: krie-ch-t."},
+  {"r":"lautlos","w":"lautloos","o":["lautlos","lautloos","lautloß","laotlos"],"k":"b","tipp":"Merksatz: 'lautlos' endet auf '-los' mit einem o und einem s: laut-los."}
+]},
+{"s":1,"satz":"Plötzlich fällt harter Hagel klappernd auf das Dach der kleinen Scheune.","f":[
+  {"r":"Plötzlich","w":"Plözlich","o":["Plötzlich","Plözlich","Plötzlig","Plötslich"],"k":"b","tipp":"Merksatz: Nach kurzem ö steht tz: Plö-tz-lich."},
+  {"r":"Hagel","w":"Hahgel","o":["Hagel","Hahgel","Haggel","Hagell"],"k":"b","tipp":"Merksatz: Der Hagel hat nur ein a und ein g, ohne extra h: Ha-gel."},
+  {"r":"klappernd","w":"klapernd","o":["klappernd","klapernd","glappernd","klappernt"],"k":"b","tipp":"Merksatz: Nach kurzem a steht doppel-P: kla-pp-ernd."}
+]},
+{"s":1,"satz":"Die kühle Brise weht sanft über den glitzernden ruhigen See.","f":[
+  {"r":"kühle","w":"kühele","o":["kühle","kühele","kühhle","kkühle"],"k":"b","tipp":"Merksatz: 'kühl' hat ein langes ü mit h: kü-h-l."},
+  {"r":"weht","w":"wät","o":["weht","wät","weeht","wehd"],"k":"b","tipp":"Merksatz: 'wehen' hat ein Dehnungs-h: we-h-t."},
+  {"r":"glitzernden","w":"glitzernten","o":["glitzernden","glitzernten","glizernden","klitzernden"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: gli-tz-ernd."}
+]},
+{"s":1,"satz":"Im Winter frieren die Pfützen über Nacht zu glattem hartem Eis.","f":[
+  {"r":"frieren","w":"friren","o":["frieren","friren","frihren","vrieren"],"k":"b","tipp":"Merksatz: 'frieren' schreibt man mit ie: fr-ie-ren."},
+  {"r":"Pfützen","w":"Fützen","o":["Pfützen","Fützen","Pfütsen","Pflützen"],"k":"b","tipp":"Merksatz: Die Pfütze beginnt mit pf: P-f-ütze."},
+  {"r":"glattem","w":"glatem","o":["glattem","glatem","gladtem","klattem"],"k":"b","tipp":"Merksatz: Nach kurzem a steht doppel-T: gla-tt-em."}
+]},
+{"s":1,"satz":"Der dunkle Donner grollt laut, während die Wolken über uns ziehen.","f":[
+  {"r":"Donner","w":"Doner","o":["Donner","Doner","Donnor","Tonner"],"k":"b","tipp":"Merksatz: Der Donner grollt doppelt – doppel-N: Do-nn-er."},
+  {"r":"grollt","w":"grolt","o":["grollt","grolt","krollt","grolld"],"k":"b","tipp":"Merksatz: Der Donner grollt mit doppel-L: gro-ll-t."},
+  {"r":"Wolken","w":"Wollken","o":["Wolken","Wollken","Wolggen","Volken"],"k":"b","tipp":"Merksatz: Die Wolke hat nur ein l: Wol-ke."}
+]},
+{"s":1,"satz":"Eine kalte Eisscholle treibt langsam über den breiten Fluss zum Meer.","f":[
+  {"r":"Eisscholle","w":"Eischolle","o":["Eisscholle","Eischolle","Eisscholä","Aisscholle"],"k":"b","tipp":"Merksatz: Eisscholle = Eis + Scholle, darum drei s hintereinander: Eis-Scholle."},
+  {"r":"treibt","w":"treipt","o":["treibt","treipt","traibt","treibd"],"k":"b","tipp":"Merksatz: 'treiben' schreibt man mit b (Probe: sie treiben): trei-b-t."},
+  {"r":"Fluss","w":"Flus","o":["Fluss","Flus","Fluß","Vluss"],"k":"b","tipp":"Merksatz: Nach kurzem u steht ss: Flu-ss."}
+]},
+{"s":2,"satz":"Am Nachmittag bringt der starke Regen die müden Blumen wieder zum Leben.","f":[
+  {"r":"Regen","w":"regen","o":["Regen","regen","Reegen","reegen"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Regen' steht mit dem Begleiter 'der'."},
+  {"r":"bringt","w":"Bringt","o":["bringt","Bringt","bringd","Bringd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'bringen' schreibt man klein."},
+  {"r":"müden","w":"müeden","o":["müden","müeden","mühden","müdän"],"k":"b","tipp":"Regel: 'müde' schreibt man ohne Dehnungs-h: mü-de."}
+]},
+{"s":2,"satz":"Der weiße Schnee fällt leise, und die Kinder bauen einen lustigen Schneemann.","f":[
+  {"r":"Schnee","w":"schnee","o":["Schnee","schnee","Schne","schne"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Schnee' hat den Begleiter 'der'."},
+  {"r":"fällt","w":"Fällt","o":["fällt","Fällt","fellt","Fellt"],"k":"g","tipp":"Regel: Verben wie 'fallen' schreibt man klein."},
+  {"r":"lustigen","w":"lusdigen","o":["lustigen","lusdigen","lustiegen","lusstigen"],"k":"b","tipp":"Regel: 'lustig' kommt von 'Lust' mit t: lus-tig."}
+]},
+{"s":2,"satz":"Nach dem Sturm spannt sich ein prächtiger Regenbogen über die nasse Stadt.","f":[
+  {"r":"Regenbogen","w":"regenbogen","o":["Regenbogen","regenbogen","Regenbohgen","Reegenbogen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'ein Regenbogen' steht mit dem Begleiter 'ein'."},
+  {"r":"spannt","w":"spant","o":["spannt","spant","schpannt","spannd"],"k":"b","tipp":"Regel: Nach kurzem a steht doppel-N: spa-nn-t."},
+  {"r":"prächtiger","w":"Prächtiger","o":["prächtiger","Prächtiger","prechtiger","Prechtiger"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'prächtig' schreibt man klein."}
+]},
+{"s":2,"satz":"Im dichten Nebel verirrt sich der kleine Wanderer auf dem schmalen Pfad.","f":[
+  {"r":"Nebel","w":"nebel","o":["Nebel","nebel","Neebel","neebel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Nebel' hat den Begleiter 'der'."},
+  {"r":"verirrt","w":"ferirrt","o":["verirrt","ferirrt","verirt","verirrd"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man immer mit v."},
+  {"r":"schmalen","w":"Schmalen","o":["schmalen","Schmalen","schmahlen","Schmahlen"],"k":"g","tipp":"Regel: Adjektive wie 'schmal' schreibt man klein."}
+]},
+{"s":2,"satz":"Beim lauten Gewitter versteckt sich die ängstliche Katze unter dem weichen Sofa.","f":[
+  {"r":"Gewitter","w":"gewitter","o":["Gewitter","gewitter","Gewiter","gewiter"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Gewitter' hat den Begleiter 'dem'."},
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","versteggt"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man immer mit v."},
+  {"r":"ängstliche","w":"Ängstliche","o":["ängstliche","Ängstliche","engstliche","Engstliche"],"k":"g","tipp":"Regel: Adjektive wie 'ängstlich' schreibt man klein."}
+]},
+{"s":2,"satz":"Der goldene Sonnenschein wärmt die fröhlichen Spaziergänger auf der grünen Wiese.","f":[
+  {"r":"Sonnenschein","w":"sonnenschein","o":["Sonnenschein","sonnenschein","Sonenschein","sonenschein"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Sonnenschein' hat den Begleiter 'der'."},
+  {"r":"wärmt","w":"wermt","o":["wärmt","wermt","wärmd","weermt"],"k":"b","tipp":"Regel: 'wärmt' kommt von 'warm' – aus a wird ä: w-ä-rmt."},
+  {"r":"goldene","w":"Goldene","o":["goldene","Goldene","goltene","Goltene"],"k":"g","tipp":"Regel: Adjektive wie 'golden' schreibt man klein."}
+]},
+{"s":2,"satz":"Ein eisiger Sturm jagt die grauen Wolken schnell über das weite Meer.","f":[
+  {"r":"Sturm","w":"sturm","o":["Sturm","sturm","Schturm","schturm"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'ein Sturm' steht mit dem Begleiter 'ein'."},
+  {"r":"jagt","w":"Jagt","o":["jagt","Jagt","jachd","Jachd"],"k":"g","tipp":"Regel: Verben wie 'jagen' schreibt man klein."},
+  {"r":"eisiger","w":"aisiger","o":["eisiger","aisiger","eisieger","eissiger"],"k":"b","tipp":"Regel: 'eisig' kommt von 'Eis' mit ei: ei-sig."}
+]},
+{"s":2,"satz":"Der harte Hagel trommelt laut auf das blecherne Dach der alten Scheune.","f":[
+  {"r":"Hagel","w":"hagel","o":["Hagel","hagel","Hahgel","hahgel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Hagel' hat den Begleiter 'der'."},
+  {"r":"trommelt","w":"tromelt","o":["trommelt","tromelt","drommelt","trommeld"],"k":"b","tipp":"Regel: 'trommeln' schreibt man mit doppel-M: tro-mm-elt."},
+  {"r":"harte","w":"Harte","o":["harte","Harte","harde","Harde"],"k":"g","tipp":"Regel: Adjektive wie 'hart' schreibt man klein."}
+]},
+{"s":2,"satz":"Vor dem Fenster tanzen die ersten Schneeflocken im sanften kalten Wind.","f":[
+  {"r":"Fenster","w":"fenster","o":["Fenster","fenster","Fensder","fensder"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Fenster' hat den Begleiter 'dem'."},
+  {"r":"tanzen","w":"Tanzen","o":["tanzen","Tanzen","tansen","Tansen"],"k":"g","tipp":"Regel: Verben wie 'tanzen' schreibt man klein."},
+  {"r":"Schneeflocken","w":"Schneflocken","o":["Schneeflocken","Schneflocken","Schneeflogen","Schneevlocken"],"k":"b","tipp":"Regel: Der Schnee bringt doppel-E: Schn-ee-flocken."}
+]},
+{"s":2,"satz":"Beim Wandern überrascht uns ein plötzlicher Regenschauer mitten auf dem Berg.","f":[
+  {"r":"Wandern","w":"wandern","o":["Wandern","wandern","Wanderhn","Wandärn"],"k":"g","tipp":"Regel: Nach 'beim' wird das Verb zum Nomen und groß geschrieben: beim Wandern."},
+  {"r":"plötzlicher","w":"plözlicher","o":["plötzlicher","plözlicher","plötzliger","plötslicher"],"k":"b","tipp":"Regel: Nach kurzem ö steht tz: plö-tz-lich."},
+  {"r":"Regenschauer","w":"regenschauer","o":["Regenschauer","regenschauer","Regenshauer","Reegenschauer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'ein Regenschauer' steht mit dem Begleiter 'ein'."}
+]},
+{"s":2,"satz":"Am Abend zieht ein kräftiges Gewitter herauf und die Vögel verstummen ängstlich.","f":[
+  {"r":"Gewitter","w":"gewitter","o":["Gewitter","gewitter","Gewiter","gewiter"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'ein Gewitter' steht mit dem Begleiter 'ein'."},
+  {"r":"zieht","w":"ziet","o":["zieht","ziet","ziht","tsieht"],"k":"b","tipp":"Regel: 'ziehen' hat ein Dehnungs-h: zie-h-t."},
+  {"r":"kräftiges","w":"Kräftiges","o":["kräftiges","Kräftiges","kreftiges","Kreftiges"],"k":"g","tipp":"Regel: Adjektive wie 'kräftig' schreibt man klein."}
+]},
+{"s":2,"satz":"Nach dem Regenbogen kommt die warme Sonne wieder hinter den Wolken hervor.","f":[
+  {"r":"Sonne","w":"sonne","o":["Sonne","sonne","Sone","sone"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Sonne' hat den Begleiter 'die'."},
+  {"r":"warme","w":"Warme","o":["warme","Warme","warmä","Warmä"],"k":"g","tipp":"Regel: Adjektive wie 'warm' schreibt man klein."},
+  {"r":"Wolken","w":"Wollken","o":["Wolken","Wollken","Wolggen","Volken"],"k":"b","tipp":"Regel: Die Wolke hat nur ein l: Wol-ke."}
+]},
+{"s":3,"satz":"Beim Wetter gibt es Regen, Schnee und manchmal sogar bunten Hagel.","f":[
+  {"r":"Regen,","w":"Regen","o":["Regen,","Regen","Regen;","Regen."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Schnee","w":"schnee","o":["Schnee","schnee","Schne","schne"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Schnee' ist ein Namenwort."},
+  {"r":"bunten","w":"bundten","o":["bunten","bundten","punten","bunden"],"k":"b","tipp":"Regel: In der Wortmitte hört man hier 't': bun-ten."}
+]},
+{"s":3,"satz":"Der Wanderer bleibt im Haus, weil draußen ein heftiger Sturm tobt.","f":[
+  {"r":"Haus,","w":"Haus","o":["Haus,","Haus","Haus;","Haus."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Sturm","w":"sturm","o":["Sturm","sturm","Schturm","schturm"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'ein Sturm' steht mit dem Begleiter 'ein'."},
+  {"r":"heftiger","w":"hevtiger","o":["heftiger","hevtiger","heftieger","hefftiger"],"k":"b","tipp":"Regel: 'heftig' schreibt man mit f, nicht mit v: hef-tig."}
+]},
+{"s":3,"satz":"Die Frau weiß, dass nach dem Regen oft ein bunter Regenbogen erscheint.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Regen","w":"regen","o":["Regen","regen","Reegen","reegen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Regen' hat den Begleiter 'dem'."},
+  {"r":"Regenbogen","w":"Regenbohgen","o":["Regenbogen","Regenbohgen","Reegenbogen","Regenboogen"],"k":"b","tipp":"Regel: Regenbogen = Regen + Bogen, der Bogen ohne extra h."}
+]},
+{"s":3,"satz":"Der laute Donner, der über den Bergen grollt, erschreckt die kleinen Lämmer.","f":[
+  {"r":"Donner,","w":"Donner","o":["Donner,","Donner","Donner;","Donner."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'der' wird mit Kommas eingeschlossen: 'Der Donner, der ..., erschreckt ...'."},
+  {"r":"laute","w":"Laute","o":["laute","Laute","laude","Laude"],"k":"g","tipp":"Regel: Adjektive wie 'laut' schreibt man klein."},
+  {"r":"erschreckt","w":"erschrekt","o":["erschreckt","erschrekt","erschreggt","erschrekkt"],"k":"b","tipp":"Regel: Nach kurzem e steht ck: erschre-ck-t."}
+]},
+{"s":3,"satz":"Der Himmel ist heute grau, aber morgen bringt der warme Sonnenschein gutes Wetter.","f":[
+  {"r":"grau,","w":"grau","o":["grau,","grau","grau;","grau."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"Sonnenschein","w":"sonnenschein","o":["Sonnenschein","sonnenschein","Sonenschein","sonenschein"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Sonnenschein' hat den Begleiter 'der'."},
+  {"r":"warme","w":"warmme","o":["warme","warmme","wahrme","warmä"],"k":"b","tipp":"Regel: 'warm' schreibt man mit einem m: war-me."}
+]},
+{"s":3,"satz":"Wenn der Nebel über die Wiese kriecht, verschwindet das ganze Dorf im Grau.","f":[
+  {"r":"kriecht,","w":"kriecht","o":["kriecht,","kriecht","kriecht;","kriecht."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma: 'Wenn ..., verschwindet ...'."},
+  {"r":"Nebel","w":"nebel","o":["Nebel","nebel","Neebel","Nepel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Nebel' hat den Begleiter 'der'."},
+  {"r":"Wiese","w":"Wise","o":["Wiese","Wise","Wiehse","Wieße"],"k":"b","tipp":"Regel: 'Wiese' schreibt man mit ie (langes i): W-ie-se."}
+]},
+{"s":3,"satz":"Die Kinder rennen schnell nach Hause, damit der eisige Hagel sie nicht trifft.","f":[
+  {"r":"Hause,","w":"Hause","o":["Hause,","Hause","Hause;","Hause."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"eisige","w":"Eisige","o":["eisige","Eisige","aisige","Aisige"],"k":"g","tipp":"Regel: Adjektive wie 'eisig' schreibt man klein."},
+  {"r":"Hagel","w":"Hahgel","o":["Hagel","Hahgel","Haggel","Hagell"],"k":"b","tipp":"Regel: Der Hagel hat nur ein a und ein g, ohne extra h: Ha-gel."}
+]},
+{"s":3,"satz":"Der Bauer freut sich, weil der warme Regen seine durstigen Felder tränkt.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Regen","w":"regen","o":["Regen","regen","Reegen","reegen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Regen' hat den Begleiter 'der'."},
+  {"r":"durstigen","w":"dursdigen","o":["durstigen","dursdigen","durstiegen","turstigen"],"k":"b","tipp":"Regel: 'durstig' kommt von 'Durst' mit t: durs-tig."}
+]},
+{"s":3,"satz":"Am Himmel ballen sich Wolken, grollt der Donner und blitzt es ganz hell.","f":[
+  {"r":"Wolken,","w":"Wolken","o":["Wolken,","Wolken","Wolken;","Wolken."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"grollt","w":"grolt","o":["grollt","grolt","krollt","grolld"],"k":"b","tipp":"Regel: Der Donner grollt mit doppel-L: gro-ll-t."},
+  {"r":"Donner","w":"donner","o":["Donner","donner","Doner","doner"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Donner' hat den Begleiter 'der'."}
+]},
+{"s":3,"satz":"Wir bleiben unter dem Vordach stehen, bis der heftige Regenschauer vorüber ist.","f":[
+  {"r":"stehen,","w":"stehen","o":["stehen,","stehen","stehen;","stehen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bis' steht ein Komma."},
+  {"r":"Vordach","w":"Fordach","o":["Vordach","Fordach","Vordah","Vortach"],"k":"b","tipp":"Regel: Die Vorsilbe 'vor-' schreibt man mit v: V-or-dach."},
+  {"r":"heftige","w":"Heftige","o":["heftige","Heftige","hevtige","Hevtige"],"k":"g","tipp":"Regel: Adjektive wie 'heftig' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Schneemann lächelt zufrieden, obwohl die warme Frühlingssonne ihn langsam schmelzen lässt.","f":[
+  {"r":"zufrieden,","w":"zufrieden","o":["zufrieden,","zufrieden","zufrieden;","zufrieden."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"warme","w":"Warme","o":["warme","Warme","warmä","Warmä"],"k":"g","tipp":"Regel: Adjektive wie 'warm' schreibt man klein."},
+  {"r":"Frühlingssonne","w":"Frühlingsone","o":["Frühlingssonne","Frühlingsone","Frühlingssone","Frülingssonne"],"k":"b","tipp":"Regel: Frühlingssonne = Frühling + Sonne, die Sonne hat doppel-N: ...so-nn-e."}
+]},
+{"s":3,"satz":"Am Morgen glitzert der frische Tau, wenn die Sonne über die Hügel steigt.","f":[
+  {"r":"Tau,","w":"Tau","o":["Tau,","Tau","Tau;","Tau."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"frische","w":"frishe","o":["frische","frishe","frißche","frichse"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: fri-sch-e."},
+  {"r":"Sonne","w":"sonne","o":["Sonne","sonne","Sone","sone"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Sonne' hat den Begleiter 'die'."}
+]}
+]

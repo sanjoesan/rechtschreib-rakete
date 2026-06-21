@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rechtschreib-Rakete 🚀 · Finde die Fehler, sammle die Sterne</title>
+  <meta name="description" content="Rechtschreib-Rakete – spielerisches Deutsch-Rechtschreibtraining für Kinder von 8 bis 14. Finde die 3 Fehler im Satz, korrigiere sie und sammle Sterne, Abzeichen und Designs." />
+  <meta name="theme-color" content="#3949ab" />
+  <link rel="icon" href="favicon.svg" type="image/svg+xml" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@500;600;700;800&family=Nunito:wght@400;600;700;800;900&family=Fredoka:wght@500;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body class="skin-rakete">
+  <div class="bg-deco" aria-hidden="true"></div>
+
+  <!-- ===================== HEADER ===================== -->
+  <header class="topbar">
+    <div class="topbar-inner">
+      <button class="brand" id="brandBtn" title="Zur Startseite">
+        <span class="brand-mark">🚀</span>
+        <span class="brand-text">Rechtschreib-<span class="brand-accent">Rakete</span></span>
+      </button>
+
+      <div class="stats" id="stats">
+        <div class="stat" title="Spieler-Level">
+          <span class="stat-icon">🎓</span><span class="stat-val" id="statLevel">1</span>
+        </div>
+        <div class="stat xp-stat" title="Erfahrung bis zum nächsten Level">
+          <div class="xp-wrap">
+            <div class="xp-bar"><div class="xp-fill" id="xpFill"></div></div>
+            <span class="xp-text" id="xpText">0 / 120</span>
+          </div>
+        </div>
+        <div class="stat" title="Gesammelte Sterne">
+          <span class="stat-icon">⭐</span><span class="stat-val" id="statStars">0</span>
+        </div>
+        <div class="stat" title="Tage-Serie">
+          <span class="stat-icon">🔥</span><span class="stat-val" id="statStreak">0</span>
+        </div>
+        <button class="icon-btn" id="badgesBtn" title="Abzeichen" aria-label="Abzeichen">🏅</button>
+        <button class="icon-btn" id="settingsBtn" title="Einstellungen" aria-label="Einstellungen">⚙️</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="app">
+    <!-- ===================== HOME ===================== -->
+    <section class="view view-home" id="viewHome">
+      <div class="hero">
+        <p class="hero-kicker">Startklar? · 3 Fehler pro Satz</p>
+        <h1 class="hero-title">Finde die Fehler,<br />sammle die <span class="hl">Sterne</span>!</h1>
+        <p class="hero-sub">In jedem Satz haben sich <b>3 Rechtschreibfehler</b> versteckt.
+          Spür sie auf, wähle die richtige Schreibweise – und starte durch zur fehlerfreien Galaxie. 🚀</p>
+        <div class="hero-cta-row">
+          <button class="btn btn-primary" id="playBtn">🚀 Losfliegen</button>
+          <button class="btn btn-ghost" id="randomBtn">🎲 Überraschungssatz</button>
+        </div>
+      </div>
+
+      <!-- Stufe wählen -->
+      <div class="section-head"><h2>🎚️ Wähle deine Stufe</h2></div>
+      <p class="section-sub">Je höher die Stufe, desto kniffliger die Fehler.</p>
+      <div class="stufe-grid" id="stufeGrid"><!-- per JS --></div>
+
+      <!-- Thema wählen -->
+      <div class="section-head"><h2>🗺️ Wähle ein Thema</h2></div>
+      <p class="section-sub">Über 50 Welten voller lustiger Sätze – such dir eine aus!</p>
+      <div class="group-filter" id="groupFilter"><!-- per JS --></div>
+      <div class="theme-grid" id="themeGrid"><!-- per JS --></div>
+
+      <!-- Fortschritt -->
+      <div class="section-head"><h2>📊 Dein Fortschritt</h2></div>
+      <div class="progress-tiles" id="progressTiles"><!-- per JS --></div>
+
+      <!-- Abzeichen -->
+      <div class="section-head" id="badgesHead"><h2>🏅 Deine Abzeichen</h2></div>
+      <p class="section-sub" id="badgesSub">Schalte alle 60 Abzeichen frei!</p>
+      <div class="badge-grid" id="badgeGrid"><!-- per JS --></div>
+
+      <footer class="footer">
+        <p>Gebaut mit <span class="heart">♥</span> für mutige Wort-Astronautinnen und -Astronauten.</p>
+      </footer>
+    </section>
+
+    <!-- ===================== SPIEL ===================== -->
+    <section class="view view-game hidden" id="viewGame">
+      <div class="game-top">
+        <button class="btn btn-back" id="backBtn">‹ Zurück</button>
+        <div class="game-title-wrap">
+          <span class="game-emoji" id="gameEmoji">🚀</span>
+          <h2 id="gameTheme">Thema</h2>
+          <span class="game-stufe-badge" id="gameStufeBadge"></span>
+        </div>
+        <div class="game-score" id="gameScore" title="Sterne in dieser Runde">⭐ <span id="roundStars">0</span></div>
+      </div>
+
+      <!-- Phasen-Anzeige -->
+      <div class="phase-bar">
+        <div class="phase-step active" id="phaseStep1"><span class="phase-num">1</span> Fehler finden</div>
+        <div class="phase-arrow">→</div>
+        <div class="phase-step" id="phaseStep2"><span class="phase-num">2</span> Richtig schreiben</div>
+      </div>
+
+      <div class="game-body" id="gameBody"><!-- per JS --></div>
+    </section>
+  </main>
+
+  <!-- ===================== EINSTELLUNGEN ===================== -->
+  <div class="modal-backdrop hidden" id="settingsModal">
+    <div class="modal" role="dialog" aria-modal="true" aria-labelledby="settingsTitle">
+      <button class="modal-close" id="settingsClose" aria-label="Schließen">✕</button>
+      <h3 id="settingsTitle">⚙️ Einstellungen</h3>
+
+      <div class="field">
+        <span class="field-label">🎨 Design auswählen</span>
+        <div class="design-grid" id="designGrid"><!-- per JS --></div>
+      </div>
+
+      <label class="field field-check">
+        <input type="checkbox" id="soundToggle" />
+        <span class="field-label" style="margin:0">🔔 Soundeffekte (Klänge bei richtig/falsch)</span>
+      </label>
+      <label class="field field-check">
+        <input type="checkbox" id="speechToggle" />
+        <span class="field-label" style="margin:0">🔊 Sätze vorlesen (am Ende einer Aufgabe)</span>
+      </label>
+
+      <hr class="divider" />
+      <button class="btn btn-danger" id="resetBtn">🗑️ Fortschritt zurücksetzen</button>
+    </div>
+  </div>
+
+  <!-- ===================== ABZEICHEN ===================== -->
+  <div class="modal-backdrop hidden" id="badgesModal">
+    <div class="modal modal-wide" role="dialog" aria-modal="true" aria-labelledby="badgesTitle">
+      <button class="modal-close" id="badgesClose" aria-label="Schließen">✕</button>
+      <h3 id="badgesTitle">🏅 Abzeichen</h3>
+      <p class="modal-sub" id="badgesCount"></p>
+      <div class="badge-grid" id="badgeGridModal"></div>
+    </div>
+  </div>
+
+  <canvas id="confetti" aria-hidden="true"></canvas>
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="data.js"></script>
+  <script src="saetze.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

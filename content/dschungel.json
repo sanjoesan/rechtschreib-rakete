@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der freche Affe schaukelt vergnügt an einer langen Liane über dem Bach.","f":[
+  {"r":"schaukelt","w":"schaukält","o":["schaukelt","schaukält","schaokelt","schauckelt"],"k":"b","tipp":"Merksatz: 'schaukeln' schreibt man mit eu und einem k: schau-keln."},
+  {"r":"vergnügt","w":"fergnügt","o":["vergnügt","fergnügt","vergnükt","vergnügd"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
+  {"r":"Liane","w":"Liahne","o":["Liane","Liahne","Lianne","Lyane"],"k":"b","tipp":"Merksatz: 'Liane' schreibt man mit ie und einem n: Li-a-ne."}
+]},
+{"s":1,"satz":"Ein bunter Papagei plappert im grünen Urwald lustige Wörter vor sich hin.","f":[
+  {"r":"Papagei","w":"Papagai","o":["Papagei","Papagai","Babagei","Papageih"],"k":"b","tipp":"Merksatz: 'Papagei' endet auf ei wie 'Ei': Papa-gei."},
+  {"r":"plappert","w":"plapert","o":["plappert","plapert","blappert","plappärt"],"k":"b","tipp":"Merksatz: Beim Plappern wird viel geredet – darum doppel-P: plap-pert."},
+  {"r":"Urwald","w":"Urwalt","o":["Urwald","Urwalt","Uhrwald","Urrwald"],"k":"b","tipp":"Merksatz: 'Wald' endet auf d (Probe: die Wälder): Ur-wald."}
+]},
+{"s":1,"satz":"Hinter dem rauschenden Wasserfall versteckt sich eine alte Forscherhütte im Dschungel.","f":[
+  {"r":"rauschenden","w":"raoschenden","o":["rauschenden","raoschenden","rauschänden","raouschenden"],"k":"b","tipp":"Merksatz: 'rauschen' schreibt man mit au wie 'Baum': rau-schen."},
+  {"r":"Wasserfall","w":"Waserfall","o":["Wasserfall","Waserfall","Wasserfal","Wassorfall"],"k":"b","tipp":"Merksatz: 'Wasser' hat doppel-S: Was-ser."},
+  {"r":"Forscherhütte","w":"Forscherhüte","o":["Forscherhütte","Forscherhüte","Vorscherhütte","Forscherhütde"],"k":"b","tipp":"Merksatz: Die 'Hütte' hat doppel-T: Hüt-te."}
+]},
+{"s":1,"satz":"Der gestreifte Tiger schleicht lautlos durch das hohe Gras am Fluss.","f":[
+  {"r":"gestreifte","w":"gestraifte","o":["gestreifte","gestraifte","gestreifde","kestreifte"],"k":"b","tipp":"Merksatz: 'gestreift' schreibt man mit ei wie 'Streifen': ge-strei-ft."},
+  {"r":"schleicht","w":"schlaicht","o":["schleicht","schlaicht","schleichd","schleigt"],"k":"b","tipp":"Merksatz: 'schleichen' schreibt man mit ei: schlei-chen."},
+  {"r":"lautlos","w":"laotlos","o":["lautlos","laotlos","lautloss","lautlohs"],"k":"b","tipp":"Merksatz: 'laut' schreibt man mit au wie 'Maus': laut-los."}
+]},
+{"s":1,"satz":"Eine glitschige Schlange ringelt sich faul um den dicken Ast einer Palme.","f":[
+  {"r":"glitschige","w":"glitschiege","o":["glitschige","glitschiege","klitschige","glidschige"],"k":"b","tipp":"Merksatz: 'glitschig' endet auf '-ig': glit-schig."},
+  {"r":"ringelt","w":"rinngelt","o":["ringelt","rinngelt","rinkelt","ringeld"],"k":"b","tipp":"Merksatz: In 'ringeln' steckt der 'Ring' mit einem n: rin-gelt."},
+  {"r":"dicken","w":"diggen","o":["dicken","diggen","dikken","dickän"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: di-cken."}
+]},
+{"s":1,"satz":"Mutige Forscher entdecken im dichten Dschungel eine geheime Tempelruine aus Stein.","f":[
+  {"r":"Forscher","w":"Vorscher","o":["Forscher","Vorscher","Forrscher","Forschor"],"k":"b","tipp":"Merksatz: 'Forscher' beginnt mit F wie 'finden': For-scher."},
+  {"r":"entdecken","w":"entdeken","o":["entdecken","entdeken","entdeggen","entdeckän"],"k":"b","tipp":"Merksatz: Nach kurzem e steht ck: ent-de-cken."},
+  {"r":"Tempelruine","w":"Tempelruhine","o":["Tempelruine","Tempelruhine","Tämpelruine","Tempelruinne"],"k":"b","tipp":"Merksatz: 'Ruine' schreibt man mit ui und einem n: Ru-i-ne."}
+]},
+{"s":1,"satz":"Der kleine Affe knabbert genüsslich an einer süßen Banane unter den Lianen.","f":[
+  {"r":"knabbert","w":"knabert","o":["knabbert","knabert","gnabbert","knabbärt"],"k":"b","tipp":"Merksatz: Beim Knabbern arbeiten die Zähne fleißig – darum doppel-B: knab-bert."},
+  {"r":"genüsslich","w":"genüslich","o":["genüsslich","genüslich","genüsslig","kenüsslich"],"k":"b","tipp":"Merksatz: 'genüsslich' hat doppel-S: ge-nüss-lich."},
+  {"r":"Banane","w":"Banahne","o":["Banane","Banahne","Bananne","Bahnane"],"k":"b","tipp":"Merksatz: 'Banane' schreibt man mit drei a und zwei n: Ba-na-ne."}
+]},
+{"s":1,"satz":"Über dem Fluss spannt sich eine wacklige Hängebrücke aus festen Lianen.","f":[
+  {"r":"wacklige","w":"wagklige","o":["wacklige","wagklige","wackliege","wakklige"],"k":"b","tipp":"Merksatz: Nach kurzem a steht ck: wack-lig."},
+  {"r":"Hängebrücke","w":"Hängebrüke","o":["Hängebrücke","Hängebrüke","Hängebrügge","Hengebrücke"],"k":"b","tipp":"Merksatz: Die 'Brücke' hat ck nach kurzem ü: Brü-cke."},
+  {"r":"festen","w":"vesten","o":["festen","vesten","fästen","fesden"],"k":"b","tipp":"Merksatz: 'fest' schreibt man mit f wie 'finden': fes-ten."}
+]},
+{"s":1,"satz":"Ein winziger Skorpion krabbelt vorsichtig über den heißen Boden des Dschungels.","f":[
+  {"r":"Skorpion","w":"Skorpjon","o":["Skorpion","Skorpjon","Skorrpion","Schkorpion"],"k":"b","tipp":"Merksatz: 'Skorpion' schreibt man mit io: Skor-pi-on."},
+  {"r":"krabbelt","w":"krabelt","o":["krabbelt","krabelt","grabbelt","krabbäld"],"k":"b","tipp":"Merksatz: Beim Krabbeln zappeln viele Beine – darum doppel-B: krab-belt."},
+  {"r":"vorsichtig","w":"forsichtig","o":["vorsichtig","forsichtig","vorsichdig","vorsichtieg"],"k":"b","tipp":"Merksatz: 'vor-' schreibt man immer mit v, wie in 'Vormittag'."}
+]},
+{"s":1,"satz":"Die bunten Papageien fliegen kreischend über die grünen Baumkronen hinweg.","f":[
+  {"r":"Papageien","w":"Papagaien","o":["Papageien","Papagaien","Babageien","Papageihen"],"k":"b","tipp":"Merksatz: 'Papageien' schreibt man mit ei wie 'Ei': Papa-gei-en."},
+  {"r":"fliegen","w":"fligen","o":["fliegen","fligen","flliegen","fliegän"],"k":"b","tipp":"Merksatz: 'fliegen' schreibt man mit ie (langes i): flie-gen."},
+  {"r":"Baumkronen","w":"Baomkronen","o":["Baumkronen","Baomkronen","Baumgronen","Baumkrohnen"],"k":"b","tipp":"Merksatz: Der 'Baum' schreibt sich mit au: Baum-kro-nen."}
+]},
+{"s":1,"satz":"Tief im Urwald brüllt der hungrige Tiger und sucht seine spitzen Krallen aus.","f":[
+  {"r":"brüllt","w":"brült","o":["brüllt","brült","prüllt","brülld"],"k":"b","tipp":"Merksatz: Beim Brüllen wird es laut – darum doppel-L: brül-lt."},
+  {"r":"hungrige","w":"hungriege","o":["hungrige","hungriege","hungerige","hungrigge"],"k":"b","tipp":"Merksatz: In 'hungrig' steckt der 'Hunger' – ohne ie: hun-grig."},
+  {"r":"Krallen","w":"Kralen","o":["Krallen","Kralen","Grallen","Kralllen"],"k":"b","tipp":"Merksatz: Die scharfen 'Krallen' haben doppel-L: Kral-len."}
+]},
+{"s":1,"satz":"Am sprudelnden Wasserfall trinken durstige Affen aus großen grünen Blättern frisches Wasser.","f":[
+  {"r":"sprudelnden","w":"schprudelnden","o":["sprudelnden","schprudelnden","sprudälnden","sprudelndän"],"k":"b","tipp":"Merksatz: 'Sp' spricht man 'Schp', schreibt es aber 'Sp' wie in 'spielen'."},
+  {"r":"durstige","w":"durstiege","o":["durstige","durstiege","durrstige","dursdige"],"k":"b","tipp":"Merksatz: 'durstig' endet auf '-ig': durs-tig."},
+  {"r":"Blättern","w":"Bletern","o":["Blättern","Bletern","Blätern","Blätterrn"],"k":"b","tipp":"Merksatz: 'Blätter' kommt von 'Blatt' – darum mit ä und doppel-T."}
+]},
+{"s":2,"satz":"Am Morgen schwingt der lustige Affe von Liane zu Liane durch den Wald.","f":[
+  {"r":"Affe","w":"affe","o":["Affe","affe","Affä","affä"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Affe' steht mit dem Begleiter 'der'."},
+  {"r":"schwingt","w":"Schwingt","o":["schwingt","Schwingt","schwinkt","Schwinkt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schwingen' schreibt man klein."},
+  {"r":"lustige","w":"lusdige","o":["lustige","lusdige","lustiege","lusstige"],"k":"b","tipp":"Regel: 'lustig' endet auf '-ig': lus-tig."}
+]},
+{"s":2,"satz":"Der Papagei sitzt auf einem Ast und ruft den Namen der Forscherin ganz laut.","f":[
+  {"r":"Papagei","w":"papagei","o":["Papagei","papagei","Papagai","papagai"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Papagei' hat den Begleiter 'der'."},
+  {"r":"Forscherin","w":"Vorscherin","o":["Forscherin","Vorscherin","Forschorin","Forscherrin"],"k":"b","tipp":"Regel: 'Forscherin' beginnt mit F wie 'finden': For-sche-rin."},
+  {"r":"ruft","w":"Ruft","o":["ruft","Ruft","rufd","Rufd"],"k":"g","tipp":"Regel: Verben wie 'rufen' schreibt man klein."}
+]},
+{"s":2,"satz":"Im dichten Urwald entdeckt die mutige Forscherin eine seltene blaue Blume.","f":[
+  {"r":"Urwald","w":"urwald","o":["Urwald","urwald","Urwalt","urwalt"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Urwald'."},
+  {"r":"entdeckt","w":"entdekt","o":["entdeckt","entdekt","entdeggt","entdeckd"],"k":"b","tipp":"Regel: Nach kurzem e steht ck: ent-de-ckt."},
+  {"r":"mutige","w":"Mutige","o":["mutige","Mutige","mudige","Mudige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'mutig' schreibt man klein."}
+]},
+{"s":2,"satz":"Hinter dem Wasserfall lauert der gestreifte Tiger geduldig auf seine Beute.","f":[
+  {"r":"Wasserfall","w":"wasserfall","o":["Wasserfall","wasserfall","Waserfall","waserfall"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Wasserfall'."},
+  {"r":"gestreifte","w":"Gestreifte","o":["gestreifte","Gestreifte","gestraifte","Gestraifte"],"k":"g","tipp":"Regel: Adjektive wie 'gestreift' schreibt man klein."},
+  {"r":"geduldig","w":"geduldieg","o":["geduldig","geduldieg","gedulldig","keduldig"],"k":"b","tipp":"Regel: 'geduldig' endet auf '-ig': ge-dul-dig."}
+]},
+{"s":2,"satz":"Die grüne Schlange schlängelt sich am Mittag durch das warme feuchte Laub.","f":[
+  {"r":"Schlange","w":"schlange","o":["Schlange","schlange","Schlanke","schlanke"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Schlange'."},
+  {"r":"Mittag","w":"mittag","o":["Mittag","mittag","Mitag","mitag"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Mittag'."},
+  {"r":"feuchte","w":"foichte","o":["feuchte","foichte","feuchde","feochte"],"k":"b","tipp":"Regel: 'feucht' schreibt man mit eu: feuch-te."}
+]},
+{"s":2,"satz":"Am Abend klettern die frechen Affen auf die höchste Palme im Dschungel.","f":[
+  {"r":"Abend","w":"abend","o":["Abend","abend","Abent","abent"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Abend'."},
+  {"r":"klettern","w":"kletern","o":["klettern","kletern","gletter n","kletterrn"],"k":"b","tipp":"Regel: 'klettern' hat doppel-T nach kurzem e: klet-tern."},
+  {"r":"frechen","w":"Frechen","o":["frechen","Frechen","frägen","Frägen"],"k":"g","tipp":"Regel: Adjektive wie 'frech' schreibt man klein."}
+]},
+{"s":2,"satz":"Der bunte Papagei wiederholt jedes Wort der staunenden Forscher ganz genau.","f":[
+  {"r":"Wort","w":"wort","o":["Wort","wort","Word","word"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Wort'."},
+  {"r":"wiederholt","w":"widerholt","o":["wiederholt","widerholt","wiederhollt","wiederhold"],"k":"b","tipp":"Regel: 'wieder' schreibt man mit ie: wie-der."},
+  {"r":"staunenden","w":"Staunenden","o":["staunenden","Staunenden","staonenden","Staonenden"],"k":"g","tipp":"Regel: Adjektive wie 'staunend' schreibt man klein."}
+]},
+{"s":2,"satz":"In der Nacht jagt der hungrige Tiger lautlos durch das Dickicht am Fluss.","f":[
+  {"r":"Nacht","w":"nacht","o":["Nacht","nacht","Nachd","nachd"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Nacht'."},
+  {"r":"jagt","w":"Jagt","o":["jagt","Jagt","jakt","Jakt"],"k":"g","tipp":"Regel: Verben wie 'jagen' schreibt man klein."},
+  {"r":"Dickicht","w":"Dikicht","o":["Dickicht","Dikicht","Dickigt","Dikkicht"],"k":"b","tipp":"Regel: 'Dickicht' hat ck nach kurzem i: Di-ckicht."}
+]},
+{"s":2,"satz":"Beim Wandern entdeckt der kleine Forscher das laute Trommeln ferner Affen.","f":[
+  {"r":"Forscher","w":"forscher","o":["Forscher","forscher","Vorscher","vorscher"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Forscher'."},
+  {"r":"Trommeln","w":"trommeln","o":["Trommeln","trommeln","Tromeln","tromeln"],"k":"g","tipp":"Regel: Das nominalisierte Verb 'das Trommeln' wird groß geschrieben, weil 'das' davorsteht."},
+  {"r":"ferner","w":"färner","o":["ferner","färner","fernor","ferrner"],"k":"b","tipp":"Regel: 'fern' schreibt man mit e: fer-ner."}
+]},
+{"s":2,"satz":"Plötzlich rauscht der mächtige Wasserfall über die glatten grauen Felsen hinab.","f":[
+  {"r":"Wasserfall","w":"wasserfall","o":["Wasserfall","wasserfall","Wasserfal","wasserfal"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Wasserfall'."},
+  {"r":"mächtige","w":"Mächtige","o":["mächtige","Mächtige","mechtige","Mechtige"],"k":"g","tipp":"Regel: Adjektive wie 'mächtig' schreibt man klein."},
+  {"r":"rauscht","w":"raoscht","o":["rauscht","raoscht","rauschd","raouscht"],"k":"b","tipp":"Regel: 'rauschen' schreibt man mit au: rau-schen."}
+]},
+{"s":2,"satz":"Am frühen Morgen schmückt der Papagei sein Nest mit bunten Federn ganz kunstvoll.","f":[
+  {"r":"Morgen","w":"morgen","o":["Morgen","morgen","Morken","morken"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Morgen'."},
+  {"r":"schmückt","w":"Schmückt","o":["schmückt","Schmückt","schmükt","Schmükt"],"k":"g","tipp":"Regel: Verben wie 'schmücken' schreibt man klein."},
+  {"r":"Federn","w":"Fedärn","o":["Federn","Fedärn","Vedern","Federrn"],"k":"b","tipp":"Regel: 'Federn' schreibt man mit e und einem d: Fe-dern."}
+]},
+{"s":2,"satz":"Der listige Tiger pirscht sich heran, sobald die kleinen Affen schlafen.","f":[
+  {"r":"Tiger","w":"tiger","o":["Tiger","tiger","Tieger","tieger"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Tiger'."},
+  {"r":"listige","w":"Listige","o":["listige","Listige","lisdige","Lisdige"],"k":"g","tipp":"Regel: Adjektive wie 'listig' schreibt man klein."},
+  {"r":"pirscht","w":"birscht","o":["pirscht","birscht","pirschd","pirrscht"],"k":"b","tipp":"Regel: 'pirschen' beginnt mit p wie 'pusten': pir-schen."}
+]},
+{"s":3,"satz":"Der freche Affe stiehlt eine Banane, weil sein Bauch ganz laut knurrt.","f":[
+  {"r":"Banane,","w":"Banane","o":["Banane,","Banane","Banane;","Banane."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Bauch","w":"bauch","o":["Bauch","bauch","Baoch","baoch"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Bauch'."},
+  {"r":"stiehlt","w":"stielt","o":["stiehlt","stielt","schtiehlt","stiehld"],"k":"b","tipp":"Regel: 'stehlen' braucht das Dehnungs-h: stieh-lt."}
+]},
+{"s":3,"satz":"Im Dschungel leben bunte Papageien, scheue Affen und gestreifte Tiger.","f":[
+  {"r":"Papageien,","w":"Papageien","o":["Papageien,","Papageien","Papageien;","Papageien."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Dschungel","w":"dschungel","o":["Dschungel","dschungel","Dschunngel","dschunngel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Dschungel'."},
+  {"r":"scheue","w":"schoie","o":["scheue","schoie","scheoe","scheue n"],"k":"b","tipp":"Regel: 'scheu' schreibt man mit eu: scheu-e."}
+]},
+{"s":3,"satz":"Die Forscherin weiß, dass hinter dem Wasserfall eine geheime Höhle liegt.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Höhle","w":"höhle","o":["Höhle","höhle","Höle","höle"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Höhle'."},
+  {"r":"geheime","w":"gehaime","o":["geheime","gehaime","geheimme","keheime"],"k":"b","tipp":"Regel: 'geheim' schreibt man mit ei: ge-heim."}
+]},
+{"s":3,"satz":"Der bunte Papagei, der hoch über dem Fluss kreist, sucht reife Beeren.","f":[
+  {"r":"Papagei,","w":"Papagei","o":["Papagei,","Papagei","Papagei;","Papagei."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'der' wird mit Kommas eingeschlossen."},
+  {"r":"Fluss","w":"fluss","o":["Fluss","fluss","Flus","flus"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Fluss'."},
+  {"r":"reife","w":"raife","o":["reife","raife","reiffe","reihfe"],"k":"b","tipp":"Regel: 'reif' schreibt man mit ei: rei-fe."}
+]},
+{"s":3,"satz":"Der Tiger wirkt sehr gefährlich, aber der mutige Affe fürchtet sich kein bisschen.","f":[
+  {"r":"gefährlich,","w":"gefährlich","o":["gefährlich,","gefährlich","gefährlich;","gefährlich."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"Affe","w":"affe","o":["Affe","affe","Affä","affä"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Affe'."},
+  {"r":"fürchtet","w":"fürschtet","o":["fürchtet","fürschtet","fürchdet","fürggtet"],"k":"b","tipp":"Regel: 'fürchten' schreibt man mit 'ch' und t: fürch-tet."}
+]},
+{"s":3,"satz":"Wenn die Sonne untergeht, schreien die Affen ganz laut im Urwald.","f":[
+  {"r":"untergeht,","w":"untergeht","o":["untergeht,","untergeht","untergeht;","untergeht."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma."},
+  {"r":"Affen","w":"affen","o":["Affen","affen","Afen","afen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Affen'."},
+  {"r":"schreien","w":"schraien","o":["schreien","schraien","schreihen","schreyen"],"k":"b","tipp":"Regel: 'schreien' schreibt man mit ei: schrei-en."}
+]},
+{"s":3,"satz":"Der Forscher klettert die morsche Liane hinauf, obwohl der Ast schon gefährlich knackt.","f":[
+  {"r":"hinauf,","w":"hinauf","o":["hinauf,","hinauf","hinauf;","hinauf."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"morsche","w":"Morsche","o":["morsche","Morsche","morrsche","Morrsche"],"k":"g","tipp":"Regel: Adjektive wie 'morsch' schreibt man klein."},
+  {"r":"klettert","w":"kletert","o":["klettert","kletert","glettert","klettärt"],"k":"b","tipp":"Regel: 'klettern' hat doppel-T nach kurzem e: klet-tert."}
+]},
+{"s":3,"satz":"Die Schlange zischt böse, sobald ein neugieriger Affe ihrem Versteck zu nahe kommt.","f":[
+  {"r":"böse,","w":"böse","o":["böse,","böse","böse;","böse."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+  {"r":"Schlange","w":"schlange","o":["Schlange","schlange","Schlanke","schlanke"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Schlange'."},
+  {"r":"neugieriger","w":"noigieriger","o":["neugieriger","noigieriger","neugiriger","neogieriger"],"k":"b","tipp":"Regel: 'neugierig' schreibt man mit eu und ie: neu-gie-rig."}
+]},
+{"s":3,"satz":"Der starke Tiger, der am Wasserfall trinkt, beobachtet die spielenden Affenkinder.","f":[
+  {"r":"Tiger,","w":"Tiger","o":["Tiger,","Tiger","Tiger;","Tiger."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'der' wird mit Kommas eingeschlossen."},
+  {"r":"spielenden","w":"Spielenden","o":["spielenden","Spielenden","spilenden","Spilenden"],"k":"g","tipp":"Regel: Adjektive wie 'spielend' schreibt man klein."},
+  {"r":"beobachtet","w":"beobachdet","o":["beobachtet","beobachdet","beopachtet","beobaggtet"],"k":"b","tipp":"Regel: 'beobachten' schreibt man mit 'ch' und t: be-ob-ach-tet."}
+]},
+{"s":3,"satz":"Der Affe schwingt sich auf den Ast, damit er die reife Banane erreicht.","f":[
+  {"r":"Ast,","w":"Ast","o":["Ast,","Ast","Ast;","Ast."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Banane","w":"banane","o":["Banane","banane","Banahne","banahne"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Banane'."},
+  {"r":"reife","w":"raife","o":["reife","raife","reiffe","reihfe"],"k":"b","tipp":"Regel: 'reif' schreibt man mit ei: rei-fe."}
+]},
+{"s":3,"satz":"Sobald der Regen aufhört, leuchtet der grüne Dschungel in frischen kräftigen Farben.","f":[
+  {"r":"aufhört,","w":"aufhört","o":["aufhört,","aufhört","aufhört;","aufhört."],"k":"k","tipp":"Regel: Steht der 'sobald'-Satz vorne, folgt danach ein Komma."},
+  {"r":"grüne","w":"Grüne","o":["grüne","Grüne","grühne","Grühne"],"k":"g","tipp":"Regel: Adjektive wie 'grün' schreibt man klein."},
+  {"r":"leuchtet","w":"loichtet","o":["leuchtet","loichtet","leuchdet","leochtet"],"k":"b","tipp":"Regel: 'leuchten' schreibt man mit eu: leuch-tet."}
+]},
+{"s":3,"satz":"Der schlaue Affe versteckt die letzte Banane, damit kein frecher Papagei sie stiehlt.","f":[
+  {"r":"Banane,","w":"Banane","o":["Banane,","Banane","Banane;","Banane."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Papagei","w":"papagei","o":["Papagei","papagei","Papagai","papagai"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Papagei'."},
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","versteckd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v, wie in 'verstecken'."}
+]}
+]

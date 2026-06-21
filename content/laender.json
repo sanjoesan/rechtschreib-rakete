@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"In Frankreich glitzert der berühmte Eiffelturm in der goldenen Abendsonne ganz oben.","f":[
+  {"r":"Frankreich","w":"Frankraich","o":["Frankreich","Frankraich","Frangreich","Frankreih"],"k":"b","tipp":"Merksatz: 'Frankreich' endet auf '-reich' mit ei, wie im Wort 'reich'."},
+  {"r":"berühmte","w":"berümte","o":["berühmte","berümte","berühmde","beruehmte"],"k":"b","tipp":"Merksatz: 'berühmt' hat ein Dehnungs-h nach dem ü: be-rühm-te."},
+  {"r":"Abendsonne","w":"Abendsone","o":["Abendsonne","Abendsone","Abentsonne","Abendsonnä"],"k":"b","tipp":"Merksatz: Die Sonne hat doppel-N: Son-ne, Abend-son-ne."}
+]},
+{"s":1,"satz":"In Australien hüpft das lustige Känguru vom kühlen Wasserloch durch die heiße Wüste.","f":[
+  {"r":"Australien","w":"Austraulien","o":["Australien","Austraulien","Australjen","Ausdralien"],"k":"b","tipp":"Merksatz: 'Australien' schreibt man mit au am Anfang: Aus-tra-li-en."},
+  {"r":"Känguru","w":"Kenguru","o":["Känguru","Kenguru","Kängeru","Kängaru"],"k":"b","tipp":"Merksatz: Das Känguru schreibt man mit ä: Kän-gu-ru."},
+  {"r":"Wasserloch","w":"Waserloch","o":["Wasserloch","Waserloch","Wassärloch","Wasserloh"],"k":"b","tipp":"Merksatz: Das Wasser hat doppel-S: Was-ser, Was-ser-loch."}
+]},
+{"s":1,"satz":"In Italien isst die fröhliche Familie eine riesige Pizza mit vielen Tomaten zum Mittag.","f":[
+  {"r":"fröhliche","w":"frölliche","o":["fröhliche","frölliche","frölische","fröhlige"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h nach dem ö: fröh-lich."},
+  {"r":"riesige","w":"risige","o":["riesige","risige","riesiege","riessige"],"k":"b","tipp":"Merksatz: 'riesig' schreibt man mit ie (langes i): rie-sig."},
+  {"r":"Tomaten","w":"Tomahten","o":["Tomaten","Tomahten","Tomatten","Domaten"],"k":"b","tipp":"Merksatz: Die Tomate hat nur ein t in der Mitte: To-ma-te."}
+]},
+{"s":1,"satz":"In Ägypten bewachen die alten Pyramiden den Schatz des mächtigen Pharaos.","f":[
+  {"r":"bewachen","w":"bewachsen","o":["bewachen","bewachsen","bewahchen","bbewachen"],"k":"b","tipp":"Merksatz: 'bewachen' kommt von 'Wache' und wird ohne s geschrieben."},
+  {"r":"Pyramiden","w":"Piramiden","o":["Pyramiden","Piramiden","Pyramieden","Pyramieten"],"k":"b","tipp":"Merksatz: Die Pyramide schreibt man mit y: Py-ra-mi-de."},
+  {"r":"mächtigen","w":"mechtigen","o":["mächtigen","mechtigen","mächtiegen","mäschtigen"],"k":"b","tipp":"Merksatz: 'mächtig' kommt von 'Macht' und wird mit ä geschrieben."}
+]},
+{"s":1,"satz":"In Japan blühen die zarten Kirschblüten und färben die Straße ganz rosa.","f":[
+  {"r":"zarten","w":"zahrten","o":["zarten","zahrten","tzarten","zardten"],"k":"b","tipp":"Merksatz: 'zart' schreibt man ohne Dehnungs-h: zar-ten."},
+  {"r":"Kirschblüten","w":"Kirshblüten","o":["Kirschblüten","Kirshblüten","Kirschblühten","Kirschplüten"],"k":"b","tipp":"Merksatz: 'Kirsch' schreibt man mit sch: Kirsch-blü-ten."},
+  {"r":"Straße","w":"Strasse","o":["Straße","Strasse","Schtraße","Sztraße"],"k":"b","tipp":"Merksatz: 'Straße' schreibt man nach langem a mit ß: Stra-ße."}
+]},
+{"s":1,"satz":"In Brasilien tanzen die bunten Vögel im grünen Regenwald zwischen den hohen Bäumen.","f":[
+  {"r":"Brasilien","w":"Brasielien","o":["Brasilien","Brasielien","Braszilien","Brassilien"],"k":"b","tipp":"Merksatz: 'Brasilien' schreibt man mit einem s: Bra-si-li-en."},
+  {"r":"Vögel","w":"Fögel","o":["Vögel","Fögel","Vögäl","Vöggel"],"k":"b","tipp":"Merksatz: Der Vogel schreibt man mit v: der Vogel, die Vögel."},
+  {"r":"Regenwald","w":"Regenwalt","o":["Regenwald","Regenwalt","Reegenwald","Regänwald"],"k":"b","tipp":"Merksatz: Der Wald endet auf d – Probe: die Wälder, der Regen-wald."}
+]},
+{"s":1,"satz":"In China schlängelt sich die lange Mauer über die grünen Hügel und Täler.","f":[
+  {"r":"schlängelt","w":"schlengelt","o":["schlängelt","schlengelt","schlängält","schlänkelt"],"k":"b","tipp":"Merksatz: 'schlängeln' kommt von 'Schlange' und wird mit ä geschrieben."},
+  {"r":"Mauer","w":"Maoer","o":["Mauer","Maoer","Mauä","Maurer"],"k":"b","tipp":"Merksatz: Die Mauer schreibt man mit au: Mau-er."},
+  {"r":"Hügel","w":"Hügäl","o":["Hügel","Hügäl","Hüggel","Hühgel"],"k":"b","tipp":"Merksatz: Der Hügel schreibt man mit ü und einfachem g: Hü-gel."}
+]},
+{"s":1,"satz":"In Norwegen leuchtet das geheimnisvolle Nordlicht über den verschneiten Bergen.","f":[
+  {"r":"geheimnisvolle","w":"geheimnisfolle","o":["geheimnisvolle","geheimnisfolle","gehaimnisvolle","geheimnisvole"],"k":"b","tipp":"Merksatz: '-voll' in geheimnisvoll schreibt man mit v: geheimnis-vol-le."},
+  {"r":"Nordlicht","w":"Nortlicht","o":["Nordlicht","Nortlicht","Nordliecht","Nordligt"],"k":"b","tipp":"Merksatz: Der Norden endet auf d – Probe: nördlich, das Nord-licht."},
+  {"r":"verschneiten","w":"ferschneiten","o":["verschneiten","ferschneiten","verschnaiten","verschneidten"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-schnei-ten."}
+]},
+{"s":1,"satz":"In Indien trompetet der bunt bemalte Elefant fröhlich durch die belebten Gassen.","f":[
+  {"r":"trompetet","w":"trompedet","o":["trompetet","trompedet","drompetet","trommpetet"],"k":"b","tipp":"Merksatz: 'trompeten' kommt von 'Trompete' und wird mit t geschrieben."},
+  {"r":"Elefant","w":"Elefannt","o":["Elefant","Elefannt","Elefand","Elefahnt"],"k":"b","tipp":"Merksatz: Der Elefant hat nur ein n und endet auf t: E-le-fant."},
+  {"r":"belebten","w":"belebden","o":["belebten","belebden","beläbten","bbelebten"],"k":"b","tipp":"Merksatz: 'belebt' kommt von 'Leben' und endet auf t."}
+]},
+{"s":1,"satz":"In Spanien wedelt die Tänzerin mit dem roten Fächer beim feurigen Flamenco.","f":[
+  {"r":"Tänzerin","w":"Tenzerin","o":["Tänzerin","Tenzerin","Tänzärin","Tänssrin"],"k":"b","tipp":"Merksatz: 'Tänzerin' kommt von 'Tanz' und wird mit ä geschrieben."},
+  {"r":"Fächer","w":"Fecher","o":["Fächer","Fecher","Fächär","Fäscher"],"k":"b","tipp":"Merksatz: Der Fächer schreibt man mit ä und ch: Fä-cher."},
+  {"r":"feurigen","w":"feirigen","o":["feurigen","feirigen","föirigen","feurieken"],"k":"b","tipp":"Merksatz: 'feurig' kommt von 'Feuer' und wird mit eu geschrieben."}
+]},
+{"s":1,"satz":"In Kanada paddelt der freundliche Förster mit dem Kanu über den klaren Bergsee.","f":[
+  {"r":"paddelt","w":"padelt","o":["paddelt","padelt","baddelt","paddält"],"k":"b","tipp":"Merksatz: 'paddeln' hat doppel-D: pad-deln, er pad-delt."},
+  {"r":"freundliche","w":"freindliche","o":["freundliche","freindliche","fröindliche","freundlige"],"k":"b","tipp":"Merksatz: 'freundlich' kommt von 'Freund' und wird mit eu geschrieben."},
+  {"r":"Förster","w":"Förscter","o":["Förster","Förscter","Förstär","Försdter"],"k":"b","tipp":"Merksatz: Der Förster kommt von 'Forst' und wird mit st geschrieben."}
+]},
+{"s":1,"satz":"In Griechenland klettern die müden Wanderer zu den uralten Säulen hinauf.","f":[
+  {"r":"Wanderer","w":"Wandärer","o":["Wanderer","Wandärer","Wanterer","Wandereer"],"k":"b","tipp":"Merksatz: Der Wanderer kommt von 'wandern' und wird mit d geschrieben."},
+  {"r":"uralten","w":"urhalten","o":["uralten","urhalten","uhralten","uraltän"],"k":"b","tipp":"Merksatz: 'uralt' schreibt man ohne h: ur-alt, die ur-al-ten."},
+  {"r":"Säulen","w":"Seulen","o":["Säulen","Seulen","Säolen","Säulän"],"k":"b","tipp":"Merksatz: Die Säule schreibt man mit äu: Säu-le, Säu-len."}
+]},
+{"s":2,"satz":"In England trinkt die vornehme Königin am Nachmittag einen heißen Tee.","f":[
+  {"r":"Königin","w":"königin","o":["Königin","königin","Könichin","Köönigin"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Königin' steht mit dem Begleiter 'die'."},
+  {"r":"trinkt","w":"Trinkt","o":["trinkt","Trinkt","trinkd","Trinkd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'trinken' schreibt man klein."},
+  {"r":"vornehme","w":"fornehme","o":["vornehme","fornehme","vornähme","vorneme"],"k":"b","tipp":"Regel: 'vor-' in vornehm schreibt man mit v: vor-neh-me."}
+]},
+{"s":2,"satz":"In Afrika brüllt der mächtige Löwe laut in der weiten Savanne.","f":[
+  {"r":"Löwe","w":"löwe","o":["Löwe","löwe","Löwä","Löhwe"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Löwe' steht mit dem Begleiter 'der'."},
+  {"r":"brüllt","w":"Brüllt","o":["brüllt","Brüllt","brült","Brült"],"k":"g","tipp":"Regel: Verben wie 'brüllen' schreibt man klein."},
+  {"r":"mächtige","w":"mechtige","o":["mächtige","mechtige","mächtieche","mäschtige"],"k":"b","tipp":"Regel: 'mächtig' kommt von 'Macht' und wird mit ä geschrieben."}
+]},
+{"s":2,"satz":"In Holland drehen sich die großen Windmühlen langsam im frischen Wind.","f":[
+  {"r":"Windmühlen","w":"windmühlen","o":["Windmühlen","windmühlen","Windmülen","Windmühln"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Windmühlen' haben den Begleiter 'die'."},
+  {"r":"drehen","w":"Drehen","o":["drehen","Drehen","dreen","Dreen"],"k":"g","tipp":"Regel: Verben wie 'drehen' schreibt man klein."},
+  {"r":"frischen","w":"frieschen","o":["frischen","frieschen","frieschän","frishen"],"k":"b","tipp":"Regel: 'frisch' schreibt man mit kurzem i und sch: fri-schen."}
+]},
+{"s":2,"satz":"In Mexiko schüttelt der bunte Papagei auf dem alten Tempeldach seine Federn.","f":[
+  {"r":"Papagei","w":"papagei","o":["Papagei","papagei","Papagai","Babagei"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Papagei' steht mit dem Begleiter 'der'."},
+  {"r":"schüttelt","w":"Schüttelt","o":["schüttelt","Schüttelt","schütelt","Schütelt"],"k":"g","tipp":"Regel: Verben wie 'schütteln' schreibt man klein."},
+  {"r":"Tempeldach","w":"Tempäldach","o":["Tempeldach","Tempäldach","Templdach","Tempeldah"],"k":"b","tipp":"Regel: Der Tempel schreibt man mit e: Tem-pel, Tem-pel-dach."}
+]},
+{"s":2,"satz":"In Schottland spielt der lustige Dudelsackpfeifer im Schloss eine fröhliche Melodie vor.","f":[
+  {"r":"Schloss","w":"schloss","o":["Schloss","schloss","Schlos","Schlohss"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'im Schloss' steht mit dem Begleiter 'im' (in dem)."},
+  {"r":"spielt","w":"Spielt","o":["spielt","Spielt","spield","Spield"],"k":"g","tipp":"Regel: Verben wie 'spielen' schreibt man klein."},
+  {"r":"Melodie","w":"Melodi","o":["Melodie","Melodi","Mälodie","Melohdie"],"k":"b","tipp":"Regel: Die Melodie endet auf '-die' mit ie: Me-lo-die."}
+]},
+{"s":2,"satz":"In Russland baut das frierende Mädchen einen runden Schneemann im tiefen Schnee.","f":[
+  {"r":"Mädchen","w":"mädchen","o":["Mädchen","mädchen","Mädschen","Mätchen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Mädchen' steht mit dem Begleiter 'das'."},
+  {"r":"baut","w":"Baut","o":["baut","Baut","baud","Baud"],"k":"g","tipp":"Regel: Verben wie 'bauen' schreibt man klein."},
+  {"r":"Schneemann","w":"Schneeman","o":["Schneemann","Schneeman","Schnemann","Shneemann"],"k":"b","tipp":"Regel: Der Schneemann hat doppel-N am Ende: Schnee-mann."}
+]},
+{"s":2,"satz":"In Peru wandert das flauschige Lama gemütlich über die steilen Bergpfade.","f":[
+  {"r":"Lama","w":"lama","o":["Lama","lama","Lahma","Llama"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Lama' steht mit dem Begleiter 'das'."},
+  {"r":"wandert","w":"Wandert","o":["wandert","Wandert","wandärt","Wandärt"],"k":"g","tipp":"Regel: Verben wie 'wandern' schreibt man klein."},
+  {"r":"flauschige","w":"flaoschige","o":["flauschige","flaoschige","flauschiege","flaushige"],"k":"b","tipp":"Regel: 'flauschig' schreibt man mit au und sch: flau-schig."}
+]},
+{"s":2,"satz":"In Irland sucht der kleine Kobold heimlich nach seinem versteckten Goldtopf.","f":[
+  {"r":"Kobold","w":"kobold","o":["Kobold","kobold","Kobolt","Gobold"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Kobold' steht mit dem Begleiter 'der'."},
+  {"r":"sucht","w":"Sucht","o":["sucht","Sucht","suchd","Suchd"],"k":"g","tipp":"Regel: Verben wie 'suchen' schreibt man klein."},
+  {"r":"versteckten","w":"fersteckten","o":["versteckten","fersteckten","verstäckten","versteckden"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-steck-ten."}
+]},
+{"s":2,"satz":"In Kenia rennt die schnelle Gazelle vor dem hungrigen Geparden über die Steppe.","f":[
+  {"r":"Gazelle","w":"gazelle","o":["Gazelle","gazelle","Gatzelle","Gazele"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Gazelle' steht mit dem Begleiter 'die'."},
+  {"r":"rennt","w":"Rennt","o":["rennt","Rennt","rent","Rent"],"k":"g","tipp":"Regel: Verben wie 'rennen' schreibt man klein."},
+  {"r":"hungrigen","w":"hungriegen","o":["hungrigen","hungriegen","hunkrigen","hungriken"],"k":"b","tipp":"Regel: 'hungrig' kommt von 'Hunger' und wird mit u und g geschrieben."}
+]},
+{"s":2,"satz":"In der Schweiz klettern die geschickten Ziegen flink an der steilen Felswand.","f":[
+  {"r":"Ziegen","w":"ziegen","o":["Ziegen","ziegen","Ziehgen","Zieken"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Ziegen' haben den Begleiter 'die'."},
+  {"r":"klettern","w":"Klettern","o":["klettern","Klettern","kletern","Kletern"],"k":"g","tipp":"Regel: Verben wie 'klettern' schreibt man klein."},
+  {"r":"geschickten","w":"geschikten","o":["geschickten","geschikten","gäschickten","geschickden"],"k":"b","tipp":"Regel: Nach kurzem i steht ck: ge-schick-ten."}
+]},
+{"s":2,"satz":"In Island sprudelt die heiße Quelle plötzlich aus dem grauen Felsboden empor.","f":[
+  {"r":"Quelle","w":"quelle","o":["Quelle","quelle","Quele","Kwelle"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Quelle' steht mit dem Begleiter 'die'."},
+  {"r":"sprudelt","w":"Sprudelt","o":["sprudelt","Sprudelt","sprudält","Sprudält"],"k":"g","tipp":"Regel: Verben wie 'sprudeln' schreibt man klein."},
+  {"r":"plötzlich","w":"plözlich","o":["plötzlich","plözlich","plötzlig","blötzlich"],"k":"b","tipp":"Regel: Nach kurzem ö steht tz: plötz-lich."}
+]},
+{"s":2,"satz":"In Amerika rauscht der riesige Wasserfall donnernd in die tiefe Schlucht.","f":[
+  {"r":"Wasserfall","w":"wasserfall","o":["Wasserfall","wasserfall","Waserfall","Wasserfal"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Wasserfall' steht mit dem Begleiter 'der'."},
+  {"r":"rauscht","w":"Rauscht","o":["rauscht","Rauscht","rauschd","Rauschd"],"k":"g","tipp":"Regel: Verben wie 'rauschen' schreibt man klein."},
+  {"r":"tiefe","w":"tieffe","o":["tiefe","tieffe","tiefä","tihefe"],"k":"b","tipp":"Regel: 'tief' schreibt man mit ie und einem f: tie-fe."}
+]},
+{"s":3,"satz":"In Frankreich kaufen die Touristen Baguette, Käse und süße Macarons auf dem Markt.","f":[
+  {"r":"Baguette,","w":"Baguette","o":["Baguette,","Baguette","Baguette;","Baguette."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"süße","w":"Süße","o":["süße","Süße","süßä","Süßä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'süß' schreibt man klein."},
+  {"r":"Touristen","w":"Turisten","o":["Touristen","Turisten","Touriesten","Touristän"],"k":"b","tipp":"Regel: Der Tourist schreibt man mit ou: Tou-rist, die Tou-ri-sten."}
+]},
+{"s":3,"satz":"Der Reiseführer erklärt, dass die alte Pyramide schon viele Tausend Jahre alt ist.","f":[
+  {"r":"erklärt,","w":"erklärt","o":["erklärt,","erklärt","erklärt;","erklärt."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"alte","w":"Alte","o":["alte","Alte","allte","alde"],"k":"g","tipp":"Regel: Adjektive wie 'alt' schreibt man klein."},
+  {"r":"Pyramide","w":"Piramide","o":["Pyramide","Piramide","Pyramiede","Pyramide."],"k":"b","tipp":"Regel: Die Pyramide schreibt man mit y: Py-ra-mi-de."}
+]},
+{"s":3,"satz":"Das Kind freut sich, weil das bunte Riesenrad in London ganz langsam hochfährt.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"bunte","w":"Bunte","o":["bunte","Bunte","buntä","Buntä"],"k":"g","tipp":"Regel: Adjektive wie 'bunt' schreibt man klein."},
+  {"r":"Riesenrad","w":"Risenrad","o":["Riesenrad","Risenrad","Riesenratt","Riesenrat"],"k":"b","tipp":"Regel: 'Riese' schreibt man mit ie: Rie-se, Rie-sen-rad."}
+]},
+{"s":3,"satz":"Die Flagge, die hoch am Mast weht, zeigt die Farben von Deutschland sehr deutlich.","f":[
+  {"r":"Flagge,","w":"Flagge","o":["Flagge,","Flagge","Flagge;","Flagge."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'die' wird mit Kommas eingeschlossen: 'Die Flagge, die ... weht, zeigt ...'."},
+  {"r":"hoch","w":"Hoch","o":["hoch","Hoch","hoh","hohch"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'hoch' schreibt man klein."},
+  {"r":"Deutschland","w":"Deutshland","o":["Deutschland","Deutshland","Deutschlant","Doitschland"],"k":"b","tipp":"Regel: 'Deutsch' schreibt man mit eu und sch: Deutsch-land."}
+]},
+{"s":3,"satz":"Wenn die Sonne aufgeht, leuchtet der goldene Sandstrand auf der schönen Insel.","f":[
+  {"r":"aufgeht,","w":"aufgeht","o":["aufgeht,","aufgeht","aufgeht;","aufgeht."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma: 'Wenn ..., leuchtet ...'."},
+  {"r":"goldene","w":"goltene","o":["goldene","goltene","goldäne","golldene"],"k":"b","tipp":"Regel: 'golden' kommt von 'Gold' und wird mit d geschrieben."},
+  {"r":"schönen","w":"Schönen","o":["schönen","Schönen","schönän","Schönän"],"k":"g","tipp":"Regel: Adjektive wie 'schön' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Junge weiß, dass man in Japan die Schuhe vor der Türschwelle auszieht.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Schuhe","w":"schuhe","o":["Schuhe","schuhe","Schue","Shuhe"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Schuhe' haben den Begleiter 'die'."},
+  {"r":"Türschwelle","w":"Türshwelle","o":["Türschwelle","Türshwelle","Türschwele","Türschwellä"],"k":"b","tipp":"Regel: 'Schwelle' schreibt man mit sch und doppel-L: Schwel-le."}
+]},
+{"s":3,"satz":"Auf dem Markt riechen wir Zimt, Vanille und scharfen Pfeffer aus fernen Ländern.","f":[
+  {"r":"Zimt,","w":"Zimt","o":["Zimt,","Zimt","Zimt;","Zimt."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"scharfen","w":"sharfen","o":["scharfen","sharfen","scharffen","scharven"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: schar-fen."},
+  {"r":"fernen","w":"Fernen","o":["fernen","Fernen","fernän","Fernän"],"k":"g","tipp":"Regel: Adjektive wie 'fern' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Reisende staunt, als der riesige Eisberg vor dem grünen Küstenland auftaucht.","f":[
+  {"r":"staunt,","w":"staunt","o":["staunt,","staunt","staunt;","staunt."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'als' steht ein Komma."},
+  {"r":"riesige","w":"risige","o":["riesige","risige","riesiege","riessige"],"k":"b","tipp":"Regel: 'riesig' schreibt man mit ie (langes i): rie-sig."},
+  {"r":"grünen","w":"Grünen","o":["grünen","Grünen","grünän","Grünän"],"k":"g","tipp":"Regel: Adjektive wie 'grün' schreibt man klein."}
+]},
+{"s":3,"satz":"In der Wüste trinken die Reisenden Wasser, bevor die heiße Mittagssonne brennt.","f":[
+  {"r":"Wasser,","w":"Wasser","o":["Wasser,","Wasser","Wasser;","Wasser."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bevor' steht ein Komma."},
+  {"r":"heiße","w":"Heiße","o":["heiße","Heiße","heißä","Heißä"],"k":"g","tipp":"Regel: Adjektive wie 'heiß' schreibt man klein."},
+  {"r":"Mittagssonne","w":"Mitagssonne","o":["Mittagssonne","Mitagssonne","Mittagssone","Mittachssonne"],"k":"b","tipp":"Regel: Der Mittag hat doppel-T: Mit-tag, Mit-tags-son-ne."}
+]},
+{"s":3,"satz":"Obwohl es draußen schneit, blühen in Brasilien die bunten Blumen das ganze Jahr.","f":[
+  {"r":"schneit,","w":"schneit","o":["schneit,","schneit","schneit;","schneit."],"k":"k","tipp":"Regel: Steht der 'obwohl'-Satz vorne, folgt danach ein Komma."},
+  {"r":"bunten","w":"Bunten","o":["bunten","Bunten","buntän","Buntän"],"k":"g","tipp":"Regel: Adjektive wie 'bunt' schreibt man klein."},
+  {"r":"draußen","w":"draosen","o":["draußen","draosen","drausen","draußän"],"k":"b","tipp":"Regel: 'draußen' schreibt man mit au und ß: drau-ßen."}
+]},
+{"s":3,"satz":"Der Pirat segelt zur Insel, weil dort die geheime Schatzhöhle im Felsen liegt.","f":[
+  {"r":"Insel,","w":"Insel","o":["Insel,","Insel","Insel;","Insel."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"geheime","w":"Geheime","o":["geheime","Geheime","geheimä","Geheimä"],"k":"g","tipp":"Regel: Adjektive wie 'geheim' schreibt man klein."},
+  {"r":"Schatzhöhle","w":"Schazhöhle","o":["Schatzhöhle","Schazhöhle","Schatzhöle","Schatzhöhlä"],"k":"b","tipp":"Regel: Nach kurzem a steht tz: Schatz, Schatz-höh-le."}
+]},
+{"s":3,"satz":"In den Bergen wachsen Edelweiß, Enzian und blaue Glockenblumen auf der Wiese.","f":[
+  {"r":"Edelweiß,","w":"Edelweiß","o":["Edelweiß,","Edelweiß","Edelweiß;","Edelweiß."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"blaue","w":"Blaue","o":["blaue","Blaue","blauä","Blauä"],"k":"g","tipp":"Regel: Adjektive wie 'blau' schreibt man klein."},
+  {"r":"wachsen","w":"waxen","o":["wachsen","waxen","wachssen","wahcsen"],"k":"b","tipp":"Regel: 'wachsen' schreibt man mit chs: wach-sen."}
+]}
+]

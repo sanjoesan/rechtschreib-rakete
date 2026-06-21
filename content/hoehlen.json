@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"In der dunklen Höhle hängen die spitzen Tropfsteine geheimnisvoll von der Decke.","f":[
+  {"r":"dunklen","w":"dunkeln","o":["dunklen","dunkeln","dungklen","dunklän"],"k":"b","tipp":"Merksatz: 'dunkel' verliert das e: dunk-len."},
+  {"r":"Tropfsteine","w":"Tropsteine","o":["Tropfsteine","Tropsteine","Tropfstaine","Tropfsteinne"],"k":"b","tipp":"Merksatz: In 'Tropf' steckt ein pf: Tropf-stei-ne."},
+  {"r":"geheimnisvoll","w":"geheimnisfoll","o":["geheimnisvoll","geheimnisfoll","gehaimnisvoll","geheimnisvol"],"k":"b","tipp":"Merksatz: '-voll' schreibt man mit v und doppel-l: ge-heim-nis-voll."}
+]},
+{"s":1,"satz":"Die flatternden Fledermäuse schlafen tagsüber kopfüber an der kühlen Höhlenwand.","f":[
+  {"r":"flatternden","w":"flaternden","o":["flatternden","flaternden","flatterndän","vlatternden"],"k":"b","tipp":"Merksatz: Nach kurzem a steht doppel-t: flat-tern-de."},
+  {"r":"Fledermäuse","w":"Fledermeuse","o":["Fledermäuse","Fledermeuse","Flädermäuse","Fledermäusse"],"k":"b","tipp":"Merksatz: 'Maus' wird im Plural zu 'Mäuse' mit äu: Fle-der-mäu-se."},
+  {"r":"kühlen","w":"külen","o":["kühlen","külen","kühllen","kuhlen"],"k":"b","tipp":"Merksatz: 'kühl' trägt ein Dehnungs-h: küh-len."}
+]},
+{"s":1,"satz":"Der mutige Höhlenforscher leuchtet vorsichtig mit der hellen Taschenlampe nach unten.","f":[
+  {"r":"mutige","w":"muttige","o":["mutige","muttige","mutiege","mudige"],"k":"b","tipp":"Merksatz: 'mutig' kommt von 'Mut' mit einem t: mu-tig."},
+  {"r":"Taschenlampe","w":"Taschenlanpe","o":["Taschenlampe","Taschenlanpe","Taschenlampä","Tachenlampe"],"k":"b","tipp":"Merksatz: Vor dem p steht ein m: Ta-schen-lam-pe."},
+  {"r":"hellen","w":"helen","o":["hellen","helen","hellän","hällen"],"k":"b","tipp":"Merksatz: Nach kurzem e steht doppel-l: hel-len."}
+]},
+{"s":1,"satz":"Tief unten glitzert der stille unterirdische See im schwachen gelben Lichtschein.","f":[
+  {"r":"glitzert","w":"glizert","o":["glitzert","glizert","glitzärt","klitzert"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: glit-zert."},
+  {"r":"unterirdische","w":"unterirrdische","o":["unterirdische","unterirrdische","unterirdiche","unterierdische"],"k":"b","tipp":"Merksatz: 'unterirdisch' hat nur ein r in der Mitte: un-ter-ir-disch."},
+  {"r":"schwachen","w":"schwagen","o":["schwachen","schwagen","schwachän","schwahchen"],"k":"b","tipp":"Merksatz: 'schwach' schreibt man mit ch: schwa-chen."}
+]},
+{"s":1,"satz":"An den feuchten Wänden funkeln die bunten Kristalle wie kleine glänzende Sterne.","f":[
+  {"r":"feuchten","w":"foichten","o":["feuchten","foichten","feugten","feuchtän"],"k":"b","tipp":"Merksatz: 'feucht' schreibt man mit eu: feuch-ten."},
+  {"r":"Kristalle","w":"Kristale","o":["Kristalle","Kristale","Krisstalle","Kristallä"],"k":"b","tipp":"Merksatz: Nach kurzem a steht doppel-l: Kris-tal-le."},
+  {"r":"glänzende","w":"glenzende","o":["glänzende","glenzende","glänzändä","klänzende"],"k":"b","tipp":"Merksatz: 'glänzen' kommt von 'Glanz' und bekommt ä: glän-zen-de."}
+]},
+{"s":1,"satz":"Vorsichtig klettert der Forscher über die rutschigen nassen Felsen in die Tiefe.","f":[
+  {"r":"klettert","w":"kletert","o":["klettert","kletert","klettärt","glettert"],"k":"b","tipp":"Merksatz: Nach kurzem e steht doppel-t: klet-tert."},
+  {"r":"rutschigen","w":"rutchigen","o":["rutschigen","rutchigen","rutschiegen","rudschigen"],"k":"b","tipp":"Merksatz: 'rutschig' schreibt man mit tsch: rut-schig."},
+  {"r":"nassen","w":"nasen","o":["nassen","nasen","nassän","naßen"],"k":"b","tipp":"Merksatz: Nach kurzem a kommt ss: nas-sen."}
+]},
+{"s":1,"satz":"Von der Höhlendecke tropft das kalte Wasser langsam auf den glitschigen Boden.","f":[
+  {"r":"Höhlendecke","w":"Hölendecke","o":["Höhlendecke","Hölendecke","Höhlendeke","Höhlendeckä"],"k":"b","tipp":"Merksatz: 'Höhle' trägt ein Dehnungs-h: Höh-len-de-cke."},
+  {"r":"Wasser","w":"Waser","o":["Wasser","Waser","Wassär","Waßer"],"k":"b","tipp":"Merksatz: Nach kurzem a steht ss: Was-ser."},
+  {"r":"glitschigen","w":"glitchigen","o":["glitschigen","glitchigen","glitschiegen","glidschigen"],"k":"b","tipp":"Merksatz: 'glitschig' schreibt man mit tsch: glit-schig."}
+]},
+{"s":1,"satz":"Die piepsenden Fledermäuse fliegen blitzschnell durch den engen dunklen Gang.","f":[
+  {"r":"piepsenden","w":"piebsenden","o":["piepsenden","piebsenden","pipsenden","piepsändän"],"k":"b","tipp":"Merksatz: 'piepsen' schreibt man mit ie und ps: piep-sen-de."},
+  {"r":"fliegen","w":"fligen","o":["fliegen","fligen","fliehgen","fliegän"],"k":"b","tipp":"Merksatz: 'fliegen' schreibt man mit ie: flie-gen."},
+  {"r":"blitzschnell","w":"blizschnell","o":["blitzschnell","blizschnell","blitzschnel","blitschnell"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: Blitz-schnell."}
+]},
+{"s":1,"satz":"Am stillen See spiegeln sich die weißen Tropfsteine im glasklaren ruhigen Wasser.","f":[
+  {"r":"spiegeln","w":"spigeln","o":["spiegeln","spigeln","schpiegeln","spiegäln"],"k":"b","tipp":"Merksatz: In 'spiegeln' steckt ie: spie-geln."},
+  {"r":"weißen","w":"weisen","o":["weißen","weisen","waißen","weißän"],"k":"b","tipp":"Merksatz: 'weiß' schreibt man mit ß: wei-ßen."},
+  {"r":"ruhigen","w":"ruigen","o":["ruhigen","ruigen","ruhiegen","ruhigän"],"k":"b","tipp":"Merksatz: 'ruhig' trägt ein Dehnungs-h: ru-hig."}
+]},
+{"s":1,"satz":"Der neugierige Forscher entdeckt eine versteckte Kammer voller funkelnder Kristalle.","f":[
+  {"r":"neugierige","w":"neugirige","o":["neugierige","neugirige","neugieriege","noigierige"],"k":"b","tipp":"Merksatz: In 'neugierig' steckt 'gierig' mit ie: neu-gie-rig."},
+  {"r":"versteckte","w":"fersteckte","o":["versteckte","fersteckte","verstekte","versteckdä"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v wie in 'verstecken'."},
+  {"r":"funkelnder","w":"funckelnder","o":["funkelnder","funckelnder","funkälnder","vunkelnder"],"k":"b","tipp":"Merksatz: In 'funkeln' steht nur ein k: fun-kel-nder."}
+]},
+{"s":1,"satz":"Mit der starken Taschenlampe sucht das tapfere Kind den verlorenen kleinen Weg.","f":[
+  {"r":"starken","w":"starcken","o":["starken","starcken","starkän","schtarken"],"k":"b","tipp":"Merksatz: In 'stark' steht nur ein k: star-ken."},
+  {"r":"tapfere","w":"tapere","o":["tapfere","tapere","tapferä","dapfere"],"k":"b","tipp":"Merksatz: In 'tapfer' steckt ein pf: tap-fe-re."},
+  {"r":"verlorenen","w":"ferlorenen","o":["verlorenen","ferlorenen","verlohrenen","verloränen"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v wie in 'verlieren'."}
+]},
+{"s":1,"satz":"In der tiefen Höhle hallt das leise Echo vom plätschernden kühlen See wider.","f":[
+  {"r":"tiefen","w":"tifen","o":["tiefen","tifen","tieffen","tiehfen"],"k":"b","tipp":"Merksatz: 'tief' schreibt man mit ie: tie-fen."},
+  {"r":"plätschernden","w":"pletschernden","o":["plätschernden","pletschernden","plätchernden","plätschärndän"],"k":"b","tipp":"Merksatz: 'plätschern' kommt von 'platschen' und bekommt ä: plät-schern."},
+  {"r":"leise","w":"laise","o":["leise","laise","leisse","leihse"],"k":"b","tipp":"Merksatz: 'leise' schreibt man mit ei: lei-se."}
+]},
+{"s":2,"satz":"Im Dunkeln knipst der Forscher die Taschenlampe an und betrachtet die nassen Wände.","f":[
+  {"r":"Forscher","w":"forscher","o":["Forscher","forscher","Forscha","Vorscher"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Forscher' steht mit dem Begleiter 'der'."},
+  {"r":"knipst","w":"Knipst","o":["knipst","Knipst","knibst","gnipst"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'knipsen' schreibt man klein."},
+  {"r":"nassen","w":"nasen","o":["nassen","nasen","nassän","naßen"],"k":"b","tipp":"Regel: Nach kurzem a kommt ss: nas-sen."}
+]},
+{"s":2,"satz":"Über dem See hängt der lange Tropfstein wie ein spitzer steinerner Eiszapfen.","f":[
+  {"r":"Tropfstein","w":"tropfstein","o":["Tropfstein","tropfstein","Tropstein","Tropfstain"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Tropfstein' steht mit dem Begleiter 'der'."},
+  {"r":"hängt","w":"Hängt","o":["hängt","Hängt","hengt","hänkt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'hängen' schreibt man klein."},
+  {"r":"spitzer","w":"spizer","o":["spitzer","spizer","spitzär","schpitzer"],"k":"b","tipp":"Regel: Nach kurzem i steht tz: spit-zer."}
+]},
+{"s":2,"satz":"Beim Klettern rutscht der vorsichtige Forscher fast auf dem glitschigen feuchten Stein.","f":[
+  {"r":"Klettern","w":"klettern","o":["Klettern","klettern","Kletern","Glettern"],"k":"g","tipp":"Regel: Wird ein Tunwort zum Namenwort ('beim Klettern'), schreibt man es groß."},
+  {"r":"rutscht","w":"Rutscht","o":["rutscht","Rutscht","rutcht","rudscht"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'rutschen' schreibt man klein."},
+  {"r":"feuchten","w":"foichten","o":["feuchten","foichten","feugten","feuchtän"],"k":"b","tipp":"Regel: 'feucht' schreibt man mit eu: feuch-ten."}
+]},
+{"s":2,"satz":"In der Höhle hängen die schlafenden Fledermäuse ruhig an der kalten Steindecke.","f":[
+  {"r":"Fledermäuse","w":"fledermäuse","o":["Fledermäuse","fledermäuse","Fledermeuse","Flädermäuse"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Fledermäuse' stehen mit dem Begleiter 'die'."},
+  {"r":"hängen","w":"Hängen","o":["hängen","Hängen","hengen","hänken"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'hängen' schreibt man klein."},
+  {"r":"schlafenden","w":"Schlafenden","o":["schlafenden","Schlafenden","schlaffenden","schlafändän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schlafend' schreibt man klein."}
+]},
+{"s":2,"satz":"Beim Forschen findet die Gruppe einen geheimen Gang hinter dem großen Felsblock.","f":[
+  {"r":"Forschen","w":"forschen","o":["Forschen","forschen","Vorschen","Forchen"],"k":"g","tipp":"Regel: Wird ein Tunwort zum Namenwort ('beim Forschen'), schreibt man es groß."},
+  {"r":"findet","w":"Findet","o":["findet","Findet","vindet","finded"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'finden' schreibt man klein."},
+  {"r":"geheimen","w":"gehaimen","o":["geheimen","gehaimen","geheimän","geheimmen"],"k":"b","tipp":"Regel: 'geheim' schreibt man mit ei: ge-hei-men."}
+]},
+{"s":2,"satz":"Am unterirdischen See glitzern die nassen Kristalle hell im Schein der Lampe.","f":[
+  {"r":"Kristalle","w":"kristalle","o":["Kristalle","kristalle","Kristale","Krisstalle"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Kristalle' stehen mit dem Begleiter 'die'."},
+  {"r":"glitzern","w":"Glitzern","o":["glitzern","Glitzern","glizern","klitzern"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'glitzern' schreibt man klein."},
+  {"r":"nassen","w":"Nassen","o":["nassen","Nassen","nasen","naßen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'nass' schreibt man klein."}
+]},
+{"s":2,"satz":"Plötzlich erschrickt der scheue Höhlenforscher, denn eine Fledermaus fliegt dicht an ihm vorbei.","f":[
+  {"r":"scheue","w":"Scheue","o":["scheue","Scheue","scheie","schoie"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'scheu' schreibt man klein."},
+  {"r":"erschrickt","w":"erchrickt","o":["erschrickt","erchrickt","erschrikt","erschrickd"],"k":"b","tipp":"Regel: 'erschrecken' schreibt man mit sch und ck: er-schrickt."},
+  {"r":"fliegt","w":"fligt","o":["fliegt","fligt","fliehgt","fliekt"],"k":"b","tipp":"Regel: 'fliegen' schreibt man mit ie: fliegt."}
+]},
+{"s":2,"satz":"Mit der starken Lampe leuchtet das neugierige Kind in den tiefen schwarzen Spalt.","f":[
+  {"r":"Lampe","w":"lampe","o":["Lampe","lampe","Lanpe","Lampä"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Lampe' steht mit dem Begleiter 'die'."},
+  {"r":"leuchtet","w":"Leuchtet","o":["leuchtet","Leuchtet","loichtet","leugtet"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'leuchten' schreibt man klein."},
+  {"r":"schwarzen","w":"schwarzten","o":["schwarzen","schwarzten","schwartzen","schwarzän"],"k":"b","tipp":"Regel: 'schwarz' schreibt man mit z, nicht tz: schwar-zen."}
+]},
+{"s":2,"satz":"Vor der Höhle wartet die kleine Gruppe geduldig auf den müden Höhlenforscher.","f":[
+  {"r":"Höhle","w":"höhle","o":["Höhle","höhle","Höle","Höhlä"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Höhle' steht mit dem Begleiter 'die'."},
+  {"r":"wartet","w":"Wartet","o":["wartet","Wartet","wardet","wahrtet"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'warten' schreibt man klein."},
+  {"r":"geduldig","w":"gedultig","o":["geduldig","gedultig","geduldich","gedoldig"],"k":"b","tipp":"Regel: 'geduldig' kommt von 'Geduld' mit d: ge-dul-dig."}
+]},
+{"s":2,"satz":"Tief im Berg gluckert das frische Wasser leise in den dunklen kalten See.","f":[
+  {"r":"Wasser","w":"wasser","o":["Wasser","wasser","Waser","Waßer"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Wasser' steht mit dem Begleiter 'das'."},
+  {"r":"gluckert","w":"Gluckert","o":["gluckert","Gluckert","glukert","kluckert"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'gluckern' schreibt man klein."},
+  {"r":"frische","w":"friche","o":["frische","friche","frischä","vrische"],"k":"b","tipp":"Regel: 'frisch' schreibt man mit sch: fri-sche."}
+]},
+{"s":2,"satz":"Am Eingang staunt der Forscher über die riesigen Tropfsteine an der Felswand.","f":[
+  {"r":"Forscher","w":"forscher","o":["Forscher","forscher","Forscha","Vorscher"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Forscher' steht mit dem Begleiter 'der'."},
+  {"r":"staunt","w":"Staunt","o":["staunt","Staunt","stount","schtaunt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'staunen' schreibt man klein."},
+  {"r":"riesigen","w":"risigen","o":["riesigen","risigen","riesiegen","riessigen"],"k":"b","tipp":"Regel: 'riesig' schreibt man mit ie (langes i): rie-sig."}
+]},
+{"s":2,"satz":"Im engen Gang krabbelt der mutige Forscher unter dem niedrigen feuchten Felsen hindurch.","f":[
+  {"r":"Forscher","w":"forscher","o":["Forscher","forscher","Forscha","Vorscher"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Forscher' steht mit dem Begleiter 'der'."},
+  {"r":"krabbelt","w":"Krabbelt","o":["krabbelt","Krabbelt","krabelt","grabbelt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'krabbeln' schreibt man klein."},
+  {"r":"niedrigen","w":"nidrigen","o":["niedrigen","nidrigen","niedriegen","niedrigän"],"k":"b","tipp":"Regel: 'niedrig' schreibt man mit ie: nie-drig."}
+]},
+{"s":3,"satz":"Der Forscher bleibt ganz still stehen, weil eine müde Fledermaus direkt über ihm hängt.","f":[
+  {"r":"stehen,","w":"stehen","o":["stehen,","stehen","stehen;","stehen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Fledermaus","w":"fledermaus","o":["Fledermaus","fledermaus","Fledermaos","Flädermaus"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'eine Fledermaus' steht mit dem Begleiter 'eine'."},
+  {"r":"müde","w":"müede","o":["müde","müede","mütte","müedä"],"k":"b","tipp":"Regel: 'müde' schreibt man mit einem d: mü-de."}
+]},
+{"s":3,"satz":"Im Rucksack stecken Brote, Kerzen und eine starke Taschenlampe für die dunkle Höhle.","f":[
+  {"r":"Brote,","w":"Brote","o":["Brote,","Brote","Brote;","Brote."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern: Brote, Kerzen und Lampe."},
+  {"r":"Rucksack","w":"Ruksack","o":["Rucksack","Ruksack","Rucsack","Rucksak"],"k":"b","tipp":"Regel: Nach kurzem u steht ck: Ruck-sack."},
+  {"r":"Taschenlampe","w":"taschenlampe","o":["Taschenlampe","taschenlampe","Taschenlanpe","Tachenlampe"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'eine Taschenlampe' steht mit 'eine'."}
+]},
+{"s":3,"satz":"Der Forscher leuchtet nach unten, damit er den glitzernden unterirdischen See gut sieht.","f":[
+  {"r":"unten,","w":"unten","o":["unten,","unten","unten;","unten."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"leuchtet","w":"Leuchtet","o":["leuchtet","Leuchtet","loichtet","leugtet"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'leuchten' schreibt man klein."},
+  {"r":"glitzernden","w":"glizernden","o":["glitzernden","glizernden","glitzärndän","klitzernden"],"k":"b","tipp":"Regel: Nach kurzem i steht tz: glit-zern-de."}
+]},
+{"s":3,"satz":"Die Kinder bewundern den Kristall, der im Schein der Lampe wunderschön funkelt.","f":[
+  {"r":"Kristall,","w":"Kristall","o":["Kristall,","Kristall","Kristall;","Kristall."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'der' steht ein Komma."},
+  {"r":"bewundern","w":"Bewundern","o":["bewundern","Bewundern","bewontern","bewundärn"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'bewundern' schreibt man klein."},
+  {"r":"wunderschön","w":"wunderschöhn","o":["wunderschön","wunderschöhn","wunderchön","wundärschön"],"k":"b","tipp":"Regel: 'schön' braucht kein Dehnungs-h: wun-der-schön."}
+]},
+{"s":3,"satz":"Der Höhlenforscher friert sehr, obwohl er eine warme dicke Jacke trägt.","f":[
+  {"r":"sehr,","w":"sehr","o":["sehr,","sehr","sehr;","sehr."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Höhlenforscher","w":"höhlenforscher","o":["Höhlenforscher","höhlenforscher","Hölenforscher","Höhlenvorscher"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Höhlenforscher' steht mit 'der'."},
+  {"r":"dicke","w":"dike","o":["dicke","dike","dickä","digge"],"k":"b","tipp":"Regel: Nach kurzem i steht ck: di-cke."}
+]},
+{"s":3,"satz":"Wenn die Taschenlampe ausgeht, wird es in der tiefen Höhle plötzlich stockdunkel und kalt.","f":[
+  {"r":"ausgeht,","w":"ausgeht","o":["ausgeht,","ausgeht","ausgeht;","ausgeht."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'wenn' vorne, folgt danach ein Komma."},
+  {"r":"Taschenlampe","w":"taschenlampe","o":["Taschenlampe","taschenlampe","Taschenlanpe","Tachenlampe"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Taschenlampe' steht mit 'die'."},
+  {"r":"stockdunkel","w":"stokdunkel","o":["stockdunkel","stokdunkel","stockdunckel","schtockdunkel"],"k":"b","tipp":"Regel: Nach kurzem o steht ck: stock-dun-kel."}
+]},
+{"s":3,"satz":"Vom Tropfstein fallen Tropfen, Tropfen und noch mehr Tropfen in den stillen See.","f":[
+  {"r":"Tropfen,","w":"Tropfen","o":["Tropfen,","Tropfen","Tropfen;","Tropfen."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"Tropfstein","w":"tropfstein","o":["Tropfstein","tropfstein","Tropstein","Tropfstain"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Tropfstein' steht mit dem Begleiter 'der'."},
+  {"r":"stillen","w":"stilen","o":["stillen","stilen","stillän","schtillen"],"k":"b","tipp":"Regel: Nach kurzem i steht doppel-l: stil-len."}
+]},
+{"s":3,"satz":"Die Forscher gehen leise weiter, sobald die scheue Fledermaus wieder ruhig schläft.","f":[
+  {"r":"weiter,","w":"weiter","o":["weiter,","weiter","weiter;","weiter."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+  {"r":"gehen","w":"Gehen","o":["gehen","Gehen","gehn","gähen"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'gehen' schreibt man klein."},
+  {"r":"scheue","w":"scheie","o":["scheue","scheie","schoie","scheuä"],"k":"b","tipp":"Regel: 'scheu' schreibt man mit eu: scheu-e."}
+]},
+{"s":3,"satz":"Das Kind staunt sehr, weil die bunten Kristalle im Lampenlicht so schön glänzen und leuchten.","f":[
+  {"r":"sehr,","w":"sehr","o":["sehr,","sehr","sehr;","sehr."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Kristalle","w":"kristalle","o":["Kristalle","kristalle","Kristale","Krisstalle"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Kristalle' stehen mit dem Begleiter 'die'."},
+  {"r":"glänzen","w":"glenzen","o":["glänzen","glenzen","klänzen","glänzän"],"k":"b","tipp":"Regel: 'glänzen' kommt von 'Glanz' und bekommt ä: glän-zen."}
+]},
+{"s":3,"satz":"Sobald der Forscher tiefer geht, hört er das leise Tropfen von der Decke.","f":[
+  {"r":"geht,","w":"geht","o":["geht,","geht","geht;","geht."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'sobald' vorne, folgt danach ein Komma."},
+  {"r":"Forscher","w":"forscher","o":["Forscher","forscher","Forscha","Vorscher"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Forscher' steht mit dem Begleiter 'der'."},
+  {"r":"leise","w":"laise","o":["leise","laise","leisse","leihse"],"k":"b","tipp":"Regel: 'leise' schreibt man mit ei: lei-se."}
+]},
+{"s":3,"satz":"Der mutige Höhlenforscher kriecht weiter, damit er die geheime Kammer endlich erreicht.","f":[
+  {"r":"weiter,","w":"weiter","o":["weiter,","weiter","weiter;","weiter."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"mutige","w":"Mutige","o":["mutige","Mutige","muttige","mudige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'mutig' schreibt man klein."},
+  {"r":"kriecht","w":"kricht","o":["kriecht","kricht","kriegt","kriechd"],"k":"b","tipp":"Regel: 'kriechen' schreibt man mit ie: krie-cht."}
+]},
+{"s":3,"satz":"Am Ufer des Sees stehen Forscher, Kinder und ein müder Hund ganz still im Dunkeln.","f":[
+  {"r":"Forscher,","w":"Forscher","o":["Forscher,","Forscher","Forscher;","Forscher."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern: Forscher, Kinder und Hund."},
+  {"r":"stehen","w":"Stehen","o":["stehen","Stehen","stehn","schtehen"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'stehen' schreibt man klein."},
+  {"r":"müder","w":"müeder","o":["müder","müeder","mütter","mütder"],"k":"b","tipp":"Regel: 'müde' schreibt man mit einem d: mü-der."}
+]}
+]

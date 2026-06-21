@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der tollpatschige Pinguin rutscht fröhlich über die glatte spiegelnde Eisscholle.","f":[
+  {"r":"tollpatschige","w":"tolpatschige","o":["tollpatschige","tolpatschige","tollpadschige","tollpatschiege"],"k":"b","tipp":"Merksatz: 'toll' braucht doppel-l: toll-pat-schi-ge."},
+  {"r":"fröhlich","w":"frölich","o":["fröhlich","frölich","fröhlig","fröhlick"],"k":"b","tipp":"Merksatz: In 'fröhlich' steckt ein Dehnungs-h: fröh-lich."},
+  {"r":"spiegelnde","w":"spigelnde","o":["spiegelnde","spigelnde","schpiegelnde","spiegälnde"],"k":"b","tipp":"Merksatz: In 'spiegeln' steckt ie: spie-geln-de."}
+]},
+{"s":1,"satz":"Der pummelige Eisbär stapft hungrig durch den knirschenden weißen Schnee.","f":[
+  {"r":"pummelige","w":"pumelige","o":["pummelige","pumelige","pummeliege","pummälige"],"k":"b","tipp":"Merksatz: Nach kurzem u steht doppel-m: pum-me-li-ge."},
+  {"r":"hungrig","w":"hungerig","o":["hungrig","hungerig","hungriech","hunkrig"],"k":"b","tipp":"Merksatz: In 'hungrig' steckt der 'Hunger' – aber ohne zweites e: hun-grig."},
+  {"r":"knirschenden","w":"knirchenden","o":["knirschenden","knirchenden","knirschändän","gnirschenden"],"k":"b","tipp":"Merksatz: 'knirschen' schreibt man mit sch: knir-schen."}
+]},
+{"s":1,"satz":"Die neugierige Robbe taucht blitzschnell unter die dicke Eisscholle hinab.","f":[
+  {"r":"neugierige","w":"neugirige","o":["neugierige","neugirige","neugieriege","noigierige"],"k":"b","tipp":"Merksatz: In 'neugierig' steckt 'gierig' mit ie: neu-gie-rig."},
+  {"r":"blitzschnell","w":"blizschnell","o":["blitzschnell","blizschnell","blitzschnel","blitschnell"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: Blitz-schnell."},
+  {"r":"Eisscholle","w":"Eischolle","o":["Eisscholle","Eischolle","Eisschole","Eisscholä"],"k":"b","tipp":"Merksatz: 'Eis' und 'Scholle' treffen sich auf doppel-s: Eis-schol-le."}
+]},
+{"s":1,"satz":"Im gemütlichen Iglu wärmt sich der frierende Forscher an einer dampfenden Tasse.","f":[
+  {"r":"gemütlichen","w":"gemühtlichen","o":["gemütlichen","gemühtlichen","gemütligen","gemüdlichen"],"k":"b","tipp":"Merksatz: 'gemütlich' schreibt man mit t und ohne Dehnungs-h: ge-müt-lich."},
+  {"r":"frierende","w":"frirende","o":["frierende","frirende","frierände","friehrende"],"k":"b","tipp":"Merksatz: 'frieren' schreibt man mit ie: frie-ren-de."},
+  {"r":"dampfenden","w":"dampenden","o":["dampfenden","dampenden","damfenden","dampfändän"],"k":"b","tipp":"Merksatz: In 'dampfen' steckt ein pf: dam-pfen-de."}
+]},
+{"s":1,"satz":"Die fleißigen Schlittenhunde ziehen den schweren Schlitten über das weite Eis.","f":[
+  {"r":"fleißigen","w":"fleisigen","o":["fleißigen","fleisigen","fleißiegen","fleißigän"],"k":"b","tipp":"Merksatz: 'fleißig' schreibt man mit ß: flei-ßig."},
+  {"r":"Schlittenhunde","w":"Schlitenhunde","o":["Schlittenhunde","Schlitenhunde","Schlittänhunde","Schlittenhonde"],"k":"b","tipp":"Merksatz: Nach kurzem i steht doppel-t: Schlit-ten-hun-de."},
+  {"r":"schweren","w":"schwehren","o":["schweren","schwehren","schwerän","schwerren"],"k":"b","tipp":"Merksatz: 'schwer' braucht kein Dehnungs-h: schwe-ren."}
+]},
+{"s":1,"satz":"Am dunklen Himmel tanzt das bunte Polarlicht über dem schlafenden Forscherzelt.","f":[
+  {"r":"dunklen","w":"dunkeln","o":["dunklen","dunkeln","dungklen","dunklän"],"k":"b","tipp":"Merksatz: 'dunkel' verliert das e: dunk-len."},
+  {"r":"Polarlicht","w":"Pollarlicht","o":["Polarlicht","Pollarlicht","Polarligt","Polarlischt"],"k":"b","tipp":"Merksatz: Das Polarlicht hat nur ein l in der Mitte: Po-lar-licht."},
+  {"r":"schlafenden","w":"schlaffenden","o":["schlafenden","schlaffenden","schlafändän","schlafenten"],"k":"b","tipp":"Merksatz: In 'schlafen' steht nur ein f: schla-fen-de."}
+]},
+{"s":1,"satz":"Der watschelnde Pinguin sammelt glatte Kieselsteine für sein kuscheliges Nest.","f":[
+  {"r":"watschelnde","w":"watchelnde","o":["watschelnde","watchelnde","wadschelnde","watschälnde"],"k":"b","tipp":"Merksatz: 'watscheln' schreibt man mit tsch: wat-scheln-de."},
+  {"r":"Kieselsteine","w":"Kiselsteine","o":["Kieselsteine","Kiselsteine","Kieselstaine","Kieselsteinne"],"k":"b","tipp":"Merksatz: 'Kiesel' schreibt man mit ie: Kie-sel-stei-ne."},
+  {"r":"kuscheliges","w":"kuscheliches","o":["kuscheliges","kuscheliches","kuschäliges","guscheliges"],"k":"b","tipp":"Merksatz: 'kuschelig' endet auf ig, nicht ich: ku-sche-lig."}
+]},
+{"s":1,"satz":"Bei der eisigen Kälte zittert der tapfere Forscher in seinem warmen Schlafsack.","f":[
+  {"r":"eisigen","w":"eisiegen","o":["eisigen","eisiegen","aisigen","eißigen"],"k":"b","tipp":"Merksatz: 'eisig' endet auf ig, kein ieg: ei-sig."},
+  {"r":"tapfere","w":"tapere","o":["tapfere","tapere","tapferä","dapfere"],"k":"b","tipp":"Merksatz: In 'tapfer' steckt ein pf: tap-fe-re."},
+  {"r":"warmen","w":"wahrmen","o":["warmen","wahrmen","warmän","warrmen"],"k":"b","tipp":"Merksatz: 'warm' braucht kein Dehnungs-h: war-men."}
+]},
+{"s":1,"satz":"Die dicke Robbe sonnt sich faul auf der treibenden glitzernden Eisscholle.","f":[
+  {"r":"dicke","w":"dike","o":["dicke","dike","dickä","digge"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: di-cke."},
+  {"r":"treibenden","w":"traibenden","o":["treibenden","traibenden","treibändän","treipenden"],"k":"b","tipp":"Merksatz: 'treiben' schreibt man mit ei: trei-ben-de."},
+  {"r":"glitzernden","w":"glizernden","o":["glitzernden","glizernden","glitzärnden","klitzernden"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: glit-zern-de."}
+]},
+{"s":1,"satz":"Der mutige Eisbär schwimmt geschickt durch das eiskalte tiefe Polarmeer.","f":[
+  {"r":"mutige","w":"muttige","o":["mutige","muttige","mutiege","mudige"],"k":"b","tipp":"Merksatz: 'mutig' kommt von 'Mut' mit einem t: mu-tig."},
+  {"r":"geschickt","w":"geschikt","o":["geschickt","geschikt","geschickd","keschickt"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: ge-schickt."},
+  {"r":"eiskalte","w":"aiskalte","o":["eiskalte","aiskalte","eiskaltä","eiskallte"],"k":"b","tipp":"Merksatz: 'Eis' schreibt man mit ei: eis-kal-te."}
+]},
+{"s":1,"satz":"Die kleinen Pinguine üben das Tauchen im klaren ruhigen Wasser am Eisrand.","f":[
+  {"r":"kleinen","w":"klainen","o":["kleinen","klainen","kleinän","gleinen"],"k":"b","tipp":"Merksatz: 'klein' schreibt man mit ei: klei-nen."},
+  {"r":"ruhigen","w":"ruigen","o":["ruhigen","ruigen","ruhiegen","ruhigän"],"k":"b","tipp":"Merksatz: 'ruhig' trägt ein Dehnungs-h: ru-hig."},
+  {"r":"Wasser","w":"Waser","o":["Wasser","Waser","Wassär","Waßer"],"k":"b","tipp":"Merksatz: Nach kurzem a steht ss: Was-ser."}
+]},
+{"s":1,"satz":"Im hohen Schneesturm sucht der erschöpfte Forscher schnell ein schützendes Iglu.","f":[
+  {"r":"Schneesturm","w":"Schneestorm","o":["Schneesturm","Schneestorm","Schnesturm","Schneeschturm"],"k":"b","tipp":"Merksatz: 'Schnee' schreibt man mit doppel-e: Schnee-sturm."},
+  {"r":"erschöpfte","w":"erschöpte","o":["erschöpfte","erschöpte","erschöbfte","erschöpftä"],"k":"b","tipp":"Merksatz: In 'erschöpft' steckt ein pf: er-schöpft."},
+  {"r":"schützendes","w":"schüzendes","o":["schützendes","schüzendes","schützändes","schützentes"],"k":"b","tipp":"Merksatz: Nach kurzem ü steht tz: schüt-zen-des."}
+]},
+{"s":2,"satz":"Der freche Pinguin klaut dem Forscher heimlich seinen warmen Handschuh.","f":[
+  {"r":"Pinguin","w":"pinguin","o":["Pinguin","pinguin","Pingwin","Pinguien"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Pinguin' steht mit dem Begleiter 'der'."},
+  {"r":"klaut","w":"Klaut","o":["klaut","Klaut","glaut","klaud"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'klauen' schreibt man klein."},
+  {"r":"heimlich","w":"haimlich","o":["heimlich","haimlich","heimlig","heimligh"],"k":"b","tipp":"Regel: 'heimlich' schreibt man mit ei: heim-lich."}
+]},
+{"s":2,"satz":"Am Morgen baut der fleißige Forscher aus festen Schneeblöcken ein rundes Iglu.","f":[
+  {"r":"Forscher","w":"forscher","o":["Forscher","forscher","Forscha","Vorscher"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Forscher' steht mit dem Begleiter 'der'."},
+  {"r":"baut","w":"Baut","o":["baut","Baut","baud","baught"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'bauen' schreibt man klein."},
+  {"r":"Schneeblöcken","w":"Schneblöcken","o":["Schneeblöcken","Schneblöcken","Schneeblöken","Schneeblöckän"],"k":"b","tipp":"Regel: 'Schnee' schreibt man mit doppel-e: Schnee-blö-cken."}
+]},
+{"s":2,"satz":"Auf der Eisscholle ruht die müde Robbe friedlich neben ihrem flauschigen Jungen.","f":[
+  {"r":"Robbe","w":"robbe","o":["Robbe","robbe","Robe","Roppe"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Robbe' steht mit dem Begleiter 'die'."},
+  {"r":"ruht","w":"Ruht","o":["ruht","Ruht","rut","ruhd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'ruhen' schreibt man klein."},
+  {"r":"flauschigen","w":"flauchigen","o":["flauschigen","flauchigen","flauschiegen","flauschigän"],"k":"b","tipp":"Regel: 'flauschig' schreibt man mit sch: flau-schig."}
+]},
+{"s":2,"satz":"Beim Angeln fängt der hungrige Eisbär einen glitschigen silbernen Fisch.","f":[
+  {"r":"Angeln","w":"angeln","o":["Angeln","angeln","Angäln","Angelln"],"k":"g","tipp":"Regel: Wird ein Tunwort zum Namenwort ('beim Angeln'), schreibt man es groß."},
+  {"r":"fängt","w":"Fängt","o":["fängt","Fängt","fengt","fänkt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'fangen' schreibt man klein."},
+  {"r":"glitschigen","w":"glitchigen","o":["glitschigen","glitchigen","glitschiegen","glidschigen"],"k":"b","tipp":"Regel: 'glitschig' schreibt man mit tsch: glit-schig."}
+]},
+{"s":2,"satz":"Die wilden Schlittenhunde bellen laut, sobald der Forscher den Schlitten anschirrt.","f":[
+  {"r":"Schlittenhunde","w":"schlittenhunde","o":["Schlittenhunde","schlittenhunde","Schlitenhunde","Schlittenhonde"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Schlittenhunde' stehen mit dem Begleiter 'die'."},
+  {"r":"bellen","w":"Bellen","o":["bellen","Bellen","belen","bällen"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'bellen' schreibt man klein."},
+  {"r":"wilden","w":"Wilden","o":["wilden","Wilden","willden","wildän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'wild' schreibt man klein."}
+]},
+{"s":2,"satz":"Am Nachthimmel leuchtet das grüne Polarlicht über den schlafenden Pinguinen.","f":[
+  {"r":"Polarlicht","w":"polarlicht","o":["Polarlicht","polarlicht","Pollarlicht","Polarligt"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Polarlicht' steht mit dem Begleiter 'das'."},
+  {"r":"leuchtet","w":"Leuchtet","o":["leuchtet","Leuchtet","loichtet","leugtet"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'leuchten' schreibt man klein."},
+  {"r":"grüne","w":"grühne","o":["grüne","grühne","grünä","krüne"],"k":"b","tipp":"Regel: 'grün' braucht kein Dehnungs-h: grü-ne."}
+]},
+{"s":2,"satz":"Beim Forschen entdeckt der Forscher ein verstecktes Nest mit drei runden Eiern.","f":[
+  {"r":"Forschen","w":"forschen","o":["Forschen","forschen","Vorschen","Forchen"],"k":"g","tipp":"Regel: Wird ein Tunwort zum Namenwort ('beim Forschen'), schreibt man es groß."},
+  {"r":"entdeckt","w":"endeckt","o":["entdeckt","endeckt","entdekt","entdeckd"],"k":"b","tipp":"Regel: 'entdecken' schreibt man mit nt und ck: ent-deckt."},
+  {"r":"verstecktes","w":"ferstecktes","o":["verstecktes","ferstecktes","verstektes","versteckdes"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v wie in 'verstecken'."}
+]},
+{"s":2,"satz":"Auf der Jagd schleicht der weiße Eisbär ganz leise über das knackende Eis.","f":[
+  {"r":"Jagd","w":"jagd","o":["Jagd","jagd","Jakt","Jaagd"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Jagd' steht mit dem Begleiter 'die'."},
+  {"r":"schleicht","w":"Schleicht","o":["schleicht","Schleicht","schlaicht","schleigt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schleichen' schreibt man klein."},
+  {"r":"knackende","w":"knakende","o":["knackende","knakende","knackände","gnackende"],"k":"b","tipp":"Regel: Nach kurzem a steht ck: knack-en-de."}
+]},
+{"s":2,"satz":"Vor dem Iglu kocht der frierende Forscher eine heiße Suppe über kleinem Feuer.","f":[
+  {"r":"Iglu","w":"iglu","o":["Iglu","iglu","Igluh","Iklu"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Iglu' steht mit dem Begleiter 'das'."},
+  {"r":"kocht","w":"Kocht","o":["kocht","Kocht","kogt","kochd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'kochen' schreibt man klein."},
+  {"r":"Suppe","w":"Supe","o":["Suppe","Supe","Suppä","Zuppe"],"k":"b","tipp":"Regel: Nach kurzem u steht doppel-p: Sup-pe."}
+]},
+{"s":2,"satz":"Die kleinen Pinguine rutschen lustig den glatten Eishügel auf ihren Bäuchen hinab.","f":[
+  {"r":"Pinguine","w":"pinguine","o":["Pinguine","pinguine","Pingwine","Pinguiene"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Pinguine' stehen mit dem Begleiter 'die'."},
+  {"r":"rutschen","w":"Rutschen","o":["rutschen","Rutschen","rutchen","rudschen"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'rutschen' schreibt man klein."},
+  {"r":"glatten","w":"glaten","o":["glatten","glaten","glattän","klatten"],"k":"b","tipp":"Regel: Nach kurzem a steht doppel-t: glat-ten."}
+]},
+{"s":2,"satz":"Im Schneesturm verliert der mutige Forscher fast den Weg zur sicheren Station.","f":[
+  {"r":"Schneesturm","w":"schneesturm","o":["Schneesturm","schneesturm","Schneestorm","Schnesturm"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Schneesturm' steht mit dem Begleiter 'der'."},
+  {"r":"verliert","w":"ferliert","o":["verliert","ferliert","verlirt","verliehrt"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v wie in 'verlieren'."},
+  {"r":"sicheren","w":"Sicheren","o":["sicheren","Sicheren","sigeren","sicherän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'sicher' schreibt man klein."}
+]},
+{"s":2,"satz":"Auf dem Eis spielt das verspielte Robbenbaby mit einem runden glänzenden Stein.","f":[
+  {"r":"Robbenbaby","w":"robbenbaby","o":["Robbenbaby","robbenbaby","Robenbaby","Roppenbaby"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Robbenbaby' steht mit dem Begleiter 'das'."},
+  {"r":"spielt","w":"Spielt","o":["spielt","Spielt","spilt","schpielt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'spielen' schreibt man klein."},
+  {"r":"glänzenden","w":"glenzenden","o":["glänzenden","glenzenden","glänzändän","klänzenden"],"k":"b","tipp":"Regel: 'glänzen' kommt von 'Glanz' und bekommt ä: glän-zen-de."}
+]},
+{"s":3,"satz":"Der Forscher zieht seine Jacke an, weil der eisige Wind laut über das Eis pfeift und schneit.","f":[
+  {"r":"an,","w":"an","o":["an,","an","an;","an."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"eisige","w":"Eisige","o":["eisige","Eisige","aisige","eißige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'eisig' schreibt man klein."},
+  {"r":"pfeift","w":"feift","o":["pfeift","feift","pfaift","pfeifd"],"k":"b","tipp":"Regel: 'pfeifen' beginnt mit pf: pfei-fen."}
+]},
+{"s":3,"satz":"Im Schlitten liegen Decken, Brote und eine Thermoskanne für die lange Reise.","f":[
+  {"r":"Decken,","w":"Decken","o":["Decken,","Decken","Decken;","Decken."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern: Decken, Brote und Kanne."},
+  {"r":"Schlitten","w":"schlitten","o":["Schlitten","schlitten","Schliten","Schlittän"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Schlitten' steht mit dem Begleiter 'der'."},
+  {"r":"Thermoskanne","w":"Termoskanne","o":["Thermoskanne","Termoskanne","Thermoskane","Thermoskannä"],"k":"b","tipp":"Regel: 'Thermos' schreibt man mit th: Ther-mos-kan-ne."}
+]},
+{"s":3,"satz":"Der Pinguin watschelt zum Wasser, damit er einen leckeren Fisch fangen kann.","f":[
+  {"r":"Wasser,","w":"Wasser","o":["Wasser,","Wasser","Wasser;","Wasser."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"watschelt","w":"Watschelt","o":["watschelt","Watschelt","watchelt","wadschelt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'watscheln' schreibt man klein."},
+  {"r":"leckeren","w":"lekeren","o":["leckeren","lekeren","leckerän","läckeren"],"k":"b","tipp":"Regel: Nach kurzem e steht ck: lecke-ren."}
+]},
+{"s":3,"satz":"Die Forscher suchen das Iglu, das sie gestern im dichten Schneesturm gebaut haben.","f":[
+  {"r":"Iglu,","w":"Iglu","o":["Iglu,","Iglu","Iglu;","Iglu."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'das' steht ein Komma."},
+  {"r":"suchen","w":"Suchen","o":["suchen","Suchen","suken","suchän"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'suchen' schreibt man klein."},
+  {"r":"dichten","w":"digten","o":["dichten","digten","dichtän","dichdten"],"k":"b","tipp":"Regel: 'dicht' schreibt man mit cht: dich-ten."}
+]},
+{"s":3,"satz":"Der Eisbär brummt zufrieden, sobald die warme Sonne sein dickes Fell wärmt.","f":[
+  {"r":"zufrieden,","w":"zufrieden","o":["zufrieden,","zufrieden","zufrieden;","zufrieden."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+  {"r":"Sonne","w":"sonne","o":["Sonne","sonne","Sone","Zonne"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Sonne' steht mit dem Begleiter 'die'."},
+  {"r":"dickes","w":"dikes","o":["dickes","dikes","dickäs","digges"],"k":"b","tipp":"Regel: Nach kurzem i steht ck: di-ckes."}
+]},
+{"s":3,"satz":"Die Robbe taucht tief hinab, obwohl das eiskalte Wasser schrecklich kalt ist.","f":[
+  {"r":"hinab,","w":"hinab","o":["hinab,","hinab","hinab;","hinab."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"taucht","w":"Taucht","o":["taucht","Taucht","taugt","taochd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'tauchen' schreibt man klein."},
+  {"r":"schrecklich","w":"schreklich","o":["schrecklich","schreklich","schrecklig","schräcklich"],"k":"b","tipp":"Regel: Nach kurzem e steht ck: schreck-lich."}
+]},
+{"s":3,"satz":"Wenn der Schneesturm tobt, bleibt der kluge Forscher in seinem warmen Iglu.","f":[
+  {"r":"tobt,","w":"tobt","o":["tobt,","tobt","tobt;","tobt."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'wenn' vorne, folgt danach ein Komma."},
+  {"r":"kluge","w":"Kluge","o":["kluge","Kluge","gluge","klughe"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klug' schreibt man klein."},
+  {"r":"warmen","w":"wahrmen","o":["warmen","wahrmen","warmän","warrmen"],"k":"b","tipp":"Regel: 'warm' braucht kein Dehnungs-h: war-men."}
+]},
+{"s":3,"satz":"Die Schlittenhunde rennen schnell, weil sie das nahe Forschercamp schon riechen können.","f":[
+  {"r":"schnell,","w":"schnell","o":["schnell,","schnell","schnell;","schnell."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Schlittenhunde","w":"schlittenhunde","o":["Schlittenhunde","schlittenhunde","Schlitenhunde","Schlittenhonde"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Schlittenhunde' stehen mit 'die'."},
+  {"r":"riechen","w":"richen","o":["riechen","richen","riehchen","riechän"],"k":"b","tipp":"Regel: 'riechen' schreibt man mit ie: rie-chen."}
+]},
+{"s":3,"satz":"Am Himmel leuchten Sterne, Polarlichter und der helle Mond über dem stillen Eis.","f":[
+  {"r":"Sterne,","w":"Sterne","o":["Sterne,","Sterne","Sterne;","Sterne."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern: Sterne, Lichter und Mond."},
+  {"r":"leuchten","w":"Leuchten","o":["leuchten","Leuchten","loichten","leugten"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'leuchten' schreibt man klein."},
+  {"r":"helle","w":"hele","o":["helle","hele","hellä","hälle"],"k":"b","tipp":"Regel: Nach kurzem e steht doppel-l: hel-le."}
+]},
+{"s":3,"satz":"Der Forscher freut sich, weil der mutige Pinguin endlich aus dem Wasser springt.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Pinguin","w":"pinguin","o":["Pinguin","pinguin","Pingwin","Pinguien"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Pinguin' steht mit dem Begleiter 'der'."},
+  {"r":"endlich","w":"entlich","o":["endlich","entlich","endlig","ändlich"],"k":"b","tipp":"Regel: 'endlich' kommt von 'Ende' mit d: end-lich."}
+]},
+{"s":3,"satz":"Sobald die Sonne aufgeht, beginnt der fleißige Forscher mit seiner langen Wanderung.","f":[
+  {"r":"aufgeht,","w":"aufgeht","o":["aufgeht,","aufgeht","aufgeht;","aufgeht."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'sobald' vorne, folgt danach ein Komma."},
+  {"r":"fleißige","w":"fleisige","o":["fleißige","fleisige","fleißiege","fleißigä"],"k":"b","tipp":"Regel: 'fleißig' schreibt man mit ß: flei-ßig."},
+  {"r":"langen","w":"Langen","o":["langen","Langen","langän","langhen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'lang' schreibt man klein."}
+]},
+{"s":3,"satz":"Der kleine Pinguin friert sehr, deshalb kuschelt er sich an seine warme Mama.","f":[
+  {"r":"sehr,","w":"sehr","o":["sehr,","sehr","sehr;","sehr."],"k":"k","tipp":"Regel: Vor 'deshalb' im Hauptsatz steht ein Komma."},
+  {"r":"kuschelt","w":"Kuschelt","o":["kuschelt","Kuschelt","kuchelt","guschelt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'kuscheln' schreibt man klein."},
+  {"r":"warme","w":"wahrme","o":["warme","wahrme","warmä","warrme"],"k":"b","tipp":"Regel: 'warm' braucht kein Dehnungs-h: war-me."}
+]}
+]

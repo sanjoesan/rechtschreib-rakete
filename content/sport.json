@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Beim Turnen springt das mutige Mädchen geschickt über den hohen Kasten in der Halle.","f":[
+  {"r":"Turnen","w":"Turnnen","o":["Turnen","Turnnen","Turrnen","Durnen"],"k":"b","tipp":"Merksatz: 'Turnen' hat nur ein n in der Mitte: Tur-nen."},
+  {"r":"mutige","w":"muhtige","o":["mutige","muhtige","mutiege","muttige"],"k":"b","tipp":"Merksatz: 'mutig' schreibt man ohne Dehnungs-h: mu-tig."},
+  {"r":"geschickt","w":"geshickt","o":["geschickt","geshickt","geschikt","geschickd"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: ge-schickt."}
+]},
+{"s":1,"satz":"Im kühlen Schwimmbad taucht der flinke Junge mutig bis zum tiefen Grund hinab.","f":[
+  {"r":"Schwimmbad","w":"Schwimbad","o":["Schwimmbad","Schwimbad","Schwimmbat","Shwimmbad"],"k":"b","tipp":"Merksatz: 'schwimmen' hat doppel-M: Schwimm-bad."},
+  {"r":"flinke","w":"flingke","o":["flinke","flingke","vlinke","flinkke"],"k":"b","tipp":"Merksatz: 'flink' schreibt man mit nk: flin-ke."},
+  {"r":"tiefen","w":"tifen","o":["tiefen","tifen","tieefen","diefen"],"k":"b","tipp":"Merksatz: 'tief' schreibt man mit ie: tie-fen."}
+]},
+{"s":1,"satz":"Beim schnellen Laufen pumpt das tapfere Kind die frische Luft tief in die Lungen.","f":[
+  {"r":"schnellen","w":"schnällen","o":["schnellen","schnällen","schnelen","shnellen"],"k":"b","tipp":"Merksatz: 'schnell' schreibt man mit e und doppel-L: schnel-len."},
+  {"r":"tapfere","w":"tapfäre","o":["tapfere","tapfäre","dapfere","tapferre"],"k":"b","tipp":"Merksatz: 'tapfer' schreibt man mit pf: tap-fe-re."},
+  {"r":"frische","w":"frishe","o":["frische","frishe","frieche","frissche"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit sch: fri-sche."}
+]},
+{"s":1,"satz":"Mit dem roten Rennrad fährt der eifrige Radfahrer rasant um die enge Kurve.","f":[
+  {"r":"Rennrad","w":"Renrad","o":["Rennrad","Renrad","Rennrat","Rännrad"],"k":"b","tipp":"Merksatz: 'rennen' hat doppel-N: Renn-rad."},
+  {"r":"eifrige","w":"aifrige","o":["eifrige","aifrige","eivrige","eifriege"],"k":"b","tipp":"Merksatz: 'eifrig' schreibt man mit ei: ei-fri-ge."},
+  {"r":"rasant","w":"rassant","o":["rasant","rassant","rasannt","razant"],"k":"b","tipp":"Merksatz: 'rasant' hat nur ein s: ra-sant."}
+]},
+{"s":1,"satz":"Beim spannenden Basketball wirft der große Spieler den Ball direkt in den Korb.","f":[
+  {"r":"spannenden","w":"spannänden","o":["spannenden","spannänden","spanenden","schpannenden"],"k":"b","tipp":"Merksatz: 'spannend' hat doppel-N: span-nend."},
+  {"r":"Basketball","w":"Baskettball","o":["Basketball","Baskettball","Basketbal","Pasketball"],"k":"b","tipp":"Merksatz: 'Basketball' hat nur ein t, aber doppel-L: Bas-ket-ball."},
+  {"r":"große","w":"grose","o":["große","grose","grosse","kroße"],"k":"b","tipp":"Merksatz: Nach langem o steht das ß: gro-ße."}
+]},
+{"s":1,"satz":"Der stolze Sieger hängt sich die glänzende Medaille um den verschwitzten Hals.","f":[
+  {"r":"stolze","w":"schtolze","o":["stolze","schtolze","stolzze","sdolze"],"k":"b","tipp":"Merksatz: 'stolz' beginnt mit st: stol-ze."},
+  {"r":"glänzende","w":"glenzende","o":["glänzende","glenzende","klänzende","glänzänne"],"k":"b","tipp":"Merksatz: 'glänzen' kommt von 'Glanz' und wird mit ä geschrieben."},
+  {"r":"Medaille","w":"Medalje","o":["Medaille","Medalje","Medaile","Medaihlle"],"k":"b","tipp":"Merksatz: 'Medaille' schreibt man mit aille: Me-dail-le."}
+]},
+{"s":1,"satz":"Der geduldige Trainer erklärt der jungen Mannschaft die wichtigen Regeln des Spiels.","f":[
+  {"r":"geduldige","w":"gedultige","o":["geduldige","gedultige","keduldige","geduldieg"],"k":"b","tipp":"Merksatz: 'geduldig' kommt von 'Geduld' und wird mit d geschrieben."},
+  {"r":"Mannschaft","w":"Manschaft","o":["Mannschaft","Manschaft","Mannshaft","Mannschafd"],"k":"b","tipp":"Merksatz: 'Mann' hat doppel-N: Mann-schaft."},
+  {"r":"wichtigen","w":"wichdigen","o":["wichtigen","wichdigen","wichtiegen","wichtiggen"],"k":"b","tipp":"Merksatz: 'wichtig' schreibt man mit ch und t: wich-tig."}
+]},
+{"s":1,"satz":"Vor dem großen Wettkampf wärmt sich die nervöse Sportlerin in der hellen Turnhalle auf.","f":[
+  {"r":"Wettkampf","w":"Wetkampf","o":["Wettkampf","Wetkampf","Wettkamf","Wettgampf"],"k":"b","tipp":"Merksatz: 'Wett' hat doppel-T: Wett-kampf."},
+  {"r":"nervöse","w":"närvöse","o":["nervöse","närvöse","nerföse","nervööse"],"k":"b","tipp":"Merksatz: 'nervös' schreibt man mit e und v: ner-vös."},
+  {"r":"Turnhalle","w":"Turnhale","o":["Turnhalle","Turnhale","Durnhalle","Turnhallä"],"k":"b","tipp":"Merksatz: 'Halle' hat doppel-L: Turn-hal-le."}
+]},
+{"s":1,"satz":"Beim Radfahren klingelt der fröhliche Junge laut, bevor er die schmale Brücke überquert.","f":[
+  {"r":"Radfahren","w":"Radfaren","o":["Radfahren","Radfaren","Ratfahren","Radfahrän"],"k":"b","tipp":"Merksatz: 'fahren' hat ein Dehnungs-h: Rad-fah-ren."},
+  {"r":"fröhliche","w":"frölliche","o":["fröhliche","frölliche","fröliche","fröhlige"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h nach dem ö: fröh-lich."},
+  {"r":"schmale","w":"schmahle","o":["schmale","schmahle","shmale","schmalle"],"k":"b","tipp":"Merksatz: 'schmal' schreibt man ohne Dehnungs-h: schma-le."}
+]},
+{"s":1,"satz":"Mit einem riesigen Sprung schwimmt der schnelle Delfin elegant durch das klare Wasser.","f":[
+  {"r":"riesigen","w":"risigen","o":["riesigen","risigen","riesieggen","riessigen"],"k":"b","tipp":"Merksatz: 'riesig' schreibt man mit ie: rie-si-gen."},
+  {"r":"schwimmt","w":"schwimt","o":["schwimmt","schwimt","shwimmt","schwimmd"],"k":"b","tipp":"Merksatz: 'schwimmen' hat doppel-M: schwim-men."},
+  {"r":"elegant","w":"ellegant","o":["elegant","ellegant","ellekant","eleganndt"],"k":"b","tipp":"Merksatz: 'elegant' hat nur ein l: e-le-gant."}
+]},
+{"s":1,"satz":"Beim Turnen macht das geschickte Kind einen perfekten Purzelbaum auf der weichen Matte.","f":[
+  {"r":"geschickte","w":"geschikte","o":["geschickte","geschikte","geshickte","keschickte"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: ge-schick-te."},
+  {"r":"perfekten","w":"perfegten","o":["perfekten","perfegten","perveckten","perfektän"],"k":"b","tipp":"Merksatz: 'perfekt' schreibt man mit k und t: per-fekt."},
+  {"r":"weichen","w":"waichen","o":["weichen","waichen","weiechen","weichän"],"k":"b","tipp":"Merksatz: 'weich' schreibt man mit ei: wei-chen."}
+]},
+{"s":1,"satz":"Mit lautem Jubel feiert die ganze Mannschaft ihren tollen Sieg im wichtigen Endspiel.","f":[
+  {"r":"Jubel","w":"Juubel","o":["Jubel","Juubel","Jubbel","Jubäl"],"k":"b","tipp":"Merksatz: 'Jubel' schreibt man mit kurzem u: Ju-bel."},
+  {"r":"Mannschaft","w":"Manschaft","o":["Mannschaft","Manschaft","Mannshaft","Mannschafd"],"k":"b","tipp":"Merksatz: 'Mann' hat doppel-N: Mann-schaft."},
+  {"r":"tollen","w":"tolen","o":["tollen","tolen","dollen","tollän"],"k":"b","tipp":"Merksatz: 'toll' hat doppel-L: tol-len."}
+]},
+{"s":2,"satz":"Beim Schwimmen taucht der mutige Junge tief unter die kühle Oberfläche des Sees.","f":[
+  {"r":"Schwimmen","w":"schwimmen","o":["Schwimmen","schwimmen","Schwimen","Shwimmen"],"k":"g","tipp":"Regel: 'das Schwimmen' ist hier ein Nomen (Nominalisierung) und wird großgeschrieben."},
+  {"r":"mutige","w":"Mutige","o":["mutige","Mutige","muhtige","muttige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'mutig' schreibt man klein."},
+  {"r":"Oberfläche","w":"Oberfleche","o":["Oberfläche","Oberfleche","Oberflähche","Operfläche"],"k":"b","tipp":"Regel: 'Oberfläche' schreibt man mit ä: Ober-flä-che."}
+]},
+{"s":2,"satz":"Der freundliche Trainer lobt die fleißige Mannschaft nach dem anstrengenden Training laut.","f":[
+  {"r":"Trainer","w":"trainer","o":["Trainer","trainer","Trainner","Drainer"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'der Trainer' schreibt man groß."},
+  {"r":"freundliche","w":"Freundliche","o":["freundliche","Freundliche","freuntliche","freundlige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'freundlich' schreibt man klein."},
+  {"r":"anstrengenden","w":"anstrengännden","o":["anstrengenden","anstrengännden","anschtrengenden","anstrenngenden"],"k":"b","tipp":"Regel: 'anstrengend' schreibt man mit eng: an-stren-gend."}
+]},
+{"s":2,"satz":"Beim Basketball wirft die geschickte Spielerin den orangenen Ball sicher in den Korb.","f":[
+  {"r":"Basketball","w":"basketball","o":["Basketball","basketball","Baskettball","Basketbal"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'der Basketball' schreibt man groß."},
+  {"r":"geschickte","w":"Geschickte","o":["geschickte","Geschickte","geschikte","geshickte"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'geschickt' schreibt man klein."},
+  {"r":"orangenen","w":"orangennen","o":["orangenen","orangennen","oranchenen","orangänen"],"k":"b","tipp":"Regel: 'orange' schreibt man mit g: oran-ge-nen."}
+]},
+{"s":2,"satz":"Vor dem Wettkampf zittert die nervöse Läuferin aufgeregt an der weißen Startlinie.","f":[
+  {"r":"Wettkampf","w":"wettkampf","o":["Wettkampf","wettkampf","Wetkampf","Wettkamf"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'der Wettkampf' schreibt man groß."},
+  {"r":"zittert","w":"Zittert","o":["zittert","Zittert","zitert","zittärt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'zittern' schreibt man klein."},
+  {"r":"weißen","w":"weisen","o":["weißen","weisen","waißen","weißän"],"k":"b","tipp":"Regel: Nach dem langen ei steht ß: wei-ßen."}
+]},
+{"s":2,"satz":"Beim Radfahren tritt der sportliche Junge kräftig in die Pedale des roten Fahrrads.","f":[
+  {"r":"Radfahren","w":"radfahren","o":["Radfahren","radfahren","Radfaren","Ratfahren"],"k":"g","tipp":"Regel: 'das Radfahren' ist hier ein Nomen (Nominalisierung) und wird großgeschrieben."},
+  {"r":"sportliche","w":"Sportliche","o":["sportliche","Sportliche","sporliche","schportliche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'sportlich' schreibt man klein."},
+  {"r":"kräftig","w":"krefdig","o":["kräftig","krefdig","kräfdig","greftig"],"k":"b","tipp":"Regel: 'kräftig' kommt von 'Kraft' und wird mit ä geschrieben."}
+]},
+{"s":2,"satz":"Die stolze Sportlerin zeigt allen Freunden ihre glänzende Medaille vom großen Turnier.","f":[
+  {"r":"Medaille","w":"medaille","o":["Medaille","medaille","Medalje","Medaile"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'die Medaille' schreibt man groß."},
+  {"r":"glänzende","w":"Glänzende","o":["glänzende","Glänzende","glenzende","klänzende"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'glänzend' schreibt man klein."},
+  {"r":"großen","w":"grosen","o":["großen","grosen","grossen","kroßen"],"k":"b","tipp":"Regel: Nach langem o steht ß: gro-ßen."}
+]},
+{"s":2,"satz":"Beim Turnen balanciert das geschickte Kind langsam über den hohen, wackeligen Balken.","f":[
+  {"r":"Turnen","w":"turnen","o":["Turnen","turnen","Turnnen","Durnen"],"k":"g","tipp":"Regel: 'das Turnen' ist hier ein Nomen (Nominalisierung) und wird großgeschrieben."},
+  {"r":"balanciert","w":"Balanciert","o":["balanciert","Balanciert","balansiert","palanciert"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'balancieren' schreibt man klein."},
+  {"r":"wackeligen","w":"wakeligen","o":["wackeligen","wakeligen","wackeliegen","wackäligen"],"k":"b","tipp":"Regel: Nach kurzem a steht ck: wa-cke-lig."}
+]},
+{"s":2,"satz":"Der schnelle Schwimmer gewinnt das spannende Rennen mit einem riesigen Vorsprung.","f":[
+  {"r":"Schwimmer","w":"schwimmer","o":["Schwimmer","schwimmer","Schwimer","Shwimmer"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'der Schwimmer' schreibt man groß."},
+  {"r":"gewinnt","w":"Gewinnt","o":["gewinnt","Gewinnt","gewint","kewinnt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'gewinnen' schreibt man klein."},
+  {"r":"riesigen","w":"risigen","o":["riesigen","risigen","riesieggen","riessigen"],"k":"b","tipp":"Regel: 'riesig' schreibt man mit ie: rie-sig."}
+]},
+{"s":2,"satz":"Auf dem grünen Rasen trainiert die junge Mannschaft fleißig für das wichtige Finale.","f":[
+  {"r":"Mannschaft","w":"mannschaft","o":["Mannschaft","mannschaft","Manschaft","Mannshaft"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'die Mannschaft' schreibt man groß."},
+  {"r":"trainiert","w":"Trainiert","o":["trainiert","Trainiert","trainniert","drainiert"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'trainieren' schreibt man klein."},
+  {"r":"fleißig","w":"fleisig","o":["fleißig","fleisig","fleißieg","flaißig"],"k":"b","tipp":"Regel: Nach dem langen ei steht ß: flei-ßig."}
+]},
+{"s":2,"satz":"Beim Laufen atmet der erschöpfte Sportler tief, während die Sonne über der Bahn scheint.","f":[
+  {"r":"Laufen","w":"laufen","o":["Laufen","laufen","Laofen","Lauffen"],"k":"g","tipp":"Regel: 'das Laufen' ist hier ein Nomen (Nominalisierung) und wird großgeschrieben."},
+  {"r":"atmet","w":"Atmet","o":["atmet","Atmet","admet","atmed"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'atmen' schreibt man klein."},
+  {"r":"erschöpfte","w":"erschöpte","o":["erschöpfte","erschöpte","ershöpfte","erschöbfte"],"k":"b","tipp":"Regel: 'erschöpft' schreibt man mit pf: er-schöpft."}
+]},
+{"s":2,"satz":"Der lustige Turner macht einen kühnen Salto und landet sicher auf der weichen Matte.","f":[
+  {"r":"Turner","w":"turner","o":["Turner","turner","Turnner","Durner"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'der Turner' schreibt man groß."},
+  {"r":"lustige","w":"Lustige","o":["lustige","Lustige","lusdige","lustieg"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'lustig' schreibt man klein."},
+  {"r":"weichen","w":"waichen","o":["weichen","waichen","weiechen","weichän"],"k":"b","tipp":"Regel: 'weich' schreibt man mit ei: wei-chen."}
+]},
+{"s":2,"satz":"Mit voller Kraft schießt der starke Stürmer den Ball über das ganze grüne Feld.","f":[
+  {"r":"Kraft","w":"kraft","o":["Kraft","kraft","Krafd","Graft"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'die Kraft' schreibt man groß."},
+  {"r":"starke","w":"Starke","o":["starke","Starke","schtarke","starkke"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'stark' schreibt man klein."},
+  {"r":"schießt","w":"schiest","o":["schießt","schiest","shießt","schiießt"],"k":"b","tipp":"Regel: Nach dem langen ie steht ß: schie-ßen."}
+]},
+{"s":3,"satz":"Der Trainer pfeift laut, weil die Mannschaft endlich ein tolles Tor geschossen hat.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Mannschaft","w":"mannschaft","o":["Mannschaft","mannschaft","Manschaft","Mannshaft"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'die Mannschaft' schreibt man groß."},
+  {"r":"geschossen","w":"geschosen","o":["geschossen","geschosen","geshossen","geschoßen"],"k":"b","tipp":"Regel: Nach kurzem o steht doppel-S: ge-schos-sen."}
+]},
+{"s":3,"satz":"Weil das Rennen so spannend war, jubelten die aufgeregten Zuschauer auf der vollen Tribüne.","f":[
+  {"r":"war,","w":"war","o":["war,","war","war;","war."],"k":"k","tipp":"Regel: Steht der Nebensatz vorne ('Weil ...'), folgt nach ihm ein Komma."},
+  {"r":"Zuschauer","w":"zuschauer","o":["Zuschauer","zuschauer","Zushauer","Zuschaouer"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'die Zuschauer' schreibt man groß."},
+  {"r":"aufgeregten","w":"aufgerechten","o":["aufgeregten","aufgerechten","aufgereckten","aofgeregten"],"k":"b","tipp":"Regel: 'aufgeregt' kommt von 'regen' und wird mit g geschrieben."}
+]},
+{"s":3,"satz":"Die Sportlerin packt ihre Schwimmbrille, ihre Badekappe und ihr Handtuch in die große Tasche.","f":[
+  {"r":"Schwimmbrille,","w":"Schwimmbrille","o":["Schwimmbrille,","Schwimmbrille","Schwimmbrille;","Schwimmbrille."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"Badekappe","w":"badekappe","o":["Badekappe","badekappe","Badekape","Padekappe"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'die Badekappe' schreibt man groß."},
+  {"r":"Handtuch","w":"Hanttuch","o":["Handtuch","Hanttuch","Handtuh","Handduch"],"k":"b","tipp":"Regel: 'Handtuch' kommt von 'Hand' und wird mit d geschrieben."}
+]},
+{"s":3,"satz":"Der schnelle Läufer ist sehr stolz, weil er die schwere Goldmedaille gewonnen hat.","f":[
+  {"r":"stolz,","w":"stolz","o":["stolz,","stolz","stolz;","stolz."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Goldmedaille","w":"goldmedaille","o":["Goldmedaille","goldmedaille","Goltmedaille","Goldmedaile"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'die Goldmedaille' schreibt man groß."},
+  {"r":"schwere","w":"shwere","o":["schwere","shwere","schwäre","schwerre"],"k":"b","tipp":"Regel: 'schwer' schreibt man mit sch: schwe-re."}
+]},
+{"s":3,"satz":"Der Turner, der einen roten Anzug trägt, springt elegant über das hohe Sprungpferd.","f":[
+  {"r":"Turner,","w":"Turner","o":["Turner,","Turner","Turner;","Turner."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'der' steht ein Komma."},
+  {"r":"roten","w":"Roten","o":["roten","Roten","rohten","rotten"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'rot' schreibt man klein."},
+  {"r":"elegant","w":"ellegant","o":["elegant","ellegant","ellekant","eleganndt"],"k":"b","tipp":"Regel: 'elegant' hat nur ein l: e-le-gant."}
+]},
+{"s":3,"satz":"Obwohl das Training sehr anstrengend war, lachte die fröhliche Mannschaft die ganze Zeit.","f":[
+  {"r":"war,","w":"war","o":["war,","war","war;","war."],"k":"k","tipp":"Regel: Steht der Nebensatz vorne ('Obwohl ...'), folgt nach ihm ein Komma."},
+  {"r":"Mannschaft","w":"mannschaft","o":["Mannschaft","mannschaft","Manschaft","Mannshaft"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'die Mannschaft' schreibt man groß."},
+  {"r":"fröhliche","w":"frölliche","o":["fröhliche","frölliche","fröliche","fröhlige"],"k":"b","tipp":"Regel: 'fröhlich' hat ein Dehnungs-h nach dem ö: fröh-lich."}
+]},
+{"s":3,"satz":"Beim Sportfest gibt es Laufen, Springen und Werfen für alle begeisterten Kinder.","f":[
+  {"r":"Laufen,","w":"Laufen","o":["Laufen,","Laufen","Laufen;","Laufen."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"begeisterten","w":"begaisterten","o":["begeisterten","begaisterten","begeistärten","pegeisterten"],"k":"b","tipp":"Regel: 'begeistert' schreibt man mit ei: be-geis-tert."},
+  {"r":"Springen","w":"springen","o":["Springen","springen","Schpringen","Springän"],"k":"g","tipp":"Regel: 'das Springen' ist hier ein Nomen (Nominalisierung) und wird großgeschrieben."}
+]},
+{"s":3,"satz":"Die Schwimmerin freut sich riesig, weil sie ihren persönlichen Rekord deutlich verbessert hat.","f":[
+  {"r":"riesig,","w":"riesig","o":["riesig,","riesig","riesig;","riesig."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Rekord","w":"rekord","o":["Rekord","rekord","Rekort","Reckord"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'der Rekord' schreibt man groß."},
+  {"r":"persönlichen","w":"persönligen","o":["persönlichen","persönligen","perzönlichen","persönlichän"],"k":"b","tipp":"Regel: 'persönlich' schreibt man mit ch: per-sön-lich."}
+]},
+{"s":3,"satz":"Wenn der Schiedsrichter pfeift, rennen alle Spieler sofort über das ganze grüne Spielfeld.","f":[
+  {"r":"pfeift,","w":"pfeift","o":["pfeift,","pfeift","pfeift;","pfeift."],"k":"k","tipp":"Regel: Steht der Nebensatz vorne ('Wenn ...'), folgt nach ihm ein Komma."},
+  {"r":"Spieler","w":"spieler","o":["Spieler","spieler","Schpieler","Spielär"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'die Spieler' schreibt man groß."},
+  {"r":"Schiedsrichter","w":"Schitsrichter","o":["Schiedsrichter","Schitsrichter","Shiedsrichter","Schiedsrichdter"],"k":"b","tipp":"Regel: 'Schiedsrichter' schreibt man mit ie und ds: Schieds-rich-ter."}
+]},
+{"s":3,"satz":"Der erschöpfte Radfahrer macht eine Pause, weil der steile Berg sehr anstrengend war.","f":[
+  {"r":"Pause,","w":"Pause","o":["Pause,","Pause","Pause;","Pause."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"steile","w":"Steile","o":["steile","Steile","schteile","staile"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'steil' schreibt man klein."},
+  {"r":"erschöpfte","w":"erschöpte","o":["erschöpfte","erschöpte","ershöpfte","erschöbfte"],"k":"b","tipp":"Regel: 'erschöpft' schreibt man mit pf: er-schöpft."}
+]},
+{"s":3,"satz":"Die Mannschaft trainiert hart, damit sie beim nächsten Turnier den ersten Platz erreicht.","f":[
+  {"r":"hart,","w":"hart","o":["hart,","hart","hart;","hart."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Turnier","w":"turnier","o":["Turnier","turnier","Turnir","Turnieer"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'das Turnier' schreibt man groß."},
+  {"r":"nächsten","w":"nechsten","o":["nächsten","nechsten","nägsten","näxten"],"k":"b","tipp":"Regel: 'nächsten' schreibt man mit ä und chs: näch-sten."}
+]},
+{"s":3,"satz":"Der junge Basketballspieler übt jeden Tag, weil er später ein berühmter Profi werden möchte.","f":[
+  {"r":"Tag,","w":"Tag","o":["Tag,","Tag","Tag;","Tag."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Basketballspieler","w":"basketballspieler","o":["Basketballspieler","basketballspieler","Basketbalspieler","Baskettballspieler"],"k":"g","tipp":"Regel: Namenwörter (Nomen) wie 'der Basketballspieler' schreibt man groß."},
+  {"r":"berühmter","w":"berümter","o":["berühmter","berümter","beruhmter","berühmtär"],"k":"b","tipp":"Regel: 'berühmt' hat ein Dehnungs-h nach dem ü: be-rühmt."}
+]}
+]

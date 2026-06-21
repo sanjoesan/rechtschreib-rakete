@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Auf dem großen Feld wächst der goldene Weizen hoch in den blauen Himmel.","f":[
+  {"r":"Feld","w":"Feltt","o":["Feld","Feltt","Felld","Fält"],"k":"b","tipp":"Merksatz: Das Feld endet auf d wie in 'Felder': Feld."},
+  {"r":"wächst","w":"wäkst","o":["wächst","wäkst","wächßt","wachst"],"k":"b","tipp":"Merksatz: 'wachsen' schreibt man mit chs wie in 'Fuchs'."},
+  {"r":"goldene","w":"goltene","o":["goldene","goltene","goldne","goldänne"],"k":"b","tipp":"Merksatz: 'golden' kommt von 'Gold' mit d: gol-de-ne."}
+]},
+{"s":1,"satz":"Der laute Mähdrescher fährt über den Acker und sammelt das reife Korn ein.","f":[
+  {"r":"Mähdrescher","w":"Mehdrescher","o":["Mähdrescher","Mehdrescher","Mähdrescha","Mähtrescher"],"k":"b","tipp":"Merksatz: Der Mähdrescher mäht, darum mit ä: Mäh-dre-scher."},
+  {"r":"Acker","w":"Aker","o":["Acker","Aker","Akker","Ackher"],"k":"b","tipp":"Merksatz: Nach kurzem a kommt ck: A-cker."},
+  {"r":"reife","w":"raife","o":["reife","raife","reiffe","reihfe"],"k":"b","tipp":"Merksatz: 'reif' schreibt man mit ei und f: rei-fe."}
+]},
+{"s":1,"satz":"Im sonnigen Obstgarten pflückt das Mädchen die süßen roten Äpfel vom Baum.","f":[
+  {"r":"Obstgarten","w":"Obstgahrten","o":["Obstgarten","Obstgahrten","Opstgarten","Obstgartten"],"k":"b","tipp":"Merksatz: Der Garten braucht kein Dehnungs-h: Gar-ten."},
+  {"r":"süßen","w":"süssen","o":["süßen","süssen","süßän","sühßen"],"k":"b","tipp":"Merksatz: Nach langem ü steht das scharfe ß: sü-ßen."},
+  {"r":"Äpfel","w":"Äpfäl","o":["Äpfel","Äpfäl","Epfel","Äppfel"],"k":"b","tipp":"Merksatz: Äpfel kommen von 'Apfel' – darum mit ä und pf."}
+]},
+{"s":1,"satz":"Der fleißige Bauer zieht die knackigen Karotten aus der dunklen Erde heraus.","f":[
+  {"r":"fleißige","w":"fleisige","o":["fleißige","fleisige","fleißiege","vleißige"],"k":"b","tipp":"Merksatz: Nach langem ei kommt das scharfe ß: flei-ßig."},
+  {"r":"knackigen","w":"knakigen","o":["knackigen","knakigen","knackiegen","gnackigen"],"k":"b","tipp":"Merksatz: Nach kurzem a kommt ck: kna-ckig."},
+  {"r":"Karotten","w":"Karoten","o":["Karotten","Karoten","Kahrotten","Karottän"],"k":"b","tipp":"Merksatz: Karotten haben doppel-t: Ka-rot-ten."}
+]},
+{"s":1,"satz":"Am Samstag verkauft die Bäuerin auf dem Bauernmarkt frisches Gemüse und reife Birnen.","f":[
+  {"r":"verkauft","w":"ferkauft","o":["verkauft","ferkauft","verkaoft","verkaufd"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v wie in 'vergessen'."},
+  {"r":"Bauernmarkt","w":"Bauernmargt","o":["Bauernmarkt","Bauernmargt","Baoernmarkt","Bauernmarckt"],"k":"b","tipp":"Merksatz: Der Markt endet auf kt: Mar-kt."},
+  {"r":"frisches","w":"frishes","o":["frisches","frishes","frischäs","frissches"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit sch: fri-sches."}
+]},
+{"s":1,"satz":"Die müde Kuh frisst saftiges Gras und gibt am Abend viel weiße Milch.","f":[
+  {"r":"frisst","w":"frißt","o":["frisst","frißt","frist","vrisst"],"k":"b","tipp":"Merksatz: Nach kurzem i kommt ss: fri-sst."},
+  {"r":"saftiges","w":"safdiges","o":["saftiges","safdiges","saftieges","safftiges"],"k":"b","tipp":"Merksatz: In 'saftig' steckt der 'Saft' – mit ft."},
+  {"r":"weiße","w":"weisse","o":["weiße","weisse","waiße","weißä"],"k":"b","tipp":"Merksatz: Nach langem ei steht das scharfe ß: wei-ße."}
+]},
+{"s":1,"satz":"Hinter der alten Scheune stapelt der Knecht die schweren Strohballen ordentlich auf.","f":[
+  {"r":"Scheune","w":"Scheine","o":["Scheune","Scheine","Scheuhne","Scheonne"],"k":"b","tipp":"Merksatz: Die Scheune schreibt man mit eu wie in 'heute'."},
+  {"r":"schweren","w":"schwehren","o":["schweren","schwehren","schwerän","schwerren"],"k":"b","tipp":"Merksatz: 'schwer' braucht kein Dehnungs-h: schwe-ren."},
+  {"r":"Strohballen","w":"Stroballen","o":["Strohballen","Stroballen","Schtrohballen","Strohbalen"],"k":"b","tipp":"Merksatz: In 'Stroh' steckt das Dehnungs-h: Stroh-bal-len."}
+]},
+{"s":1,"satz":"Der pfiffige Traktor zuckelt langsam über den staubigen Feldweg zur Ernte.","f":[
+  {"r":"pfiffige","w":"pfifige","o":["pfiffige","pfifige","fiffige","pfiffieg"],"k":"b","tipp":"Merksatz: 'pfiffig' beginnt mit pf und hat doppel-f: pfif-fig."},
+  {"r":"zuckelt","w":"zukelt","o":["zuckelt","zukelt","tzuckelt","zuggelt"],"k":"b","tipp":"Merksatz: Nach kurzem u kommt ck: zu-ckelt."},
+  {"r":"staubigen","w":"staobigen","o":["staubigen","staobigen","schtaubigen","staubiegen"],"k":"b","tipp":"Merksatz: 'Staub' mit au – wie 'Au, das kitzelt in der Nase'."}
+]},
+{"s":1,"satz":"Im Herbst sammelt der Bauer die reiche Ernte mit dem Wagen von den Feldern.","f":[
+  {"r":"Herbst","w":"Herpst","o":["Herbst","Herpst","Härbst","Herbßt"],"k":"b","tipp":"Merksatz: Im Herbst steckt ein b vor dem st: Herb-st."},
+  {"r":"reiche","w":"reihe","o":["reiche","reihe","reische","raiche"],"k":"b","tipp":"Merksatz: 'reich' schreibt man mit ei und ch: rei-che."},
+  {"r":"Ernte","w":"Ernde","o":["Ernte","Ernde","Erndte","Ärnte"],"k":"b","tipp":"Merksatz: Die Ernte hat ein hartes t: Ern-te."}
+]},
+{"s":1,"satz":"Das gefräßige Schwein wühlt vergnügt im Matsch und sucht nach dicken Kartoffeln im Boden.","f":[
+  {"r":"gefräßige","w":"gefräsige","o":["gefräßige","gefräsige","gefräßiege","kefräßige"],"k":"b","tipp":"Merksatz: Nach langem ä steht das scharfe ß: ge-frä-ßig."},
+  {"r":"vergnügt","w":"fergnügt","o":["vergnügt","fergnügt","vergnügd","verknügt"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v wie in 'vergessen'."},
+  {"r":"Kartoffeln","w":"Kartofeln","o":["Kartoffeln","Kartofeln","Kahrtoffeln","Kartoffäln"],"k":"b","tipp":"Merksatz: Kartoffeln haben doppel-f: Kar-tof-feln."}
+]},
+{"s":1,"satz":"Die fröhliche Magd gießt mit frischem Wasser die jungen Pflanzen im sonnigen Gemüsebeet.","f":[
+  {"r":"fröhliche","w":"frölliche","o":["fröhliche","frölliche","fröhlige","fröhlicke"],"k":"b","tipp":"Merksatz: In 'fröhlich' steckt ein Dehnungs-h: fröh-lich."},
+  {"r":"Wasser","w":"Waser","o":["Wasser","Waser","Wassär","Vasser"],"k":"b","tipp":"Merksatz: Nach kurzem a kommt ss: Was-ser."},
+  {"r":"Pflanzen","w":"Flanzen","o":["Pflanzen","Flanzen","Pflantzen","Pflanzän"],"k":"b","tipp":"Merksatz: 'Pflanze' beginnt mit pf: Pflan-ze."}
+]},
+{"s":1,"satz":"Am frühen Morgen krähen die Hähne laut und wecken den ganzen Bauernhof auf.","f":[
+  {"r":"frühen","w":"frühn","o":["frühen","frühn","frien","frühän"],"k":"b","tipp":"Merksatz: 'früh' trägt ein Dehnungs-h: frü-hen."},
+  {"r":"krähen","w":"krehen","o":["krähen","krehen","krähän","grähen"],"k":"b","tipp":"Merksatz: 'krähen' schreibt man mit ä und Dehnungs-h: krä-hen."},
+  {"r":"Hähne","w":"Hehne","o":["Hähne","Hehne","Hähnne","Hähnä"],"k":"b","tipp":"Merksatz: 'Hähne' kommt von 'Hahn' – darum mit ä."}
+]},
+{"s":2,"satz":"Der freundliche Bauer pflanzt im Frühling viele bunte Kürbisse in seinen Garten.","f":[
+  {"r":"Bauer","w":"bauer","o":["Bauer","bauer","Baoer","Bauher"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Bauer' steht mit dem Begleiter 'der'."},
+  {"r":"pflanzt","w":"Pflanzt","o":["pflanzt","Pflanzt","flanzt","pflantzt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'pflanzen' schreibt man klein."},
+  {"r":"Kürbisse","w":"Kürbise","o":["Kürbisse","Kürbise","Kürbissä","Kürpisse"],"k":"b","tipp":"Regel: Nach kurzem i steht ss: Kür-bis-se."}
+]},
+{"s":2,"satz":"Auf der Weide grasen die braunen Kühe und genießen das saftige grüne Gras.","f":[
+  {"r":"Weide","w":"weide","o":["Weide","weide","Waide","Weihde"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Weide' steht mit dem Begleiter 'die'."},
+  {"r":"genießen","w":"geniesen","o":["genießen","geniesen","genießän","geniäßen"],"k":"b","tipp":"Regel: Nach langem ie steht das scharfe ß: ge-nie-ßen."},
+  {"r":"saftige","w":"Saftige","o":["saftige","Saftige","safdige","saftiege"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'saftig' schreibt man klein."}
+]},
+{"s":2,"satz":"Im Stall füttert die Bäuerin am Morgen die hungrigen Schweine mit frischen Rüben.","f":[
+  {"r":"füttert","w":"Füttert","o":["füttert","Füttert","fütert","füttärt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'füttern' schreibt man klein."},
+  {"r":"Morgen","w":"morgen","o":["Morgen","morgen","Morken","Morgän"],"k":"g","tipp":"Regel: Tageszeiten wie 'der Morgen' sind Nomen und werden großgeschrieben."},
+  {"r":"hungrigen","w":"hungriegen","o":["hungrigen","hungriegen","hungerigen","hunkrigen"],"k":"b","tipp":"Regel: In 'hungrig' steckt der 'Hunger' – mit u und g."}
+]},
+{"s":2,"satz":"Beim Pflügen zieht der starke Ochse den schweren Pflug über das weiche Erdreich.","f":[
+  {"r":"Pflügen","w":"pflügen","o":["Pflügen","pflügen","Flügen","Pflüegen"],"k":"g","tipp":"Regel: Wird ein Tunwort zum Namenwort ('beim Pflügen'), schreibt man es groß."},
+  {"r":"starke","w":"Starke","o":["starke","Starke","schtarke","starcke"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'stark' schreibt man klein."},
+  {"r":"schweren","w":"schwehren","o":["schweren","schwehren","schwerän","schwerren"],"k":"b","tipp":"Regel: 'schwer' braucht kein Dehnungs-h: schwe-ren."}
+]},
+{"s":2,"satz":"Der Imker erntet im Sommer den goldenen Honig vorsichtig aus den summenden Bienenstöcken.","f":[
+  {"r":"erntet","w":"Erntet","o":["erntet","Erntet","erndet","erntät"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'ernten' schreibt man klein."},
+  {"r":"Honig","w":"honig","o":["Honig","honig","Honich","Honnig"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'den Honig' steht mit dem Begleiter 'den'."},
+  {"r":"summenden","w":"sumenden","o":["summenden","sumenden","summändän","sumennden"],"k":"b","tipp":"Regel: Nach kurzem u steht doppel-m: sum-men-den."}
+]},
+{"s":2,"satz":"Im Hühnerstall gackern die aufgeregten Hennen und die Bäuerin sammelt die warmen Eier ein.","f":[
+  {"r":"Hennen","w":"hennen","o":["Hennen","hennen","Hähnen","Hennän"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Hennen' steht mit dem Begleiter 'die'."},
+  {"r":"sammelt","w":"Sammelt","o":["sammelt","Sammelt","samelt","sammält"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'sammeln' schreibt man klein."},
+  {"r":"warmen","w":"wahrmen","o":["warmen","wahrmen","warmän","warrmen"],"k":"b","tipp":"Regel: 'warm' braucht kein Dehnungs-h: war-men."}
+]},
+{"s":2,"satz":"Auf dem Markt verkauft die Gärtnerin knackige Möhren und duftende Erdbeeren in großen Körben.","f":[
+  {"r":"Markt","w":"markt","o":["Markt","markt","Margt","Marckt"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'dem Markt' steht mit dem Begleiter 'dem'."},
+  {"r":"duftende","w":"duvtende","o":["duftende","duvtende","duftänte","dufftende"],"k":"b","tipp":"Regel: 'duften' schreibt man mit f wie in 'Duft'."},
+  {"r":"großen","w":"Großen","o":["großen","Großen","grosen","grohßen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'groß' schreibt man klein."}
+]},
+{"s":2,"satz":"Beim Säen streut der Landwirt die winzigen Samen gleichmäßig über den frisch gepflügten Boden.","f":[
+  {"r":"Säen","w":"säen","o":["Säen","säen","Sähen","Seen"],"k":"g","tipp":"Regel: Wird ein Tunwort zum Namenwort ('beim Säen'), schreibt man es groß."},
+  {"r":"streut","w":"Streut","o":["streut","Streut","schtreut","streud"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'streuen' schreibt man klein."},
+  {"r":"gleichmäßig","w":"gleichmäsig","o":["gleichmäßig","gleichmäsig","glaichmäßig","gleichmäßieg"],"k":"b","tipp":"Regel: Nach langem ä steht das scharfe ß: mä-ßig."}
+]},
+{"s":2,"satz":"Der kleine Hofhund bewacht treu die Schafe und bellt laut, wenn der Fuchs naht.","f":[
+  {"r":"Hofhund","w":"hofhund","o":["Hofhund","hofhund","Hofhunt","Hovhund"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Hofhund' steht mit dem Begleiter 'der'."},
+  {"r":"bewacht","w":"Bewacht","o":["bewacht","Bewacht","bewachd","bewackt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'bewachen' schreibt man klein."},
+  {"r":"Fuchs","w":"Fux","o":["Fuchs","Fux","Fuks","Fuchß"],"k":"b","tipp":"Regel: Den ks-Laut in 'Fuchs' schreibt man mit chs."}
+]},
+{"s":2,"satz":"In der Mühle mahlt der Müller das frische Korn zu feinem weißem Mehl.","f":[
+  {"r":"Mühle","w":"mühle","o":["Mühle","mühle","Mühlle","Mülle"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Mühle' steht mit dem Begleiter 'der'."},
+  {"r":"mahlt","w":"Mahlt","o":["mahlt","Mahlt","malt","mahld"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'mahlen' schreibt man klein."},
+  {"r":"weißem","w":"weisem","o":["weißem","weisem","waißem","weißäm"],"k":"b","tipp":"Regel: Nach langem ei steht das scharfe ß: wei-ßem."}
+]},
+{"s":2,"satz":"Der Gemüsegarten blüht im Sommer, und fleißige Bienen bestäuben die zarten gelben Blüten.","f":[
+  {"r":"Gemüsegarten","w":"gemüsegarten","o":["Gemüsegarten","gemüsegarten","Gemühsegarten","Gemüsegahrten"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Gemüsegarten' steht mit dem Begleiter 'der'."},
+  {"r":"bestäuben","w":"bestoiben","o":["bestäuben","bestoiben","bestäubän","beschtäuben"],"k":"b","tipp":"Regel: 'bestäuben' kommt von 'Staub' – darum mit äu."},
+  {"r":"zarten","w":"Zarten","o":["zarten","Zarten","tzarten","zartän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'zart' schreibt man klein."}
+]},
+{"s":2,"satz":"Die müde Bäuerin trinkt nach der Arbeit gern eine kühle Limonade im schattigen Hof.","f":[
+  {"r":"Arbeit","w":"arbeit","o":["Arbeit","arbeit","Arbait","Arpeit"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Arbeit' steht mit dem Begleiter 'der'."},
+  {"r":"trinkt","w":"Trinkt","o":["trinkt","Trinkt","tringt","trinkd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'trinken' schreibt man klein."},
+  {"r":"schattigen","w":"schatigen","o":["schattigen","schatigen","schattiegen","schaddigen"],"k":"b","tipp":"Regel: Nach kurzem a steht doppel-t: schat-tig."}
+]},
+{"s":3,"satz":"Der Bauer freut sich, weil die reiche Ernte in diesem Jahr besonders gut ausfällt.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"reiche","w":"Reiche","o":["reiche","Reiche","raiche","reihe"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'reich' schreibt man klein."},
+  {"r":"besonders","w":"besonderß","o":["besonders","besonderß","besondärs","besondders"],"k":"b","tipp":"Regel: 'besonders' endet auf s, nicht auf ß: be-son-ders."}
+]},
+{"s":3,"satz":"Auf dem Feld stehen Weizen, Hafer und Gerste dicht beieinander in der warmen Sonne.","f":[
+  {"r":"Weizen,","w":"Weizen","o":["Weizen,","Weizen","Weizen;","Weizen."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern: Weizen, Hafer und Gerste."},
+  {"r":"Gerste","w":"gerste","o":["Gerste","gerste","Gärste","Gersde"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – die 'Gerste' ist ein Getreide."},
+  {"r":"dicht","w":"discht","o":["dicht","discht","dickt","dichd"],"k":"b","tipp":"Regel: 'dicht' schreibt man mit ch: di-cht."}
+]},
+{"s":3,"satz":"Der Mähdrescher bleibt stehen, damit der Fahrer den vollen Korntank schnell entleeren kann.","f":[
+  {"r":"stehen,","w":"stehen","o":["stehen,","stehen","stehen;","stehen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Fahrer","w":"fahrer","o":["Fahrer","fahrer","Fahra","Farer"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Fahrer' steht mit dem Begleiter 'der'."},
+  {"r":"vollen","w":"follen","o":["vollen","follen","vollän","wollen"],"k":"b","tipp":"Regel: 'voll' schreibt man mit v und doppel-l: vol-len."}
+]},
+{"s":3,"satz":"Die Bäuerin pflückt die Tomaten, die in der Sonne schon richtig rot geworden sind.","f":[
+  {"r":"Tomaten,","w":"Tomaten","o":["Tomaten,","Tomaten","Tomaten;","Tomaten."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'die' steht ein Komma."},
+  {"r":"richtig","w":"richtieg","o":["richtig","richtieg","richdig","richtich"],"k":"b","tipp":"Regel: 'richtig' endet auf ig, kein ieg: rich-tig."},
+  {"r":"geworden","w":"Geworden","o":["geworden","Geworden","gewordän","geworten"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'werden' schreibt man klein."}
+]},
+{"s":3,"satz":"Im Obstgarten hängen Äpfel, Birnen und Pflaumen schwer an den knorrigen alten Ästen.","f":[
+  {"r":"Äpfel,","w":"Äpfel","o":["Äpfel,","Äpfel","Äpfel;","Äpfel."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern: Äpfel, Birnen und Pflaumen."},
+  {"r":"knorrigen","w":"knorigen","o":["knorrigen","knorigen","knorriegen","gnorrigen"],"k":"b","tipp":"Regel: Nach kurzem o steht doppel-r: knor-rig."},
+  {"r":"alten","w":"Alten","o":["alten","Alten","allten","aldän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'alt' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Landwirt steht früh auf, obwohl der Regen schon laut gegen das Fenster trommelt.","f":[
+  {"r":"auf,","w":"auf","o":["auf,","auf","auf;","auf."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Regen","w":"regen","o":["Regen","regen","Rägen","Reken"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Regen' steht mit dem Begleiter 'der'."},
+  {"r":"Fenster","w":"Fenstär","o":["Fenster","Fenstär","Fänster","Fennster"],"k":"b","tipp":"Regel: 'Fenster' endet auf er, nicht auf är: Fen-ster."}
+]},
+{"s":3,"satz":"Auf dem Bauernmarkt kauft die Mutter Karotten, Salat und knackige Gurken für das Abendessen.","f":[
+  {"r":"Karotten,","w":"Karotten","o":["Karotten,","Karotten","Karotten;","Karotten."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern: Karotten, Salat und Gurken."},
+  {"r":"Mutter","w":"Muter","o":["Mutter","Muter","Muttär","Mutther"],"k":"b","tipp":"Regel: Nach kurzem u steht doppel-t: Mut-ter."},
+  {"r":"knackige","w":"Knackige","o":["knackige","Knackige","knakige","gnackige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'knackig' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Schäfer treibt die Schafe heim, bevor das große Gewitter über die Felder zieht.","f":[
+  {"r":"heim,","w":"heim","o":["heim,","heim","heim;","heim."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bevor' steht ein Komma."},
+  {"r":"Schafe","w":"schafe","o":["Schafe","schafe","Schaafe","Schafä"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Schafe' steht mit dem Begleiter 'die'."},
+  {"r":"große","w":"grose","o":["große","grose","grohße","großä"],"k":"b","tipp":"Regel: Nach langem o steht das scharfe ß: gro-ße."}
+]},
+{"s":3,"satz":"Wenn der Frühling kommt, pflanzt der Gärtner die ersten zarten Setzlinge ins warme Beet.","f":[
+  {"r":"kommt,","w":"kommt","o":["kommt,","kommt","kommt;","kommt."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'Wenn' vorne, folgt danach ein Komma."},
+  {"r":"pflanzt","w":"Pflanzt","o":["pflanzt","Pflanzt","flanzt","pflantzt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'pflanzen' schreibt man klein."},
+  {"r":"Setzlinge","w":"Setzlinke","o":["Setzlinge","Setzlinke","Setzlingä","Setslinge"],"k":"b","tipp":"Regel: Nach kurzem e steht tz: Set-z-lin-ge."}
+]},
+{"s":3,"satz":"Der Bauer lädt das Heu auf den Wagen, weil bald ein kräftiger Sturm aufzieht.","f":[
+  {"r":"Wagen,","w":"Wagen","o":["Wagen,","Wagen","Wagen;","Wagen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Heu","w":"Hoi","o":["Heu","Hoi","Heuh","Häu"],"k":"b","tipp":"Regel: 'Heu' schreibt man mit eu: H-eu."},
+  {"r":"kräftiger","w":"Kräftiger","o":["kräftiger","Kräftiger","kräfdiger","kräftieger"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'kräftig' schreibt man klein."}
+]},
+{"s":3,"satz":"Im Stall ruhen die Kühe, nachdem sie den ganzen Tag auf der Weide standen.","f":[
+  {"r":"Kühe,","w":"Kühe","o":["Kühe,","Kühe","Kühe;","Kühe."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'nachdem' steht ein Komma."},
+  {"r":"ruhen","w":"Ruhen","o":["ruhen","Ruhen","ruen","ruhän"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'ruhen' schreibt man klein."},
+  {"r":"ganzen","w":"gantzen","o":["ganzen","gantzen","ganzän","kanzen"],"k":"b","tipp":"Regel: 'ganz' schreibt man mit z, nicht mit tz: gan-zen."}
+]},
+{"s":3,"satz":"Die Erntehelfer arbeiten flink, denn die dunklen Wolken kündigen einen kräftigen Regenschauer an.","f":[
+  {"r":"flink,","w":"flink","o":["flink,","flink","flink;","flink."],"k":"k","tipp":"Regel: Vor 'denn' steht ein Komma."},
+  {"r":"Wolken","w":"wolken","o":["Wolken","wolken","Wollken","Wolkän"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Wolken' steht mit dem Begleiter 'die'."},
+  {"r":"Regenschauer","w":"Regenschaoer","o":["Regenschauer","Regenschaoer","Rägenschauer","Regenschauher"],"k":"b","tipp":"Regel: 'Schauer' schreibt man mit au: Scha-uer."}
+]}
+]

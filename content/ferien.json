@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Am warmen Strand baut die fröhliche Familie eine riesige Sandburg mit hohen Türmen.","f":[
+  {"r":"warmen","w":"wahrmen","o":["warmen","wahrmen","warmän","warrmen"],"k":"b","tipp":"Merksatz: 'warm' schreibt man ohne h: war-men."},
+  {"r":"fröhliche","w":"fröliche","o":["fröhliche","fröliche","fröhlige","frööliche"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h: fröh-lich."},
+  {"r":"Sandburg","w":"Santburg","o":["Sandburg","Santburg","Sandpurg","Sandbur"],"k":"b","tipp":"Merksatz: 'Sand' endet auf d – Probe: die Sande, Sand-burg."}
+]},
+{"s":1,"satz":"Der schwere Koffer rollt holpernd über den Bahnsteig zum wartenden Zug.","f":[
+  {"r":"schwere","w":"shwere","o":["schwere","shwere","schwähre","schwerre"],"k":"b","tipp":"Merksatz: 'schwer' beginnt mit sch: schwe-re."},
+  {"r":"Koffer","w":"Kofer","o":["Koffer","Kofer","Koffär","Goffer"],"k":"b","tipp":"Merksatz: Der Koffer hat doppel-F: Kof-fer."},
+  {"r":"Bahnsteig","w":"Bansteig","o":["Bahnsteig","Bansteig","Bahnstaig","Bahnschteig"],"k":"b","tipp":"Merksatz: Die Bahn hat ein Dehnungs-h: Bahn-steig."}
+]},
+{"s":1,"satz":"Hoch über den weißen Wolken brummt das große Flugzeug zur sonnigen Insel.","f":[
+  {"r":"weißen","w":"waißen","o":["weißen","waißen","weisen","weißän"],"k":"b","tipp":"Merksatz: 'weiß' schreibt man mit ei und ß: wei-ße."},
+  {"r":"Flugzeug","w":"Flugzeog","o":["Flugzeug","Flugzeog","Flukzeug","Fluchzeug"],"k":"b","tipp":"Merksatz: Das Flugzeug endet auf eug mit eu: Flug-zeug."},
+  {"r":"sonnigen","w":"sonigen","o":["sonnigen","sonigen","sonniegen","sonnigän"],"k":"b","tipp":"Merksatz: 'sonnig' kommt von 'Sonne' und hat doppel-N: son-nig."}
+]},
+{"s":1,"satz":"Im gemütlichen Hotel schläft der müde Urlauber unter einer kuscheligen Decke tief.","f":[
+  {"r":"gemütlichen","w":"gemütligen","o":["gemütlichen","gemütligen","gemühtlichen","gemütlichän"],"k":"b","tipp":"Merksatz: 'gemütlich' schreibt man mit ch: ge-müt-lich."},
+  {"r":"müde","w":"mühde","o":["müde","mühde","müede","müte"],"k":"b","tipp":"Merksatz: 'müde' schreibt man ohne h: mü-de."},
+  {"r":"kuscheligen","w":"kushligen","o":["kuscheligen","kushligen","kuscheliegen","kuscheligän"],"k":"b","tipp":"Merksatz: 'kuschelig' schreibt man mit sch: ku-sche-lig."}
+]},
+{"s":1,"satz":"Mit klebriger Sonnencreme schützt sich das fröhliche Mädchen vor der heißen Sonne.","f":[
+  {"r":"klebriger","w":"klebriechr","o":["klebriger","klebriechr","klepriger","klebrieger"],"k":"b","tipp":"Merksatz: 'klebrig' kommt von 'kleben' und wird mit b geschrieben."},
+  {"r":"Sonnencreme","w":"Sonencreme","o":["Sonnencreme","Sonencreme","Sonnenkreme","Sonnencremä"],"k":"b","tipp":"Merksatz: Die Sonne hat doppel-N: Son-nen-creme."},
+  {"r":"heißen","w":"haißen","o":["heißen","haißen","heisen","heißän"],"k":"b","tipp":"Merksatz: 'heiß' schreibt man mit ei und ß: hei-ße."}
+]},
+{"s":1,"satz":"Der schnelle Delfin schwimmt verspielt neben dem schaukelnden Boot durch das blaue Wasser.","f":[
+  {"r":"schnelle","w":"shnelle","o":["schnelle","shnelle","schnälle","schnele"],"k":"b","tipp":"Merksatz: 'schnell' beginnt mit sch: schnel-le."},
+  {"r":"schwimmt","w":"shwimmt","o":["schwimmt","shwimmt","schwimt","schwimmd"],"k":"b","tipp":"Merksatz: 'schwimmen' hat doppel-M: schwim-men."},
+  {"r":"schaukelnden","w":"schaokelnden","o":["schaukelnden","schaokelnden","shaukelnden","schaukälnden"],"k":"b","tipp":"Merksatz: 'schaukeln' schreibt man mit au: schau-keln."}
+]},
+{"s":1,"satz":"Aus dem fremden Urlaubsland bringt der nette Opa ein lustiges kleines Souvenir mit.","f":[
+  {"r":"fremden","w":"främden","o":["fremden","främden","fremten","fremdän"],"k":"b","tipp":"Merksatz: 'fremd' schreibt man mit e: frem-de."},
+  {"r":"Urlaubsland","w":"Urlaupsland","o":["Urlaubsland","Urlaupsland","Urlaobsland","Urlaubslant"],"k":"b","tipp":"Merksatz: 'Urlaub' endet auf b – Probe: die Urlaube, Urlaubs-land."},
+  {"r":"Souvenir","w":"Suvenir","o":["Souvenir","Suvenir","Souvenier","Soufenir"],"k":"b","tipp":"Merksatz: 'Souvenir' beginnt mit Sou und hat ein v: Sou-ve-nir."}
+]},
+{"s":1,"satz":"Die neugierigen Möwen kreisen kreischend über dem sandigen Strand und suchen Pommes.","f":[
+  {"r":"neugierigen","w":"neogierigen","o":["neugierigen","neogierigen","neugieriegen","naugierigen"],"k":"b","tipp":"Merksatz: 'neugierig' schreibt man mit eu und ie: neu-gie-rig."},
+  {"r":"kreischend","w":"kraischend","o":["kreischend","kraischend","kreishend","kreischänd"],"k":"b","tipp":"Merksatz: 'kreischen' schreibt man mit ei und sch: krei-schen."},
+  {"r":"sandigen","w":"santigen","o":["sandigen","santigen","sandiegen","sandigän"],"k":"b","tipp":"Merksatz: 'sandig' kommt von 'Sand' und wird mit d geschrieben."}
+]},
+{"s":1,"satz":"Mit dem bunten Schnorchel taucht der mutige Junge nach glitzernden Muscheln im Meer.","f":[
+  {"r":"Schnorchel","w":"Shnorchel","o":["Schnorchel","Shnorchel","Schnorkel","Schnorchäl"],"k":"b","tipp":"Merksatz: Der Schnorchel beginnt mit sch und hat ch: Schnor-chel."},
+  {"r":"mutige","w":"muhtige","o":["mutige","muhtige","mutiege","muttige"],"k":"b","tipp":"Merksatz: 'mutig' kommt von 'Mut' und wird ohne h geschrieben: mu-tig."},
+  {"r":"glitzernden","w":"glizernden","o":["glitzernden","glizernden","klitzernden","glitzerndän"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: glit-zern."}
+]},
+{"s":1,"satz":"Am letzten Ferientag packt die ganze Familie traurig die nassen Badesachen zusammen.","f":[
+  {"r":"letzten","w":"lezten","o":["letzten","lezten","letztän","letzden"],"k":"b","tipp":"Merksatz: Nach kurzem e steht tz: letz-ten."},
+  {"r":"Familie","w":"Familje","o":["Familie","Familje","Famielie","Familiä"],"k":"b","tipp":"Merksatz: 'Familie' endet auf -lie: Fa-mi-lie."},
+  {"r":"Badesachen","w":"Bahdesachen","o":["Badesachen","Bahdesachen","Badesahchen","Bbadesachen"],"k":"b","tipp":"Merksatz: 'baden' schreibt man ohne h: Ba-de-sa-chen."}
+]},
+{"s":1,"satz":"Die warme Sonne lacht vom Himmel, während wir vergnügt im flachen Wasser planschen gehen.","f":[
+  {"r":"warme","w":"wahrme","o":["warme","wahrme","warmä","warrme"],"k":"b","tipp":"Merksatz: 'warm' schreibt man ohne h: war-me."},
+  {"r":"vergnügt","w":"fergnügt","o":["vergnügt","fergnügt","vergnükt","vergnügd"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-gnügt."},
+  {"r":"planschen","w":"planshen","o":["planschen","planshen","plantschen","blanschen"],"k":"b","tipp":"Merksatz: 'planschen' schreibt man mit sch: plan-schen."}
+]},
+{"s":1,"satz":"Über die holprige Landstraße tuckert der bunte Reisebus zum fernen Bergdorf hinauf.","f":[
+  {"r":"holprige","w":"holbrige","o":["holprige","holbrige","holpriege","holprieche"],"k":"b","tipp":"Merksatz: 'holprig' schreibt man mit p: hol-prig."},
+  {"r":"Reisebus","w":"Raisebus","o":["Reisebus","Raisebus","Reisebuss","Reisepus"],"k":"b","tipp":"Merksatz: 'Reise' schreibt man mit ei: Rei-se-bus."},
+  {"r":"fernen","w":"färnen","o":["fernen","färnen","ferrnen","vernen"],"k":"b","tipp":"Merksatz: 'fern' schreibt man mit e: fer-nen."}
+]},
+{"s":2,"satz":"Am Strand sammelt die kleine Mia bunte Muscheln in ihren rosa Eimer.","f":[
+  {"r":"Strand","w":"strand","o":["Strand","strand","Strant","Schtrand"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Strand' steht mit 'der'."},
+  {"r":"sammelt","w":"Sammelt","o":["sammelt","Sammelt","samelt","sammeld"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'sammeln' schreibt man klein."},
+  {"r":"Muscheln","w":"Musheln","o":["Muscheln","Musheln","Muschäln","Muschelln"],"k":"b","tipp":"Regel: 'Muscheln' schreibt man mit sch: Mu-scheln."}
+]},
+{"s":2,"satz":"Im großen Hotel frühstückt die hungrige Familie auf der sonnigen Terrasse am Meer.","f":[
+  {"r":"Hotel","w":"hotel","o":["Hotel","hotel","Hottel","Hotäl"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Hotel' steht mit 'das'."},
+  {"r":"frühstückt","w":"Frühstückt","o":["frühstückt","Frühstückt","frühstükt","frühshtückt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'frühstücken' schreibt man klein."},
+  {"r":"hungrige","w":"hungriege","o":["hungrige","hungriege","hungerige","hungrigge"],"k":"b","tipp":"Regel: In 'hungrig' steckt der 'Hunger' – mit u und g."}
+]},
+{"s":2,"satz":"Vor der Reise packt der ordentliche Papa den schweren Koffer mit warmen Sachen.","f":[
+  {"r":"Reise","w":"reise","o":["Reise","reise","Raise","Reisse"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Reise' steht mit 'die'."},
+  {"r":"packt","w":"Packt","o":["packt","Packt","pakt","backt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'packen' schreibt man klein."},
+  {"r":"schweren","w":"shweren","o":["schweren","shweren","schwähren","schwerren"],"k":"b","tipp":"Regel: 'schwer' beginnt mit sch: schwe-ren."}
+]},
+{"s":2,"satz":"Über dem ruhigen Ozean steigt das silberne Flugzeug langsam in den blauen Himmel.","f":[
+  {"r":"Ozean","w":"ozean","o":["Ozean","ozean","Otsean","Ozeahn"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Ozean' steht mit 'der'."},
+  {"r":"steigt","w":"Steigt","o":["steigt","Steigt","staigt","steicht"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'steigen' schreibt man klein."},
+  {"r":"silberne","w":"silperne","o":["silberne","silperne","silbärne","sielberne"],"k":"b","tipp":"Regel: 'silbern' kommt von 'Silber' und wird mit b geschrieben."}
+]},
+{"s":2,"satz":"Am sonnigen Mittag schwimmt der lustige Tom mutig durch die kühlen Wellen.","f":[
+  {"r":"Mittag","w":"mittag","o":["Mittag","mittag","Midtag","Mittak"],"k":"g","tipp":"Regel: Tageszeiten wie 'Mittag' sind Namenwörter und schreibt man groß."},
+  {"r":"schwimmt","w":"Schwimmt","o":["schwimmt","Schwimmt","schwimt","shwimmt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schwimmen' schreibt man klein."},
+  {"r":"kühlen","w":"kuhlen","o":["kühlen","kuhlen","küulen","gühlen"],"k":"b","tipp":"Regel: 'kühl' schreibt man mit ü: küh-len."}
+]},
+{"s":2,"satz":"Die müde Oma sitzt zufrieden im Liegestuhl und liest ein spannendes Reisebuch.","f":[
+  {"r":"Liegestuhl","w":"liegestuhl","o":["Liegestuhl","liegestuhl","Liegestul","Liegeschtuhl"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Liegestuhl' steht mit 'der'."},
+  {"r":"liest","w":"Liest","o":["liest","Liest","liesst","liesd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'lesen' schreibt man klein."},
+  {"r":"spannendes","w":"spanendes","o":["spannendes","spanendes","spannändes","schpannendes"],"k":"b","tipp":"Regel: 'spannend' hat doppel-N: span-nend."}
+]},
+{"s":2,"satz":"Am letzten Ferientag kaufen die fröhlichen Kinder ein buntes Souvenir im kleinen Laden.","f":[
+  {"r":"Ferientag","w":"ferientag","o":["Ferientag","ferientag","Ferrientag","Ferientak"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Ferientag' steht mit 'der'."},
+  {"r":"kaufen","w":"Kaufen","o":["kaufen","Kaufen","kaofen","gaufen"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'kaufen' schreibt man klein."},
+  {"r":"Souvenir","w":"Suvenir","o":["Souvenir","Suvenir","Souvenier","Soufenir"],"k":"b","tipp":"Regel: 'Souvenir' beginnt mit Sou und hat ein v: Sou-ve-nir."}
+]},
+{"s":2,"satz":"Mit der dicken Sonnencreme cremt die vorsichtige Mama den ganzen Rücken sorgfältig ein.","f":[
+  {"r":"Sonnencreme","w":"sonnencreme","o":["Sonnencreme","sonnencreme","Sonencreme","Sonnencremä"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Sonnencreme' steht mit 'die'."},
+  {"r":"cremt","w":"Cremt","o":["cremt","Cremt","kremt","cremd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'cremen' schreibt man klein."},
+  {"r":"sorgfältig","w":"sorkfältig","o":["sorgfältig","sorkfältig","sorgfeltig","sorgfältieg"],"k":"b","tipp":"Regel: 'sorgfältig' kommt von 'Sorge' und 'Falte' – mit g und ä."}
+]},
+{"s":2,"satz":"Am breiten Strand baut der geschickte Felix eine wackelige Sandburg mit tiefem Graben.","f":[
+  {"r":"Strand","w":"strand","o":["Strand","strand","Strant","Schtrand"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Strand' steht mit 'der'."},
+  {"r":"baut","w":"Baut","o":["baut","Baut","baot","baud"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'bauen' schreibt man klein."},
+  {"r":"wackelige","w":"wakelige","o":["wackelige","wakelige","wackeliege","wackälige"],"k":"b","tipp":"Regel: Nach kurzem a steht ck: wack-lig."}
+]},
+{"s":2,"satz":"Vor dem Abflug wartet die ganze Reisegruppe geduldig am vollen Flughafen auf den Koffer.","f":[
+  {"r":"Abflug","w":"abflug","o":["Abflug","abflug","Apflug","Abfluk"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Abflug' steht mit 'der'."},
+  {"r":"wartet","w":"Wartet","o":["wartet","Wartet","wahrtet","warted"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'warten' schreibt man klein."},
+  {"r":"Reisegruppe","w":"Reisegrupe","o":["Reisegruppe","Reisegrupe","Raisegruppe","Reisegruppä"],"k":"b","tipp":"Regel: Die Gruppe hat doppel-P: Grup-pe."}
+]},
+{"s":2,"satz":"Die kleine Lea findet am sandigen Ufer eine glänzende Muschel und ruft begeistert.","f":[
+  {"r":"Muschel","w":"muschel","o":["Muschel","muschel","Mushel","Muschäl"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Muschel' steht mit 'die'."},
+  {"r":"findet","w":"Findet","o":["findet","Findet","vindet","finded"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'finden' schreibt man klein."},
+  {"r":"glänzende","w":"glenzende","o":["glänzende","glenzende","glänssende","glänzände"],"k":"b","tipp":"Regel: 'glänzen' kommt von 'Glanz' und wird mit ä geschrieben."}
+]},
+{"s":2,"satz":"Am frühen Morgen wandert die abenteuerlustige Gruppe durch den schattigen Pinienwald.","f":[
+  {"r":"Morgen","w":"morgen","o":["Morgen","morgen","Morken","Morgän"],"k":"g","tipp":"Regel: Tageszeiten wie 'Morgen' sind Namenwörter und schreibt man groß."},
+  {"r":"wandert","w":"Wandert","o":["wandert","Wandert","wanderd","wandärt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'wandern' schreibt man klein."},
+  {"r":"schattigen","w":"shattigen","o":["schattigen","shattigen","schatigen","schattiegen"],"k":"b","tipp":"Regel: 'schattig' kommt von 'Schatten' und hat doppel-T: schat-tig."}
+]},
+{"s":3,"satz":"Weil das Wetter so schön ist, gehen wir am Strand barfuß spazieren und sammeln Muscheln.","f":[
+  {"r":"ist,","w":"ist","o":["ist,","ist","ist;","ist."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'weil' vorn, kommt danach ein Komma."},
+  {"r":"Wetter","w":"wetter","o":["Wetter","wetter","Weter","Wettär"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Wetter' steht mit 'das'."},
+  {"r":"spazieren","w":"spatzieren","o":["spazieren","spatzieren","schpazieren","spaziern"],"k":"b","tipp":"Regel: 'spazieren' schreibt man mit z: spa-zie-ren."}
+]},
+{"s":3,"satz":"Der kleine Ben freut sich riesig, weil er endlich das blaue Meer sieht und hört.","f":[
+  {"r":"riesig,","w":"riesig","o":["riesig,","riesig","riesig;","riesig."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Meer","w":"meer","o":["Meer","meer","Mehr","Meeer"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Meer' steht mit 'das'."},
+  {"r":"sieht","w":"siht","o":["sieht","siht","siet","sieth"],"k":"b","tipp":"Regel: 'sieht' kommt von 'sehen' und hat ie und h: sieht."}
+]},
+{"s":3,"satz":"In den großen Koffer packen wir Badehose, Sonnenhut und die warme Strandmuschel hinein.","f":[
+  {"r":"Badehose,","w":"Badehose","o":["Badehose,","Badehose","Badehose;","Badehose."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"warme","w":"Warme","o":["warme","Warme","wahrme","warmä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'warm' schreibt man klein."},
+  {"r":"Strandmuschel","w":"Strandmushel","o":["Strandmuschel","Strandmushel","Strantmuschel","Strandmuschäl"],"k":"b","tipp":"Regel: 'Muschel' schreibt man mit sch: Mu-schel."}
+]},
+{"s":3,"satz":"Die fröhlichen Kinder springen ins Wasser, obwohl die kalten Wellen sehr hoch sind.","f":[
+  {"r":"Wasser,","w":"Wasser","o":["Wasser,","Wasser","Wasser;","Wasser."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"fröhlichen","w":"Fröhlichen","o":["fröhlichen","Fröhlichen","frölichen","fröölichen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'fröhlich' schreibt man klein."},
+  {"r":"kalten","w":"kallten","o":["kalten","kallten","kaldten","kaltän"],"k":"b","tipp":"Regel: 'kalt' schreibt man mit einfachem l: kal-ten."}
+]},
+{"s":3,"satz":"Am Strand liegen Sandburg, Eimer und die bunte Schaufel im warmen Sand verstreut.","f":[
+  {"r":"Sandburg,","w":"Sandburg","o":["Sandburg,","Sandburg","Sandburg;","Sandburg."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"bunte","w":"Bunte","o":["bunte","Bunte","bonte","bunde"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'bunt' schreibt man klein."},
+  {"r":"Schaufel","w":"Schaofel","o":["Schaufel","Schaofel","Shaufel","Schauvel"],"k":"b","tipp":"Regel: 'Schaufel' schreibt man mit au: Schau-fel."}
+]},
+{"s":3,"satz":"Der vergessliche Opa sucht seinen Hut, sodass alle herzlich über ihn lachen müssen.","f":[
+  {"r":"Hut,","w":"Hut","o":["Hut,","Hut","Hut;","Hut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sodass' steht ein Komma."},
+  {"r":"vergessliche","w":"Vergessliche","o":["vergessliche","Vergessliche","fergessliche","vergeßliche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'vergesslich' schreibt man klein."},
+  {"r":"herzlich","w":"herzlig","o":["herzlich","herzlig","herrzlich","herzlieg"],"k":"b","tipp":"Regel: 'herzlich' kommt von 'Herz' und endet auf lich: herz-lich."}
+]},
+{"s":3,"satz":"Wenn das Flugzeug endlich landet, jubeln alle aufgeregten Reisenden vor lauter Freude los.","f":[
+  {"r":"landet,","w":"landet","o":["landet,","landet","landet;","landet."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'wenn' vorn, kommt danach ein Komma."},
+  {"r":"Freude","w":"freude","o":["Freude","freude","Fraude","Freudä"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Freude' steht mit 'die'."},
+  {"r":"aufgeregten","w":"aufgereckten","o":["aufgeregten","aufgereckten","aufkeregten","aufgeregdten"],"k":"b","tipp":"Regel: 'aufgeregt' kommt von 'regen' und wird mit g geschrieben."}
+]},
+{"s":3,"satz":"Wir bleiben noch einen Tag länger, denn das gemütliche Hotel gefällt uns sehr gut.","f":[
+  {"r":"länger,","w":"länger","o":["länger,","länger","länger;","länger."],"k":"k","tipp":"Regel: Vor 'denn' steht immer ein Komma."},
+  {"r":"Hotel","w":"hotel","o":["Hotel","hotel","Hottel","Hotäl"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Hotel' steht mit 'das'."},
+  {"r":"gemütliche","w":"gemühtliche","o":["gemütliche","gemühtliche","gemütlige","gemütlichä"],"k":"b","tipp":"Regel: 'gemütlich' schreibt man ohne h in der Mitte: ge-müt-lich."}
+]},
+{"s":3,"satz":"Die kleine Lina sammelt am Ufer Muscheln, während ihr Bruder eine Sandburg baut.","f":[
+  {"r":"Muscheln,","w":"Muscheln","o":["Muscheln,","Muscheln","Muscheln;","Muscheln."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'während' steht ein Komma."},
+  {"r":"Bruder","w":"bruder","o":["Bruder","bruder","Bruter","Pruder"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Bruder' steht mit 'der'."},
+  {"r":"sammelt","w":"samelt","o":["sammelt","samelt","sammält","sammeld"],"k":"b","tipp":"Regel: 'sammeln' hat doppel-M: sam-meln."}
+]},
+{"s":3,"satz":"Bevor die Reise losgeht, prüfen die Eltern noch einmal die wichtigen Pässe genau.","f":[
+  {"r":"losgeht,","w":"losgeht","o":["losgeht,","losgeht","losgeht;","losgeht."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'bevor' vorn, kommt danach ein Komma."},
+  {"r":"Eltern","w":"eltern","o":["Eltern","eltern","Eldtern","Elltern"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Eltern' steht mit 'die'."},
+  {"r":"wichtigen","w":"wichdigen","o":["wichtigen","wichdigen","wichtiegen","wihtigen"],"k":"b","tipp":"Regel: 'wichtig' schreibt man mit cht: wich-tig."}
+]},
+{"s":3,"satz":"Die müden Urlauber räumen den Strand auf, nachdem die rote Sonne untergegangen ist.","f":[
+  {"r":"auf,","w":"auf","o":["auf,","auf","auf;","auf."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'nachdem' steht ein Komma."},
+  {"r":"Strand","w":"strand","o":["Strand","strand","Strant","Schtrand"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Strand' steht mit 'der'."},
+  {"r":"untergegangen","w":"untergegangän","o":["untergegangen","untergegangän","untergekangen","untergeganken"],"k":"b","tipp":"Regel: 'gegangen' schreibt man mit ng: ge-gan-gen."}
+]},
+{"s":3,"satz":"Am Flughafen warten wir gespannt, weil das große Flugzeug bald nach Italien startet und abhebt.","f":[
+  {"r":"gespannt,","w":"gespannt","o":["gespannt,","gespannt","gespannt;","gespannt."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Flughafen","w":"flughafen","o":["Flughafen","flughafen","Flukhafen","Flughafän"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Flughafen' steht mit 'der'."},
+  {"r":"startet","w":"sdartet","o":["startet","sdartet","schtartet","started"],"k":"b","tipp":"Regel: 'starten' beginnt mit st und hat ein t: star-ten."}
+]}
+]

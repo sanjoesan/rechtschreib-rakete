@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der stolze Löwe brüllt in der heißen Savanne so laut wie ein Donnerwetter.","f":[
+  {"r":"Löwe","w":"Löve","o":["Löwe","Löve","Löwwe","Löhöwe"],"k":"b","tipp":"Merksatz: Der Löwe brüllt mit w wie 'wow' – Lö-we mit w."},
+  {"r":"brüllt","w":"brült","o":["brüllt","brült","brüllld","brüald"],"k":"b","tipp":"Merksatz: Wenn der Löwe so laut ist, braucht er doppel-L: brül-len."},
+  {"r":"Savanne","w":"Sawanne","o":["Savanne","Sawanne","Savane","Saffanne"],"k":"b","tipp":"Merksatz: Die Savanne schreibt man mit v wie 'Vogel' und doppel-N."}
+]},
+{"s":1,"satz":"Der graue Elefant spritzt mit seinem langen Rüssel kühles Wasser über sich.","f":[
+  {"r":"Elefant","w":"Elefand","o":["Elefant","Elefand","Ellefant","Elephant"],"k":"b","tipp":"Merksatz: Am Ende hörst du ein t – verlängere: die Elefanten, also Elefant."},
+  {"r":"Rüssel","w":"Rüsel","o":["Rüssel","Rüsel","Rühssel","Rüssäl"],"k":"b","tipp":"Merksatz: Nach kurzem ü kommt doppel-S: Rüs-sel."},
+  {"r":"Wasser","w":"Waser","o":["Wasser","Waser","Wassser","Vasser"],"k":"b","tipp":"Merksatz: Im Wasser plätschert es doppelt – doppel-S: Was-ser."}
+]},
+{"s":1,"satz":"Die elegante Giraffe knabbert mit ihrer langen Zunge an den höchsten Blättern im Baum.","f":[
+  {"r":"Giraffe","w":"Girafe","o":["Giraffe","Girafe","Schiraffe","Girhaffe"],"k":"b","tipp":"Merksatz: Die Giraffe ist riesig und braucht doppel-F: Gi-raf-fe."},
+  {"r":"Zunge","w":"Zungge","o":["Zunge","Zungge","Tsunge","Zunke"],"k":"b","tipp":"Merksatz: Die Zunge hat nur EIN g: Zun-ge."},
+  {"r":"Blättern","w":"Blettern","o":["Blättern","Blettern","Bläthern","Blätern"],"k":"b","tipp":"Merksatz: Blätter kommt von 'Blatt' – mit ä: Blät-ter."}
+]},
+{"s":1,"satz":"Der kleine Pinguin watschelt über das glatte Eis und rutscht fröhlich auf dem Bauch.","f":[
+  {"r":"Pinguin","w":"Pingwin","o":["Pinguin","Pingwin","Binguin","Pinquin"],"k":"b","tipp":"Merksatz: Der Pinguin endet auf '-guin' mit u: Pin-gu-in."},
+  {"r":"watschelt","w":"watschellt","o":["watschelt","watschellt","watchelt","wadschelt"],"k":"b","tipp":"Merksatz: 'watscheln' hat nur EIN L: wat-scheln."},
+  {"r":"fröhlich","w":"frölich","o":["fröhlich","frölich","fröhlig","fröhliech"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h nach dem ö: fröh-lich."}
+]},
+{"s":1,"satz":"Das flinke Eichhörnchen versteckt im Herbst viele Nüsse unter dem alten Baum.","f":[
+  {"r":"Eichhörnchen","w":"Eichörnchen","o":["Eichhörnchen","Eichörnchen","Eichhernchen","Aichhörnchen"],"k":"b","tipp":"Merksatz: Eichhörnchen = Eich + Hörnchen, darum zwei h hintereinander: Eich-hörnchen."},
+  {"r":"versteckt","w":"ferversteckt","o":["versteckt","ferversteckt","fersteckt","versteckkt"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
+  {"r":"Nüsse","w":"Nüse","o":["Nüsse","Nüse","Nühsse","Nüssä"],"k":"b","tipp":"Merksatz: Nach kurzem ü steht doppel-S: Nüs-se."}
+]},
+{"s":1,"satz":"Das grüne Krokodil schnappt im trüben Fluss nach einem frechen Fisch.","f":[
+  {"r":"Krokodil","w":"Krokkodil","o":["Krokodil","Krokkodil","Grokodil","Krokodiel"],"k":"b","tipp":"Merksatz: Das Krokodil hat nur EIN k in der Mitte: Kro-ko-dil."},
+  {"r":"schnappt","w":"schnapt","o":["schnappt","schnapt","schnabbt","schnappd"],"k":"b","tipp":"Merksatz: Wenn es zubeißt, schnappt es doppelt – doppel-P: schnap-pen."},
+  {"r":"Fluss","w":"Flus","o":["Fluss","Flus","Fluß","Vluss"],"k":"b","tipp":"Merksatz: Nach kurzem u steht doppel-S: Fluss."}
+]},
+{"s":1,"satz":"Der gestreifte Tiger schleicht durch den dichten Dschungel auf der Suche nach Beute.","f":[
+  {"r":"Tiger","w":"Tieger","o":["Tiger","Tieger","Tigger","Diger"],"k":"b","tipp":"Merksatz: Der Tiger schreibt sich mit langem i ohne e: Ti-ger."},
+  {"r":"Dschungel","w":"Dschunkel","o":["Dschungel","Dschunkel","Schungel","Dschungell"],"k":"b","tipp":"Merksatz: Der Dschungel beginnt mit 'Dsch' und hat in der Mitte ein g: Dschun-gel."},
+  {"r":"schleicht","w":"schleischt","o":["schleicht","schleischt","schlaicht","schleichd"],"k":"b","tipp":"Merksatz: 'schleichen' schreibt man mit ei und cht: schlei-cht."}
+]},
+{"s":1,"satz":"Das gefleckte Zebra galoppiert mit der ganzen Herde über die weite Steppe Afrikas.","f":[
+  {"r":"galoppiert","w":"galopiert","o":["galoppiert","galopiert","galloppiert","kaloppiert"],"k":"b","tipp":"Merksatz: Beim Galopp hört man doppel-P: ga-lop-piert."},
+  {"r":"Herde","w":"Hörde","o":["Herde","Hörde","Härde","Herrde"],"k":"b","tipp":"Merksatz: Die Herde schreibt man mit e: Her-de."},
+  {"r":"Steppe","w":"Stepe","o":["Steppe","Stepe","Schteppe","Stepppe"],"k":"b","tipp":"Merksatz: Nach kurzem e steht doppel-P: Step-pe."}
+]},
+{"s":1,"satz":"Der freche Affe klettert mit großem Geschick von Ast zu Ast im Urwald.","f":[
+  {"r":"Affe","w":"Afe","o":["Affe","Afe","Affä","Aphe"],"k":"b","tipp":"Merksatz: Der Affe ist albern und braucht doppel-F: Af-fe."},
+  {"r":"klettert","w":"kletert","o":["klettert","kletert","glettert","kletterdt"],"k":"b","tipp":"Merksatz: Beim Klettern braucht man doppel-T für Halt: klet-tern."},
+  {"r":"Geschick","w":"Geschik","o":["Geschick","Geschik","Geschig","Keschick"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: Ge-schick."}
+]},
+{"s":1,"satz":"Die schlaue Schlange ringelt sich gemütlich in der Sonne um einen warmen Stein.","f":[
+  {"r":"Schlange","w":"Schlanke","o":["Schlange","Schlanke","Schlangge","Schlannge"],"k":"b","tipp":"Merksatz: Die Schlange zischt mit ng und nur EINEM g: Schlan-ge."},
+  {"r":"gemütlich","w":"gemütlig","o":["gemütlich","gemütlig","gemühtlich","gemütliech"],"k":"b","tipp":"Merksatz: Die Endung '-lich' schreibt man immer mit ch: gemüt-lich."},
+  {"r":"Sonne","w":"Sone","o":["Sonne","Sone","Sonnä","Zonne"],"k":"b","tipp":"Merksatz: Die Sonne strahlt doppelt – doppel-N: Son-ne."}
+]},
+{"s":1,"satz":"Das bunte Chamäleon wechselt blitzschnell seine Farbe und sitzt still auf einem Blatt.","f":[
+  {"r":"wechselt","w":"wexelt","o":["wechselt","wexelt","wächselt","wechseldt"],"k":"b","tipp":"Merksatz: 'wechseln' schreibt man mit chs, nicht mit x: wech-seln."},
+  {"r":"blitzschnell","w":"blitschnell","o":["blitzschnell","blitschnell","blitzschnel","blitzznell"],"k":"b","tipp":"Merksatz: 'Blitz' hat tz und 'schnell' doppel-L: blitz-schnell."},
+  {"r":"Farbe","w":"Farpe","o":["Farbe","Farpe","Farbä","Varbe"],"k":"b","tipp":"Merksatz: 'Farbe' kommt von 'färben' – mit b: Far-be."}
+]},
+{"s":1,"satz":"Der watschelnde Pinguin und das hüpfende Eichhörnchen feiern zusammen ein lustiges Fest.","f":[
+  {"r":"hüpfende","w":"hüpfänte","o":["hüpfende","hüpfänte","hübfende","hüppfende"],"k":"b","tipp":"Merksatz: 'hüpfen' hat pf in der Mitte: hüp-fen."},
+  {"r":"feiern","w":"faiern","o":["feiern","faiern","veiern","feiärn"],"k":"b","tipp":"Merksatz: 'feiern' schreibt man mit ei und f: fei-ern."},
+  {"r":"lustiges","w":"lustieges","o":["lustiges","lustieges","lusdiges","lustigges"],"k":"b","tipp":"Merksatz: 'lustig' kommt von 'Lust' – ohne e in der Mitte: lus-tig."}
+]},
+{"s":2,"satz":"Am Mittag jagt der hungrige Löwe ein flinkes Zebra durch die staubige Savanne.","f":[
+  {"r":"Löwe","w":"löwe","o":["Löwe","löwe","Löve","löve"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Löwe' steht mit dem Begleiter 'der'."},
+  {"r":"hungrige","w":"hungriege","o":["hungrige","hungriege","Hungrige","hungrigge"],"k":"b","tipp":"Regel: In 'hungrig' steckt der 'Hunger' – ohne e: hung-rig."},
+  {"r":"jagt","w":"Jagt","o":["jagt","Jagt","jacht","Jacht"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'jagen' schreibt man klein."}
+]},
+{"s":2,"satz":"Der riesige Elefant trinkt am Morgen literweise Wasser aus dem kühlen See.","f":[
+  {"r":"Elefant","w":"elefant","o":["Elefant","elefant","Elefand","elefand"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Elefant' hat den Begleiter 'der'."},
+  {"r":"riesige","w":"risige","o":["riesige","risige","Riesige","riessige"],"k":"b","tipp":"Regel: 'riesig' schreibt man mit ie (langes i): rie-sig."},
+  {"r":"trinkt","w":"Trinkt","o":["trinkt","Trinkt","trinckt","Trinckt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'trinken' schreibt man klein."}
+]},
+{"s":2,"satz":"Die hohe Giraffe streckt am Nachmittag ihren langen Hals zu den grünen Blättern.","f":[
+  {"r":"Giraffe","w":"giraffe","o":["Giraffe","giraffe","Giraffä","girafe"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Giraffe' steht mit dem Begleiter 'die'."},
+  {"r":"hohe","w":"Hohe","o":["hohe","Hohe","hoe","Hoe"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'hoch' schreibt man klein."},
+  {"r":"Hals","w":"Hahls","o":["Hals","Hahls","Halz","Halss"],"k":"b","tipp":"Regel: 'Hals' schreibt man ohne Dehnungs-h: Hals."}
+]},
+{"s":2,"satz":"Der kleine Pinguin rutscht im Winter über das spiegelglatte Eis am Südpol.","f":[
+  {"r":"rutscht","w":"Rutscht","o":["rutscht","Rutscht","rudscht","Rudscht"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'rutschen' schreibt man klein."},
+  {"r":"spiegelglatte","w":"spigelglatte","o":["spiegelglatte","spigelglatte","Spiegelglatte","spiegelglate"],"k":"b","tipp":"Regel: In 'Spiegel' steckt das lange i als ie: Spie-gel."},
+  {"r":"Eis","w":"eis","o":["Eis","eis","Ais","ais"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Eis' hat den Begleiter 'das'."}
+]},
+{"s":2,"satz":"Im Herbst sammelt das fleißige Eichhörnchen viele Nüsse für den langen Winter.","f":[
+  {"r":"Eichhörnchen","w":"eichhörnchen","o":["Eichhörnchen","eichhörnchen","Eichörnchen","eichörnchen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Eichhörnchen' hat den Begleiter 'das'."},
+  {"r":"fleißige","w":"flaißige","o":["fleißige","flaißige","Fleißige","fleissige"],"k":"b","tipp":"Regel: 'fleißig' schreibt man mit ei und ß: flei-ßig."},
+  {"r":"sammelt","w":"Sammelt","o":["sammelt","Sammelt","samelt","Samelt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'sammeln' schreibt man klein."}
+]},
+{"s":2,"satz":"Am Ufer sonnt sich das faule Krokodil und gähnt mit weit geöffnetem Maul.","f":[
+  {"r":"Krokodil","w":"krokodil","o":["Krokodil","krokodil","Krokkodil","krokkodil"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Krokodil' hat den Begleiter 'das'."},
+  {"r":"faule","w":"Faule","o":["faule","Faule","faole","Faole"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'faul' schreibt man klein."},
+  {"r":"gähnt","w":"gehnt","o":["gähnt","gehnt","Gähnt","gähntd"],"k":"b","tipp":"Regel: 'gähnen' schreibt man mit ä und Dehnungs-h: gäh-nen."}
+]},
+{"s":2,"satz":"Der wilde Tiger pirscht sich am Abend lautlos durch das dichte Dickicht.","f":[
+  {"r":"Tiger","w":"tiger","o":["Tiger","tiger","Tieger","tieger"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Tiger' hat den Begleiter 'der'."},
+  {"r":"wilde","w":"Wilde","o":["wilde","Wilde","willde","Willde"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'wild' schreibt man klein."},
+  {"r":"pirscht","w":"birscht","o":["pirscht","birscht","Pirscht","pirschd"],"k":"b","tipp":"Regel: 'pirschen' beginnt mit p, nicht mit b: pir-schen."}
+]},
+{"s":2,"satz":"Das verspielte Zebra wiehert am Brunnen und sucht das frische Gras.","f":[
+  {"r":"Zebra","w":"zebra","o":["Zebra","zebra","Tsebra","tsebra"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Zebra' hat den Begleiter 'das'."},
+  {"r":"wiehert","w":"wihert","o":["wiehert","wihert","Wiehert","wiehertd"],"k":"b","tipp":"Regel: 'wiehern' schreibt man mit ie und Dehnungs-h: wie-hern."},
+  {"r":"verspielte","w":"Verspielte","o":["verspielte","Verspielte","ferspielte","Ferspielte"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'verspielt' schreibt man klein."}
+]},
+{"s":2,"satz":"Der kluge Affe knackt am Vormittag eine harte Kokosnuss mit einem dicken Stein.","f":[
+  {"r":"Affe","w":"affe","o":["Affe","affe","Affä","afe"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Affe' hat den Begleiter 'der'."},
+  {"r":"knackt","w":"knakt","o":["knackt","knakt","Knackt","knackd"],"k":"b","tipp":"Regel: Nach kurzem a steht ck: knack-en."},
+  {"r":"kluge","w":"Kluge","o":["kluge","Kluge","kluche","Kluche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klug' schreibt man klein."}
+]},
+{"s":2,"satz":"Die giftige Schlange ringelt sich am Felsen und züngelt nach einer kleinen Maus.","f":[
+  {"r":"Schlange","w":"schlange","o":["Schlange","schlange","Schlanke","schlanke"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Schlange' hat den Begleiter 'die'."},
+  {"r":"züngelt","w":"zünkelt","o":["züngelt","zünkelt","Züngelt","züngeltd"],"k":"b","tipp":"Regel: 'züngeln' schreibt man mit ng: zün-geln."},
+  {"r":"giftige","w":"Giftige","o":["giftige","Giftige","gifftige","Gifftige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'giftig' schreibt man klein."}
+]},
+{"s":2,"satz":"Das bunte Chamäleon klettert am Mittag auf einen Zweig und tarnt sich perfekt.","f":[
+  {"r":"Chamäleon","w":"chamäleon","o":["Chamäleon","chamäleon","Chameleon","chameleon"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Chamäleon' hat den Begleiter 'das'."},
+  {"r":"tarnt","w":"Tarnt","o":["tarnt","Tarnt","tahrnt","Tahrnt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'tarnen' schreibt man klein."},
+  {"r":"bunte","w":"bonte","o":["bunte","bonte","Bunte","buntä"],"k":"b","tipp":"Regel: 'bunt' schreibt man mit u: bun-te."}
+]},
+{"s":2,"satz":"Der neugierige Löwe und das schnelle Zebra teilen am Wasserloch einen kühlen Schluck.","f":[
+  {"r":"neugierige","w":"neugirige","o":["neugierige","neugirige","Neugierige","neugieriege"],"k":"b","tipp":"Regel: 'neugierig' kommt von 'Gier' mit ie: neu-gie-rig."},
+  {"r":"teilen","w":"Teilen","o":["teilen","Teilen","tailen","Tailen"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'teilen' schreibt man klein."},
+  {"r":"Wasserloch","w":"wasserloch","o":["Wasserloch","wasserloch","Waserloch","waserloch"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Wasserloch' hat den Begleiter 'das'."}
+]},
+{"s":3,"satz":"Der Löwe brüllt laut, weil er den frechen Affen im hohen Baum entdeckt hat.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Affen","w":"affen","o":["Affen","affen","Afen","afen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'den Affen' steht mit dem Begleiter 'den'."},
+  {"r":"entdeckt","w":"entdekt","o":["entdeckt","entdekt","entdeckkt","entteckt"],"k":"b","tipp":"Regel: Nach kurzem e steht ck: ent-deckt."}
+]},
+{"s":3,"satz":"Der Elefant, der so große Ohren hat, planscht vergnügt im seichten Wasser.","f":[
+  {"r":"Elefant,","w":"Elefant","o":["Elefant,","Elefant","Elefant;","Elefant."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'der' steht ein Komma."},
+  {"r":"große","w":"Große","o":["große","Große","grosse","Grosse"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'groß' schreibt man klein."},
+  {"r":"planscht","w":"planzt","o":["planscht","planzt","planschd","blanscht"],"k":"b","tipp":"Regel: 'planschen' schreibt man mit sch: plan-schen."}
+]},
+{"s":3,"satz":"Die Giraffe frisst Blätter, obwohl der hungrige Löwe in der Nähe wartet.","f":[
+  {"r":"Blätter,","w":"Blätter","o":["Blätter,","Blätter","Blätter;","Blätter."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"hungrige","w":"Hungrige","o":["hungrige","Hungrige","hungriege","Hungriege"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'hungrig' schreibt man klein."},
+  {"r":"frisst","w":"frist","o":["frisst","frist","frißt","frrisst"],"k":"b","tipp":"Regel: Nach kurzem i steht doppel-S: frisst."}
+]},
+{"s":3,"satz":"Der Pinguin watschelt zum Eis, denn er möchte mit den anderen schwimmen gehen.","f":[
+  {"r":"Eis,","w":"Eis","o":["Eis,","Eis","Eis;","Eis."],"k":"k","tipp":"Regel: Vor 'denn' steht ein Komma."},
+  {"r":"watschelt","w":"watschellt","o":["watschelt","watschellt","watchelt","wadschelt"],"k":"b","tipp":"Regel: 'watscheln' schreibt man mit nur EINEM L: wat-scheln."},
+  {"r":"schwimmen","w":"schwimen","o":["schwimmen","schwimen","schwimmän","schwimmenn"],"k":"b","tipp":"Regel: 'schwimmen' hat doppel-M: schwim-men."}
+]},
+{"s":3,"satz":"Das Eichhörnchen, das so flink klettert, sammelt im Herbst die letzten Haselnüsse ein.","f":[
+  {"r":"Eichhörnchen,","w":"Eichhörnchen","o":["Eichhörnchen,","Eichhörnchen","Eichhörnchen;","Eichhörnchen."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'das' steht ein Komma."},
+  {"r":"flink","w":"Flink","o":["flink","Flink","flinck","Flinck"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'flink' schreibt man klein."},
+  {"r":"Haselnüsse","w":"Haselnüse","o":["Haselnüsse","Haselnüse","Haselnühsse","Hasälnüsse"],"k":"b","tipp":"Regel: Nach kurzem ü steht doppel-S: Hasel-nüs-se."}
+]},
+{"s":3,"satz":"Das Krokodil lauert reglos, bis ein durstiges Tier ans schlammige Ufer kommt.","f":[
+  {"r":"reglos,","w":"reglos","o":["reglos,","reglos","reglos;","reglos."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bis' steht ein Komma."},
+  {"r":"durstiges","w":"Durstiges","o":["durstiges","Durstiges","durschtiges","Durschtiges"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'durstig' schreibt man klein."},
+  {"r":"schlammige","w":"schlamige","o":["schlammige","schlamige","Schlammige","schlammieg"],"k":"b","tipp":"Regel: 'Schlamm' hat doppel-M: schlam-mig."}
+]},
+{"s":3,"satz":"Der Tiger schleicht durch das Gras, weil er ein verstecktes Beutetier riecht und verfolgt.","f":[
+  {"r":"Gras,","w":"Gras","o":["Gras,","Gras","Gras;","Gras."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"verstecktes","w":"Verstecktes","o":["verstecktes","Verstecktes","ferstecktes","Ferstecktes"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'versteckt' schreibt man klein."},
+  {"r":"riecht","w":"richt","o":["riecht","richt","riechd","rieht"],"k":"b","tipp":"Regel: 'riechen' schreibt man mit ie und cht: rie-cht."}
+]},
+{"s":3,"satz":"Das Zebra, das so schöne Streifen trägt, grast friedlich neben der großen Herde.","f":[
+  {"r":"Zebra,","w":"Zebra","o":["Zebra,","Zebra","Zebra;","Zebra."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'das' steht ein Komma."},
+  {"r":"schöne","w":"Schöne","o":["schöne","Schöne","schöhne","Schöhne"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schön' schreibt man klein."},
+  {"r":"Streifen","w":"Straifen","o":["Streifen","Straifen","Schtreifen","Streiffen"],"k":"b","tipp":"Regel: 'Streifen' schreibt man mit ei: Strei-fen."}
+]},
+{"s":3,"satz":"Der Affe hüpft von Ast zu Ast, damit er die reifen Bananen schneller erreicht hat.","f":[
+  {"r":"Ast,","w":"Ast","o":["Ast,","Ast","Ast;","Ast."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"reifen","w":"Reifen","o":["reifen","Reifen","raifen","Raifen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'reif' schreibt man klein."},
+  {"r":"erreicht","w":"ereicht","o":["erreicht","ereicht","erraicht","erreichd"],"k":"b","tipp":"Regel: 'erreichen' hat doppel-R: er-rei-chen."}
+]},
+{"s":3,"satz":"Die Schlange sonnt sich am Stein, weil die warme Mittagssonne ihr richtig guttut.","f":[
+  {"r":"Stein,","w":"Stein","o":["Stein,","Stein","Stein;","Stein."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"warme","w":"Warme","o":["warme","Warme","wahrme","Wahrme"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'warm' schreibt man klein."},
+  {"r":"Mittagssonne","w":"Mitagssonne","o":["Mittagssonne","Mitagssonne","Mittagsone","Mittagssone"],"k":"b","tipp":"Regel: 'Mittag' hat doppel-T: Mit-tag."}
+]},
+{"s":3,"satz":"Das Chamäleon sitzt regungslos, obwohl ein bunter Vogel direkt darüber fliegt.","f":[
+  {"r":"regungslos,","w":"regungslos","o":["regungslos,","regungslos","regungslos;","regungslos."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"bunter","w":"Bunter","o":["bunter","Bunter","bonter","Bonter"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'bunt' schreibt man klein."},
+  {"r":"Vogel","w":"Fogel","o":["Vogel","Fogel","Wogel","Vogäl"],"k":"b","tipp":"Regel: 'Vogel' schreibt man mit v, nicht mit f: Vo-gel."}
+]},
+{"s":3,"satz":"Der Löwe und die Giraffe ruhen im Schatten, bevor die heiße Sonne untergeht.","f":[
+  {"r":"Schatten,","w":"Schatten","o":["Schatten,","Schatten","Schatten;","Schatten."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bevor' steht ein Komma."},
+  {"r":"heiße","w":"Heiße","o":["heiße","Heiße","heisse","Heisse"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'heiß' schreibt man klein."},
+  {"r":"ruhen","w":"ruen","o":["ruhen","ruen","ruhän","ruuhen"],"k":"b","tipp":"Regel: 'ruhen' hat ein Dehnungs-h: ru-hen."}
+]}
+]

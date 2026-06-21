@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Die riesige Schokolade schmilzt langsam in der warmen Hosentasche von Tom.","f":[
+  {"r":"riesige","w":"risige","o":["riesige","risige","riesiege","riessige"],"k":"b","tipp":"Merksatz: 'riesig' schreibt man mit ie (langes i): rie-sig."},
+  {"r":"Schokolade","w":"Schokkolade","o":["Schokolade","Schokkolade","Shokolade","Schokolaade"],"k":"b","tipp":"Merksatz: Die Schokolade hat nur ein k und ein l: Scho-ko-la-de."},
+  {"r":"schmilzt","w":"schmielzt","o":["schmilzt","schmielzt","schmiltzt","shmilzt"],"k":"b","tipp":"Merksatz: 'schmilzt' schreibt man mit kurzem i: schmilzt."}
+]},
+{"s":1,"satz":"Auf dem bunten Teller liegen viele leckere Bonbons in glänzendem Papier.","f":[
+  {"r":"bunten","w":"bundten","o":["bunten","bundten","bunden","bunteen"],"k":"b","tipp":"Merksatz: 'bunt' schreibt man mit t: bunt, die bun-ten."},
+  {"r":"leckere","w":"leckkere","o":["leckere","leckkere","leckäre","legkere"],"k":"b","tipp":"Merksatz: 'lecker' schreibt man mit ck nach kurzem e: lec-ker."},
+  {"r":"Bonbons","w":"Bonbongs","o":["Bonbons","Bonbongs","Bombons","Bonbonns"],"k":"b","tipp":"Merksatz: Das Bonbon schreibt man mit n in der Mitte: Bon-bon."}
+]},
+{"s":1,"satz":"Der freche Lutscher klebt heimlich am langen Haar der schlafenden Oma.","f":[
+  {"r":"freche","w":"fräche","o":["freche","fräche","frecche","freghe"],"k":"b","tipp":"Merksatz: 'frech' schreibt man mit e und ch: frech, der fre-che."},
+  {"r":"Lutscher","w":"Luscher","o":["Lutscher","Luscher","Lutsher","Luttscher"],"k":"b","tipp":"Merksatz: Der Lutscher kommt von 'lutschen' und hat ein t: Lut-scher."},
+  {"r":"schlafenden","w":"shlafenden","o":["schlafenden","shlafenden","schlaffenden","schlafänden"],"k":"b","tipp":"Merksatz: 'schlafen' beginnt mit sch und hat ein f: schla-fen."}
+]},
+{"s":1,"satz":"Tausend kleine Gummibärchen hüpfen fröhlich über die wackelige Tischplatte.","f":[
+  {"r":"Gummibärchen","w":"Gumibärchen","o":["Gummibärchen","Gumibärchen","Gummibärschen","Gummiberchen"],"k":"b","tipp":"Merksatz: Das Gummi hat doppel-M: Gum-mi, Gummi-bär-chen."},
+  {"r":"fröhlich","w":"frölich","o":["fröhlich","frölich","fröhlig","fröhliech"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h nach dem ö: fröh-lich."},
+  {"r":"wackelige","w":"wakelige","o":["wackelige","wakelige","wackelieg","wackellige"],"k":"b","tipp":"Merksatz: 'wackelig' schreibt man mit ck nach kurzem a: wac-ke-lig."}
+]},
+{"s":1,"satz":"Die süße Zuckerwatte sieht aus wie eine flauschige rosa Wolke am Himmel.","f":[
+  {"r":"Zuckerwatte","w":"Zukerwatte","o":["Zuckerwatte","Zukerwatte","Zuckerwate","Zuckerwattte"],"k":"b","tipp":"Merksatz: Der Zucker hat ck und die Watte doppel-T: Zuc-ker-wat-te."},
+  {"r":"flauschige","w":"flaushige","o":["flauschige","flaushige","flauschieg","flauschigge"],"k":"b","tipp":"Merksatz: 'flauschig' schreibt man mit au und sch: flau-schig."},
+  {"r":"Wolke","w":"Wollke","o":["Wolke","Wollke","Wolcke","Wolge"],"k":"b","tipp":"Merksatz: Die Wolke schreibt man mit einem l und k: Wol-ke."}
+]},
+{"s":1,"satz":"Der knusprige Keks zerbricht laut zwischen den hungrigen Zähnen des Hundes.","f":[
+  {"r":"knusprige","w":"knusbrige","o":["knusprige","knusbrige","knussprige","knusprieg"],"k":"b","tipp":"Merksatz: 'knusprig' schreibt man mit p: knus-prig, der knus-pri-ge."},
+  {"r":"zerbricht","w":"zerbrischt","o":["zerbricht","zerbrischt","zähbricht","zerprricht"],"k":"b","tipp":"Merksatz: 'zerbricht' kommt von 'brechen' mit ch: zer-bricht."},
+  {"r":"hungrigen","w":"hungriegen","o":["hungrigen","hungriegen","hungerigen","hungrieggen"],"k":"b","tipp":"Merksatz: In 'hungrig' steckt der 'Hunger' mit u und g: hun-grig."}
+]},
+{"s":1,"satz":"Zu Weihnachten backt der Bäcker einen Lebkuchen mit süßem Zuckerguss obendrauf.","f":[
+  {"r":"Bäcker","w":"Becker","o":["Bäcker","Becker","Bäkker","Bäcger"],"k":"b","tipp":"Merksatz: Der Bäcker kommt von 'backen' und wird mit ä geschrieben: Bä-cker."},
+  {"r":"Lebkuchen","w":"Lepkuchen","o":["Lebkuchen","Lepkuchen","Lebguchen","Lebkuhchen"],"k":"b","tipp":"Merksatz: Der Lebkuchen schreibt man mit b: Leb-ku-chen."},
+  {"r":"Zuckerguss","w":"Zukerguss","o":["Zuckerguss","Zukerguss","Zuckergus","Zuckergusss"],"k":"b","tipp":"Merksatz: Der Zucker hat ck und 'Guss' hat doppel-S: Zuc-ker-guss."}
+]},
+{"s":1,"satz":"Im glitzernden Schaufenster locken die teuren Pralinen mit ihrem Duft.","f":[
+  {"r":"glitzernden","w":"glietzernden","o":["glitzernden","glietzernden","glitzärnden","glitzernten"],"k":"b","tipp":"Merksatz: 'glitzern' schreibt man mit kurzem i und tz: glit-zern."},
+  {"r":"Schaufenster","w":"Schaufänster","o":["Schaufenster","Schaufänster","Shaufenster","Schaufensder"],"k":"b","tipp":"Merksatz: Das Fenster schreibt man mit e: Fen-ster, Schau-fen-ster."},
+  {"r":"Pralinen","w":"Pralienen","o":["Pralinen","Pralienen","Bralinen","Pralinnen"],"k":"b","tipp":"Merksatz: Die Praline schreibt man mit einfachem i und n: Pra-li-ne."}
+]},
+{"s":1,"satz":"Der gierige Schokoladenkönig stopft sich täglich den ganzen Mund voll.","f":[
+  {"r":"gierige","w":"girige","o":["gierige","girige","gieriege","gierigge"],"k":"b","tipp":"Merksatz: 'gierig' schreibt man mit ie: gie-rig, der gie-ri-ge."},
+  {"r":"Schokoladenkönig","w":"Schokoladenkönieg","o":["Schokoladenkönig","Schokoladenkönieg","Schokkoladenkönig","Schokoladenkönik"],"k":"b","tipp":"Merksatz: Der König endet auf '-ig': Kö-nig, Schokoladen-kö-nig."},
+  {"r":"täglich","w":"teglich","o":["täglich","teglich","tägliech","täglig"],"k":"b","tipp":"Merksatz: 'täglich' kommt von 'Tag' und wird mit ä geschrieben: täg-lich."}
+]},
+{"s":1,"satz":"Am Karamellbrunnen kleben die Finger der staunenden Kinder fest zusammen am Becher.","f":[
+  {"r":"Karamellbrunnen","w":"Karamelbrunnen","o":["Karamellbrunnen","Karamelbrunnen","Karramellbrunnen","Karamellbrunen"],"k":"b","tipp":"Merksatz: Karamell hat doppel-L und Brunnen doppel-N: Ka-ra-mell-brun-nen."},
+  {"r":"staunenden","w":"staunänden","o":["staunenden","staunänden","schtaunenden","staunendenn"],"k":"b","tipp":"Merksatz: 'staunen' schreibt man mit au: stau-nen, die stau-nen-den."},
+  {"r":"zusammen","w":"zusamen","o":["zusammen","zusamen","zussammen","zusammän"],"k":"b","tipp":"Merksatz: 'zusammen' hat doppel-M: zu-sam-men."}
+]},
+{"s":1,"satz":"Die klebrige Zuckerschnecke tanzt fröhlich auf dem warmen Pfannkuchen herum.","f":[
+  {"r":"klebrige","w":"kläbrige","o":["klebrige","kläbrige","klebriege","kleprige"],"k":"b","tipp":"Merksatz: 'klebrig' kommt von 'kleben' mit e und b: kleb-rig."},
+  {"r":"Zuckerschnecke","w":"Zukerschnecke","o":["Zuckerschnecke","Zukerschnecke","Zuckerschnege","Zuckerschnekke"],"k":"b","tipp":"Merksatz: Der Zucker hat ck und die Schnecke ck: Zuc-ker-schne-cke."},
+  {"r":"Pfannkuchen","w":"Pfankuchen","o":["Pfannkuchen","Pfankuchen","Fannkuchen","Pfannkuhchen"],"k":"b","tipp":"Merksatz: Die Pfanne hat doppel-N: Pfann-ku-chen, beginnt mit pf."}
+]},
+{"s":1,"satz":"Der zauberhafte Kaugummi macht beim Pusten bunte Seifenblasen aus Zucker.","f":[
+  {"r":"zauberhafte","w":"zaoberhafte","o":["zauberhafte","zaoberhafte","zauberhaffte","zauberhafde"],"k":"b","tipp":"Merksatz: 'zauberhaft' schreibt man mit au: zau-ber-haft."},
+  {"r":"Kaugummi","w":"Kaugumi","o":["Kaugummi","Kaugumi","Kaogummi","Kaugummih"],"k":"b","tipp":"Merksatz: Der Kaugummi hat doppel-M: Kau-gum-mi."},
+  {"r":"Seifenblasen","w":"Seifenplasen","o":["Seifenblasen","Seifenplasen","Saifenblasen","Seifenblahsen"],"k":"b","tipp":"Merksatz: Die Blase schreibt man mit b: Bla-se, Seifen-bla-sen."}
+]},
+{"s":2,"satz":"Am Geburtstag verschenkt die nette Hexe eine Tüte voller magischer Lutscher.","f":[
+  {"r":"Hexe","w":"hexe","o":["Hexe","hexe","Hekse","Heckse"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß - 'die Hexe' steht mit dem Begleiter 'die'."},
+  {"r":"verschenkt","w":"ferschenkt","o":["verschenkt","ferschenkt","verschänkt","verschengt"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
+  {"r":"magischer","w":"Magischer","o":["magischer","Magischer","magisscher","mahgischer"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'magisch' schreibt man klein."}
+]},
+{"s":2,"satz":"Heimlich nascht der kleine Kobold die süßen Bonbons aus der Dose im Schrank.","f":[
+  {"r":"nascht","w":"Nascht","o":["nascht","Nascht","nasht","naschd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'naschen' schreibt man klein."},
+  {"r":"süßen","w":"süssen","o":["süßen","süssen","süüßen","süszen"],"k":"b","tipp":"Regel: Nach langem ü steht ß: sü-ßen."},
+  {"r":"Dose","w":"dose","o":["Dose","dose","Dohse","Doose"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß - 'die Dose' hat den Begleiter 'die'."}
+]},
+{"s":2,"satz":"Die mutige Maus knabbert leise am riesigen Stück Schokolade im Keller.","f":[
+  {"r":"Maus","w":"maus","o":["Maus","maus","Maos","Mauus"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß - 'die Maus' hat den Begleiter 'die'."},
+  {"r":"knabbert","w":"knabert","o":["knabbert","knabert","knappert","knabberd"],"k":"b","tipp":"Regel: 'knabbern' hat doppel-B: knab-bern."},
+  {"r":"riesigen","w":"Riesigen","o":["riesigen","Riesigen","risigen","riesieggen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'riesig' schreibt man klein."}
+]},
+{"s":2,"satz":"Der gierige Riese schluckt im Kino eine ganze Schüssel mit klebrigem Karamell.","f":[
+  {"r":"schluckt","w":"Schluckt","o":["schluckt","Schluckt","schlukt","schluckd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schlucken' schreibt man klein."},
+  {"r":"Schüssel","w":"Schüsel","o":["Schüssel","Schüsel","Shüssel","Schüssäl"],"k":"b","tipp":"Regel: Die Schüssel hat doppel-S: Schüs-sel."},
+  {"r":"Kino","w":"kino","o":["Kino","kino","Kieno","Kinoo"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß - 'das Kino' hat den Begleiter 'das'."}
+]},
+{"s":2,"satz":"Mit klebrigen Fingern bastelt die Fee aus Zuckerwatte einen flauschigen Hut.","f":[
+  {"r":"klebrigen","w":"Klebrigen","o":["klebrigen","Klebrigen","kleprigen","klebriegen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klebrig' schreibt man klein."},
+  {"r":"Fee","w":"fee","o":["Fee","fee","Feh","Feee"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß - 'die Fee' hat den Begleiter 'die'."},
+  {"r":"flauschigen","w":"flaushigen","o":["flauschigen","flaushigen","flauschiegen","flauschieggen"],"k":"b","tipp":"Regel: 'flauschig' schreibt man mit au und sch: flau-schig."}
+]},
+{"s":2,"satz":"Der Zwerg versteckt die letzten Kekse hinter dem dicken Topf im Schrank.","f":[
+  {"r":"Zwerg","w":"zwerg","o":["Zwerg","zwerg","Zwärg","Zwergk"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß - 'der Zwerg' hat den Begleiter 'der'."},
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","versteckd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
+  {"r":"dicken","w":"Dicken","o":["dicken","Dicken","diken","dickken"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'dick' schreibt man klein."}
+]},
+{"s":2,"satz":"Beim Backen rührt der lustige Clown viel Zucker in den klebrigen Teig.","f":[
+  {"r":"rührt","w":"Rührt","o":["rührt","Rührt","ruhrt","rührd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'rühren' schreibt man klein."},
+  {"r":"Zucker","w":"Zuker","o":["Zucker","Zuker","Zuckker","Zugger"],"k":"b","tipp":"Regel: Der Zucker hat ck nach kurzem u: Zuc-ker."},
+  {"r":"klebrigen","w":"Klebrigen","o":["klebrigen","Klebrigen","kleprigen","klebriegen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klebrig' schreibt man klein."}
+]},
+{"s":2,"satz":"Auf dem Jahrmarkt verkauft der Riese fröhlich gebrannte Mandeln und Lakritze.","f":[
+  {"r":"verkauft","w":"ferkauft","o":["verkauft","ferkauft","verkaoft","verkaufd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v, wie in 'verkaufen'."},
+  {"r":"Riese","w":"riese","o":["Riese","riese","Riehse","Riesä"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß - 'der Riese' hat den Begleiter 'der'."},
+  {"r":"gebrannte","w":"Gebrannte","o":["gebrannte","Gebrannte","gebrante","geprannte"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'gebrannt' schreibt man klein."}
+]},
+{"s":2,"satz":"Die freche Katze stibitzt den Lutscher und versteckt ihn unter dem Sofa schnell.","f":[
+  {"r":"Katze","w":"katze","o":["Katze","katze","Katse","Kazte"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß - 'die Katze' hat den Begleiter 'die'."},
+  {"r":"stibitzt","w":"stibietzt","o":["stibitzt","stibietzt","schtibitzt","stibizt"],"k":"b","tipp":"Regel: 'stibitzt' schreibt man mit kurzem i und tz: sti-bitzt."},
+  {"r":"Sofa","w":"sofa","o":["Sofa","sofa","Sopha","Soffa"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß - 'das Sofa' hat den Begleiter 'das'."}
+]},
+{"s":2,"satz":"Am Nachmittag schleckt der gierige Drache sein Erdbeereis genüsslich in der Sonne.","f":[
+  {"r":"schleckt","w":"Schleckt","o":["schleckt","Schleckt","schlekt","schleckd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schlecken' schreibt man klein."},
+  {"r":"genüsslich","w":"genüslich","o":["genüsslich","genüslich","genüssliech","genüsslig"],"k":"b","tipp":"Regel: 'genüsslich' hat doppel-S: ge-nüss-lich."},
+  {"r":"Erdbeereis","w":"erdbeereis","o":["Erdbeereis","erdbeereis","Erdberreis","Erdbeereiss"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß - 'das Erdbeereis' hat den Begleiter 'das'."}
+]},
+{"s":2,"satz":"Der zauberhafte Bonbonladen duftet nach Honig und frischer Pfefferminze am Morgen.","f":[
+  {"r":"zauberhafte","w":"Zauberhafte","o":["zauberhafte","Zauberhafte","zaoberhafte","zauberhafde"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'zauberhaft' schreibt man klein."},
+  {"r":"Pfefferminze","w":"Pfeferminze","o":["Pfefferminze","Pfeferminze","Pfäfferminze","Pfefferminse"],"k":"b","tipp":"Regel: Die Pfefferminze hat doppel-F: Pfef-fer-min-ze."},
+  {"r":"Honig","w":"honig","o":["Honig","honig","Honieg","Honnig"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß - 'der Honig' hat den Begleiter 'der'."}
+]},
+{"s":2,"satz":"Vorsichtig balanciert der kleine Affe einen wackeligen Turm aus Keksen.","f":[
+  {"r":"balanciert","w":"balanziert","o":["balanciert","balanziert","palanciert","balancierd"],"k":"b","tipp":"Regel: 'balancieren' schreibt man mit c: ba-lan-cie-ren."},
+  {"r":"Affe","w":"affe","o":["Affe","affe","Afe","Affä"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß - 'der Affe' hat den Begleiter 'der'."},
+  {"r":"wackeligen","w":"Wackeligen","o":["wackeligen","Wackeligen","wakeligen","wackelieggen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'wackelig' schreibt man klein."}
+]},
+{"s":3,"satz":"Weil der Lutscher so klebrig war, wusch sich der Junge gründlich die Hände.","f":[
+  {"r":"war,","w":"war","o":["war,","war","war;","war."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'weil' vorne, kommt danach ein Komma."},
+  {"r":"wusch","w":"Wusch","o":["wusch","Wusch","wush","wuschd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'waschen' schreibt man klein."},
+  {"r":"gründlich","w":"gründliech","o":["gründlich","gründliech","gründlig","grünndlich"],"k":"b","tipp":"Regel: 'gründlich' schreibt man mit kurzem ü und d: gründ-lich."}
+]},
+{"s":3,"satz":"Der Bäcker verkauft Kekse, Lebkuchen und knusprige Waffeln auf dem Markt.","f":[
+  {"r":"Kekse,","w":"Kekse","o":["Kekse,","Kekse","Kekse;","Kekse."],"k":"k","tipp":"Regel: Bei einer Aufzählung steht zwischen den Wörtern ein Komma."},
+  {"r":"verkauft","w":"ferkauft","o":["verkauft","ferkauft","verkaoft","verkaufd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v, wie in 'verkaufen'."},
+  {"r":"knusprige","w":"Knusprige","o":["knusprige","Knusprige","knusbrige","knussprige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'knusprig' schreibt man klein."}
+]},
+{"s":3,"satz":"Die Kinder freuten sich, weil es heute süße Zuckerwatte zum Nachtisch gab.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"süße","w":"süsse","o":["süße","süsse","süüße","süsze"],"k":"b","tipp":"Regel: Nach langem ü steht ß: sü-ße."},
+  {"r":"Zuckerwatte","w":"zuckerwatte","o":["Zuckerwatte","zuckerwatte","Zukerwatte","Zuckerwate"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß - 'die Zuckerwatte' hat den Begleiter 'die'."}
+]},
+{"s":3,"satz":"Tom wollte mehr Bonbons, aber die volle Dose war bereits ganz leer.","f":[
+  {"r":"Bonbons,","w":"Bonbons","o":["Bonbons,","Bonbons","Bonbons;","Bonbons."],"k":"k","tipp":"Regel: Vor 'aber' steht immer ein Komma."},
+  {"r":"volle","w":"Volle","o":["volle","Volle","vole","wolle"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'voll' schreibt man klein."},
+  {"r":"Dose","w":"Dohse","o":["Dose","Dohse","Doose","Dosse"],"k":"b","tipp":"Regel: Die Dose schreibt man mit einfachem o und s: Do-se."}
+]},
+{"s":3,"satz":"Der Schokoladenkuchen, der frisch gebacken war, roch herrlich nach Vanille.","f":[
+  {"r":"Schokoladenkuchen,","w":"Schokoladenkuchen","o":["Schokoladenkuchen,","Schokoladenkuchen","Schokoladenkuchen;","Schokoladenkuchen."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'der' steht ein Komma."},
+  {"r":"frisch","w":"Frisch","o":["frisch","Frisch","frish","frischd"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'frisch' schreibt man klein."},
+  {"r":"gebacken","w":"gebaken","o":["gebacken","gebaken","gepacken","gebackken"],"k":"b","tipp":"Regel: 'gebacken' schreibt man mit ck nach kurzem a: ge-ba-cken."}
+]},
+{"s":3,"satz":"Als die Glocke läutete, rannten alle Kinder schnell zum bunten Süßigkeitenstand.","f":[
+  {"r":"läutete,","w":"läutete","o":["läutete,","läutete","läutete;","läutete."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'als' vorne, kommt danach ein Komma."},
+  {"r":"rannten","w":"ranten","o":["rannten","ranten","rrannten","ranndten"],"k":"b","tipp":"Regel: 'rannten' hat doppel-N nach kurzem a: rann-ten."},
+  {"r":"bunten","w":"Bunten","o":["bunten","Bunten","bundten","bunteen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'bunt' schreibt man klein."}
+]},
+{"s":3,"satz":"Die Oma schenkte mir Pralinen, damit ich nicht mehr so traurig wäre.","f":[
+  {"r":"Pralinen,","w":"Pralinen","o":["Pralinen,","Pralinen","Pralinen;","Pralinen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"schenkte","w":"Schenkte","o":["schenkte","Schenkte","shenkte","schengte"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schenken' schreibt man klein."},
+  {"r":"traurig","w":"traorig","o":["traurig","traorig","trauriech","trauerig"],"k":"b","tipp":"Regel: 'traurig' schreibt man mit au: trau-rig."}
+]},
+{"s":3,"satz":"Der Drache hortet Schokolade, weil er sie viel lieber als Gold mag.","f":[
+  {"r":"Schokolade,","w":"Schokolade","o":["Schokolade,","Schokolade","Schokolade;","Schokolade."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"hortet","w":"Hortet","o":["hortet","Hortet","hordet","horttet"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'horten' schreibt man klein."},
+  {"r":"lieber","w":"liber","o":["lieber","liber","liebär","lieper"],"k":"b","tipp":"Regel: 'lieber' schreibt man mit ie: lie-ber."}
+]},
+{"s":3,"satz":"Wenn der Keks ins Glas fällt, weicht er im warmen Kakao schnell auf.","f":[
+  {"r":"fällt,","w":"fällt","o":["fällt,","fällt","fällt;","fällt."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'wenn' vorne, kommt danach ein Komma."},
+  {"r":"weicht","w":"Weicht","o":["weicht","Weicht","waicht","weichd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'weichen' schreibt man klein."},
+  {"r":"Kakao","w":"Kakkao","o":["Kakao","Kakkao","Kackao","Kakaoo"],"k":"b","tipp":"Regel: Der Kakao hat nur ein k in der Mitte: Ka-kao."}
+]},
+{"s":3,"satz":"Lisa teilt ihre Gummibärchen, obwohl sie selbst ziemlich großen Hunger hat.","f":[
+  {"r":"Gummibärchen,","w":"Gummibärchen","o":["Gummibärchen,","Gummibärchen","Gummibärchen;","Gummibärchen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"selbst","w":"Selbst","o":["selbst","Selbst","selpst","selbest"],"k":"g","tipp":"Regel: Das kleine Wort 'selbst' schreibt man klein."},
+  {"r":"ziemlich","w":"ziemliech","o":["ziemlich","ziemliech","ziehmlich","ziemlig"],"k":"b","tipp":"Regel: 'ziemlich' schreibt man mit ie: ziem-lich."}
+]},
+{"s":3,"satz":"Der Junge kaufte Schokolade, Bonbons und einen riesigen Lutscher im Laden.","f":[
+  {"r":"Schokolade,","w":"Schokolade","o":["Schokolade,","Schokolade","Schokolade;","Schokolade."],"k":"k","tipp":"Regel: Bei einer Aufzählung steht zwischen den Wörtern ein Komma."},
+  {"r":"riesigen","w":"Riesigen","o":["riesigen","Riesigen","risigen","riesieggen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'riesig' schreibt man klein."},
+  {"r":"Lutscher","w":"Luscher","o":["Lutscher","Luscher","Lutsher","Luttscher"],"k":"b","tipp":"Regel: Der Lutscher kommt von 'lutschen' und hat ein t: Lut-scher."}
+]},
+{"s":3,"satz":"Bevor er das Eis aß, leckte der Hund schnell die süße Sahne ab.","f":[
+  {"r":"aß,","w":"aß","o":["aß,","aß","aß;","aß."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'bevor' vorne, kommt danach ein Komma."},
+  {"r":"leckte","w":"Leckte","o":["leckte","Leckte","lekte","leckdte"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'lecken' schreibt man klein."},
+  {"r":"süße","w":"süsse","o":["süße","süsse","süüße","süsze"],"k":"b","tipp":"Regel: Nach langem ü steht ß: sü-ße."}
+]}
+]

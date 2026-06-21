@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Die gemütliche Kuh kaut zufrieden ihr Heu auf der saftigen grünen Weide.","f":[
+  {"r":"gemütliche","w":"gemühtliche","o":["gemütliche","gemühtliche","gemütlige","gemüdliche"],"k":"b","tipp":"Merksatz: 'gemütlich' schreibt man mit t und ohne Dehnungs-h: ge-müt-lich."},
+  {"r":"zufrieden","w":"zufriden","o":["zufrieden","zufriden","zufrieten","tzufrieden"],"k":"b","tipp":"Merksatz: In 'zufrieden' steckt 'Frieden' mit ie: zu-frie-den."},
+  {"r":"saftigen","w":"safdigen","o":["saftigen","safdigen","saftiegen","safftigen"],"k":"b","tipp":"Merksatz: In 'saftig' steckt der 'Saft' – mit ft."}
+]},
+{"s":1,"satz":"Das rosige Schwein wälzt sich vergnügt im kühlen Matsch hinter dem alten Stall.","f":[
+  {"r":"rosige","w":"rosiege","o":["rosige","rosiege","roosige","rossige"],"k":"b","tipp":"Merksatz: 'rosig' hat ein kurzes i – kein ie: ro-sig."},
+  {"r":"wälzt","w":"welzt","o":["wälzt","welzt","wältzt","wälzd"],"k":"b","tipp":"Merksatz: 'wälzen' kommt von 'Walze' – darum mit ä."},
+  {"r":"vergnügt","w":"fergnügt","o":["vergnügt","fergnügt","vergnügd","verknügt"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v wie in 'vergessen'."}
+]},
+{"s":1,"satz":"Das aufgeregte Huhn gackert laut und legt ein warmes Ei ins weiche Stroh.","f":[
+  {"r":"aufgeregte","w":"aufgerekte","o":["aufgeregte","aufgerekte","aufgeregde","aofgeregte"],"k":"b","tipp":"Merksatz: 'aufgeregt' kommt von 'regen' – mit g, nicht k."},
+  {"r":"gackert","w":"gakert","o":["gackert","gakert","gaggert","gackährt"],"k":"b","tipp":"Merksatz: Nach kurzem a kommt ck: ga-ckert."},
+  {"r":"warmes","w":"wahrmes","o":["warmes","wahrmes","warrmes","warmäs"],"k":"b","tipp":"Merksatz: 'warm' braucht kein Dehnungs-h: war-mes."}
+]},
+{"s":1,"satz":"Der laute Traktor zuckelt langsam über den staubigen Feldweg zur Scheune.","f":[
+  {"r":"Traktor","w":"Trakdor","o":["Traktor","Trakdor","Tracktor","Tragtor"],"k":"b","tipp":"Merksatz: Der Traktor hat nur EIN k und ein hartes t: Trak-tor."},
+  {"r":"zuckelt","w":"zukelt","o":["zuckelt","zukelt","tzuckelt","zuggelt"],"k":"b","tipp":"Merksatz: Nach kurzem u kommt ck: zu-ckelt."},
+  {"r":"staubigen","w":"staobigen","o":["staubigen","staobigen","schtaubigen","staubiegen"],"k":"b","tipp":"Merksatz: 'Staub' mit au – wie 'Au, das kitzelt in der Nase'."}
+]},
+{"s":1,"satz":"Im warmen Stall muht die Kuh, während der Bauer frisches Stroh ausstreut und pfeift.","f":[
+  {"r":"Stall","w":"Stal","o":["Stall","Stal","Schtall","Stalle"],"k":"b","tipp":"Merksatz: Der Stall hat doppel-L: Stall."},
+  {"r":"frisches","w":"frishes","o":["frisches","frishes","frishches","frissches"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit sch: fri-sches."},
+  {"r":"ausstreut","w":"aosstreut","o":["ausstreut","aosstreut","ausschtreut","ausstroyt"],"k":"b","tipp":"Merksatz: 'aus' schreibt man mit au: aus-streut."}
+]},
+{"s":1,"satz":"Der fleißige Bauer stapelt das duftende Heu mit der Gabel auf den Wagen.","f":[
+  {"r":"fleißige","w":"fleisige","o":["fleißige","fleisige","fleißieg","vleißige"],"k":"b","tipp":"Merksatz: Nach langem ei kommt das scharfe ß: flei-ßig."},
+  {"r":"duftende","w":"duvtende","o":["duftende","duvtende","duftänte","dufftende"],"k":"b","tipp":"Merksatz: 'duften' schreibt man mit f wie in 'Duft'."},
+  {"r":"Gabel","w":"Gahbel","o":["Gabel","Gahbel","Gabbel","Gabäl"],"k":"b","tipp":"Merksatz: Die Gabel braucht kein Dehnungs-h: Ga-bel."}
+]},
+{"s":1,"satz":"In der hohen Scheune türmt sich das goldene Stroh bis unter das Dach.","f":[
+  {"r":"Scheune","w":"Scheine","o":["Scheune","Scheine","Scheuhne","Scheonne"],"k":"b","tipp":"Merksatz: Die Scheune schreibt man mit eu wie in 'heute'."},
+  {"r":"türmt","w":"tührmt","o":["türmt","tührmt","türrmt","dürmt"],"k":"b","tipp":"Merksatz: 'türmen' kommt von 'Turm' – ohne Dehnungs-h: türmt."},
+  {"r":"goldene","w":"goldne","o":["goldene","goldne","goltene","goldenä"],"k":"b","tipp":"Merksatz: 'golden' kommt von 'Gold' mit d: gol-de-ne."}
+]},
+{"s":1,"satz":"Im Herbst bringt der Bauer die reiche Ernte mit dem Wagen in die Scheune.","f":[
+  {"r":"Ernte","w":"Ernde","o":["Ernte","Ernde","Erndte","Ärnte"],"k":"b","tipp":"Merksatz: Die Ernte hat ein hartes t: Ern-te."},
+  {"r":"reiche","w":"reihe","o":["reiche","reihe","reische","raiche"],"k":"b","tipp":"Merksatz: 'reich' schreibt man mit ei und ch: rei-che."},
+  {"r":"Wagen","w":"Wahgen","o":["Wagen","Wahgen","Waggen","Wahnen"],"k":"b","tipp":"Merksatz: Der Wagen braucht kein Dehnungs-h: Wa-gen."}
+]},
+{"s":1,"satz":"Das neugierige Ferkel quiekt fröhlich und sucht überall nach leckerem Futter.","f":[
+  {"r":"neugierige","w":"neugirige","o":["neugierige","neugirige","neugieriege","neugierrige"],"k":"b","tipp":"Merksatz: 'neugierig' kommt von 'Gier' mit ie: neu-gie-rig."},
+  {"r":"quiekt","w":"kwiekt","o":["quiekt","kwiekt","quiekd","qiekt"],"k":"b","tipp":"Merksatz: Bei 'qu' gehören q und u immer zusammen: qui-ekt."},
+  {"r":"fröhlich","w":"frölich","o":["fröhlich","frölich","fröhlig","fröchlich"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h: fröh-lich."}
+]},
+{"s":1,"satz":"Am Morgen kräht der stolze Hahn besonders laut auf dem hölzernen Zaun.","f":[
+  {"r":"kräht","w":"krääht","o":["kräht","krääht","kreht","krähd"],"k":"b","tipp":"Merksatz: 'krähen' hat ein ä und ein Dehnungs-h: kräht."},
+  {"r":"stolze","w":"schtolze","o":["stolze","schtolze","stoltze","stolzä"],"k":"b","tipp":"Merksatz: 'St' spricht man 'Scht', schreibt es aber immer 'St': stolze."},
+  {"r":"hölzernen","w":"hölzernän","o":["hölzernen","hölzernän","höltzernen","hölzärnen"],"k":"b","tipp":"Merksatz: 'hölzern' kommt von 'Holz' – mit ö und z."}
+]},
+{"s":1,"satz":"Die gefräßige Ziege knabbert genüsslich am grünen Gras neben der Scheune.","f":[
+  {"r":"gefräßige","w":"gefresige","o":["gefräßige","gefresige","gefräsige","gefräßieg"],"k":"b","tipp":"Merksatz: 'gefräßig' kommt von 'Fraß' – mit ä und ß."},
+  {"r":"knabbert","w":"knabert","o":["knabbert","knabert","gnabbert","knabbärt"],"k":"b","tipp":"Merksatz: Beim Knabbern beißt es doppelt – doppel-B: knab-bert."},
+  {"r":"genüsslich","w":"genüslich","o":["genüsslich","genüslich","genüßlich","genüsslig"],"k":"b","tipp":"Merksatz: Nach kurzem ü kommt doppel-S: ge-nüss-lich."}
+]},
+{"s":1,"satz":"Der schlaue Hofhund bewacht treu das Hoftor vor den hungrigen Füchsen.","f":[
+  {"r":"schlaue","w":"schlaoe","o":["schlaue","schlaoe","shlaue","schlauä"],"k":"b","tipp":"Merksatz: 'schlau' schreibt man mit au: schlau-e."},
+  {"r":"bewacht","w":"bewahcht","o":["bewacht","bewahcht","bewachd","bäwacht"],"k":"b","tipp":"Merksatz: 'bewachen' braucht kein Dehnungs-h: be-wacht."},
+  {"r":"Hoftor","w":"Hofdor","o":["Hoftor","Hofdor","Hofttor","Hovtor"],"k":"b","tipp":"Merksatz: Das Hoftor hat ein hartes t: Hof-tor."}
+]},
+{"s":2,"satz":"Am Morgen melkt der freundliche Bauer die geduldige Kuh im warmen Stall.","f":[
+  {"r":"Bauer","w":"bauer","o":["Bauer","bauer","Baoer","Bauä"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Bauer' steht mit dem Begleiter 'der'."},
+  {"r":"melkt","w":"Melkt","o":["melkt","Melkt","mellkt","melkd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'melken' schreibt man klein."},
+  {"r":"geduldige","w":"gedultige","o":["geduldige","gedultige","geduldiege","gedulldige"],"k":"b","tipp":"Regel: 'geduldig' kommt von 'Geduld' mit d: ge-dul-dig."}
+]},
+{"s":2,"satz":"Im Matsch suhlt sich das dicke Schwein und grunzt dabei ganz zufrieden.","f":[
+  {"r":"Schwein","w":"schwein","o":["Schwein","schwein","Schwain","Shwein"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Schwein' hat den Begleiter 'das'."},
+  {"r":"suhlt","w":"Suhlt","o":["suhlt","Suhlt","sult","suhld"],"k":"g","tipp":"Regel: Verben wie 'suhlen' schreibt man klein."},
+  {"r":"dicke","w":"dike","o":["dicke","dike","digge","dickä"],"k":"b","tipp":"Regel: Nach kurzem i kommt ck: di-cke."}
+]},
+{"s":2,"satz":"Das bunte Huhn pickt im Hof eifrig die verstreuten Körner vom Boden.","f":[
+  {"r":"Huhn","w":"huhn","o":["Huhn","huhn","Hun","Huun"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Huhn' hat den Begleiter 'das'."},
+  {"r":"pickt","w":"Pickt","o":["pickt","Pickt","pikt","piggt"],"k":"g","tipp":"Regel: Verben wie 'picken' schreibt man klein."},
+  {"r":"verstreuten","w":"ferstreuten","o":["verstreuten","ferstreuten","verschtreuten","verstroyten"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v wie in 'verstecken'."}
+]},
+{"s":2,"satz":"Der rote Traktor pflügt am Vormittag das große Feld hinter der Scheune.","f":[
+  {"r":"Traktor","w":"traktor","o":["Traktor","traktor","Trakdor","tracktor"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Traktor' steht mit dem Begleiter 'der'."},
+  {"r":"pflügt","w":"Pflügt","o":["pflügt","Pflügt","flügt","pflükt"],"k":"g","tipp":"Regel: Verben wie 'pflügen' schreibt man klein."},
+  {"r":"Vormittag","w":"Formittag","o":["Vormittag","Formittag","Vormitag","Vormiettag"],"k":"b","tipp":"Regel: 'vor-' schreibt man mit v wie in 'vorne': Vor-mittag."}
+]},
+{"s":2,"satz":"Im dunklen Stall schläft die müde Kuh auf dem weichen Stroh ganz tief.","f":[
+  {"r":"Stall","w":"stall","o":["Stall","stall","Stal","stal"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Stall' hat den Begleiter 'der'."},
+  {"r":"schläft","w":"Schläft","o":["schläft","Schläft","shläft","schlääft"],"k":"g","tipp":"Regel: Verben wie 'schlafen' schreibt man klein."},
+  {"r":"weichen","w":"waichen","o":["weichen","waichen","weihen","weichän"],"k":"b","tipp":"Regel: 'weich' schreibt man mit ei: wei-chen."}
+]},
+{"s":2,"satz":"Der starke Bauer schichtet das trockene Heu mit der Gabel zu einem Haufen.","f":[
+  {"r":"Heu","w":"heu","o":["Heu","heu","Hei","Heü"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Heu' hat den Begleiter 'das'."},
+  {"r":"schichtet","w":"Schichtet","o":["schichtet","Schichtet","shichtet","schihtet"],"k":"g","tipp":"Regel: Verben wie 'schichten' schreibt man klein."},
+  {"r":"trockene","w":"trokene","o":["trockene","trokene","troggene","drockene"],"k":"b","tipp":"Regel: Nach kurzem o kommt ck: tro-cke-ne."}
+]},
+{"s":2,"satz":"In der alten Scheune lagert der Bauer die reiche Ernte für den langen Winter.","f":[
+  {"r":"Scheune","w":"scheune","o":["Scheune","scheune","Scheine","scheine"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Scheune' hat den Begleiter 'die'."},
+  {"r":"lagert","w":"Lagert","o":["lagert","Lagert","lahgert","lagärt"],"k":"g","tipp":"Regel: Verben wie 'lagern' schreibt man klein."},
+  {"r":"reiche","w":"raiche","o":["reiche","raiche","reihe","reichä"],"k":"b","tipp":"Regel: 'reich' schreibt man mit ei: rei-che."}
+]},
+{"s":2,"satz":"Auf der Weide grasen die Schafe friedlich, während der Hütehund munter bellt.","f":[
+  {"r":"Schafe","w":"schafe","o":["Schafe","schafe","Schaffe","Schafä"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Schafe' haben den Begleiter 'die'."},
+  {"r":"grasen","w":"Grasen","o":["grasen","Grasen","grahsen","grassen"],"k":"g","tipp":"Regel: Verben wie 'grasen' schreibt man klein."},
+  {"r":"munter","w":"munder","o":["munter","munder","muntter","muntär"],"k":"b","tipp":"Regel: 'munter' hat ein hartes t: mun-ter."}
+]},
+{"s":2,"satz":"Am Abend füttert die nette Bäuerin die hungrigen Hühner mit goldenem Korn.","f":[
+  {"r":"Bäuerin","w":"bäuerin","o":["Bäuerin","bäuerin","Beuerin","beuerin"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Bäuerin' hat den Begleiter 'die'."},
+  {"r":"füttert","w":"Füttert","o":["füttert","Füttert","fütert","füttärt"],"k":"g","tipp":"Regel: Verben wie 'füttern' schreibt man klein."},
+  {"r":"hungrigen","w":"hungriegen","o":["hungrigen","hungriegen","hungerigen","hungriggen"],"k":"b","tipp":"Regel: In 'hungrig' steckt der 'Hunger' – mit u und g."}
+]},
+{"s":2,"satz":"Das kleine Fohlen springt übermütig über die Wiese und wiehert vor Freude laut.","f":[
+  {"r":"Fohlen","w":"fohlen","o":["Fohlen","fohlen","Folen","folen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Fohlen' hat den Begleiter 'das'."},
+  {"r":"springt","w":"Springt","o":["springt","Springt","schpringt","springd"],"k":"g","tipp":"Regel: Verben wie 'springen' schreibt man klein."},
+  {"r":"übermütig","w":"übermütieg","o":["übermütig","übermütieg","übermühtig","übermüttig"],"k":"b","tipp":"Regel: 'übermütig' kommt von 'Mut' – mit kurzem ü, kein Dehnungs-h."}
+]},
+{"s":2,"satz":"Im Stall gluckt die warme Henne über ihren frisch gelegten weißen Eiern.","f":[
+  {"r":"Henne","w":"henne","o":["Henne","henne","Hene","hene"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Henne' hat den Begleiter 'die'."},
+  {"r":"gluckt","w":"Gluckt","o":["gluckt","Gluckt","glukt","gluggt"],"k":"g","tipp":"Regel: Verben wie 'glucken' schreibt man klein."},
+  {"r":"weißen","w":"weisen","o":["weißen","weisen","waißen","weißän"],"k":"b","tipp":"Regel: Nach langem ei kommt das scharfe ß: wei-ßen."}
+]},
+{"s":2,"satz":"Der müde Bauer ruht sich kurz im Schatten der großen Eiche neben dem Acker aus.","f":[
+  {"r":"Bauer","w":"bauer","o":["Bauer","bauer","Baoer","Bauä"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Bauer' hat den Begleiter 'der'."},
+  {"r":"ruht","w":"Ruht","o":["ruht","Ruht","rut","ruhd"],"k":"g","tipp":"Regel: Verben wie 'ruhen' schreibt man klein."},
+  {"r":"Schatten","w":"Shatten","o":["Schatten","Shatten","Schaten","Schattän"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: Schat-ten."}
+]},
+{"s":3,"satz":"Auf dem Bauernhof leben Kühe, gackernde Hühner und neugierige Schweine.","f":[
+  {"r":"Kühe,","w":"Kühe","o":["Kühe,","Kühe","Kühe;","Kühe."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"gackernde","w":"gakernde","o":["gackernde","gakernde","gaggernde","gackärnde"],"k":"b","tipp":"Regel: Nach kurzem a kommt ck: ga-ckern-de."},
+  {"r":"neugierige","w":"Neugierige","o":["neugierige","Neugierige","neugirige","neugierieg"],"k":"g","tipp":"Regel: Adjektive (Wiewörter) wie 'neugierig' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Bauer freut sich, weil die fleißige Kuh besonders viel Milch gibt.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Kuh","w":"kuh","o":["Kuh","kuh","Ku","Kuuh"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Kuh' hat den Begleiter 'die'."},
+  {"r":"fleißige","w":"fleisige","o":["fleißige","fleisige","fleißieg","vleißige"],"k":"b","tipp":"Regel: Nach langem ei kommt das scharfe ß: flei-ßig."}
+]},
+{"s":3,"satz":"Die Bäuerin weiß, dass der hungrige Hahn am Morgen besonders laut kräht.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Morgen","w":"morgen","o":["Morgen","morgen","Morken","morken"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'am Morgen' hat den Begleiter 'am'."},
+  {"r":"hungrige","w":"hungriege","o":["hungrige","hungriege","hungerige","hungrigge"],"k":"b","tipp":"Regel: In 'hungrig' steckt der 'Hunger' – mit u und g."}
+]},
+{"s":3,"satz":"Der alte Traktor, der laut knattert, zieht den schweren Pflug über das Feld.","f":[
+  {"r":"Traktor,","w":"Traktor","o":["Traktor,","Traktor","Traktor;","Traktor."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'der' wird mit Kommas eingeschlossen."},
+  {"r":"schweren","w":"Schweren","o":["schweren","Schweren","shweren","schwehren"],"k":"g","tipp":"Regel: Adjektive wie 'schwer' schreibt man klein."},
+  {"r":"Pflug","w":"Flug","o":["Pflug","Flug","Pflook","Pfluk"],"k":"b","tipp":"Regel: 'Pflug' beginnt mit pf wie 'pflügen': Pflug."}
+]},
+{"s":3,"satz":"Das Schwein ist gemütlich, aber die flinke Ziege springt munter über den Zaun.","f":[
+  {"r":"gemütlich,","w":"gemütlich","o":["gemütlich,","gemütlich","gemütlich;","gemütlich."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"flinke","w":"Flinke","o":["flinke","Flinke","flingke","flinkä"],"k":"g","tipp":"Regel: Adjektive wie 'flink' schreibt man klein."},
+  {"r":"Ziege","w":"Ziehge","o":["Ziege","Ziehge","Tziege","Zige"],"k":"b","tipp":"Regel: 'Ziege' schreibt man mit ie: Zie-ge."}
+]},
+{"s":3,"satz":"Wenn die Sonne aufgeht, kräht der stolze Hahn laut auf dem Misthaufen.","f":[
+  {"r":"aufgeht,","w":"aufgeht","o":["aufgeht,","aufgeht","aufgeht;","aufgeht."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma."},
+  {"r":"Hahn","w":"hahn","o":["Hahn","hahn","Han","Haan"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Hahn' hat den Begleiter 'der'."},
+  {"r":"stolze","w":"schtolze","o":["stolze","schtolze","stoltze","stolzä"],"k":"b","tipp":"Regel: 'St' spricht man 'Scht', schreibt es aber immer 'St': stolze."}
+]},
+{"s":3,"satz":"Der Bauer bringt das Heu in die Scheune, damit es im Winter trocken bleibt.","f":[
+  {"r":"Scheune,","w":"Scheune","o":["Scheune,","Scheune","Scheune;","Scheune."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Heu","w":"heu","o":["Heu","heu","Hei","Heü"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Heu' hat den Begleiter 'das'."},
+  {"r":"trocken","w":"troken","o":["trocken","troken","troggen","drocken"],"k":"b","tipp":"Regel: Nach kurzem o kommt ck: tro-cken."}
+]},
+{"s":3,"satz":"Die Ernte ist riesig, doch der müde Bauer arbeitet trotzdem bis zum Abend weiter.","f":[
+  {"r":"riesig,","w":"riesig","o":["riesig,","riesig","riesig;","riesig."],"k":"k","tipp":"Regel: Vor 'doch' steht ein Komma."},
+  {"r":"Ernte","w":"ernte","o":["Ernte","ernte","Ernde","ernde"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Ernte' hat den Begleiter 'die'."},
+  {"r":"arbeitet","w":"arbaitet","o":["arbeitet","arbaitet","arbeited","arbeittet"],"k":"b","tipp":"Regel: 'arbeiten' schreibt man mit ei: ar-bei-tet."}
+]},
+{"s":3,"satz":"Im Stall stehen Pferde, gefleckte Kühe und meckernde Ziegen ganz dicht beisammen.","f":[
+  {"r":"Pferde,","w":"Pferde","o":["Pferde,","Pferde","Pferde;","Pferde."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"gefleckte","w":"geflekte","o":["gefleckte","geflekte","gefleggte","gefläckte"],"k":"b","tipp":"Regel: Nach kurzem e kommt ck: ge-fle-ckte."},
+  {"r":"meckernde","w":"Meckernde","o":["meckernde","Meckernde","mekernde","meckärnde"],"k":"g","tipp":"Regel: Adjektive wie 'meckernd' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Hofhund wedelt freudig, wenn der Bauer am Abend nach Hause kommt.","f":[
+  {"r":"freudig,","w":"freudig","o":["freudig,","freudig","freudig;","freudig."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"Hofhund","w":"hofhund","o":["Hofhund","hofhund","Hofhunt","hofhunt"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Hofhund' hat den Begleiter 'der'."},
+  {"r":"wedelt","w":"wehdelt","o":["wedelt","wehdelt","wedellt","wedält"],"k":"b","tipp":"Regel: 'wedeln' braucht kein Dehnungs-h: we-delt."}
+]},
+{"s":3,"satz":"Die Kuh frisst saftiges Gras, und das kleine Kalb trinkt warme Milch dazu.","f":[
+  {"r":"Gras,","w":"Gras","o":["Gras,","Gras","Gras;","Gras."],"k":"k","tipp":"Regel: Verbindet 'und' zwei ganze Sätze, darf ein Komma davorstehen."},
+  {"r":"Kalb","w":"kalb","o":["Kalb","kalb","Kalp","kalp"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Kalb' hat den Begleiter 'das'."},
+  {"r":"saftiges","w":"safdiges","o":["saftiges","safdiges","saftieges","safftiges"],"k":"b","tipp":"Regel: In 'saftig' steckt der 'Saft' – mit ft."}
+]},
+{"s":3,"satz":"Der Bauer pflanzt im Frühling Kartoffeln, obwohl der Acker noch ziemlich nass ist.","f":[
+  {"r":"Kartoffeln,","w":"Kartoffeln","o":["Kartoffeln,","Kartoffeln","Kartoffeln;","Kartoffeln."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Frühling","w":"frühling","o":["Frühling","frühling","Frühlling","frülling"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'im Frühling' ist eine Jahreszeit."},
+  {"r":"pflanzt","w":"flanzt","o":["pflanzt","flanzt","pflantzt","pflansst"],"k":"b","tipp":"Regel: 'pflanzen' beginnt mit pf wie 'pflücken': pflanzt."}
+]}
+]

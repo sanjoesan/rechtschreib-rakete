@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der mutige Superheld zieht seinen roten Umhang an und fliegt sofort über die Stadt.","f":[
+  {"r":"mutige","w":"muhtige","o":["mutige","muhtige","muttige","mudige"],"k":"b","tipp":"Merksatz: 'mutig' schreibt man ohne h: Mut, der mut-ige Held."},
+  {"r":"Umhang","w":"Umhank","o":["Umhang","Umhank","Umhangk","Umhanc"],"k":"b","tipp":"Merksatz: Der Umhang endet auf '-hang' mit ng, wie 'hängen'."},
+  {"r":"fliegt","w":"fligt","o":["fliegt","fligt","fliegd","flieckt"],"k":"b","tipp":"Merksatz: 'fliegen' schreibt man mit ie: flie-gen, er flie-gt."}
+]},
+{"s":1,"satz":"Mit seinen geheimen Superkräften rettet der Held die ganze Nachbarschaft im Nu.","f":[
+  {"r":"geheimen","w":"geheymen","o":["geheimen","geheymen","gehaimen","geheimmen"],"k":"b","tipp":"Merksatz: 'geheim' schreibt man mit ei: ge-heim."},
+  {"r":"Superkräften","w":"Superkreften","o":["Superkräften","Superkreften","Superkräfden","Suberkräften"],"k":"b","tipp":"Merksatz: 'Kräfte' kommt von 'Kraft' und wird mit ä geschrieben."},
+  {"r":"rettet","w":"retet","o":["rettet","retet","redtet","rettät"],"k":"b","tipp":"Merksatz: Nach kurzem e steht doppel-t: ret-ten, er ret-tet."}
+]},
+{"s":1,"satz":"Hinter der schwarzen Maske versteckt sich eigentlich ein schüchterner Bäcker aus der Stadt.","f":[
+  {"r":"schwarzen","w":"schwartzen","o":["schwarzen","schwartzen","shwarzen","schwarzän"],"k":"b","tipp":"Merksatz: 'schwarz' schreibt man mit z, nicht tz: schwar-z."},
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","versteckd"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verstecken'."},
+  {"r":"Bäcker","w":"Becker","o":["Bäcker","Becker","Bäker","Bäckär"],"k":"b","tipp":"Merksatz: Der Bäcker kommt von 'backen' und wird mit ä und ck geschrieben."}
+]},
+{"s":1,"satz":"Das geheime Versteck des Helden liegt tief unter der alten Brücke am Fluss.","f":[
+  {"r":"geheime","w":"gehaime","o":["geheime","gehaime","geheimme","geheimä"],"k":"b","tipp":"Merksatz: 'geheim' schreibt man mit ei: ge-heim."},
+  {"r":"Versteck","w":"Fersteck","o":["Versteck","Fersteck","Verstek","Versteckk"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: Ver-steck."},
+  {"r":"Brücke","w":"Brüke","o":["Brücke","Brüke","Brügge","Brükke"],"k":"b","tipp":"Merksatz: Nach kurzem ü steht ck: Brü-cke."}
+]},
+{"s":1,"satz":"Der fliegende Held fängt das fallende Kätzchen geschickt mit nur einer Hand auf.","f":[
+  {"r":"fliegende","w":"fligende","o":["fliegende","fligende","fliegänden","fliegende "],"k":"b","tipp":"Merksatz: 'fliegen' schreibt man mit ie: flie-gen, der flie-gen-de."},
+  {"r":"fängt","w":"fengt","o":["fängt","fengt","fänkt","fengd"],"k":"b","tipp":"Merksatz: 'fangen' wird zu 'fängt' mit ä, wie 'Fang'."},
+  {"r":"geschickt","w":"geschikt","o":["geschickt","geschikt","gschickt","geschickd"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: ge-schi-ckt."}
+]},
+{"s":1,"satz":"Jeden Morgen hilft der freundliche Alltagsheld der alten Dame über die volle Straße hinüber.","f":[
+  {"r":"freundliche","w":"freuntliche","o":["freundliche","freuntliche","fröindliche","freundlieche"],"k":"b","tipp":"Merksatz: 'Freund' schreibt man mit d am Ende, wie 'Freunde'."},
+  {"r":"Alltagsheld","w":"Altagsheld","o":["Alltagsheld","Altagsheld","Alltakshäld","Alltagshäld"],"k":"b","tipp":"Merksatz: 'all' braucht doppel-l: All-tags-held."},
+  {"r":"Straße","w":"Strase","o":["Straße","Strase","Schtraße","Straaße"],"k":"b","tipp":"Merksatz: Nach langem a steht ß: Stra-ße."}
+]},
+{"s":1,"satz":"Die wendige Heldin schwingt sich am dünnen Seil blitzschnell zwischen den hohen Häusern hindurch.","f":[
+  {"r":"wendige","w":"wändige","o":["wendige","wändige","wendieche","wenndige"],"k":"b","tipp":"Merksatz: 'wendig' schreibt man mit e, von 'wenden'."},
+  {"r":"blitzschnell","w":"blizschnell","o":["blitzschnell","blizschnell","blitzshnell","blitzschnel"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: Bli-tz, blitz-schnell."},
+  {"r":"Häusern","w":"Heusern","o":["Häusern","Heusern","Häußern","Häusärn"],"k":"b","tipp":"Merksatz: 'Häuser' kommt von 'Haus' und wird mit äu geschrieben."}
+]},
+{"s":1,"satz":"Aus dem geheimen Gürtel zaubert der Superheld plötzlich einen riesigen Regenschirm hervor.","f":[
+  {"r":"Gürtel","w":"Gürtäl","o":["Gürtel","Gürtäl","Gürdel","Gürttel"],"k":"b","tipp":"Merksatz: Der Gürtel endet auf '-tel' mit e: Gür-tel."},
+  {"r":"plötzlich","w":"plözlich","o":["plötzlich","plözlich","plötlich","plötzlig"],"k":"b","tipp":"Merksatz: Nach kurzem ö steht tz: plö-tz-lich."},
+  {"r":"riesigen","w":"risigen","o":["riesigen","risigen","riesiegen","riessigen"],"k":"b","tipp":"Merksatz: 'riesig' schreibt man mit ie (langes i): rie-sig."}
+]},
+{"s":1,"satz":"Der unsichtbare Held schleicht ganz leise an dem schnarchenden Wächter vorbei zum Tresor.","f":[
+  {"r":"unsichtbare","w":"unsihtbare","o":["unsichtbare","unsihtbare","unsichtbahre","unsichtbarä"],"k":"b","tipp":"Merksatz: In 'Sicht' steckt 'sehen' mit ch: un-sicht-bar."},
+  {"r":"schleicht","w":"schleycht","o":["schleicht","schleycht","shleicht","schleichd"],"k":"b","tipp":"Merksatz: 'schleichen' schreibt man mit ei und ch: schlei-chen."},
+  {"r":"Wächter","w":"Wechter","o":["Wächter","Wechter","Wächtär","Wächder"],"k":"b","tipp":"Merksatz: Der Wächter kommt von 'wachen' und wird mit ä geschrieben."}
+]},
+{"s":1,"satz":"Mit ihren starken Superkräften stemmt die Heldin ein ganzes Auto über ihren Kopf.","f":[
+  {"r":"starken","w":"schtarken","o":["starken","schtarken","starcken","starkän"],"k":"b","tipp":"Merksatz: 'stark' schreibt man mit st, gesprochen wie scht: star-k."},
+  {"r":"stemmt","w":"stemt","o":["stemmt","stemt","schtemmt","stämmt"],"k":"b","tipp":"Merksatz: Nach kurzem e steht doppel-m: stem-men, sie stem-mt."},
+  {"r":"ganzes","w":"gantzes","o":["ganzes","gantzes","ghanzes","ganzäs"],"k":"b","tipp":"Merksatz: 'ganz' schreibt man mit z, nicht tz: gan-z."}
+]},
+{"s":1,"satz":"Der tollpatschige Held verheddert sich beim Fliegen ständig in der nassen Wäscheleine vom Nachbarn.","f":[
+  {"r":"tollpatschige","w":"tolpatschige","o":["tollpatschige","tolpatschige","tollpatshige","tollpaschige"],"k":"b","tipp":"Merksatz: 'toll' braucht doppel-l: toll-pat-schig."},
+  {"r":"verheddert","w":"ferheddert","o":["verheddert","ferheddert","verhedert","verheddärt"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man mit v und 'heddern' mit doppel-d."},
+  {"r":"Wäscheleine","w":"Wescheleine","o":["Wäscheleine","Wescheleine","Wäschelaine","Wäschelinie"],"k":"b","tipp":"Merksatz: 'Wäsche' kommt von 'waschen' und wird mit ä geschrieben."}
+]},
+{"s":1,"satz":"Im versteckten Hauptquartier lädt der müde Held heimlich seine leeren Superkräfte wieder auf.","f":[
+  {"r":"versteckten","w":"fersteckten","o":["versteckten","fersteckten","verstekten","versteckdän"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-steckt."},
+  {"r":"Hauptquartier","w":"Hauptkwartier","o":["Hauptquartier","Hauptkwartier","Hauptquatier","Haubtquartier"],"k":"b","tipp":"Merksatz: 'qu' gehören zusammen: Quar-tier, wie 'Quelle'."},
+  {"r":"heimlich","w":"haimlich","o":["heimlich","haimlich","heimlig","heimmlich"],"k":"b","tipp":"Merksatz: 'heimlich' schreibt man mit ei: heim-lich."}
+]},
+{"s":2,"satz":"Am Montag rettet der freundliche Held eine kleine Katze aus dem hohen Baum.","f":[
+  {"r":"Held","w":"held","o":["Held","held","Hält","Held "],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Held' steht mit dem Begleiter 'der'."},
+  {"r":"rettet","w":"retet","o":["rettet","retet","redtet","Rettet"],"k":"b","tipp":"Regel: Nach kurzem e steht doppel-t: ret-ten."},
+  {"r":"kleine","w":"Kleine","o":["kleine","Kleine","klaine","kleinä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klein' schreibt man klein."}
+]},
+{"s":2,"satz":"Heimlich fliegt die mutige Heldin durch die Wolken und sucht den frechen Bankräuber überall.","f":[
+  {"r":"fliegt","w":"Fliegt","o":["fliegt","Fliegt","fligt","fliegd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'fliegen' schreibt man klein."},
+  {"r":"Heldin","w":"heldin","o":["Heldin","heldin","Häldin","Heldinn"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Heldin'."},
+  {"r":"Bankräuber","w":"Bankreuber","o":["Bankräuber","Bankreuber","Bankräuper","Banckräuber"],"k":"b","tipp":"Regel: 'Räuber' kommt von 'rauben' und wird mit äu geschrieben."}
+]},
+{"s":2,"satz":"Der lustige Alltagsheld trägt seinen Umhang sogar beim Einkaufen im großen Supermarkt.","f":[
+  {"r":"lustige","w":"Lustige","o":["lustige","Lustige","lusstige","lustieche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'lustig' schreibt man klein."},
+  {"r":"Umhang","w":"umhang","o":["Umhang","umhang","Umhank","Umhangk"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'seinen Umhang'."},
+  {"r":"großen","w":"grosen","o":["großen","grosen","großän","grußen"],"k":"b","tipp":"Regel: Nach langem o steht ß: gro-ß, gro-ßen."}
+]},
+{"s":2,"satz":"Mit seiner Maske erkennt niemand den schüchternen Helden aus der ruhigen Nachbarschaft.","f":[
+  {"r":"Maske","w":"maske","o":["Maske","maske","Maskä","Masske"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'seiner Maske'."},
+  {"r":"erkennt","w":"erkent","o":["erkennt","erkent","Erkennt","erkennd"],"k":"b","tipp":"Regel: Nach kurzem e steht doppel-n: er-ken-nt."},
+  {"r":"schüchternen","w":"Schüchternen","o":["schüchternen","Schüchternen","schüchtärnen","shüchternen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schüchtern' schreibt man klein."}
+]},
+{"s":2,"satz":"Beim Fliegen verliert der ungeschickte Held leider immer wieder seinen geliebten Umhang.","f":[
+  {"r":"Fliegen","w":"fliegen","o":["Fliegen","fliegen","Fligen","Fliegän"],"k":"g","tipp":"Regel: Nach 'beim' wird das Tunwort zum Nomen und groß geschrieben – 'beim Fliegen'."},
+  {"r":"verliert","w":"ferliert","o":["verliert","ferliert","verlihrt","verlierd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-lie-ren."},
+  {"r":"ungeschickte","w":"Ungeschickte","o":["ungeschickte","Ungeschickte","ungeschikte","ungeshickte"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'ungeschickt' schreibt man klein."}
+]},
+{"s":2,"satz":"Das Geheimversteck des tapferen Helden liegt versteckt hinter einem alten Bücherregal im Keller.","f":[
+  {"r":"Geheimversteck","w":"geheimversteck","o":["Geheimversteck","geheimversteck","Gehaimversteck","Geheimfersteck"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Geheimversteck'."},
+  {"r":"tapferen","w":"Tapferen","o":["tapferen","Tapferen","tapfären","dapferen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'tapfer' schreibt man klein."},
+  {"r":"Bücherregal","w":"Bücherregahl","o":["Bücherregal","Bücherregahl","Büscherregal","Bücherrägal"],"k":"b","tipp":"Regel: 'Regal' schreibt man ohne h am Ende: Re-gal."}
+]},
+{"s":2,"satz":"Plötzlich schießt die schnelle Heldin wie eine Rakete in den blauen Himmel hinauf.","f":[
+  {"r":"schnelle","w":"Schnelle","o":["schnelle","Schnelle","schnellä","shnelle"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schnell' schreibt man klein."},
+  {"r":"Rakete","w":"Rakeete","o":["Rakete","Rakeete","Rackete","Raktete"],"k":"b","tipp":"Regel: 'Rakete' schreibt man mit einem e: Ra-ke-te."},
+  {"r":"Himmel","w":"himmel","o":["Himmel","himmel","Himmäl","Himel"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'den Himmel'."}
+]},
+{"s":2,"satz":"Sein treuer Roboter hilft dem müden Helden beim heimlichen Putzen der staubigen Höhle.","f":[
+  {"r":"Roboter","w":"roboter","o":["Roboter","roboter","Roboder","Robotter"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'sein Roboter'."},
+  {"r":"Putzen","w":"putzen","o":["Putzen","putzen","Putzän","Puzten"],"k":"g","tipp":"Regel: Nach 'beim' wird das Tunwort zum Nomen und groß – 'beim Putzen'."},
+  {"r":"staubigen","w":"staubieche","o":["staubigen","staubieche","staoubigen","staubiegen"],"k":"b","tipp":"Regel: 'staubig' kommt von 'Staub' und wird mit au geschrieben."}
+]},
+{"s":2,"satz":"Die tapfere Heldin springt mutig in das tiefe Wasser und rettet den kleinen Hund sofort.","f":[
+  {"r":"tapfere","w":"Tapfere","o":["tapfere","Tapfere","tapfärä","dapfere"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'tapfer' schreibt man klein."},
+  {"r":"Wasser","w":"Waser","o":["Wasser","Waser","Wassär","Wasßer"],"k":"b","tipp":"Regel: Nach kurzem a steht doppel-s: Was-ser."},
+  {"r":"Hund","w":"hund","o":["Hund","hund","Hunt","Hundd"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'den Hund'."}
+]},
+{"s":2,"satz":"Im großen Hauptquartier plant der kluge Held heimlich seinen nächsten mutigen Einsatz ganz genau.","f":[
+  {"r":"großen","w":"Großen","o":["großen","Großen","grosen","großän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'groß' schreibt man klein."},
+  {"r":"Hauptquartier","w":"Hauptkwartier","o":["Hauptquartier","Hauptkwartier","Haubtquartier","Hauptquatier"],"k":"b","tipp":"Regel: 'qu' gehören zusammen: Quar-tier, wie 'Quelle'."},
+  {"r":"Einsatz","w":"einsatz","o":["Einsatz","einsatz","Ainsatz","Einsaz"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'seinen Einsatz'."}
+]},
+{"s":2,"satz":"Jeden Abend wäscht der ordentliche Held seinen schmutzigen Umhang in der kleinen Maschine sauber.","f":[
+  {"r":"wäscht","w":"wescht","o":["wäscht","wescht","wäschd","Wäscht"],"k":"b","tipp":"Regel: 'waschen' wird zu 'wäscht' mit ä, von 'Wäsche'."},
+  {"r":"ordentliche","w":"Ordentliche","o":["ordentliche","Ordentliche","ordäntliche","ordentlieche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'ordentlich' schreibt man klein."},
+  {"r":"Maschine","w":"maschine","o":["Maschine","maschine","Mashine","Maschiene"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Maschine'."}
+]},
+{"s":2,"satz":"Der freundliche Superheld verteilt am Geburtstag bunte Luftballons an alle staunenden Kinder.","f":[
+  {"r":"Superheld","w":"superheld","o":["Superheld","superheld","Suberheld","Superhäld"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Superheld'."},
+  {"r":"verteilt","w":"ferteilt","o":["verteilt","ferteilt","vertailt","verteild"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-tei-len."},
+  {"r":"bunte","w":"Bunte","o":["bunte","Bunte","bundte","buntä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'bunt' schreibt man klein."}
+]},
+{"s":3,"satz":"Der mutige Held rennt zum Hafen, weil dort ein riesiges Schiff zu sinken droht.","f":[
+  {"r":"Hafen,","w":"Hafen","o":["Hafen,","Hafen","Hafen;","Hafen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"riesiges","w":"risiges","o":["riesiges","risiges","Riesiges","riesieges"],"k":"b","tipp":"Regel: 'riesig' schreibt man mit ie (langes i): rie-sig."},
+  {"r":"Schiff","w":"schiff","o":["Schiff","schiff","Shiff","Schif"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'ein Schiff'."}
+]},
+{"s":3,"satz":"Die Heldin zieht ihren Umhang an, obwohl draußen ein gewaltiger Sturm tobt.","f":[
+  {"r":"an,","w":"an","o":["an,","an","an;","an."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"draußen","w":"drausen","o":["draußen","drausen","drauschen","drausßen"],"k":"b","tipp":"Regel: Nach dem au steht ß: drau-ßen."},
+  {"r":"gewaltiger","w":"Gewaltiger","o":["gewaltiger","Gewaltiger","gewaltieger","gewalltiger"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'gewaltig' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Held holt seine Maske, seinen Umhang und die Stiefel aus dem geheimen Schrank.","f":[
+  {"r":"Maske,","w":"Maske","o":["Maske,","Maske","Maske;","Maske."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"Stiefel","w":"Stifel","o":["Stiefel","Stifel","Stieffel","Schtiefel"],"k":"b","tipp":"Regel: Der Stiefel schreibt man mit ie: Stie-fel."},
+  {"r":"geheimen","w":"Geheimen","o":["geheimen","Geheimen","gehaimen","geheimmen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'geheim' schreibt man klein."}
+]},
+{"s":3,"satz":"Wenn die Sirene laut heult, fliegt der schnelle Superheld sofort zum brennenden Hochhaus.","f":[
+  {"r":"heult,","w":"heult","o":["heult,","heult","heult;","heult."],"k":"k","tipp":"Regel: Nach einem vorangestellten Nebensatz mit 'Wenn' steht ein Komma."},
+  {"r":"schnelle","w":"Schnelle","o":["schnelle","Schnelle","schnellä","shnelle"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schnell' schreibt man klein."},
+  {"r":"brennenden","w":"brenenden","o":["brennenden","brenenden","brennänden","prennenden"],"k":"b","tipp":"Regel: Nach kurzem e steht doppel-n: bren-nen-den."}
+]},
+{"s":3,"satz":"Der Held, der einen roten Umhang besitzt, trägt ihn jeden Tag in der ganzen Stadt.","f":[
+  {"r":"Held,","w":"Held","o":["Held,","Held","Held;","Held."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'der' steht ein Komma."},
+  {"r":"roten","w":"Roten","o":["roten","Roten","rohten","rotän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'rot' schreibt man klein."},
+  {"r":"trägt","w":"tregt","o":["trägt","tregt","trägd","drägt"],"k":"b","tipp":"Regel: 'tragen' wird zu 'trägt' mit ä, wie 'Träger'."}
+]},
+{"s":3,"satz":"Die Heldin landet sanft im Garten, denn ihre Superkräfte sind heute fast aufgebraucht.","f":[
+  {"r":"Garten,","w":"Garten","o":["Garten,","Garten","Garten;","Garten."],"k":"k","tipp":"Regel: Vor 'denn' steht ein Komma."},
+  {"r":"sanft","w":"Sanft","o":["sanft","Sanft","santft","sanfd"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'sanft' schreibt man klein."},
+  {"r":"Superkräfte","w":"Superkrefte","o":["Superkräfte","Superkrefte","Superkräfde","Suberkräfte"],"k":"b","tipp":"Regel: 'Kräfte' kommt von 'Kraft' und wird mit ä geschrieben."}
+]},
+{"s":3,"satz":"Der schlaue Held verkleidet sich als Pizzabote, damit niemand seine geheime Maske entdeckt.","f":[
+  {"r":"Pizzabote,","w":"Pizzabote","o":["Pizzabote,","Pizzabote","Pizzabote;","Pizzabote."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"schlaue","w":"Schlaue","o":["schlaue","Schlaue","schlaoe","schlauä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schlau' schreibt man klein."},
+  {"r":"verkleidet","w":"ferkleidet","o":["verkleidet","ferkleidet","verklaidet","verkleidät"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-klei-den."}
+]},
+{"s":3,"satz":"Der tapfere Held fängt den Dieb, doch danach hilft er ihm beim Aufstehen wieder hoch.","f":[
+  {"r":"Dieb,","w":"Dieb","o":["Dieb,","Dieb","Dieb;","Dieb."],"k":"k","tipp":"Regel: Vor 'doch' steht ein Komma."},
+  {"r":"tapfere","w":"Tapfere","o":["tapfere","Tapfere","tapfärä","dapfere"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'tapfer' schreibt man klein."},
+  {"r":"Aufstehen","w":"aufstehen","o":["Aufstehen","aufstehen","Aufschtehen","Aufstehän"],"k":"g","tipp":"Regel: Nach 'beim' wird das Tunwort zum Nomen und groß – 'beim Aufstehen'."}
+]},
+{"s":3,"satz":"Bevor die Heldin schlafen geht, hängt sie ihren bunten Umhang an den großen Haken auf.","f":[
+  {"r":"geht,","w":"geht","o":["geht,","geht","geht;","geht."],"k":"k","tipp":"Regel: Nach einem vorangestellten Nebensatz mit 'Bevor' steht ein Komma."},
+  {"r":"bunten","w":"Bunten","o":["bunten","Bunten","buntän","bundten"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'bunt' schreibt man klein."},
+  {"r":"Haken","w":"Hacken","o":["Haken","Hacken","Hakän","Hahken"],"k":"b","tipp":"Regel: 'Haken' schreibt man mit einem k: Ha-ken."}
+]},
+{"s":3,"satz":"Der Held weiß genau, dass jeder kleine Mensch in der Stadt ein bisschen Mut braucht.","f":[
+  {"r":"genau,","w":"genau","o":["genau,","genau","genau;","genau."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"kleine","w":"Kleine","o":["kleine","Kleine","klaine","kleinä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klein' schreibt man klein."},
+  {"r":"bisschen","w":"bischen","o":["bisschen","bischen","bißchen","bisßchen"],"k":"b","tipp":"Regel: 'bisschen' schreibt man mit doppel-s: biss-chen."}
+]},
+{"s":3,"satz":"Die schnelle Heldin fliegt zum Markt, weil dort ein Kind seinen Luftballon verloren hat.","f":[
+  {"r":"Markt,","w":"Markt","o":["Markt,","Markt","Markt;","Markt."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"schnelle","w":"Schnelle","o":["schnelle","Schnelle","schnellä","shnelle"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schnell' schreibt man klein."},
+  {"r":"Luftballon","w":"Luftbalon","o":["Luftballon","Luftbalon","Luftballoon","Luftballong"],"k":"b","tipp":"Regel: Der Ballon braucht doppel-L: Bal-lon."}
+]},
+{"s":3,"satz":"Als der Strom ausfiel, rettete der leuchtende Held die ganze Nachbarschaft mit seinen Superkräften.","f":[
+  {"r":"ausfiel,","w":"ausfiel","o":["ausfiel,","ausfiel","ausfiel;","ausfiel."],"k":"k","tipp":"Regel: Nach einem vorangestellten Nebensatz mit 'Als' steht ein Komma."},
+  {"r":"leuchtende","w":"loichtende","o":["leuchtende","loichtende","leuchtänden","leuchdende"],"k":"b","tipp":"Regel: 'leuchten' schreibt man mit eu: leuch-ten."},
+  {"r":"ganze","w":"Ganze","o":["ganze","Ganze","gantze","ganzä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'ganz' schreibt man klein."}
+]}
+]

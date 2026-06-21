@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der bunte Clown stolpert über seine viel zu großen Schuhe mitten in der Manege herum.","f":[
+  {"r":"stolpert","w":"stolbert","o":["stolpert","stolbert","schtolpert","stolperd"],"k":"b","tipp":"Merksatz: 'stolpern' schreibt man mit p: stol-pern."},
+  {"r":"großen","w":"grosen","o":["großen","grosen","großän","grußen"],"k":"b","tipp":"Merksatz: Nach langem o steht ß: gro-ß, gro-ßen."},
+  {"r":"Manege","w":"Manehge","o":["Manege","Manehge","Maneege","Manäge"],"k":"b","tipp":"Merksatz: Die Manege schreibt man ohne h: Ma-ne-ge."}
+]},
+{"s":1,"satz":"Hoch oben am Trapez schwingt die mutige Akrobatin elegant durch die staubige Luft.","f":[
+  {"r":"Trapez","w":"Trapätz","o":["Trapez","Trapätz","Drapez","Trapeez"],"k":"b","tipp":"Merksatz: Das Trapez endet auf '-pez' mit z: Tra-pez."},
+  {"r":"mutige","w":"muhtige","o":["mutige","muhtige","muttige","mudige"],"k":"b","tipp":"Merksatz: 'mutig' schreibt man ohne h: Mut, die mut-ige Frau."},
+  {"r":"staubige","w":"staubieche","o":["staubige","staubieche","staoubige","staubiege"],"k":"b","tipp":"Merksatz: 'staubig' kommt von 'Staub' und wird mit au geschrieben."}
+]},
+{"s":1,"satz":"Der geschickte Jongleur wirft fünf glänzende Bälle gleichzeitig hoch in die helle Kuppel.","f":[
+  {"r":"geschickte","w":"geschikte","o":["geschickte","geschikte","gschickte","geschickde"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: ge-schi-ckte."},
+  {"r":"Jongleur","w":"Schongleur","o":["Jongleur","Schongleur","Jonglöhr","Jonglör"],"k":"b","tipp":"Merksatz: Der Jongleur beginnt mit J, auch wenn man 'Schong' hört."},
+  {"r":"glänzende","w":"glenzende","o":["glänzende","glenzende","glänzänden","gläntzende"],"k":"b","tipp":"Merksatz: 'glänzen' kommt von 'Glanz' und wird mit ä geschrieben."}
+]},
+{"s":1,"satz":"Auf dem dünnen Seil balanciert der Seiltänzer ganz langsam über die staunende Menge.","f":[
+  {"r":"dünnen","w":"dünen","o":["dünnen","dünen","dünnän","tünnen"],"k":"b","tipp":"Merksatz: Nach kurzem ü steht doppel-n: dünn, der dün-ne."},
+  {"r":"balanciert","w":"ballanciert","o":["balanciert","ballanciert","balansiert","balancierd"],"k":"b","tipp":"Merksatz: 'balancieren' schreibt man mit einem l: ba-lan-cie-ren."},
+  {"r":"Seiltänzer","w":"Seiltenzer","o":["Seiltänzer","Seiltenzer","Sailtänzer","Seiltäntzer"],"k":"b","tipp":"Merksatz: 'Tänzer' kommt von 'Tanz' und wird mit ä geschrieben."}
+]},
+{"s":1,"satz":"Der freundliche Zauberer holt ein weißes Kaninchen geschickt aus seinem hohen schwarzen Hut.","f":[
+  {"r":"freundliche","w":"freuntliche","o":["freundliche","freuntliche","fröindliche","freundlieche"],"k":"b","tipp":"Merksatz: 'Freund' schreibt man mit d am Ende, wie 'Freunde'."},
+  {"r":"weißes","w":"weises","o":["weißes","weises","waißes","weißäs"],"k":"b","tipp":"Merksatz: 'weiß' (die Farbe) schreibt man mit ß: wei-ß."},
+  {"r":"Kaninchen","w":"Kaniinchen","o":["Kaninchen","Kaniinchen","Kanienchen","Kaninschen"],"k":"b","tipp":"Merksatz: Das Kaninchen schreibt man mit einem i: Ka-nin-chen."}
+]},
+{"s":1,"satz":"Im riesigen Zirkuszelt klatschen die fröhlichen Kinder begeistert für die tanzenden Pferde.","f":[
+  {"r":"riesigen","w":"risigen","o":["riesigen","risigen","riesiegen","riessigen"],"k":"b","tipp":"Merksatz: 'riesig' schreibt man mit ie (langes i): rie-sig."},
+  {"r":"Zirkuszelt","w":"Zirkuszält","o":["Zirkuszelt","Zirkuszält","Zircuszelt","Zirkusselt"],"k":"b","tipp":"Merksatz: Das Zelt schreibt man mit e: Zir-kus-zelt."},
+  {"r":"fröhlichen","w":"fröliechen","o":["fröhlichen","fröliechen","frölichen","fröhliechen"],"k":"b","tipp":"Merksatz: 'fröhlich' schreibt man mit Dehnungs-h: fröh-lich."}
+]},
+{"s":1,"satz":"Der starke Dompteur führt die brüllenden Löwen sicher durch den brennenden Reifen hindurch.","f":[
+  {"r":"starke","w":"schtarke","o":["starke","schtarke","starcke","starkä"],"k":"b","tipp":"Merksatz: 'stark' schreibt man mit st, gesprochen wie scht: star-k."},
+  {"r":"brüllenden","w":"brülenden","o":["brüllenden","brülenden","prüllenden","brülländen"],"k":"b","tipp":"Merksatz: Nach kurzem ü steht doppel-l: brül-len."},
+  {"r":"Reifen","w":"Raifen","o":["Reifen","Raifen","Reiffen","Reifän"],"k":"b","tipp":"Merksatz: Der Reifen schreibt man mit ei: Rei-fen."}
+]},
+{"s":1,"satz":"Mit lustigen Grimassen bringt der kleine Clown das ganze Publikum sofort zum lauten Lachen.","f":[
+  {"r":"lustigen","w":"lusstigen","o":["lustigen","lusstigen","lustieken","lustiegen"],"k":"b","tipp":"Merksatz: 'lustig' schreibt man mit einem s: lus-tig."},
+  {"r":"Grimassen","w":"Grimasen","o":["Grimassen","Grimasen","Grimaßen","Krimassen"],"k":"b","tipp":"Merksatz: Nach kurzem a steht doppel-s: Gri-mas-sen."},
+  {"r":"Publikum","w":"Publikuhm","o":["Publikum","Publikuhm","Publikumm","Pubblikum"],"k":"b","tipp":"Merksatz: Das Publikum schreibt man ohne h: Pu-bli-kum."}
+]},
+{"s":1,"satz":"Die geschickten Akrobaten bauen eine wackelige Pyramide aus acht Personen in der Manege.","f":[
+  {"r":"geschickten","w":"geschikten","o":["geschickten","geschikten","gschickten","geschickden"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: ge-schi-ckten."},
+  {"r":"wackelige","w":"wakelige","o":["wackelige","wakelige","wackeliege","wackälige"],"k":"b","tipp":"Merksatz: Nach kurzem a steht ck: wa-cke-lig."},
+  {"r":"Pyramide","w":"Püramide","o":["Pyramide","Püramide","Pyramiede","Pyrammide"],"k":"b","tipp":"Merksatz: Die Pyramide schreibt man mit y: Py-ra-mi-de."}
+]},
+{"s":1,"satz":"Der schnelle Zauberer lässt sein buntes Tuch mit einem leisen Zauberwort einfach verschwinden und lacht.","f":[
+  {"r":"schnelle","w":"shnelle","o":["schnelle","shnelle","schnellä","schnele"],"k":"b","tipp":"Merksatz: 'schnell' schreibt man mit sch und doppel-l: schnell."},
+  {"r":"buntes","w":"buntäs","o":["buntes","buntäs","bundtes","puntes"],"k":"b","tipp":"Merksatz: 'bunt' endet auf -tes mit e: bun-tes."},
+  {"r":"verschwinden","w":"ferschwinden","o":["verschwinden","ferschwinden","verschwienden","verschwindän"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-schwin-den."}
+]},
+{"s":1,"satz":"Vor dem großen Zirkuszelt verkauft der nette Verkäufer süße Zuckerwatte an die Besucher.","f":[
+  {"r":"verkauft","w":"ferkauft","o":["verkauft","ferkauft","verkaoft","verkaufd"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v: ver-kau-fen."},
+  {"r":"Verkäufer","w":"Verkeufer","o":["Verkäufer","Verkeufer","Ferkäufer","Verkäoufer"],"k":"b","tipp":"Merksatz: 'Verkäufer' kommt von 'kaufen' und wird mit äu geschrieben."},
+  {"r":"Zuckerwatte","w":"Zukerwatte","o":["Zuckerwatte","Zukerwatte","Zuckerwate","Zuckärwatte"],"k":"b","tipp":"Merksatz: Nach kurzem u steht ck: Zu-cker-wat-te."}
+]},
+{"s":1,"satz":"Der tollpatschige Clown gießt aus Versehen einen ganzen Eimer Wasser über den Direktor.","f":[
+  {"r":"tollpatschige","w":"tolpatschige","o":["tollpatschige","tolpatschige","tollpatshige","tollpaschige"],"k":"b","tipp":"Merksatz: 'toll' braucht doppel-l: toll-pat-schig."},
+  {"r":"Versehen","w":"Fersehen","o":["Versehen","Fersehen","Versehn","Versehän"],"k":"b","tipp":"Merksatz: 'Ver-' schreibt man mit v und 'sehen' mit Dehnungs-h."},
+  {"r":"Wasser","w":"Waser","o":["Wasser","Waser","Wassär","Wasßer"],"k":"b","tipp":"Merksatz: Nach kurzem a steht doppel-s: Was-ser."}
+]},
+{"s":2,"satz":"Am Samstag jongliert der lustige Clown mit sechs bunten Tellern in der vollen Manege.","f":[
+  {"r":"Clown","w":"clown","o":["Clown","clown","Cloun","Klown"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Clown'."},
+  {"r":"jongliert","w":"Jongliert","o":["jongliert","Jongliert","schongliert","jonglierd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'jonglieren' schreibt man klein."},
+  {"r":"Tellern","w":"Telern","o":["Tellern","Telern","Tellärn","Tellerrn"],"k":"b","tipp":"Regel: Nach kurzem e steht doppel-l: Tel-ler."}
+]},
+{"s":2,"satz":"Hoch über der Manege fliegt die mutige Akrobatin elegant durch die staubige Zirkusluft.","f":[
+  {"r":"Manege","w":"manege","o":["Manege","manege","Manehge","Manäge"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Manege'."},
+  {"r":"fliegt","w":"Fliegt","o":["fliegt","Fliegt","fligt","fliegd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'fliegen' schreibt man klein."},
+  {"r":"mutige","w":"muhtige","o":["mutige","muhtige","muttige","mudige"],"k":"b","tipp":"Regel: 'mutig' schreibt man ohne h: Mut, die mut-ige Frau."}
+]},
+{"s":2,"satz":"Der freundliche Zauberer holt ein kleines Kaninchen geschickt aus seinem schwarzen Hut hervor.","f":[
+  {"r":"Zauberer","w":"zauberer","o":["Zauberer","zauberer","Zaubärer","Zaoberer"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Zauberer'."},
+  {"r":"kleines","w":"Kleines","o":["kleines","Kleines","klaines","kleinäs"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klein' schreibt man klein."},
+  {"r":"geschickt","w":"geschikt","o":["geschickt","geschikt","gschickt","geschickd"],"k":"b","tipp":"Regel: Nach kurzem i steht ck: ge-schi-ckt."}
+]},
+{"s":2,"satz":"Auf dem Seil balanciert der schwankende Seiltänzer ängstlich über die klatschende Menge hinweg.","f":[
+  {"r":"Seil","w":"seil","o":["Seil","seil","Sail","Seill"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'dem Seil'."},
+  {"r":"schwankende","w":"Schwankende","o":["schwankende","Schwankende","shwankende","schwanckende"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schwankend' schreibt man klein."},
+  {"r":"balanciert","w":"ballanciert","o":["balanciert","ballanciert","balansiert","balancierd"],"k":"b","tipp":"Regel: 'balancieren' schreibt man mit einem l: ba-lan-cie-ren."}
+]},
+{"s":2,"satz":"Beim Lachen über den frechen Clown fällt der Zuschauer fast von seinem hohen Stuhl herunter.","f":[
+  {"r":"Lachen","w":"lachen","o":["Lachen","lachen","Lakchen","Lachän"],"k":"g","tipp":"Regel: Nach 'beim' wird das Tunwort zum Nomen und groß – 'beim Lachen'."},
+  {"r":"frechen","w":"Frechen","o":["frechen","Frechen","frächen","freschen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'frech' schreibt man klein."},
+  {"r":"Stuhl","w":"Stul","o":["Stuhl","Stul","Schtuhl","Stuhll"],"k":"b","tipp":"Regel: 'Stuhl' schreibt man mit Dehnungs-h: Stuhl."}
+]},
+{"s":2,"satz":"Der starke Dompteur führt die brüllenden Löwen geduldig durch den brennenden Reifen hindurch.","f":[
+  {"r":"Dompteur","w":"dompteur","o":["Dompteur","dompteur","Dombteur","Dompteör"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Dompteur'."},
+  {"r":"brüllenden","w":"brülenden","o":["brüllenden","brülenden","prüllenden","brülländen"],"k":"b","tipp":"Regel: Nach kurzem ü steht doppel-l: brül-len."},
+  {"r":"geduldig","w":"Geduldig","o":["geduldig","Geduldig","geduldieg","geduldich"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'geduldig' schreibt man klein."}
+]},
+{"s":2,"satz":"Im großen Zirkuszelt verteilt der lustige Clown bunte Luftballons an die kichernden Kinder.","f":[
+  {"r":"Zirkuszelt","w":"zirkuszelt","o":["Zirkuszelt","zirkuszelt","Zircuszelt","Zirkuszält"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Zirkuszelt'."},
+  {"r":"verteilt","w":"ferteilt","o":["verteilt","ferteilt","vertailt","verteild"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-tei-len."},
+  {"r":"bunte","w":"Bunte","o":["bunte","Bunte","bundte","buntä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'bunt' schreibt man klein."}
+]},
+{"s":2,"satz":"Plötzlich springt der freche Affe auf das Trapez und macht alle Akrobaten ganz nervös und hektisch.","f":[
+  {"r":"Affe","w":"affe","o":["Affe","affe","Affä","Affe "],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Affe'."},
+  {"r":"Trapez","w":"Trapätz","o":["Trapez","Trapätz","Drapez","Trapeez"],"k":"b","tipp":"Regel: Das Trapez endet auf '-pez' mit z: Tra-pez."},
+  {"r":"nervös","w":"Nervös","o":["nervös","Nervös","nervöös","nerwös"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'nervös' schreibt man klein."}
+]},
+{"s":2,"satz":"Vor dem Auftritt übt die fleißige Akrobatin jeden Morgen ihre schwierige Nummer am Trapez.","f":[
+  {"r":"Auftritt","w":"auftritt","o":["Auftritt","auftritt","Aoftritt","Auftrit"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'dem Auftritt'."},
+  {"r":"fleißige","w":"flaißige","o":["fleißige","flaißige","fleisige","fleißieche"],"k":"b","tipp":"Regel: 'fleißig' schreibt man mit ei und ß: flei-ßig."},
+  {"r":"schwierige","w":"Schwierige","o":["schwierige","Schwierige","shwierige","schwieriege"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schwierig' schreibt man klein."}
+]},
+{"s":2,"satz":"Der kluge Elefant hebt mit seinem langen Rüssel den staunenden Direktor in die Höhe.","f":[
+  {"r":"Elefant","w":"elefant","o":["Elefant","elefant","Eleffant","Elefand"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Elefant'."},
+  {"r":"langen","w":"Langen","o":["langen","Langen","langän","lanngen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'lang' schreibt man klein."},
+  {"r":"Rüssel","w":"Rüsel","o":["Rüssel","Rüsel","Rüssäl","Rüßel"],"k":"b","tipp":"Regel: Nach kurzem ü steht doppel-s: Rüs-sel."}
+]},
+{"s":2,"satz":"Beim Üben verliert der nervöse Jongleur leider immer wieder seine bunten glänzenden Bälle.","f":[
+  {"r":"Üben","w":"üben","o":["Üben","üben","Übän","Üeben"],"k":"g","tipp":"Regel: Nach 'beim' wird das Tunwort zum Nomen und groß – 'beim Üben'."},
+  {"r":"verliert","w":"ferliert","o":["verliert","ferliert","verlihrt","verlierd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-lie-ren."},
+  {"r":"nervöse","w":"Nervöse","o":["nervöse","Nervöse","nerwöse","nervööse"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'nervös' schreibt man klein."}
+]},
+{"s":2,"satz":"Am Ende der Vorstellung verbeugt sich der ganze Zirkus tief vor dem jubelnden Publikum.","f":[
+  {"r":"Vorstellung","w":"Forstellung","o":["Vorstellung","Forstellung","Vorschtellung","Vorstelung"],"k":"b","tipp":"Regel: 'Vor-' schreibt man immer mit v: Vor-stel-lung."},
+  {"r":"verbeugt","w":"ferbeugt","o":["verbeugt","ferbeugt","verbeukt","verbeugd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-beu-gen."},
+  {"r":"ganze","w":"Ganze","o":["ganze","Ganze","gantze","ganzä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'ganz' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Clown rennt schnell zur Manege, weil dort plötzlich seine roten Schuhe verschwunden sind.","f":[
+  {"r":"Manege,","w":"Manege","o":["Manege,","Manege","Manege;","Manege."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"roten","w":"Roten","o":["roten","Roten","rohten","rotän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'rot' schreibt man klein."},
+  {"r":"verschwunden","w":"ferschwunden","o":["verschwunden","ferschwunden","verschwundän","verschwunten"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-schwun-den."}
+]},
+{"s":3,"satz":"Die Akrobatin klettert aufs Trapez, obwohl sie heute ein bisschen Angst vor der Höhe hat.","f":[
+  {"r":"Trapez,","w":"Trapez","o":["Trapez,","Trapez","Trapez;","Trapez."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"bisschen","w":"bischen","o":["bisschen","bischen","bißchen","bisßchen"],"k":"b","tipp":"Regel: 'bisschen' schreibt man mit doppel-s: biss-chen."},
+  {"r":"Höhe","w":"höhe","o":["Höhe","höhe","Höhä","Höehe"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Höhe'."}
+]},
+{"s":3,"satz":"Der Jongleur wirft Bälle, Ringe und brennende Fackeln gleichzeitig hoch in die staubige Luft.","f":[
+  {"r":"Bälle,","w":"Bälle","o":["Bälle,","Bälle","Bälle;","Bälle."],"k":"k","tipp":"Regel: In einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"brennende","w":"brenende","o":["brennende","brenende","brennänden","prennende"],"k":"b","tipp":"Regel: Nach kurzem e steht doppel-n: bren-nen-de."},
+  {"r":"staubige","w":"Staubige","o":["staubige","Staubige","staoubige","staubiege"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'staubig' schreibt man klein."}
+]},
+{"s":3,"satz":"Wenn die laute Musik beginnt, läuft der lustige Clown winkend in die helle Manege.","f":[
+  {"r":"beginnt,","w":"beginnt","o":["beginnt,","beginnt","beginnt;","beginnt."],"k":"k","tipp":"Regel: Nach einem vorangestellten Nebensatz mit 'Wenn' steht ein Komma."},
+  {"r":"lustige","w":"Lustige","o":["lustige","Lustige","lusstige","lustieche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'lustig' schreibt man klein."},
+  {"r":"winkend","w":"winckend","o":["winkend","winckend","winkänd","winkent"],"k":"b","tipp":"Regel: 'winken' schreibt man mit k, nicht ck: win-ken."}
+]},
+{"s":3,"satz":"Der Zauberer, der einen langen Umhang trägt, zaubert für die staunenden Kinder eine bunte Taube.","f":[
+  {"r":"Zauberer,","w":"Zauberer","o":["Zauberer,","Zauberer","Zauberer;","Zauberer."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'der' steht ein Komma."},
+  {"r":"langen","w":"Langen","o":["langen","Langen","langän","lanngen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'lang' schreibt man klein."},
+  {"r":"staunenden","w":"staonenden","o":["staunenden","staonenden","staunänden","staunenten"],"k":"b","tipp":"Regel: 'staunen' schreibt man mit au: stau-nen."}
+]},
+{"s":3,"satz":"Die Akrobaten bauen eine hohe Pyramide, denn der begeisterte Direktor hat es so gewünscht.","f":[
+  {"r":"Pyramide,","w":"Pyramide","o":["Pyramide,","Pyramide","Pyramide;","Pyramide."],"k":"k","tipp":"Regel: Vor 'denn' steht ein Komma."},
+  {"r":"hohe","w":"Hohe","o":["hohe","Hohe","hoche","hohä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'hoch' schreibt man klein."},
+  {"r":"begeisterte","w":"begaisterte","o":["begeisterte","begaisterte","begeistärte","begeisderte"],"k":"b","tipp":"Regel: 'begeistert' schreibt man mit ei: be-geis-tert."}
+]},
+{"s":3,"satz":"Der Clown verteilt seine Süßigkeiten, damit alle kleinen Kinder im Publikum richtig fröhlich werden.","f":[
+  {"r":"Süßigkeiten,","w":"Süßigkeiten","o":["Süßigkeiten,","Süßigkeiten","Süßigkeiten;","Süßigkeiten."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"kleinen","w":"Kleinen","o":["kleinen","Kleinen","klainen","kleinän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klein' schreibt man klein."},
+  {"r":"fröhlich","w":"frölich","o":["fröhlich","frölich","fröliech","fröhlieg"],"k":"b","tipp":"Regel: 'fröhlich' schreibt man mit Dehnungs-h: fröh-lich."}
+]},
+{"s":3,"satz":"Der Dompteur öffnet den Käfig, doch der freche Löwe will heute lieber gemütlich weiterschlafen.","f":[
+  {"r":"Käfig,","w":"Käfig","o":["Käfig,","Käfig","Käfig;","Käfig."],"k":"k","tipp":"Regel: Vor 'doch' steht ein Komma."},
+  {"r":"freche","w":"Freche","o":["freche","Freche","fräche","fresche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'frech' schreibt man klein."},
+  {"r":"gemütlich","w":"gemühtlich","o":["gemütlich","gemühtlich","gemütlieg","gemüdlich"],"k":"b","tipp":"Regel: 'gemütlich' schreibt man ohne h in der Mitte: ge-müt-lich."}
+]},
+{"s":3,"satz":"Bevor die Vorstellung beginnt, schminkt sich der freundliche Clown mit einer großen roten Nase.","f":[
+  {"r":"beginnt,","w":"beginnt","o":["beginnt,","beginnt","beginnt;","beginnt."],"k":"k","tipp":"Regel: Nach einem vorangestellten Nebensatz mit 'Bevor' steht ein Komma."},
+  {"r":"freundliche","w":"freuntliche","o":["freundliche","freuntliche","fröindliche","freundlieche"],"k":"b","tipp":"Regel: 'Freund' schreibt man mit d am Ende, wie 'Freunde'."},
+  {"r":"großen","w":"Großen","o":["großen","Großen","grosen","großän"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'groß' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Seiltänzer weiß genau, dass jeder kleine Fehler ihn vom hohen Seil fallen lassen kann.","f":[
+  {"r":"genau,","w":"genau","o":["genau,","genau","genau;","genau."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"kleine","w":"Kleine","o":["kleine","Kleine","klaine","kleinä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klein' schreibt man klein."},
+  {"r":"Fehler","w":"Feler","o":["Fehler","Feler","Fehlär","Fähler"],"k":"b","tipp":"Regel: 'Fehler' schreibt man mit Dehnungs-h: Feh-ler."}
+]},
+{"s":3,"satz":"Als die Musik plötzlich verstummte, balancierte der mutige Seiltänzer ganz still hoch über der Menge.","f":[
+  {"r":"verstummte,","w":"verstummte","o":["verstummte,","verstummte","verstummte;","verstummte."],"k":"k","tipp":"Regel: Nach einem vorangestellten Nebensatz mit 'Als' steht ein Komma."},
+  {"r":"mutige","w":"muhtige","o":["mutige","muhtige","muttige","mudige"],"k":"b","tipp":"Regel: 'mutig' schreibt man ohne h: Mut, der mut-ige Mann."},
+  {"r":"still","w":"Still","o":["still","Still","schtill","stil"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'still' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Zirkusdirektor ruft laut ins Mikrofon, weil die nächste spannende Nummer gleich beginnen soll.","f":[
+  {"r":"Mikrofon,","w":"Mikrofon","o":["Mikrofon,","Mikrofon","Mikrofon;","Mikrofon."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"spannende","w":"Spannende","o":["spannende","Spannende","spanende","schpannende"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'spannend' schreibt man klein."},
+  {"r":"nächste","w":"nexte","o":["nächste","nexte","nächsde","neckste"],"k":"b","tipp":"Regel: 'nächste' kommt von 'nah' und wird mit ä und chs geschrieben."}
+]}
+]

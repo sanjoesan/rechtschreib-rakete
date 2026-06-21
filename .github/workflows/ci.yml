@@ -1,0 +1,33 @@
+name: CI – Qualitätssicherung
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Node einrichten
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Abhängigkeiten installieren
+        run: npm ci
+
+      - name: Syntax-Check
+        run: npm run check
+
+      - name: Korpus neu bauen & auf Aktualität prüfen
+        run: |
+          node scripts/build.mjs
+          git diff --exit-code saetze.js || (echo "::error::saetze.js ist nicht aktuell – bitte 'npm run build' ausführen und committen." && exit 1)
+
+      - name: Tests (jsdom-Integration + Datenintegrität)
+        run: npm test

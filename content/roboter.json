@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der freundliche Roboter piepst fröhlich und winkt mit seinen blinkenden Antennen herum.","f":[
+  {"r":"Roboter","w":"Robotor","o":["Roboter","Robotor","Robboter","Rooboter"],"k":"b","tipp":"Merksatz: Der Roboter endet auf '-er' wie 'Arbeiter': Robo-ter."},
+  {"r":"piepst","w":"piebst","o":["piepst","piebst","pipst","piepsd"],"k":"b","tipp":"Merksatz: Der Roboter macht 'piep' mit p am Ende: piep-st."},
+  {"r":"Antennen","w":"Antenen","o":["Antennen","Antenen","Antännen","Anntennen"],"k":"b","tipp":"Merksatz: Die Antennen brauchen doppel-N: An-ten-nen."}
+]},
+{"s":1,"satz":"In der Werkstatt schraubt der kleine Roboterhund seine lockeren Schrauben fest.","f":[
+  {"r":"Werkstatt","w":"Werkstadt","o":["Werkstatt","Werkstadt","Werckstatt","Werkschtatt"],"k":"b","tipp":"Merksatz: In der Werkstatt arbeitet man – sie endet auf '-statt' mit tt, nicht wie die 'Stadt'."},
+  {"r":"Roboterhund","w":"Robboterhund","o":["Roboterhund","Robboterhund","Roboterhond","Robotterhund"],"k":"b","tipp":"Merksatz: Der Roboter hat nur EIN b: Ro-bo-ter-hund."},
+  {"r":"Schrauben","w":"Schrauwen","o":["Schrauben","Schrauwen","Schraupen","Schraoben"],"k":"b","tipp":"Merksatz: Die Schrauben dreht man mit b wie 'einbauen': Schrau-ben."}
+]},
+{"s":1,"satz":"Der bunte Roboter drückt geschickt auf seine vielen leuchtenden Knöpfe los.","f":[
+  {"r":"drückt","w":"drükt","o":["drückt","drükt","drückd","drücckt"],"k":"b","tipp":"Merksatz: Nach kurzem ü kommt ck: drü-ckt."},
+  {"r":"geschickt","w":"geschiekt","o":["geschickt","geschiekt","geschikt","keschickt"],"k":"b","tipp":"Merksatz: 'geschickt' kommt von 'schicken' mit ck: ge-schickt."},
+  {"r":"Knöpfe","w":"Knöbfe","o":["Knöpfe","Knöbfe","Knöpphe","Knöpve"],"k":"b","tipp":"Merksatz: Die Knöpfe haben 'pf' wie im 'Kopf': Knö-pfe."}
+]},
+{"s":1,"satz":"Jeden Morgen lädt der müde Roboter seine leeren Batterien wieder voll auf.","f":[
+  {"r":"lädt","w":"lädd","o":["lädt","lädd","lääd","laedt"],"k":"b","tipp":"Merksatz: 'lädt' kommt von 'laden' und endet auf dt: lä-dt."},
+  {"r":"Batterien","w":"Baterien","o":["Batterien","Baterien","Battarien","Bateriehn"],"k":"b","tipp":"Merksatz: Die Batterien haben doppel-T: Bat-te-rien."},
+  {"r":"voll","w":"vol","o":["voll","vol","foll","vohl"],"k":"b","tipp":"Merksatz: Wenn der Akku ganz 'voll' ist, braucht er doppel-L."}
+]},
+{"s":1,"satz":"Der schnelle Roboterhund saust durch das Labor und sammelt verlorene Schrauben ein.","f":[
+  {"r":"saust","w":"saost","o":["saust","saost","sauscht","sausd"],"k":"b","tipp":"Merksatz: 'sausen' schreibt man mit au – wie 'Au, so schnell!'."},
+  {"r":"Labor","w":"Labohr","o":["Labor","Labohr","Labbor","Lapor"],"k":"b","tipp":"Merksatz: Das Labor hat kein Dehnungs-h: La-bor."},
+  {"r":"verlorene","w":"ferlorene","o":["verlorene","ferlorene","verlohrene","verlorenne"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'verstecken'."}
+]},
+{"s":1,"satz":"Mit lautem Piepsen rollt der lustige Roboter über den glatten Fußboden hinweg.","f":[
+  {"r":"Piepsen","w":"Piebsen","o":["Piepsen","Piebsen","Pipsen","Piepssen"],"k":"b","tipp":"Merksatz: Das 'Piep' bleibt hart mit p: Piep-sen."},
+  {"r":"lustige","w":"lusttige","o":["lustige","lusttige","lustiege","lustigge"],"k":"b","tipp":"Merksatz: 'lustig' hat nur EIN t: lus-tig."},
+  {"r":"Fußboden","w":"Fusboden","o":["Fußboden","Fusboden","Fußbohden","Fußpoden"],"k":"b","tipp":"Merksatz: Nach langem u schreibt man ß: Fuß-boden."}
+]},
+{"s":1,"satz":"Der erfinderische Roboter baut aus alten Drähten ganz alleine zusammen neue Antennen.","f":[
+  {"r":"erfinderische","w":"erfintarische","o":["erfinderische","erfintarische","erfinderieche","erfinderrische"],"k":"b","tipp":"Merksatz: 'erfinden' steckt drin – mit d: er-fin-de-risch."},
+  {"r":"Drähten","w":"Dräten","o":["Drähten","Dräten","Drehten","Drääten"],"k":"b","tipp":"Merksatz: 'Draht' hat ein Dehnungs-h: Dräh-ten."},
+  {"r":"zusammen","w":"zusamen","o":["zusammen","zusamen","zussammen","zusammmen"],"k":"b","tipp":"Merksatz: 'zusammen' braucht doppel-M: zu-sam-men."}
+]},
+{"s":1,"satz":"Am Abend träumt der kleine Roboter von einem riesigen Berg glänzender Schrauben.","f":[
+  {"r":"träumt","w":"treumt","o":["träumt","treumt","träomt","träumd"],"k":"b","tipp":"Merksatz: 'träumen' kommt von 'Traum' – aus au wird äu: träu-men."},
+  {"r":"riesigen","w":"risigen","o":["riesigen","risigen","riesiegen","riessigen"],"k":"b","tipp":"Merksatz: 'riesig' schreibt man mit ie (langes i): rie-sig."},
+  {"r":"glänzender","w":"glenzender","o":["glänzender","glenzender","glänzänder","glänzennder"],"k":"b","tipp":"Merksatz: 'glänzen' kommt von 'Glanz' – darum mit ä."}
+]},
+{"s":1,"satz":"Der clevere Roboter zählt alle Knöpfe und merkt sich jede einzelne Zahl.","f":[
+  {"r":"clevere","w":"clewere","o":["clevere","clewere","klevere","clefere"],"k":"b","tipp":"Merksatz: 'clever' schreibt man mit v: cle-ver."},
+  {"r":"zählt","w":"zehlt","o":["zählt","zehlt","zäält","zähld"],"k":"b","tipp":"Merksatz: 'zählen' kommt von 'Zahl' – aus a wird ä: zäh-len."},
+  {"r":"einzelne","w":"einzellne","o":["einzelne","einzellne","einzälne","einzelnne"],"k":"b","tipp":"Merksatz: 'einzeln' hat nur EIN l: ein-zel-ne."}
+]},
+{"s":1,"satz":"Aus seinem Bauch zieht der freche Roboterhund eine quietschende Batterie hervor.","f":[
+  {"r":"freche","w":"freeche","o":["freche","freeche","fräche","frechche"],"k":"b","tipp":"Merksatz: 'frech' schreibt man mit e, nicht ä: fre-che."},
+  {"r":"quietschende","w":"kvietschende","o":["quietschende","kvietschende","quitschende","quietschänden"],"k":"b","tipp":"Merksatz: 'qu' gehören immer zusammen – wie in 'Quelle': qu-iet-schend."},
+  {"r":"Batterie","w":"Baterie","o":["Batterie","Baterie","Battarie","Bateriee"],"k":"b","tipp":"Merksatz: Die Batterie hat doppel-T: Bat-te-rie."}
+]},
+{"s":1,"satz":"Der hilfsbereite Roboter wischt vorsichtig den Staub von seinen Knöpfen weg.","f":[
+  {"r":"hilfsbereite","w":"hilfsbereihte","o":["hilfsbereite","hilfsbereihte","hilfspereite","hilfsberreite"],"k":"b","tipp":"Merksatz: 'bereit' hat kein Dehnungs-h: be-reit."},
+  {"r":"wischt","w":"wiescht","o":["wischt","wiescht","wischd","witscht"],"k":"b","tipp":"Merksatz: 'wischen' hat ein kurzes i ohne ie: wi-schen."},
+  {"r":"vorsichtig","w":"forsichtig","o":["vorsichtig","forsichtig","vorsichdig","vorsiechtig"],"k":"b","tipp":"Merksatz: 'vor-' schreibt man mit v, wie in 'Vormittag': vor-sich-tig."}
+]},
+{"s":1,"satz":"Beim Tanzen blinken die Antennen des fröhlichen Roboters in allen Farben gleichzeitig.","f":[
+  {"r":"Tanzen","w":"Tantzen","o":["Tanzen","Tantzen","Danzen","Tanzzen"],"k":"b","tipp":"Merksatz: Nach dem n steht hier nur z, kein tz: Tan-zen."},
+  {"r":"fröhlichen","w":"fröhlieren","o":["fröhlichen","fröhlieren","frölichen","fröhliechen"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h: fröh-lich."},
+  {"r":"Farben","w":"Farwen","o":["Farben","Farwen","Farpen","Farbenn"],"k":"b","tipp":"Merksatz: Die Farben schreibt man mit b: Far-ben."}
+]},
+{"s":2,"satz":"Am Montag repariert der geschickte Roboter seine kaputten Schrauben in der Werkstatt.","f":[
+  {"r":"Roboter","w":"roboter","o":["Roboter","roboter","Robotor","robotor"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Roboter' steht mit dem Begleiter 'der'."},
+  {"r":"repariert","w":"reparirt","o":["repariert","reparirt","repariehrt","repaariert"],"k":"b","tipp":"Regel: 'reparieren' schreibt man mit ie: re-pa-rie-ren."},
+  {"r":"geschickte","w":"Geschickte","o":["geschickte","Geschickte","geschikte","geschiekte"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'geschickt' schreibt man klein."}
+]},
+{"s":2,"satz":"Der piepsende Roboterhund sucht überall nach seiner verlorenen Batterie.","f":[
+  {"r":"Roboterhund","w":"roboterhund","o":["Roboterhund","roboterhund","Robboterhund","robboterhund"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Roboterhund' hat den Begleiter 'der'."},
+  {"r":"überall","w":"überal","o":["überall","überal","üperall","überrall"],"k":"b","tipp":"Regel: 'überall' braucht doppel-L wie in 'All': über-all."},
+  {"r":"verlorenen","w":"Verlorenen","o":["verlorenen","Verlorenen","ferlorenen","verlohrenen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'verloren' schreibt man klein."}
+]},
+{"s":2,"satz":"Plötzlich drückt der neugierige Roboter ganz aufgeregt auf alle bunten Knöpfe.","f":[
+  {"r":"Plötzlich","w":"Plötzliech","o":["Plötzlich","Plötzliech","Plözlich","Plötzligch"],"k":"b","tipp":"Regel: 'plötzlich' schreibt man mit tz nach kurzem ö: plötz-lich."},
+  {"r":"Roboter","w":"roboter","o":["Roboter","roboter","Robotter","robotter"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Roboter' steht mit 'der'."},
+  {"r":"aufgeregt","w":"Aufgeregt","o":["aufgeregt","Aufgeregt","aufgeregd","aufgereckt"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'aufgeregt' schreibt man klein."}
+]},
+{"s":2,"satz":"In der dunklen Nacht leuchten die Antennen des wachsamen Roboters ganz hell.","f":[
+  {"r":"Nacht","w":"nacht","o":["Nacht","nacht","Nachd","nachd"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Nacht' hat den Begleiter 'die'."},
+  {"r":"wachsamen","w":"waxamen","o":["wachsamen","waxamen","wachsahmen","wacksamen"],"k":"b","tipp":"Regel: 'wachsam' schreibt man mit chs, nicht mit x: wach-sam."},
+  {"r":"leuchten","w":"Leuchten","o":["leuchten","Leuchten","leuchden","leichten"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'leuchten' schreibt man klein."}
+]},
+{"s":2,"satz":"Der fleißige Roboter schraubt jeden Tag tausend winzige Schrauben in die Maschine hinein.","f":[
+  {"r":"fleißige","w":"fleisige","o":["fleißige","fleisige","fleißiege","flaißige"],"k":"b","tipp":"Regel: 'fleißig' schreibt man mit ß nach langem ei: flei-ßig."},
+  {"r":"Maschine","w":"maschine","o":["Maschine","maschine","Maschiene","maschiene"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Maschine' hat den Begleiter 'die'."},
+  {"r":"schraubt","w":"Schraubt","o":["schraubt","Schraubt","schraobt","schraubd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schrauben' schreibt man klein."}
+]},
+{"s":2,"satz":"Am Mittwoch tauscht der erfinderische Roboter alle leeren Batterien gegen neue aus.","f":[
+  {"r":"Mittwoch","w":"mittwoch","o":["Mittwoch","mittwoch","Mitwoch","mitwoch"],"k":"g","tipp":"Regel: Wochentage sind Nomen und schreibt man groß – am Mittwoch."},
+  {"r":"erfinderische","w":"erfinderieche","o":["erfinderische","erfinderieche","erfintarische","erfinderrische"],"k":"b","tipp":"Regel: 'erfinden' steckt drin – mit d: er-fin-de-risch."},
+  {"r":"leeren","w":"Leeren","o":["leeren","Leeren","lehren","leerren"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'leer' schreibt man klein."}
+]},
+{"s":2,"satz":"Der mutige Roboterhund bellt laut und jagt die fliegende Drohne durch den Garten.","f":[
+  {"r":"Roboterhund","w":"roboterhund","o":["Roboterhund","roboterhund","Roboterhond","roboterhond"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Roboterhund' hat den Begleiter 'der'."},
+  {"r":"jagt","w":"jakt","o":["jagt","jakt","jagd","jaagt"],"k":"b","tipp":"Regel: 'jagen' endet hier auf gt – zur Probe: er jagt, sie jagen: jag-t."},
+  {"r":"fliegende","w":"Fliegende","o":["fliegende","Fliegende","fliehgende","fliegännde"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'fliegend' schreibt man klein."}
+]},
+{"s":2,"satz":"Im Keller bastelt der kleine Junge einen sprechenden Roboter mit blinkenden Augen.","f":[
+  {"r":"Junge","w":"junge","o":["Junge","junge","Jungge","jungge"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Junge' steht mit 'der'."},
+  {"r":"sprechenden","w":"schprechenden","o":["sprechenden","schprechenden","sprächenden","sprechendenn"],"k":"b","tipp":"Regel: 'sp' spricht man 'schp', schreibt es aber immer 'sp': spre-chen."},
+  {"r":"blinkenden","w":"Blinkenden","o":["blinkenden","Blinkenden","blingkenden","blinckenden"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'blinkend' schreibt man klein."}
+]},
+{"s":2,"satz":"Der höfliche Roboter verbeugt sich vor der staunenden Menge und piepst dann leise.","f":[
+  {"r":"höfliche","w":"Höfliche","o":["höfliche","Höfliche","höffliche","höhfliche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'höflich' schreibt man klein."},
+  {"r":"verbeugt","w":"ferbeugt","o":["verbeugt","ferbeugt","verbeukt","verbeigt"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-beugt."},
+  {"r":"Menge","w":"menge","o":["Menge","menge","Männge","mennge"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Menge' hat den Begleiter 'die'."}
+]},
+{"s":2,"satz":"Am Freitag poliert der eitle Roboter vor dem Spiegel seine glänzenden Knöpfe blank.","f":[
+  {"r":"Freitag","w":"freitag","o":["Freitag","freitag","Fraitag","Freytag"],"k":"g","tipp":"Regel: Wochentage sind Nomen und schreibt man groß – am Freitag."},
+  {"r":"Spiegel","w":"Spigel","o":["Spiegel","Spigel","Spiehgel","Schpiegel"],"k":"b","tipp":"Regel: 'Spiegel' schreibt man mit ie: Spie-gel."},
+  {"r":"eitle","w":"Eitle","o":["eitle","Eitle","aitle","eytle"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'eitel' schreibt man klein."}
+]},
+{"s":2,"satz":"Der traurige Roboter weint dicke Öltropfen aus seinen großen Roboteraugen heraus.","f":[
+  {"r":"traurige","w":"Traurige","o":["traurige","Traurige","traorige","traurrige"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'traurig' schreibt man klein."},
+  {"r":"Öltropfen","w":"Öltrobfen","o":["Öltropfen","Öltrobfen","Öltropphen","Öhltropfen"],"k":"b","tipp":"Regel: 'Tropfen' schreibt man mit pf: Trop-fen."},
+  {"r":"Roboteraugen","w":"roboteraugen","o":["Roboteraugen","roboteraugen","Roboteraogen","Robboteraugen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Roboteraugen' haben den Begleiter 'die'."}
+]},
+{"s":2,"satz":"Der schlaue Roboter rechnet schnell und merkt sich im Speicher jede schwierige Zahl.","f":[
+  {"r":"schlaue","w":"Schlaue","o":["schlaue","Schlaue","schlaoue","schlauwe"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schlau' schreibt man klein."},
+  {"r":"schwierige","w":"schwirige","o":["schwierige","schwirige","schwieriege","schwierigge"],"k":"b","tipp":"Regel: 'schwierig' schreibt man mit ie: schwie-rig."},
+  {"r":"Speicher","w":"speicher","o":["Speicher","speicher","Schpeicher","Speycher"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Speicher' hat den Begleiter 'der'."}
+]},
+{"s":3,"satz":"Der Roboter piepst laut, weil seine letzte Batterie fast leer ist.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Batterie","w":"Baterie","o":["Batterie","Baterie","Battarie","Bateriee"],"k":"b","tipp":"Regel: Die Batterie hat doppel-T: Bat-te-rie."},
+  {"r":"letzte","w":"Letzte","o":["letzte","Letzte","lezte","letzde"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'letzte' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Roboterhund bellt, sobald jemand vorsichtig auf den roten Knopf drückt.","f":[
+  {"r":"bellt,","w":"bellt","o":["bellt,","bellt","bellt;","bellt."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+  {"r":"vorsichtig","w":"forsichtig","o":["vorsichtig","forsichtig","vorsiechtig","vorsichdig"],"k":"b","tipp":"Regel: 'vor-' schreibt man mit v: vor-sich-tig."},
+  {"r":"roten","w":"Roten","o":["roten","Roten","rohten","rotten"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'rot' schreibt man klein."}
+]},
+{"s":3,"satz":"In der Werkstatt liegen Schrauben, Batterien und Antennen ordentlich in einer Kiste.","f":[
+  {"r":"Schrauben,","w":"Schrauben","o":["Schrauben,","Schrauben","Schrauben;","Schrauben."],"k":"k","tipp":"Regel: Bei einer Aufzählung steht zwischen den Gliedern ein Komma."},
+  {"r":"Werkstatt","w":"Werkstadt","o":["Werkstatt","Werkstadt","Werckstatt","Werkschtatt"],"k":"b","tipp":"Regel: Die Werkstatt endet auf '-statt' mit tt, nicht wie die 'Stadt'."},
+  {"r":"ordentlich","w":"Ordentlich","o":["ordentlich","Ordentlich","ordentliech","ordendlich"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'ordentlich' schreibt man klein."}
+]},
+{"s":3,"satz":"Der kleine Roboter winkt fröhlich, obwohl seine Antenne ein wenig verbogen ist.","f":[
+  {"r":"fröhlich,","w":"fröhlich","o":["fröhlich,","fröhlich","fröhlich;","fröhlich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"verbogen","w":"ferbogen","o":["verbogen","ferbogen","verbohgen","verboggen"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-bo-gen."},
+  {"r":"kleine","w":"Kleine","o":["kleine","Kleine","kleyne","cleine"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'klein' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Erfinder freut sich, weil sein neuer Roboter endlich von selbst piepst.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Erfinder","w":"erfinder","o":["Erfinder","erfinder","Erfintar","Erffinder"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Erfinder' hat den Begleiter 'der'."},
+  {"r":"endlich","w":"endliech","o":["endlich","endliech","ändlich","endlieg"],"k":"b","tipp":"Regel: 'endlich' schreibt man mit kurzem e und ohne ie: end-lich."}
+]},
+{"s":3,"satz":"Sobald die Sonne aufgeht, schraubt der fleißige Roboter wieder an seinen Knöpfen.","f":[
+  {"r":"aufgeht,","w":"aufgeht","o":["aufgeht,","aufgeht","aufgeht;","aufgeht."],"k":"k","tipp":"Regel: Steht der Nebensatz vorne, kommt danach ein Komma."},
+  {"r":"fleißige","w":"fleisige","o":["fleißige","fleisige","fleißiege","flaißige"],"k":"b","tipp":"Regel: 'fleißig' schreibt man mit ß nach langem ei: flei-ßig."},
+  {"r":"Sonne","w":"sonne","o":["Sonne","sonne","Sohne","Sonnne"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Sonne' hat den Begleiter 'die'."}
+]},
+{"s":3,"satz":"Der Roboterhund jault leise, wenn die hellen Lichter im Labor ausgehen.","f":[
+  {"r":"leise,","w":"leise","o":["leise,","leise","leise;","leise."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"jault","w":"jaolt","o":["jault","jaolt","jauld","schault"],"k":"b","tipp":"Regel: 'jaulen' schreibt man mit au: jau-len."},
+  {"r":"hellen","w":"Hellen","o":["hellen","Hellen","helen","hällen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'hell' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Roboter sammelt Schrauben, Knöpfe und Drähte für seinen neuen Roboterfreund.","f":[
+  {"r":"Schrauben,","w":"Schrauben","o":["Schrauben,","Schrauben","Schrauben;","Schrauben."],"k":"k","tipp":"Regel: Bei einer Aufzählung steht zwischen den Gliedern ein Komma."},
+  {"r":"Drähte","w":"Dräte","o":["Drähte","Dräte","Drehte","Drääte"],"k":"b","tipp":"Regel: 'Draht' hat ein Dehnungs-h: Dräh-te."},
+  {"r":"neuen","w":"Neuen","o":["neuen","Neuen","neien","neuhen"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'neu' schreibt man klein."}
+]},
+{"s":3,"satz":"Der freundliche Roboter hilft gern, wenn ein Kind seine Schrauben im Sandkasten sucht.","f":[
+  {"r":"gern,","w":"gern","o":["gern,","gern","gern;","gern."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"freundliche","w":"Freundliche","o":["freundliche","Freundliche","freindliche","freundliege"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'freundlich' schreibt man klein."},
+  {"r":"Schrauben","w":"Schrauwen","o":["Schrauben","Schrauwen","Schraupen","Schraoben"],"k":"b","tipp":"Regel: Die Schrauben dreht man mit b: Schrau-ben."}
+]},
+{"s":3,"satz":"Am Sonntag tanzt der Roboter, damit die müden Kinder wieder fröhlich lachen.","f":[
+  {"r":"Roboter,","w":"Roboter","o":["Roboter,","Roboter","Roboter;","Roboter."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Sonntag","w":"sonntag","o":["Sonntag","sonntag","Sontag","Sonntagg"],"k":"g","tipp":"Regel: Wochentage sind Nomen und schreibt man groß – am Sonntag."},
+  {"r":"müden","w":"müeden","o":["müden","müeden","mühden","müdän"],"k":"b","tipp":"Regel: 'müde' schreibt man mit ü ohne Dehnungs-h: mü-de."}
+]},
+{"s":3,"satz":"Der Roboter blinkt rot, weil seine Antenne den nahen Sturm gemessen hat.","f":[
+  {"r":"rot,","w":"rot","o":["rot,","rot","rot;","rot."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Antenne","w":"antenne","o":["Antenne","antenne","Antänne","antänne"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Antenne' hat den Begleiter 'die'."},
+  {"r":"gemessen","w":"gemesen","o":["gemessen","gemesen","gemässen","kemessen"],"k":"b","tipp":"Regel: 'gemessen' kommt von 'messen' mit doppel-S: ge-mes-sen."}
+]},
+{"s":3,"satz":"Wenn der Akku leer ist, sucht der Roboter sofort seine geliebte Batterie.","f":[
+  {"r":"ist,","w":"ist","o":["ist,","ist","ist;","ist."],"k":"k","tipp":"Regel: Steht der Nebensatz mit 'wenn' vorne, kommt danach ein Komma."},
+  {"r":"sofort","w":"soffort","o":["sofort","soffort","sofforrt","sohfort"],"k":"b","tipp":"Regel: 'sofort' hat nur EIN f: so-fort."},
+  {"r":"geliebte","w":"Geliebte","o":["geliebte","Geliebte","gelibte","geliepte"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'geliebt' schreibt man klein."}
+]}
+]

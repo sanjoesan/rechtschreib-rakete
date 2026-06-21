@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der mutige Astronaut steuert seine Rakete durch das riesige Weltall zur Raumstation.","f":[
+  {"r":"Astronaut","w":"Astronout","o":["Astronaut","Astronout","Astranaut","Asdronaut"],"k":"b","tipp":"Merksatz: Ein Astronaut ruft 'au!' vor Staunen – darum endet er auf '-naut' mit au."},
+  {"r":"Rakete","w":"Rackete","o":["Rakete","Rackete","Raggete","Rakehte"],"k":"b","tipp":"Merksatz: Die Rakete ist schnell und kurz – nur EIN k, kein ck: Ra-ke-te."},
+  {"r":"Weltall","w":"Weltal","o":["Weltall","Weltal","Weldall","Welltall"],"k":"b","tipp":"Merksatz: Im Weltall ist ALLES riesig – darum doppel-L wie in 'All'."}
+]},
+{"s":1,"satz":"Mit dem starken Teleskop sehen wir viele funkelnde Sterne und einen hellen Kometen.","f":[
+  {"r":"Teleskop","w":"Teleskob","o":["Teleskop","Teleskob","Telleskop","Teleschop"],"k":"b","tipp":"Merksatz: Ein Teleskop endet hart auf 'p' wie 'Punkt am Himmel'."},
+  {"r":"funkelnde","w":"funggelnde","o":["funkelnde","funggelnde","funkellnde","vunkelnde"],"k":"b","tipp":"Merksatz: Die Sterne FUNKeln wie ein 'Funke' – mit einem k."},
+  {"r":"Sterne","w":"Schterne","o":["Sterne","Schterne","Sterrne","Sternne"],"k":"b","tipp":"Merksatz: 'St' spricht man 'Scht', schreibt es aber immer 'St' – wie in Stern."}
+]},
+{"s":1,"satz":"Der kleine Satellit umkreist im Universum unseren blauen Planeten ganz leise.","f":[
+  {"r":"Satellit","w":"Sateliet","o":["Satellit","Sateliet","Satelit","Sattelit"],"k":"b","tipp":"Merksatz: Der Satellit hat doppel-L und endet auf '-lit': Satel-lit."},
+  {"r":"Universum","w":"Univerzum","o":["Universum","Univerzum","Uniwersum","Universsum"],"k":"b","tipp":"Merksatz: Im Universum steckt 'vers' wie im 'Vers' – mit s, nicht z."},
+  {"r":"Planeten","w":"Planneten","o":["Planeten","Planneten","Planehten","Plaaneten"],"k":"b","tipp":"Merksatz: Der Planet hat nur EIN n: Pla-net."}
+]},
+{"s":1,"satz":"Im schwarzen Weltraum schwebt der Astronaut neben seiner glänzenden Raumkapsel.","f":[
+  {"r":"Weltraum","w":"Weltraom","o":["Weltraum","Weltraom","Weldraum","Welltraum"],"k":"b","tipp":"Merksatz: Weltraum = Welt + Raum, beide Teile mit au: Welt-Raum."},
+  {"r":"Astronaut","w":"Astranaut","o":["Astronaut","Astranaut","Astronaud","Asdronaut"],"k":"b","tipp":"Merksatz: Astro kommt von den Astern am Himmel – Astro-naut mit o."},
+  {"r":"glänzenden","w":"glenzenden","o":["glänzenden","glenzenden","glänzänden","glänzndenn"],"k":"b","tipp":"Merksatz: 'glänzen' kommt von 'Glanz' – darum mit ä."}
+]},
+{"s":1,"satz":"Die Rakete zündet ihre Triebwerke und hebt mit lautem Donnern vom Boden ab.","f":[
+  {"r":"Triebwerke","w":"Triepwerke","o":["Triebwerke","Triepwerke","Tribwerke","Triebwerge"],"k":"b","tipp":"Merksatz: 'Trieb' kommt von 'treiben' – mit b wie 'getrieben'."},
+  {"r":"Donnern","w":"Donern","o":["Donnern","Donern","Donnernn","Tonnern"],"k":"b","tipp":"Merksatz: Beim Donnern grollt es doppelt laut – doppel-N wie im Donner."},
+  {"r":"Rakete","w":"Raggete","o":["Rakete","Raggete","Rackete","Rakeete"],"k":"b","tipp":"Merksatz: Die Rakete hat nur EIN k: Ra-ke-te."}
+]},
+{"s":1,"satz":"Ein neugieriger Roboter rollt über den staubigen Marsboden und sammelt rote Steine.","f":[
+  {"r":"neugieriger","w":"neugiriger","o":["neugieriger","neugiriger","neugieriega","neugierriger"],"k":"b","tipp":"Merksatz: 'neugierig' kommt von 'Gier' mit ie: neu-gie-rig."},
+  {"r":"Roboter","w":"Robotor","o":["Roboter","Robotor","Rooboter","Robboter"],"k":"b","tipp":"Merksatz: Der Roboter endet auf '-er' wie 'Arbeiter': Robo-ter."},
+  {"r":"staubigen","w":"staobigen","o":["staubigen","staobigen","schtaubigen","staubiegen"],"k":"b","tipp":"Merksatz: 'Staub' mit au – wie 'Au, das kitzelt in der Nase'."}
+]},
+{"s":1,"satz":"Der freundliche Außerirdische winkt mit seinem grünen Gesicht fröhlich vom Mond herunter.","f":[
+  {"r":"freundliche","w":"freuntliche","o":["freundliche","freuntliche","fröndliche","freundlige"],"k":"b","tipp":"Merksatz: 'freundlich' kommt von 'Freund' – mit d, wie der gute Freund."},
+  {"r":"Außerirdische","w":"Auserirdische","o":["Außerirdische","Auserirdische","Außerirrdische","Außerirdishe"],"k":"b","tipp":"Merksatz: Nach langem au schreibt man 'außer' mit ß: au-ßer."},
+  {"r":"Gesicht","w":"Gesischt","o":["Gesicht","Gesischt","Gesichd","Gesiccht"],"k":"b","tipp":"Merksatz: In 'Gesicht' steckt 'sicht' wie in 'Sicht' – mit ch und t."}
+]},
+{"s":1,"satz":"In der Schwerelosigkeit kreist die gemütliche Raumstation ganz still über unserem Heimatplaneten.","f":[
+  {"r":"Raumstation","w":"Raumstazion","o":["Raumstation","Raumstazion","Raumschtation","Raomstation"],"k":"b","tipp":"Merksatz: Die Endung '-tion' schreibt man mit t, auch wenn man 'zion' hört: Sta-tion."},
+  {"r":"gemütliche","w":"gemühtliche","o":["gemütliche","gemühtliche","gemütlige","gemüdliche"],"k":"b","tipp":"Merksatz: 'gemütlich' hat ein t und kein Dehnungs-h: ge-müt-lich."},
+  {"r":"Schwerelosigkeit","w":"Schwerelosichkeit","o":["Schwerelosigkeit","Schwerelosichkeit","Schwerlosigkeit","Schwerelosikeit"],"k":"b","tipp":"Merksatz: Endet ein Wort auf '-ig', schreibt man g, hört aber 'ich': Schwerelos-ig-keit."}
+]},
+{"s":1,"satz":"Mit einem leisen Zischen koppelt die Kapsel sanft an die große Raumstation an.","f":[
+  {"r":"Zischen","w":"Zieschen","o":["Zischen","Zieschen","Zischän","Zisschen"],"k":"b","tipp":"Merksatz: 'Zischen' beginnt mit einem kurzen i, kein ie: Zi-schen."},
+  {"r":"koppelt","w":"kopelt","o":["koppelt","kopelt","koppellt","goppelt"],"k":"b","tipp":"Merksatz: 'koppeln' hat doppel-P, weil das o kurz klingt: kop-peln."},
+  {"r":"Kapsel","w":"Kabsel","o":["Kapsel","Kabsel","Kapsell","Kapssel"],"k":"b","tipp":"Merksatz: In der 'Kapsel' steckt 'Kap' mit hartem p: Kap-sel."}
+]},
+{"s":1,"satz":"Der tapfere Astronaut springt über einen tiefen Mondkrater mitten in der Schwerelosigkeit.","f":[
+  {"r":"tapfere","w":"tapffere","o":["tapfere","tapffere","tabfere","tapferre"],"k":"b","tipp":"Merksatz: 'tapfer' hat nur ein f: tap-fer, wie der tapfere Held."},
+  {"r":"Mondkrater","w":"Montkrater","o":["Mondkrater","Montkrater","Mondkrador","Mondkratter"],"k":"b","tipp":"Merksatz: 'Mond' endet auf d (Probe: des Mondes) – darum Mond-krater."},
+  {"r":"tiefen","w":"tifen","o":["tiefen","tifen","tieffen","thiefen"],"k":"b","tipp":"Merksatz: 'tief' schreibt man mit ie, wie das lange i im 'Brief'."}
+]},
+{"s":1,"satz":"Am Nachthimmel ziehen leuchtende Kometen mit langen Schweifen über das stille Weltall.","f":[
+  {"r":"Nachthimmel","w":"Nachthimel","o":["Nachthimmel","Nachthimel","Nachdhimmel","Nachthimml"],"k":"b","tipp":"Merksatz: 'Himmel' hat doppel-M, weil das i kurz klingt: Him-mel."},
+  {"r":"leuchtende","w":"leichtende","o":["leuchtende","leichtende","leuchtände","läuchtende"],"k":"b","tipp":"Merksatz: 'leuchten' schreibt man mit eu, wie das 'Leuchten' im Auge."},
+  {"r":"Schweifen","w":"Schwaifen","o":["Schweifen","Schwaifen","Schweiffen","Schweifän"],"k":"b","tipp":"Merksatz: 'Schweif' schreibt man mit ei, wie 'weit' und 'breit'."}
+]},
+{"s":1,"satz":"Ein kleiner Außerirdischer bastelt sich aus alten Konservendosen heimlich eine kleine Rakete.","f":[
+  {"r":"Außerirdischer","w":"Auserirdischer","o":["Außerirdischer","Auserirdischer","Außerirrdischer","Außerirdisher"],"k":"b","tipp":"Merksatz: Nach langem au folgt ein ß: au-ßer-irdischer."},
+  {"r":"heimlich","w":"haimlich","o":["heimlich","haimlich","heimlig","heymlich"],"k":"b","tipp":"Merksatz: 'heimlich' kommt von 'Heim' und schreibt sich mit ei."},
+  {"r":"Konservendosen","w":"Konzervendosen","o":["Konservendosen","Konzervendosen","Konservenndosen","Konservendoosen"],"k":"b","tipp":"Merksatz: In 'Konserve' steckt 'serv' mit s, wie im 'Service'."}
+]},
+{"s":2,"satz":"Am Morgen entdeckt der junge Forscher im Teleskop einen fremden Planeten.","f":[
+  {"r":"Forscher","w":"forscher","o":["Forscher","forscher","Vorscher","forscha"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Forscher' steht mit dem Begleiter 'der'."},
+  {"r":"Teleskop","w":"Teleskob","o":["Teleskop","Teleskob","Telleskop","Teleschop"],"k":"b","tipp":"Regel: Am Wortende klingt 'p' wie 'b'. Zur Probe verlängern: das Teleskope ... Teleskop – also mit p."},
+  {"r":"fremden","w":"Fremden","o":["fremden","Fremden","främden","Främden"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'fremd' schreibt man klein."}
+]},
+{"s":2,"satz":"Die Rakete startet in der Nacht und fliegt zum funkelnden Stern.","f":[
+  {"r":"Nacht","w":"nacht","o":["Nacht","nacht","Nachd","nachd"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Nacht' hat den Begleiter 'die'."},
+  {"r":"funkelnden","w":"vunkelnden","o":["funkelnden","vunkelnden","funkellnden","funggelnden"],"k":"b","tipp":"Regel: Das Wort 'funkeln' kommt von 'Funke' und beginnt mit f, nicht v."},
+  {"r":"fliegt","w":"Fliegt","o":["fliegt","Fliegt","fliegd","Fliegd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'fliegen' schreibt man klein."}
+]},
+{"s":2,"satz":"Der Astronaut isst im Raumschiff sein warmes Frühstück aus der Tube.","f":[
+  {"r":"Frühstück","w":"frühstück","o":["Frühstück","frühstück","Frühstük","frühstük"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'sein Frühstück' steht mit dem Begleiter 'sein'."},
+  {"r":"Raumschiff","w":"Raumshiff","o":["Raumschiff","Raumshiff","Raumschif","Raomschiff"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit drei Buchstaben sch: Schiff, Raumschiff."},
+  {"r":"warmes","w":"Warmes","o":["warmes","Warmes","warmäs","Warmäs"],"k":"g","tipp":"Regel: Adjektive (Wiewörter) wie 'warm' schreibt man klein."}
+]},
+{"s":2,"satz":"Auf dem Mond hüpft der Forscher ganz langsam in seinem schweren Anzug.","f":[
+  {"r":"Mond","w":"mond","o":["Mond","mond","Mont","mont"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'dem Mond' steht mit dem Begleiter 'dem'."},
+  {"r":"hüpft","w":"Hüpft","o":["hüpft","Hüpft","hüpfd","Hüpfd"],"k":"g","tipp":"Regel: Verben (Tunwörter) wie 'hüpfen' schreibt man klein."},
+  {"r":"langsam","w":"langsahm","o":["langsam","langsahm","langzam","lannsam"],"k":"b","tipp":"Regel: 'langsam' schreibt man ohne Dehnungs-h: lang-sam."}
+]},
+{"s":2,"satz":"Die Sterne leuchten am dunklen Himmel und der Komet zieht seinen hellen Schweif.","f":[
+  {"r":"Himmel","w":"himmel","o":["Himmel","himmel","Himel","himel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Himmel'."},
+  {"r":"leuchten","w":"Leuchten","o":["leuchten","Leuchten","leuchden","Leuchden"],"k":"g","tipp":"Regel: Verben wie 'leuchten' schreibt man klein."},
+  {"r":"Komet","w":"Kommet","o":["Komet","Kommet","Gomet","Komett"],"k":"b","tipp":"Regel: 'Komet' schreibt man mit nur einem m und einem t."}
+]},
+{"s":2,"satz":"Der kleine Roboter sucht nach gefrorenem Wasser auf dem roten Planeten.","f":[
+  {"r":"Wasser","w":"wasser","o":["Wasser","wasser","Waser","waser"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Wasser'."},
+  {"r":"Roboter","w":"Roboder","o":["Roboter","Roboder","Robotor","Robboter"],"k":"b","tipp":"Regel: In der Wortmitte hört man 't': Ro-bo-ter."},
+  {"r":"roten","w":"Roten","o":["roten","Roten","rotän","Rotän"],"k":"g","tipp":"Regel: Farb-Wiewörter wie 'rot' schreibt man klein – 'der rote Planet'."}
+]},
+{"s":2,"satz":"In der Schwerelosigkeit schweben die Werkzeuge frei durch die helle Raumstation.","f":[
+  {"r":"Werkzeuge","w":"werkzeuge","o":["Werkzeuge","werkzeuge","Werkzeige","Werckzeuge"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Werkzeuge' hat den Begleiter 'die'."},
+  {"r":"schweben","w":"Schweben","o":["schweben","Schweben","schwäben","Schwäben"],"k":"g","tipp":"Regel: Verben (Tunwörter) wie 'schweben' schreibt man klein."},
+  {"r":"Schwerelosigkeit","w":"Schwerelosichkeit","o":["Schwerelosigkeit","Schwerelosichkeit","Schwerelosikeit","Schwerlosigkeit"],"k":"b","tipp":"Regel: Die Endung '-ig' schreibt man mit g, auch wenn man 'ich' hört: Schwerelos-ig-keit."}
+]},
+{"s":2,"satz":"Am Abend beobachtet die Astronomin durch ihr Fernrohr einen hellen Kometen.","f":[
+  {"r":"Astronomin","w":"astronomin","o":["Astronomin","astronomin","Astranomin","Astronommin"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Astronomin' steht mit dem Begleiter 'die'."},
+  {"r":"beobachtet","w":"Beobachtet","o":["beobachtet","Beobachtet","beobachdet","Beobachdet"],"k":"g","tipp":"Regel: Verben wie 'beobachten' schreibt man klein."},
+  {"r":"Fernrohr","w":"Fernror","o":["Fernrohr","Fernror","Vernrohr","Fernrohrr"],"k":"b","tipp":"Regel: 'Rohr' braucht ein Dehnungs-h vor dem r: Fern-rohr."}
+]},
+{"s":2,"satz":"Der Pilot lenkt seine Rakete vorsichtig an einem gefährlichen Asteroiden vorbei.","f":[
+  {"r":"Pilot","w":"pilot","o":["Pilot","pilot","Pielot","Pilott"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Pilot' hat den Begleiter 'der'."},
+  {"r":"lenkt","w":"Lenkt","o":["lenkt","Lenkt","länkt","Länkt"],"k":"g","tipp":"Regel: Verben (Tunwörter) wie 'lenken' schreibt man klein."},
+  {"r":"gefährlichen","w":"geferlichen","o":["gefährlichen","geferlichen","gefährligen","gefehrlichen"],"k":"b","tipp":"Regel: 'gefährlich' kommt von 'Gefahr' und schreibt sich mit ä."}
+]},
+{"s":2,"satz":"Auf der Raumstation pflanzt die Astronautin in kleinen Behältern grüne Salate.","f":[
+  {"r":"Raumstation","w":"Raumstazion","o":["Raumstation","Raumstazion","Raumschtation","Raomstation"],"k":"b","tipp":"Regel: Die Endung '-tion' schreibt man mit t, auch wenn man 'zion' hört: Sta-tion."},
+  {"r":"pflanzt","w":"Pflanzt","o":["pflanzt","Pflanzt","pflanzd","Pflanzd"],"k":"g","tipp":"Regel: Verben (Tunwörter) wie 'pflanzen' schreibt man klein."},
+  {"r":"Behältern","w":"behältern","o":["Behältern","behältern","Behaltern","behaltern"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'in Behältern' ist ein Namenwort."}
+]},
+{"s":2,"satz":"Der Komet rast durch das All und sein Schweif glüht ganz hell.","f":[
+  {"r":"Komet","w":"komet","o":["Komet","komet","Kommet","kommet"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Komet' hat den Begleiter 'der'."},
+  {"r":"glüht","w":"Glüht","o":["glüht","Glüht","glühd","Glühd"],"k":"g","tipp":"Regel: Verben (Tunwörter) wie 'glühen' schreibt man klein."},
+  {"r":"Schweif","w":"Schwaif","o":["Schweif","Schwaif","Schweiff","Schweyf"],"k":"b","tipp":"Regel: 'Schweif' schreibt man mit ei, wie 'weit' und 'breit'."}
+]},
+{"s":2,"satz":"Beim Start brüllen die Triebwerke und die Rakete zittert auf der Rampe.","f":[
+  {"r":"Triebwerke","w":"triebwerke","o":["Triebwerke","triebwerke","Triepwerke","triepwerke"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Triebwerke' hat den Begleiter 'die'."},
+  {"r":"zittert","w":"Zittert","o":["zittert","Zittert","zitterd","Zitterd"],"k":"g","tipp":"Regel: Verben (Tunwörter) wie 'zittern' schreibt man klein."},
+  {"r":"brüllen","w":"brülen","o":["brüllen","brülen","brüllän","brühlen"],"k":"b","tipp":"Regel: 'brüllen' hat doppel-L, weil das ü kurz klingt: brül-len."}
+]},
+{"s":3,"satz":"Im dunklen Weltall funkeln Sterne, ferne Planeten und helle Kometen.","f":[
+  {"r":"Sterne,","w":"Sterne","o":["Sterne,","Sterne","Sterne;","Sterne."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma: 'Sterne, ferne Planeten und helle Kometen'. Vor 'und' steht keins."},
+  {"r":"funkeln","w":"vunkeln","o":["funkeln","vunkeln","funggeln","fungeln"],"k":"b","tipp":"Regel: 'funkeln' kommt von 'Funke' und wird mit f geschrieben."},
+  {"r":"helle","w":"Helle","o":["helle","Helle","hälle","Hälle"],"k":"g","tipp":"Regel: Adjektive wie 'hell' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Astronaut freut sich, weil er die blaue Erde sehen kann.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Erde","w":"erde","o":["Erde","erde","Erte","erte"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Erde' ist der Name unseres Planeten."},
+  {"r":"Astronaut","w":"Astranaut","o":["Astronaut","Astranaut","Astronaud","Asdronaut"],"k":"b","tipp":"Regel: 'Astronaut' beginnt mit 'Astro' und endet auf '-naut'."}
+]},
+{"s":3,"satz":"Die Forscherin weiß, dass auf dem Mars früher Wasser geflossen ist.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Wasser","w":"wasser","o":["Wasser","wasser","Waser","waser"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Wasser'."},
+  {"r":"Forscherin","w":"Vorscherin","o":["Forscherin","Vorscherin","Forscherinn","Forscherrin"],"k":"b","tipp":"Regel: 'Forscherin' kommt von 'forschen' und beginnt mit f."}
+]},
+{"s":3,"satz":"Die schnelle Rakete, die zum Mond fliegt, ist riesig und glänzt am Himmel.","f":[
+  {"r":"Rakete,","w":"Rakete","o":["Rakete,","Rakete","Rakete;","Rakete."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'die' wird mit Kommas eingeschlossen: 'Die Rakete, die ... fliegt, ist riesig'."},
+  {"r":"Mond","w":"mond","o":["Mond","mond","Mont","mont"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Mond'."},
+  {"r":"riesig","w":"risig","o":["riesig","risig","riesieg","riessig"],"k":"b","tipp":"Regel: 'riesig' schreibt man mit ie (langes i)."}
+]},
+{"s":3,"satz":"Der Komet ist sehr schnell, aber der gemütliche Mond bewegt sich langsam.","f":[
+  {"r":"schnell,","w":"schnell","o":["schnell,","schnell","schnell;","schnell."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"gemütliche","w":"gemühtliche","o":["gemütliche","gemühtliche","gemütlige","gemüdliche"],"k":"b","tipp":"Regel: 'gemütlich' schreibt man mit t und ohne Dehnungs-h: ge-müt-lich."},
+  {"r":"Mond","w":"Monnd","o":["Mond","Monnd","Mont","Mohnd"],"k":"b","tipp":"Regel: 'Mond' schreibt man mit einem n und endet auf d (Probe: des Mondes)."}
+]},
+{"s":3,"satz":"Wenn die Sonne untergeht, leuchten am Himmel die ersten Sterne.","f":[
+  {"r":"untergeht,","w":"untergeht","o":["untergeht,","untergeht","untergeht;","untergeht."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma: 'Wenn ..., leuchten ...'."},
+  {"r":"leuchten","w":"Leuchten","o":["leuchten","Leuchten","leuchden","Leuchden"],"k":"g","tipp":"Regel: Verben wie 'leuchten' schreibt man klein."},
+  {"r":"Himmel","w":"himmel","o":["Himmel","himmel","Himel","himel"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Himmel'."}
+]},
+{"s":3,"satz":"Der Außerirdische staunt, weil die Erde so blau und friedlich aussieht.","f":[
+  {"r":"staunt,","w":"staunt","o":["staunt,","staunt","staunt;","staunt."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"friedlich","w":"Friedlich","o":["friedlich","Friedlich","friedlig","Friedlig"],"k":"g","tipp":"Regel: Adjektive (Wiewörter) wie 'friedlich' schreibt man klein."},
+  {"r":"Außerirdische","w":"Auserirdische","o":["Außerirdische","Auserirdische","Außerirrdische","Außerirdishe"],"k":"b","tipp":"Regel: Nach langem au schreibt man 'außer' mit ß: au-ßer-irdische."}
+]},
+{"s":3,"satz":"Die Crew schwebt durch die Station, weil dort keine Schwerkraft herrscht.","f":[
+  {"r":"Station,","w":"Station","o":["Station,","Station","Station;","Station."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Schwerkraft","w":"Schwerkratft","o":["Schwerkraft","Schwerkratft","Schwerkrafd","Shwerkraft"],"k":"b","tipp":"Regel: 'Kraft' endet auf ft, die Probe zeigt das t: die Kräfte – Schwer-kraft."},
+  {"r":"keine","w":"Keine","o":["keine","Keine","kaine","Kaine"],"k":"g","tipp":"Regel: Begleiter wie 'keine' schreibt man klein, wenn sie nicht am Satzanfang stehen."}
+]},
+{"s":3,"satz":"Der Komet, der über uns rast, hat einen langen und glühenden Schweif.","f":[
+  {"r":"Komet,","w":"Komet","o":["Komet,","Komet","Komet;","Komet."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'der' wird mit Kommas eingeschlossen: 'Der Komet, der ... rast, hat ...'."},
+  {"r":"glühenden","w":"glüenden","o":["glühenden","glüenden","glühänden","glühenten"],"k":"b","tipp":"Regel: 'glühen' braucht ein Dehnungs-h: glü-hen-den."},
+  {"r":"langen","w":"Langen","o":["langen","Langen","langän","Langän"],"k":"g","tipp":"Regel: Adjektive wie 'lang' schreibt man klein."}
+]},
+{"s":3,"satz":"Die Astronautin trainiert jeden Tag, damit sie im All gesund und stark bleibt.","f":[
+  {"r":"Tag,","w":"Tag","o":["Tag,","Tag","Tag;","Tag."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Astronautin","w":"Astronoutin","o":["Astronautin","Astronoutin","Astranautin","Asdronautin"],"k":"b","tipp":"Regel: 'Astronautin' endet auf '-naut' mit au, wie die staunende Astronautin."},
+  {"r":"gesund","w":"Gesund","o":["gesund","Gesund","gesunt","Gesunt"],"k":"g","tipp":"Regel: Adjektive (Wiewörter) wie 'gesund' schreibt man klein."}
+]},
+{"s":3,"satz":"Bevor die Rakete startet, zünden die Techniker die starken Triebwerke.","f":[
+  {"r":"startet,","w":"startet","o":["startet,","startet","startet;","startet."],"k":"k","tipp":"Regel: Steht der 'bevor'-Satz vorne, folgt danach ein Komma."},
+  {"r":"Techniker","w":"Technieker","o":["Techniker","Technieker","Tecniker","Techniger"],"k":"b","tipp":"Regel: 'Techniker' schreibt man mit ch und kurzem i: Tech-ni-ker."},
+  {"r":"starken","w":"Starken","o":["starken","Starken","starkän","Starkän"],"k":"g","tipp":"Regel: Adjektive wie 'stark' schreibt man klein."}
+]},
+{"s":3,"satz":"Das Teleskop zeigt einen Ring, der den fernen Planeten Saturn umgibt.","f":[
+  {"r":"Ring,","w":"Ring","o":["Ring,","Ring","Ring;","Ring."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'der' wird mit einem Komma eingeleitet: 'einen Ring, der ... umgibt'."},
+  {"r":"Teleskop","w":"Teleskob","o":["Teleskop","Teleskob","Telleskop","Teleschop"],"k":"b","tipp":"Regel: Am Wortende klingt p wie b. Zur Probe: die Teleskope – also mit p."},
+  {"r":"fernen","w":"Fernen","o":["fernen","Fernen","färnen","Färnen"],"k":"g","tipp":"Regel: Adjektive (Wiewörter) wie 'fern' schreibt man klein."}
+]}
+]

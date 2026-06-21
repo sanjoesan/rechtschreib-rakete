@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Auf dem bunten Markt verkauft der freundliche Händler seine süßen Honigkuchen ganz frisch.","f":[
+  {"r":"freundliche","w":"froindliche","o":["freundliche","froindliche","freundlieche","fröindliche"],"k":"b","tipp":"Merksatz: 'freundlich' schreibt man mit eu wie in 'Freund'."},
+  {"r":"Händler","w":"Hendler","o":["Händler","Hendler","Händlär","Händtler"],"k":"b","tipp":"Merksatz: 'Händler' kommt von 'Handel' und wird mit ä geschrieben."},
+  {"r":"Honigkuchen","w":"Honichkuchen","o":["Honigkuchen","Honichkuchen","Honigkuhchen","Honnigkuchen"],"k":"b","tipp":"Merksatz: 'Honig' endet auf g – Probe: die Honige, der Honig."}
+]},
+{"s":1,"satz":"Der lustige Gaukler jongliert mit bunten Bällen vor der staunenden Menge am Brunnen.","f":[
+  {"r":"Gaukler","w":"Gaokler","o":["Gaukler","Gaokler","Gauklär","Gauckler"],"k":"b","tipp":"Merksatz: 'Gaukler' schreibt man mit au wie in 'gaukeln'."},
+  {"r":"jongliert","w":"jonglirt","o":["jongliert","jonglirt","schongliert","jongliährt"],"k":"b","tipp":"Merksatz: 'jonglieren' schreibt man mit ie: jong-lie-ren."},
+  {"r":"staunenden","w":"staonenden","o":["staunenden","staonenden","schtaunenden","staunänden"],"k":"b","tipp":"Merksatz: 'staunen' schreibt man mit au wie in 'Staunen'."}
+]},
+{"s":1,"satz":"Das hübsche Burgfräulein winkt von dem hohen Turm den vorbeireitenden Rittern fröhlich zu.","f":[
+  {"r":"hübsche","w":"hüpsche","o":["hübsche","hüpsche","hübshe","hübbsche"],"k":"b","tipp":"Merksatz: 'hübsch' schreibt man mit b – Probe: die hübschen Blumen."},
+  {"r":"Burgfräulein","w":"Burgfreulein","o":["Burgfräulein","Burgfreulein","Burchfräulein","Burgfräulain"],"k":"b","tipp":"Merksatz: 'Fräulein' schreibt man mit äu wie in 'Frau'."},
+  {"r":"vorbeireitenden","w":"forbeireitenden","o":["vorbeireitenden","forbeireitenden","vorbeyreitenden","vorbeireitänden"],"k":"b","tipp":"Merksatz: 'vor-' schreibt man immer mit v wie in 'vorbei'."}
+]},
+{"s":1,"satz":"In der heißen Schmiede hämmert der kräftige Schmied das glühende Eisen zu einem Hufeisen.","f":[
+  {"r":"Schmiede","w":"Schmide","o":["Schmiede","Schmide","Shmiede","Schmieede"],"k":"b","tipp":"Merksatz: 'Schmiede' schreibt man mit ie: Schmie-de."},
+  {"r":"kräftige","w":"kreftige","o":["kräftige","kreftige","kräftieche","krähftige"],"k":"b","tipp":"Merksatz: 'kräftig' kommt von 'Kraft' und wird mit ä geschrieben."},
+  {"r":"glühende","w":"glüende","o":["glühende","glüende","glühänd","glühennde"],"k":"b","tipp":"Merksatz: 'glühen' hat ein Dehnungs-h: glü-hen."}
+]},
+{"s":1,"satz":"Auf dem großen Turnier reiten die mutigen Ritter mit langen Lanzen über den Sandplatz.","f":[
+  {"r":"Turnier","w":"Turnir","o":["Turnier","Turnir","Turniehr","Durnier"],"k":"b","tipp":"Merksatz: Das Turnier endet auf '-nier' mit ie: Tur-nier."},
+  {"r":"mutigen","w":"muhtigen","o":["mutigen","muhtigen","mutiegen","muddigen"],"k":"b","tipp":"Merksatz: 'mutig' schreibt man ohne h: mu-tig."},
+  {"r":"Lanzen","w":"Lanssen","o":["Lanzen","Lanssen","Lantzen","Lannzen"],"k":"b","tipp":"Merksatz: 'Lanze' schreibt man mit z: Lan-ze, Lan-zen."}
+]},
+{"s":1,"satz":"Der reisende Minnesänger spielt eine schöne Melodie auf seiner alten Laute am Hof.","f":[
+  {"r":"reisende","w":"reissende","o":["reisende","reissende","reysende","reisände"],"k":"b","tipp":"Merksatz: 'reisen' schreibt man mit einem s: rei-sen."},
+  {"r":"Minnesänger","w":"Minesänger","o":["Minnesänger","Minesänger","Minnesenger","Minnesängä"],"k":"b","tipp":"Merksatz: Der Minnesänger hat doppel-n: Min-ne-sän-ger."},
+  {"r":"Melodie","w":"Melodi","o":["Melodie","Melodi","Mellodie","Melohdie"],"k":"b","tipp":"Merksatz: 'Melodie' endet auf ie: Me-lo-die."}
+]},
+{"s":1,"satz":"Hinter der dicken Burgmauer übt der junge Knappe das Fechten mit dem hölzernen Schwert.","f":[
+  {"r":"Burgmauer","w":"Burgmaoer","o":["Burgmauer","Burgmaoer","Burchmauer","Burgmauä"],"k":"b","tipp":"Merksatz: 'Mauer' schreibt man mit au: Burg-mau-er."},
+  {"r":"Knappe","w":"Knape","o":["Knappe","Knape","Gnappe","Knabpe"],"k":"b","tipp":"Merksatz: Der Knappe hat doppel-p: Knap-pe."},
+  {"r":"hölzernen","w":"hölzärnen","o":["hölzernen","hölzärnen","hölternen","hölzernän"],"k":"b","tipp":"Merksatz: 'hölzern' kommt von 'Holz' und endet auf -ern."}
+]},
+{"s":1,"satz":"Die fleißige Magd trägt einen schweren Krug mit frischem Wasser durch den engen Burghof.","f":[
+  {"r":"fleißige","w":"fleisige","o":["fleißige","fleisige","fleißiege","fleißigge"],"k":"b","tipp":"Merksatz: 'fleißig' schreibt man mit ß nach dem langen ei."},
+  {"r":"schweren","w":"shweren","o":["schweren","shweren","schwehren","schwerän"],"k":"b","tipp":"Merksatz: 'schwer' beginnt mit sch: schwe-ren."},
+  {"r":"Wasser","w":"Waser","o":["Wasser","Waser","Wassser","Wasßer"],"k":"b","tipp":"Merksatz: Nach kurzem a steht doppel-s: Was-ser."}
+]},
+{"s":1,"satz":"Beim fröhlichen Fest tanzen die bunten Gaukler und werfen brennende Fackeln in die Luft.","f":[
+  {"r":"fröhlichen","w":"frölichen","o":["fröhlichen","frölichen","fröhliechen","fröhlichän"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h nach dem ö: fröh-lich."},
+  {"r":"Gaukler","w":"Gaokler","o":["Gaukler","Gaokler","Gauklär","Gauckler"],"k":"b","tipp":"Merksatz: 'Gaukler' schreibt man mit au wie in 'gaukeln'."},
+  {"r":"brennende","w":"brenende","o":["brennende","brenende","brännende","brennänd"],"k":"b","tipp":"Merksatz: Nach kurzem e steht doppel-n: bren-nen."}
+]},
+{"s":1,"satz":"Der weise König sitzt auf seinem goldenen Thron und berät sich mit seinen klugen Rittern.","f":[
+  {"r":"König","w":"Könich","o":["König","Könich","Köhnig","Könnig"],"k":"b","tipp":"Merksatz: 'König' endet auf g – Probe: die Könige, der König."},
+  {"r":"goldenen","w":"goldänen","o":["goldenen","goldänen","golldenen","goldenän"],"k":"b","tipp":"Merksatz: 'golden' kommt von 'Gold' und wird mit e geschrieben."},
+  {"r":"Thron","w":"Tron","o":["Thron","Tron","Throhn","Thronn"],"k":"b","tipp":"Merksatz: Der Thron schreibt sich mit Th: Th-ron."}
+]},
+{"s":1,"satz":"Am vollen Marktstand riecht der kleine Bäcker an seinen knusprigen Brezeln und lächelt zufrieden.","f":[
+  {"r":"Marktstand","w":"Marktschtand","o":["Marktstand","Marktschtand","Markschtand","Marktstandt"],"k":"b","tipp":"Merksatz: 'Stand' schreibt man mit St, auch wenn man Scht spricht."},
+  {"r":"Bäcker","w":"Becker","o":["Bäcker","Becker","Bäkker","Bäckä"],"k":"b","tipp":"Merksatz: 'Bäcker' kommt von 'backen' und wird mit ä geschrieben."},
+  {"r":"knusprigen","w":"knusperigen","o":["knusprigen","knusperigen","gnusprigen","knuschprigen"],"k":"b","tipp":"Merksatz: 'knusprig' schreibt man ohne e in der Mitte: knus-prig."}
+]},
+{"s":1,"satz":"Vor dem hohen Burgtor steht der wachsame Wächter und beobachtet die staubige Landstraße genau.","f":[
+  {"r":"wachsame","w":"waxame","o":["wachsame","waxame","wachsamme","wachzame"],"k":"b","tipp":"Merksatz: 'wachsam' kommt von 'wachen' und wird mit chs geschrieben."},
+  {"r":"beobachtet","w":"beopachtet","o":["beobachtet","beopachtet","beobachdet","beobbachtet"],"k":"b","tipp":"Merksatz: 'beobachten' hat zwei o hintereinander: be-ob-ach-ten."},
+  {"r":"staubige","w":"staobige","o":["staubige","staobige","schtaubige","staubiege"],"k":"b","tipp":"Merksatz: 'Staub' schreibt man mit au wie in 'Staub'."}
+]},
+{"s":2,"satz":"Am Morgen öffnet der freundliche Markt seine Tore und die Händler rufen laut.","f":[
+  {"r":"Markt","w":"markt","o":["Markt","markt","Marckt","Marktt"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Markt' steht mit dem Begleiter 'der'."},
+  {"r":"öffnet","w":"Öffnet","o":["öffnet","Öffnet","öfnet","öffned"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'öffnen' schreibt man klein."},
+  {"r":"freundliche","w":"froindliche","o":["freundliche","froindliche","freundlieche","fröindliche"],"k":"b","tipp":"Regel: 'freundlich' schreibt man mit eu wie in 'Freund'."}
+]},
+{"s":2,"satz":"Der lustige Gaukler tanzt über den Platz und wirft seine bunten Keulen hoch.","f":[
+  {"r":"Gaukler","w":"gaukler","o":["Gaukler","gaukler","Gaokler","Gauklär"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Gaukler' steht mit dem Begleiter 'der'."},
+  {"r":"tanzt","w":"Tanzt","o":["tanzt","Tanzt","tantzt","tanzd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'tanzen' schreibt man klein."},
+  {"r":"bunten","w":"buhnten","o":["bunten","buhnten","puntten","bundten"],"k":"b","tipp":"Regel: 'bunt' schreibt man ohne h: bun-ten."}
+]},
+{"s":2,"satz":"Das junge Burgfräulein pflückt im Garten frische Rosen für die festliche Tafel.","f":[
+  {"r":"Burgfräulein","w":"burgfräulein","o":["Burgfräulein","burgfräulein","Burgfreulein","Burchfräulein"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Burgfräulein' steht mit dem Begleiter 'das'."},
+  {"r":"pflückt","w":"Pflückt","o":["pflückt","Pflückt","pflükt","pflückd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'pflücken' schreibt man klein."},
+  {"r":"festliche","w":"fesstliche","o":["festliche","fesstliche","fästliche","feschtliche"],"k":"b","tipp":"Regel: 'festlich' kommt von 'Fest' und wird mit st geschrieben."}
+]},
+{"s":2,"satz":"In der Werkstatt schmiedet der starke Schmied ein neues Schwert für den Ritter.","f":[
+  {"r":"Schmied","w":"schmied","o":["Schmied","schmied","Shmied","Schmiedt"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Schmied' steht mit dem Begleiter 'der'."},
+  {"r":"schmiedet","w":"Schmiedet","o":["schmiedet","Schmiedet","schmidet","schmiededt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schmieden' schreibt man klein."},
+  {"r":"neues","w":"noies","o":["neues","noies","neuäs","neuess"],"k":"b","tipp":"Regel: 'neu' schreibt man mit eu: neu-es."}
+]},
+{"s":2,"satz":"Beim großen Turnier jubelt das fröhliche Volk dem siegreichen Ritter laut zu.","f":[
+  {"r":"Turnier","w":"turnier","o":["Turnier","turnier","Turnir","Turniehr"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Turnier' steht mit dem Begleiter 'das'."},
+  {"r":"jubelt","w":"Jubelt","o":["jubelt","Jubelt","jupelt","jubeld"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'jubeln' schreibt man klein."},
+  {"r":"siegreichen","w":"sigreichen","o":["siegreichen","sigreichen","siegreychen","siegreichän"],"k":"b","tipp":"Regel: 'Sieg' schreibt man mit ie: sieg-reich."}
+]},
+{"s":2,"satz":"Am Abend singt der begabte Minnesänger ein süßes Lied über die schöne Prinzessin am Hof.","f":[
+  {"r":"Minnesänger","w":"minnesänger","o":["Minnesänger","minnesänger","Minesänger","Minnesenger"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Minnesänger' steht mit dem Begleiter 'der'."},
+  {"r":"singt","w":"Singt","o":["singt","Singt","sinkt","singd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'singen' schreibt man klein."},
+  {"r":"Prinzessin","w":"Prinzesin","o":["Prinzessin","Prinzesin","Prinzässin","Printzessin"],"k":"b","tipp":"Regel: Nach kurzem e steht doppel-s: Prin-zes-sin."}
+]},
+{"s":2,"satz":"Die kluge Heilerin sammelt im Wald Kräuter und kocht einen heilsamen Trank.","f":[
+  {"r":"Heilerin","w":"heilerin","o":["Heilerin","heilerin","Heylerin","Heilährin"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Heilerin' steht mit dem Begleiter 'die'."},
+  {"r":"sammelt","w":"Sammelt","o":["sammelt","Sammelt","samelt","sammeld"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'sammeln' schreibt man klein."},
+  {"r":"heilsamen","w":"heylsamen","o":["heilsamen","heylsamen","heilsammen","heilsamän"],"k":"b","tipp":"Regel: 'heil' schreibt man mit ei: heil-sam."}
+]},
+{"s":2,"satz":"Auf der Wiese übt der junge Knappe das Reiten und fällt fast vom Pferd herunter.","f":[
+  {"r":"Knappe","w":"knappe","o":["Knappe","knappe","Knape","Gnappe"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Knappe' steht mit dem Begleiter 'der'."},
+  {"r":"übt","w":"Übt","o":["übt","Übt","übht","übd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'üben' schreibt man klein."},
+  {"r":"Pferd","w":"Pfert","o":["Pferd","Pfert","Ferd","Pferdt"],"k":"b","tipp":"Regel: Das Pferd endet auf d – Probe: die Pferde, das Pferd."}
+]},
+{"s":2,"satz":"Im dunklen Verlies sitzt der traurige Narr und denkt an die warme Sonne draußen.","f":[
+  {"r":"Verlies","w":"verlies","o":["Verlies","verlies","Verließ","Ferlies"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Verlies' steht mit dem Begleiter 'das'."},
+  {"r":"denkt","w":"Denkt","o":["denkt","Denkt","denckt","denkd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'denken' schreibt man klein."},
+  {"r":"Sonne","w":"Sone","o":["Sonne","Sone","Sonnä","Sonnne"],"k":"b","tipp":"Regel: Nach kurzem o steht doppel-n: Son-ne."}
+]},
+{"s":2,"satz":"Die geschickte Weberin webt einen prächtigen Teppich für den großen Saal der Burg.","f":[
+  {"r":"Weberin","w":"weberin","o":["Weberin","weberin","Webärin","Weeberin"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Weberin' steht mit dem Begleiter 'die'."},
+  {"r":"webt","w":"Webt","o":["webt","Webt","wept","webd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'weben' schreibt man klein."},
+  {"r":"prächtigen","w":"prechtigen","o":["prächtigen","prechtigen","prächtiegen","brächtigen"],"k":"b","tipp":"Regel: 'prächtig' kommt von 'Pracht' und wird mit ä geschrieben."}
+]},
+{"s":2,"satz":"Vor dem Tor wartet der reiche Kaufmann mit seinen vollen Wagen auf den Einlass.","f":[
+  {"r":"Kaufmann","w":"kaufmann","o":["Kaufmann","kaufmann","Kaofmann","Kaufman"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Kaufmann' steht mit dem Begleiter 'der'."},
+  {"r":"wartet","w":"Wartet","o":["wartet","Wartet","wardet","warttet"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'warten' schreibt man klein."},
+  {"r":"vollen","w":"follen","o":["vollen","follen","volen","vollän"],"k":"b","tipp":"Regel: 'voll' schreibt man mit v und doppel-l: vol-len."}
+]},
+{"s":2,"satz":"Beim bunten Fest staunt die ganze Stadt über die mutige Feuerschluckerin am Brunnen.","f":[
+  {"r":"Stadt","w":"stadt","o":["Stadt","stadt","Statt","Schtadt"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Stadt' steht mit dem Begleiter 'die'."},
+  {"r":"staunt","w":"Staunt","o":["staunt","Staunt","staont","staund"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'staunen' schreibt man klein."},
+  {"r":"mutige","w":"muhtige","o":["mutige","muhtige","mutiege","muddige"],"k":"b","tipp":"Regel: 'mutig' schreibt man ohne h: mu-tig."}
+]},
+{"s":3,"satz":"Der Ritter zieht zum Turnier, weil er den begehrten Siegerpokal gewinnen möchte.","f":[
+  {"r":"Turnier,","w":"Turnier","o":["Turnier,","Turnier","Turnier;","Turnier."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"begehrten","w":"begerten","o":["begehrten","begerten","begährten","begehrtän"],"k":"b","tipp":"Regel: 'begehren' hat ein Dehnungs-h: be-geh-ren."},
+  {"r":"Siegerpokal","w":"siegerpokal","o":["Siegerpokal","siegerpokal","Sigerpokal","Siegerpogal"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Siegerpokal' steht mit dem Begleiter 'der'."}
+]},
+{"s":3,"satz":"Auf dem Markt kauft die Magd Brot, Käse und süße Äpfel für das Fest.","f":[
+  {"r":"Brot,","w":"Brot","o":["Brot,","Brot","Brot;","Brot."],"k":"k","tipp":"Regel: Bei einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"Markt","w":"markt","o":["Markt","markt","Marckt","Marktt"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Markt' steht mit dem Begleiter 'der'."},
+  {"r":"süße","w":"süsse","o":["süße","süsse","süßä","süeße"],"k":"b","tipp":"Regel: 'süß' schreibt man mit ß nach langem ü."}
+]},
+{"s":3,"satz":"Der Gaukler übt jeden Tag, damit er die schwierigen Kunststücke fehlerfrei zeigen kann.","f":[
+  {"r":"Tag,","w":"Tag","o":["Tag,","Tag","Tag;","Tag."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Gaukler","w":"gaukler","o":["Gaukler","gaukler","Gaokler","Gauklär"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Gaukler' steht mit dem Begleiter 'der'."},
+  {"r":"schwierigen","w":"shwierigen","o":["schwierigen","shwierigen","schwieriegen","schwirigen"],"k":"b","tipp":"Regel: 'schwierig' schreibt man mit sch und ie: schwie-rig."}
+]},
+{"s":3,"satz":"Der Schmied legt das Eisen ins Feuer, bevor er es kräftig auf den Amboss schlägt.","f":[
+  {"r":"Feuer,","w":"Feuer","o":["Feuer,","Feuer","Feuer;","Feuer."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bevor' steht ein Komma."},
+  {"r":"Schmied","w":"schmied","o":["Schmied","schmied","Shmied","Schmiedt"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Schmied' steht mit dem Begleiter 'der'."},
+  {"r":"kräftig","w":"kreftig","o":["kräftig","kreftig","kräftich","krähftig"],"k":"b","tipp":"Regel: 'kräftig' kommt von 'Kraft' und wird mit ä geschrieben."}
+]},
+{"s":3,"satz":"Das Burgfräulein winkt vom Turm, wenn die müden Ritter vom Turnier heimkehren.","f":[
+  {"r":"Turm,","w":"Turm","o":["Turm,","Turm","Turm;","Turm."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"Burgfräulein","w":"burgfräulein","o":["Burgfräulein","burgfräulein","Burgfreulein","Burchfräulein"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'das Burgfräulein' steht mit dem Begleiter 'das'."},
+  {"r":"müden","w":"mühden","o":["müden","mühden","müeden","mütten"],"k":"b","tipp":"Regel: 'müde' schreibt man ohne h: mü-den."}
+]},
+{"s":3,"satz":"Der Minnesänger stimmt seine Laute, obwohl der laute Lärm im Saal ihn stört.","f":[
+  {"r":"Laute,","w":"Laute","o":["Laute,","Laute","Laute;","Laute."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Minnesänger","w":"minnesänger","o":["Minnesänger","minnesänger","Minesänger","Minnesenger"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Minnesänger' steht mit dem Begleiter 'der'."},
+  {"r":"Lärm","w":"Lerm","o":["Lärm","Lerm","Lährm","Lärmm"],"k":"b","tipp":"Regel: 'Lärm' schreibt man mit ä: Lärm."}
+]},
+{"s":3,"satz":"Die Köchin bereitet einen großen Braten zu, weil der König heute viele Gäste hat.","f":[
+  {"r":"zu,","w":"zu","o":["zu,","zu","zu;","zu."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Köchin","w":"köchin","o":["Köchin","köchin","Köhchin","Köchinn"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Köchin' steht mit dem Begleiter 'die'."},
+  {"r":"großen","w":"grosen","o":["großen","grosen","großän","grohßen"],"k":"b","tipp":"Regel: 'groß' schreibt man mit ß nach langem o."}
+]},
+{"s":3,"satz":"Der Ritter putzt die Rüstung, die der treue Knappe ihm am Morgen gebracht hat.","f":[
+  {"r":"Rüstung,","w":"Rüstung","o":["Rüstung,","Rüstung","Rüstung;","Rüstung."],"k":"k","tipp":"Regel: Vor einem Relativsatz mit 'die' steht ein Komma."},
+  {"r":"treue","w":"Treue","o":["treue","Treue","troie","treuhe"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'treu' schreibt man klein."},
+  {"r":"Knappe","w":"Knape","o":["Knappe","Knape","Gnappe","Knabpe"],"k":"b","tipp":"Regel: Der Knappe hat doppel-p: Knap-pe."}
+]},
+{"s":3,"satz":"Auf dem Markt feilscht der Händler laut, weil ihm der Preis viel zu hoch ist.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Händler","w":"händler","o":["Händler","händler","Hendler","Händlär"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Händler' steht mit dem Begleiter 'der'."},
+  {"r":"feilscht","w":"feylscht","o":["feilscht","feylscht","feilschd","feischlt"],"k":"b","tipp":"Regel: 'feilschen' schreibt man mit ei: feil-schen."}
+]},
+{"s":3,"satz":"Die Kinder rennen zum Brunnen, sobald der lustige Gaukler seine Späße zeigen will.","f":[
+  {"r":"Brunnen,","w":"Brunnen","o":["Brunnen,","Brunnen","Brunnen;","Brunnen."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+  {"r":"Kinder","w":"kinder","o":["Kinder","kinder","Kindä","Kindter"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Kinder' steht mit dem Begleiter 'die'."},
+  {"r":"lustige","w":"lusstige","o":["lustige","lusstige","lustiege","lusdige"],"k":"b","tipp":"Regel: 'lustig' schreibt man mit einem s: lus-tig."}
+]},
+{"s":3,"satz":"Der König lädt das Volk zum Fest, damit alle den frohen Tag gemeinsam feiern.","f":[
+  {"r":"Fest,","w":"Fest","o":["Fest,","Fest","Fest;","Fest."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"König","w":"könig","o":["König","könig","Könich","Köhnig"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der König' steht mit dem Begleiter 'der'."},
+  {"r":"frohen","w":"froen","o":["frohen","froen","frohnen","frohenn"],"k":"b","tipp":"Regel: 'froh' hat ein Dehnungs-h: fro-hen."}
+]},
+{"s":3,"satz":"Die Magd deckt den Tisch mit Tellern, Bechern und Krügen für das große Festmahl.","f":[
+  {"r":"Tellern,","w":"Tellern","o":["Tellern,","Tellern","Tellern;","Tellern."],"k":"k","tipp":"Regel: Bei einer Aufzählung steht ein Komma zwischen den Gliedern."},
+  {"r":"Magd","w":"magd","o":["Magd","magd","Makd","Magdt"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'die Magd' steht mit dem Begleiter 'die'."},
+  {"r":"Bechern","w":"Beschern","o":["Bechern","Beschern","Bächern","Bechärn"],"k":"b","tipp":"Regel: 'Becher' schreibt man mit ch: Be-cher."}
+]}
+]

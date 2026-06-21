@@ -1,0 +1,182 @@
+[
+ {"s":1,"satz":"Das silberne Raumschiff fliegt blitzschnell durch die ferne Galaxie.","f":[
+  {"r":"Raumschiff","w":"Raumschif","o":["Raumschiff","Raumschif","Raumschieff","Raumshiff"],"k":"b","tipp":"Merksatz: 'Schiff' braucht doppel-f: Schi-ff."},
+  {"r":"blitzschnell","w":"blitschnell","o":["blitzschnell","blitschnell","blitzsnell","blizschnell"],"k":"b","tipp":"Merksatz: Nach kurzem Vokal steht tz: Bli-tz-schnell."},
+  {"r":"ferne","w":"färne","o":["ferne","färne","fernne","ferrne"],"k":"b","tipp":"Merksatz: 'ferne' schreibt man mit hellem e."}
+ ]},
+ {"s":1,"satz":"Der grüne Außerirdische steuert seinen Teleporter ganz vorsichtig durchs All.","f":[
+  {"r":"Außerirdische","w":"Auserirdische","o":["Außerirdische","Auserirdische","Außerirdiesche","Außerirrdische"],"k":"b","tipp":"Merksatz: Nach langem au steht oft ß: Au-ß-er."},
+  {"r":"steuert","w":"steiert","o":["steuert","steiert","steuerd","schteuert"],"k":"b","tipp":"Merksatz: 'steuert' kommt von 'Steuer' mit eu."},
+  {"r":"vorsichtig","w":"forsichtig","o":["vorsichtig","forsichtig","vorsichdig","vorsichtieg"],"k":"b","tipp":"Merksatz: 'vor-' schreibt man immer mit v wie in 'Vorsicht'."}
+ ]},
+ {"s":1,"satz":"Ein greller Laser zischt knapp an dem mutigen Roboter vorbei.","f":[
+  {"r":"greller","w":"greler","o":["greller","greler","grellär","grreller"],"k":"b","tipp":"Merksatz: 'grell' braucht doppel-l."},
+  {"r":"zischt","w":"zicht","o":["zischt","zicht","zischd","tzischt"],"k":"b","tipp":"Merksatz: 'zischt' schreibt man mit sch wie das Geräusch klingt."},
+  {"r":"mutigen","w":"muthigen","o":["mutigen","muthigen","mutiegen","muttigen"],"k":"b","tipp":"Merksatz: 'mutig' kommt von 'Mut' ganz ohne h."}
+ ]},
+ {"s":1,"satz":"Die kleine Weltraumstation kreist gemütlich über dem blauen Planeten.","f":[
+  {"r":"Weltraumstation","w":"Weltraumschtation","o":["Weltraumstation","Weltraumschtation","Weltraumstazion","Weltraumstaation"],"k":"b","tipp":"Merksatz: 'Station' beginnt mit st, auch wenn es scht klingt."},
+  {"r":"kreist","w":"kraist","o":["kreist","kraist","kreisd","kreißt"],"k":"b","tipp":"Merksatz: 'kreist' kommt von 'Kreis' mit ei."},
+  {"r":"gemütlich","w":"gemütlig","o":["gemütlich","gemütlig","gemüthlich","gemütliech"],"k":"b","tipp":"Merksatz: 'gemütlich' endet auf lich wie 'fröhlich'."}
+ ]},
+ {"s":1,"satz":"Der freche Roboter quietscht laut und sucht überall seine Schraube im Schrank.","f":[
+  {"r":"Roboter","w":"Robotter","o":["Roboter","Robotter","Roboder","Robotär"],"k":"b","tipp":"Merksatz: 'Roboter' hat nur ein t in der Mitte."},
+  {"r":"quietscht","w":"quitscht","o":["quietscht","quitscht","kvietscht","quietschd"],"k":"b","tipp":"Merksatz: 'quietscht' beginnt mit qu und hat ie."},
+  {"r":"Schraube","w":"Schraupe","o":["Schraube","Schraupe","Schrauube","Schraubbe"],"k":"b","tipp":"Merksatz: 'Schraube' endet auf be, denn man sagt 'die Schrauben'."}
+ ]},
+ {"s":1,"satz":"Mit dem Teleporter springt der Kapitän plötzlich in eine andere Welt.","f":[
+  {"r":"Teleporter","w":"Telleporter","o":["Teleporter","Telleporter","Teleportär","Teleportter"],"k":"b","tipp":"Merksatz: 'Teleporter' schreibt man mit nur einem l."},
+  {"r":"Kapitän","w":"Kapitehn","o":["Kapitän","Kapitehn","Kappitän","Kapitähn"],"k":"b","tipp":"Merksatz: 'Kapitän' endet auf än, nicht auf ehn."},
+  {"r":"plötzlich","w":"plözlich","o":["plötzlich","plözlich","plötzlig","plötzliech"],"k":"b","tipp":"Merksatz: 'plötzlich' hat tz nach kurzem ö."}
+ ]},
+ {"s":1,"satz":"Die mutige Pilotin steuert ihr Raumschiff durch ein wildes Asteroidenfeld hindurch.","f":[
+  {"r":"Pilotin","w":"Pillotin","o":["Pilotin","Pillotin","Pilottin","Pielotin"],"k":"b","tipp":"Merksatz: 'Pilotin' hat nur ein l und ein t."},
+  {"r":"wildes","w":"wieldes","o":["wildes","wieldes","wildäs","willdes"],"k":"b","tipp":"Merksatz: 'wild' hat ein kurzes i, also kein ie."},
+  {"r":"Asteroidenfeld","w":"Astaroidenfeld","o":["Asteroidenfeld","Astaroidenfeld","Asteroidänfeld","Asteroiddenfeld"],"k":"b","tipp":"Merksatz: 'Asteroid' schreibt man mit oid und Feld mit f."}
+ ]},
+ {"s":1,"satz":"Der seltsame Zeitreisende verschwindet kichernd in seiner glänzenden Maschine.","f":[
+  {"r":"seltsame","w":"selzame","o":["seltsame","selzame","seltßame","seltsamme"],"k":"b","tipp":"Merksatz: 'seltsam' hat in der Mitte ts: sel-ts-am."},
+  {"r":"verschwindet","w":"ferschwindet","o":["verschwindet","ferschwindet","verschwiendet","verschwindät"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v wie 'verstecken'."},
+  {"r":"glänzenden","w":"glenzenden","o":["glänzenden","glenzenden","glänßenden","glänzännden"],"k":"b","tipp":"Merksatz: 'glänzend' kommt von 'Glanz', darum mit ä und z."}
+ ]},
+ {"s":1,"satz":"Im fernen Weltall blinken an der Raumstation viele bunte Lichter.","f":[
+  {"r":"fernen","w":"färnen","o":["fernen","färnen","fernnen","ferrnen"],"k":"b","tipp":"Merksatz: 'fern' schreibt man mit hellem e."},
+  {"r":"blinken","w":"blienken","o":["blinken","blienken","blincken","blinkken"],"k":"b","tipp":"Merksatz: 'blinken' hat ein kurzes i, also kein ie."},
+  {"r":"Raumstation","w":"Raumschtation","o":["Raumstation","Raumschtation","Raumstazion","Raumstaation"],"k":"b","tipp":"Merksatz: 'Station' beginnt mit st, auch wenn es scht klingt."}
+ ]},
+ {"s":1,"satz":"Der tapfere Astronaut isst im Raumschiff seine schwebende Suppe.","f":[
+  {"r":"tapfere","w":"tapffere","o":["tapfere","tapffere","tappfere","tapferre"],"k":"b","tipp":"Merksatz: 'tapfer' schreibt man mit pf wie in 'Pferd'."},
+  {"r":"Astronaut","w":"Astronaud","o":["Astronaut","Astronaud","Astranaut","Astronaaut"],"k":"b","tipp":"Merksatz: 'Astronaut' endet auf naut mit t."},
+  {"r":"schwebende","w":"schwäbende","o":["schwebende","schwäbende","schwebänden","schweebende"],"k":"b","tipp":"Merksatz: 'schweben' schreibt man mit hellem e."}
+ ]},
+ {"s":1,"satz":"Eine ferne Galaxie funkelt geheimnisvoll am Nachthimmel über uns.","f":[
+  {"r":"Galaxie","w":"Galaksie","o":["Galaxie","Galaksie","Galaxieh","Gallaxie"],"k":"b","tipp":"Merksatz: 'Galaxie' schreibt man mit x, nicht mit ks."},
+  {"r":"geheimnisvoll","w":"geheimnisfoll","o":["geheimnisvoll","geheimnisfoll","geheimnissvoll","geheimnisvol"],"k":"b","tipp":"Merksatz: 'voll' schreibt man mit v und doppel-l."},
+  {"r":"Nachthimmel","w":"Nachthimel","o":["Nachthimmel","Nachthimel","Nachdhimmel","Nachthimmmel"],"k":"b","tipp":"Merksatz: 'Himmel' braucht doppel-m: Him-mel."}
+ ]},
+ {"s":1,"satz":"Der lustige Roboter winkt fröhlich mit seinen blinkenden Armen.","f":[
+  {"r":"lustige","w":"luschtige","o":["lustige","luschtige","lustiege","lusttige"],"k":"b","tipp":"Merksatz: 'lustig' beginnt mit lu und hat st."},
+  {"r":"fröhlich","w":"frölich","o":["fröhlich","frölich","fröhlig","fröhliech"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h: frö-h-lich."},
+  {"r":"blinkenden","w":"blienkenden","o":["blinkenden","blienkenden","blinckenden","blinkändenden"],"k":"b","tipp":"Merksatz: 'blinken' hat ein kurzes i, also kein ie."}
+ ]},
+ {"s":2,"satz":"Am Morgen startet das große Raumschiff zu einer neuen Reise.","f":[
+  {"r":"Raumschiff","w":"raumschiff","o":["Raumschiff","raumschiff","Raumschif","Raumshiff"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'das Raumschiff'."},
+  {"r":"startet","w":"Startet","o":["startet","Startet","startät","schtartet"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'starten' schreibt man klein."},
+  {"r":"neuen","w":"neien","o":["neuen","neien","neuän","neuuen"],"k":"b","tipp":"Regel: 'neu' schreibt man mit eu."}
+ ]},
+ {"s":2,"satz":"Der grüne Außerirdische winkt aus seinem runden Fenster ganz freundlich.","f":[
+  {"r":"Außerirdische","w":"außerirdische","o":["Außerirdische","außerirdische","Auserirdische","Außerirrdische"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Außerirdische'."},
+  {"r":"winkt","w":"Winkt","o":["winkt","Winkt","winckt","winkd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'winken' schreibt man klein."},
+  {"r":"Fenster","w":"Fennster","o":["Fenster","Fennster","Fenstär","Fensder"],"k":"b","tipp":"Regel: 'Fenster' schreibt man mit nur einem n."}
+ ]},
+ {"s":2,"satz":"Heute repariert die Pilotin den kaputten Teleporter im Maschinenraum.","f":[
+  {"r":"Pilotin","w":"pilotin","o":["Pilotin","pilotin","Pillotin","Pilottin"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Pilotin'."},
+  {"r":"repariert","w":"Repariert","o":["repariert","Repariert","rapariert","repariärt"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'reparieren' schreibt man klein."},
+  {"r":"kaputten","w":"kaputen","o":["kaputten","kaputen","kapputten","kaputtän"],"k":"b","tipp":"Regel: 'kaputt' braucht doppel-t am Ende."}
+ ]},
+ {"s":2,"satz":"Der schnelle Laser trifft mitten in das wackelige Ziel.","f":[
+  {"r":"Laser","w":"laser","o":["Laser","laser","Lasär","Lazer"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Laser'."},
+  {"r":"schnelle","w":"Schnelle","o":["schnelle","Schnelle","schnele","schnälle"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'schnell' schreibt man klein."},
+  {"r":"wackelige","w":"wakelige","o":["wackelige","wakelige","wackeliege","wackellige"],"k":"b","tipp":"Regel: Nach kurzem a steht ck: wa-ck-elig."}
+ ]},
+ {"s":2,"satz":"Im Weltall schwebt die kleine Station ruhig über dem Mond.","f":[
+  {"r":"Station","w":"station","o":["Station","station","Schtation","Stazion"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Station'."},
+  {"r":"schwebt","w":"Schwebt","o":["schwebt","Schwebt","schwäbt","schwebd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'schweben' schreibt man klein."},
+  {"r":"ruhig","w":"ruig","o":["ruhig","ruig","ruhieg","ruhigg"],"k":"b","tipp":"Regel: 'ruhig' hat ein Dehnungs-h: ru-h-ig."}
+ ]},
+ {"s":2,"satz":"Ein mutiger Roboter erforscht die dunkle Höhle auf dem Asteroiden.","f":[
+  {"r":"Roboter","w":"roboter","o":["Roboter","roboter","Robotter","Roboder"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Roboter'."},
+  {"r":"mutiger","w":"Mutiger","o":["mutiger","Mutiger","muthiger","muttiger"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'mutig' schreibt man klein."},
+  {"r":"erforscht","w":"erforschd","o":["erforscht","erforschd","ervorscht","erforrscht"],"k":"b","tipp":"Regel: 'erforscht' endet auf scht mit t."}
+ ]},
+ {"s":2,"satz":"Die Zeitreise bringt den Forscher in eine ganz fremde Zukunft.","f":[
+  {"r":"Zeitreise","w":"zeitreise","o":["Zeitreise","zeitreise","Zeitraise","Zeidreise"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Zeitreise'."},
+  {"r":"bringt","w":"Bringt","o":["bringt","Bringt","brinkt","bringd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'bringen' schreibt man klein."},
+  {"r":"fremde","w":"främde","o":["fremde","främde","fremmde","fremdte"],"k":"b","tipp":"Regel: 'fremd' schreibt man mit hellem e."}
+ ]},
+ {"s":2,"satz":"Am Himmel leuchtet die ferne Galaxie über unserem schlafenden Dorf.","f":[
+  {"r":"Galaxie","w":"galaxie","o":["Galaxie","galaxie","Galaksie","Gallaxie"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Galaxie'."},
+  {"r":"leuchtet","w":"Leuchtet","o":["leuchtet","Leuchtet","leichtet","leuchdet"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'leuchten' schreibt man klein."},
+  {"r":"schlafenden","w":"schlaffenden","o":["schlafenden","schlaffenden","schlaffänden","schlavenden"],"k":"b","tipp":"Regel: 'schlafen' schreibt man mit nur einem f."}
+ ]},
+ {"s":2,"satz":"Der freche Teleporter beamt die Crew aus Versehen ins Vergangene.","f":[
+  {"r":"Teleporter","w":"teleporter","o":["Teleporter","teleporter","Telleporter","Teleportter"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Teleporter'."},
+  {"r":"freche","w":"Freche","o":["freche","Freche","fräche","frechche"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'frech' schreibt man klein."},
+  {"r":"Versehen","w":"Verßehen","o":["Versehen","Verßehen","Fersehen","Versehän"],"k":"b","tipp":"Regel: 'Versehen' beginnt mit ver und hat ein s."}
+ ]},
+ {"s":2,"satz":"Die helle Station sendet ein leises Signal zur fernen Erde.","f":[
+  {"r":"Signal","w":"signal","o":["Signal","signal","Sicknal","Signall"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'das Signal'."},
+  {"r":"sendet","w":"Sendet","o":["sendet","Sendet","sändet","sendät"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'senden' schreibt man klein."},
+  {"r":"leises","w":"laises","o":["leises","laises","leisäs","leißes"],"k":"b","tipp":"Regel: 'leise' schreibt man mit ei."}
+ ]},
+ {"s":2,"satz":"Plötzlich öffnet der Pilot das schwere Tor zur fremden Galaxie.","f":[
+  {"r":"Pilot","w":"pilot","o":["Pilot","pilot","Pillot","Pielot"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Pilot'."},
+  {"r":"öffnet","w":"Öffnet","o":["öffnet","Öffnet","öfnet","öffnät"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'öffnen' schreibt man klein."},
+  {"r":"schwere","w":"schwäre","o":["schwere","schwäre","schwehre","schwerre"],"k":"b","tipp":"Regel: 'schwere' schreibt man mit hellem e ohne h."}
+ ]},
+ {"s":2,"satz":"Der kleine Roboter putzt fleißig die staubigen Sterne am Cockpit.","f":[
+  {"r":"Roboter","w":"roboter","o":["Roboter","roboter","Robotter","Roboder"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Roboter'."},
+  {"r":"putzt","w":"Putzt","o":["putzt","Putzt","putst","putzd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'putzen' schreibt man klein."},
+  {"r":"staubigen","w":"schtaubigen","o":["staubigen","schtaubigen","stauubigen","staubiegen"],"k":"b","tipp":"Regel: 'staubig' beginnt mit st, auch wenn es scht klingt."}
+ ]},
+ {"s":3,"satz":"Das Raumschiff bremst stark, weil ein Asteroid im Weg liegt.","f":[
+  {"r":"stark,","w":"stark","o":["stark,","stark","stark;","stark."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Raumschiff","w":"raumschiff","o":["Raumschiff","raumschiff","Raumschif","Raumshiff"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'das Raumschiff'."},
+  {"r":"Asteroid","w":"Asteroied","o":["Asteroid","Asteroied","Astaroid","Asteroidt"],"k":"b","tipp":"Regel: 'Asteroid' schreibt man mit oid am Ende."}
+ ]},
+ {"s":3,"satz":"Der Laser feuert los, sobald der Roboter den roten Knopf drückt und zielt.","f":[
+  {"r":"los,","w":"los","o":["los,","los","los;","los."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+  {"r":"Laser","w":"laser","o":["Laser","laser","Lasär","Lazer"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Laser'."},
+  {"r":"drückt","w":"drükt","o":["drückt","drükt","drücktd","drrückt"],"k":"b","tipp":"Regel: Nach kurzem ü steht ck: drü-ck-t."}
+ ]},
+ {"s":3,"satz":"Die Crew jubelt laut, als das Raumschiff endlich sicher landet.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'als' steht ein Komma."},
+  {"r":"Crew","w":"crew","o":["Crew","crew","Krew","Creww"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, auch 'die Crew'."},
+  {"r":"sicher","w":"siecher","o":["sicher","siecher","sichär","ssicher"],"k":"b","tipp":"Regel: 'sicher' hat ein kurzes i, also kein ie."}
+ ]},
+ {"s":3,"satz":"Der Teleporter funkt komisch, obwohl der Pilot ihn frisch repariert hat.","f":[
+  {"r":"komisch,","w":"komisch","o":["komisch,","komisch","komisch;","komisch."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Teleporter","w":"teleporter","o":["Teleporter","teleporter","Telleporter","Teleportter"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Teleporter'."},
+  {"r":"frisch","w":"frisich","o":["frisch","frisich","frischt","vrisch"],"k":"b","tipp":"Regel: 'frisch' endet auf sch."}
+ ]},
+ {"s":3,"satz":"Die Pilotin fliegt schneller, damit sie die fremde Galaxie erreicht.","f":[
+  {"r":"schneller,","w":"schneller","o":["schneller,","schneller","schneller;","schneller."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Pilotin","w":"pilotin","o":["Pilotin","pilotin","Pillotin","Pilottin"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Pilotin'."},
+  {"r":"Galaxie","w":"Galaksie","o":["Galaxie","Galaksie","Galaxieh","Gallaxie"],"k":"b","tipp":"Regel: 'Galaxie' schreibt man mit x, nicht mit ks."}
+ ]},
+ {"s":3,"satz":"Der Roboter blinkt aufgeregt, weil er ein fremdes Signal empfängt und piept.","f":[
+  {"r":"aufgeregt,","w":"aufgeregt","o":["aufgeregt,","aufgeregt","aufgeregt;","aufgeregt."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Signal","w":"signal","o":["Signal","signal","Sicknal","Signall"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'das Signal'."},
+  {"r":"empfängt","w":"empfengt","o":["empfängt","empfengt","emfängt","empfänkt"],"k":"b","tipp":"Regel: 'empfängt' kommt von 'fangen', darum mit ä."}
+ ]},
+ {"s":3,"satz":"Wenn die Zeitreise beginnt, wackelt die ganze Maschine fürchterlich und brummt.","f":[
+  {"r":"beginnt,","w":"beginnt","o":["beginnt,","beginnt","beginnt;","beginnt."],"k":"k","tipp":"Regel: Nach einem vorangestellten Nebensatz mit 'wenn' steht ein Komma."},
+  {"r":"Maschine","w":"maschine","o":["Maschine","maschine","Maschiene","Masschine"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Maschine'."},
+  {"r":"fürchterlich","w":"fürchterlig","o":["fürchterlich","fürchterlig","fürchderlich","fürchterliech"],"k":"b","tipp":"Regel: 'fürchterlich' endet auf lich wie 'fröhlich'."}
+ ]},
+ {"s":3,"satz":"Die Station sendet ein Notsignal, sobald die Energie knapp wird.","f":[
+  {"r":"Notsignal,","w":"Notsignal","o":["Notsignal,","Notsignal","Notsignal;","Notsignal."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'sobald' steht ein Komma."},
+  {"r":"Station","w":"station","o":["Station","station","Schtation","Stazion"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'die Station'."},
+  {"r":"Energie","w":"Energi","o":["Energie","Energi","Enärgie","Energieh"],"k":"b","tipp":"Regel: 'Energie' endet auf gie mit ie."}
+ ]},
+ {"s":3,"satz":"Der Pilot lacht laut, weil der Roboter ständig komische Witze erzählt und lacht.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"komische","w":"Komische","o":["komische","Komische","komiesche","kommische"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'komisch' schreibt man klein."},
+  {"r":"erzählt","w":"erzehlt","o":["erzählt","erzehlt","erzehld","ertzählt"],"k":"b","tipp":"Regel: 'erzählt' kommt von 'Zahl', darum mit ä."}
+ ]},
+ {"s":3,"satz":"Das Raumschiff dreht ab, bevor die fremde Sonne zu heiß wird.","f":[
+  {"r":"ab,","w":"ab","o":["ab,","ab","ab;","ab."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bevor' steht ein Komma."},
+  {"r":"Raumschiff","w":"raumschiff","o":["Raumschiff","raumschiff","Raumschif","Raumshiff"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'das Raumschiff'."},
+  {"r":"fremde","w":"främde","o":["fremde","främde","fremmde","fremdte"],"k":"b","tipp":"Regel: 'fremd' schreibt man mit hellem e."}
+ ]},
+ {"s":3,"satz":"Der Außerirdische winkt zum Abschied, als das Raumschiff langsam wegfliegt.","f":[
+  {"r":"Abschied,","w":"Abschied","o":["Abschied,","Abschied","Abschied;","Abschied."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'als' steht ein Komma."},
+  {"r":"Außerirdische","w":"außerirdische","o":["Außerirdische","außerirdische","Auserirdische","Außerirrdische"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Außerirdische'."},
+  {"r":"langsam","w":"langksam","o":["langsam","langksam","lanksam","langssam"],"k":"b","tipp":"Regel: 'langsam' schreibt man mit g und s nebeneinander."}
+ ]},
+ {"s":3,"satz":"Der Kapitän steuert vorsichtig, weil der Teleporter ihn fast verschluckt hätte.","f":[
+  {"r":"vorsichtig,","w":"vorsichtig","o":["vorsichtig,","vorsichtig","vorsichtig;","vorsichtig."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Kapitän","w":"kapitän","o":["Kapitän","kapitän","Kappitän","Kapitehn"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß, wie 'der Kapitän'."},
+  {"r":"verschluckt","w":"ferschluckt","o":["verschluckt","ferschluckt","verschlukt","verschluckd"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v wie 'verstecken'."}
+ ]}
+]

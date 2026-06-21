@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der schnelle Computer summt leise, während das spannende Videospiel langsam lädt.","f":[
+  {"r":"schnelle","w":"schnälle","o":["schnelle","schnälle","schnellle","shnelle"],"k":"b","tipp":"Merksatz: 'schnell' schreibt man mit e und doppel-L: schnel-le."},
+  {"r":"Computer","w":"Komputer","o":["Computer","Komputer","Computär","Computter"],"k":"b","tipp":"Merksatz: Der Computer beginnt mit Com- wie 'kommen', aber mit C: Com-pu-ter."},
+  {"r":"Videospiel","w":"Videospil","o":["Videospiel","Videospil","Wideospiel","Videohspiel"],"k":"b","tipp":"Merksatz: 'Spiel' schreibt man mit ie: Vi-deo-spiel."}
+]},
+{"s":1,"satz":"Mit flinken Fingern tippt das fröhliche Kind auf der bunten Tastatur herum.","f":[
+  {"r":"flinken","w":"flingken","o":["flinken","flingken","vlinken","flinkän"],"k":"b","tipp":"Merksatz: 'flink' schreibt man mit nk: flin-ken."},
+  {"r":"fröhliche","w":"fröllliche","o":["fröhliche","fröllliche","fröliche","fröhlige"],"k":"b","tipp":"Merksatz: 'fröhlich' hat ein Dehnungs-h nach dem ö: fröh-lich."},
+  {"r":"Tastatur","w":"Tasdatur","o":["Tastatur","Tasdatur","Tastatuhr","Tasttatur"],"k":"b","tipp":"Merksatz: 'Tastatur' kommt von 'Taste' und wird mit t geschrieben: Tas-ta-tur."}
+]},
+{"s":1,"satz":"Die kleine Maus huscht über den Tisch und klickt auf das blinkende Symbol.","f":[
+  {"r":"huscht","w":"husscht","o":["huscht","husscht","huschd","huzcht"],"k":"b","tipp":"Merksatz: 'huschen' schreibt man mit sch: hu-schen."},
+  {"r":"klickt","w":"klikt","o":["klickt","klikt","glickt","klickd"],"k":"b","tipp":"Merksatz: Nach kurzem i steht ck: kli-cken."},
+  {"r":"blinkende","w":"blingkende","o":["blinkende","blingkende","plinkende","blinkänne"],"k":"b","tipp":"Merksatz: 'blinken' schreibt man mit nk: blin-ken-de."}
+]},
+{"s":1,"satz":"Auf dem hellen Bildschirm erscheint ein lustiger Drache aus dem neuen Videospiel.","f":[
+  {"r":"hellen","w":"hällen","o":["hellen","hällen","helen","hellän"],"k":"b","tipp":"Merksatz: 'hell' schreibt man mit e und doppel-L: hel-len."},
+  {"r":"Bildschirm","w":"Bildshirm","o":["Bildschirm","Bildshirm","Bildschim","Pildschirm"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit sch: Bild-schirm."},
+  {"r":"lustiger","w":"lusdiger","o":["lustiger","lusdiger","lustieger","lusttiger"],"k":"b","tipp":"Merksatz: 'lustig' schreibt man mit st: lus-tig."}
+]},
+{"s":1,"satz":"Der wackelige Joystick zittert heftig in der Hand des mutigen Helden vor dem Endgegner.","f":[
+  {"r":"wackelige","w":"wakelige","o":["wackelige","wakelige","wackeliege","wackälige"],"k":"b","tipp":"Merksatz: Nach kurzem a steht ck: wa-cke-lig."},
+  {"r":"heftig","w":"häftig","o":["heftig","häftig","heffig","hefdig"],"k":"b","tipp":"Merksatz: 'heftig' schreibt man mit e und ft: hef-tig."},
+  {"r":"mutigen","w":"muhtigen","o":["mutigen","muhtigen","mutiegen","muttigen"],"k":"b","tipp":"Merksatz: 'mutig' schreibt man ohne Dehnungs-h: mu-tig."}
+]},
+{"s":1,"satz":"Beim Programmieren tippt der schlaue Junge geheime Befehle in den brummenden Computer.","f":[
+  {"r":"Programmieren","w":"Programieren","o":["Programmieren","Programieren","Programmiren","Brogrammieren"],"k":"b","tipp":"Merksatz: 'Programm' hat doppel-M: Pro-gram-mie-ren."},
+  {"r":"geheime","w":"gehaime","o":["geheime","gehaime","gehäime","geheimme"],"k":"b","tipp":"Merksatz: 'geheim' schreibt man mit ei: ge-hei-me."},
+  {"r":"brummenden","w":"brumenden","o":["brummenden","brumenden","prummenden","brummännden"],"k":"b","tipp":"Merksatz: 'brummen' hat doppel-M: brum-men-den."}
+]},
+{"s":1,"satz":"Die glänzende Maus rollt vom Tisch und landet weich im flauschigen Katzenkorb.","f":[
+  {"r":"glänzende","w":"glenzende","o":["glänzende","glenzende","glänzänne","klänzende"],"k":"b","tipp":"Merksatz: 'glänzen' kommt von 'Glanz' und wird mit ä geschrieben."},
+  {"r":"landet","w":"lanndet","o":["landet","lanndet","landät","landted"],"k":"b","tipp":"Merksatz: 'landen' hat nur ein n: lan-den."},
+  {"r":"flauschigen","w":"flaoschigen","o":["flauschigen","flaoschigen","flauschiegen","flauschichen"],"k":"b","tipp":"Merksatz: 'flauschig' schreibt man mit au und sch: flau-schig."}
+]},
+{"s":1,"satz":"Mit einem lauten Piepton startet das aufregende Computerspiel direkt im finsteren Verlies.","f":[
+  {"r":"lauten","w":"laoten","o":["lauten","laoten","lauden","lautän"],"k":"b","tipp":"Merksatz: 'laut' schreibt man mit au: lau-ten."},
+  {"r":"aufregende","w":"aufrechende","o":["aufregende","aufrechende","aufregännde","aufregendde"],"k":"b","tipp":"Merksatz: 'aufregend' kommt von 'regen' und wird mit g geschrieben."},
+  {"r":"finsteren","w":"finstären","o":["finsteren","finstären","vinsteren","finsterän"],"k":"b","tipp":"Merksatz: 'finster' schreibt man mit e: fins-te-ren."}
+]},
+{"s":1,"satz":"Der neugierige Roboter klopft sanft auf die klappernde Tastatur des alten Rechners.","f":[
+  {"r":"neugierige","w":"neugirige","o":["neugierige","neugirige","noigierige","neugieriege"],"k":"b","tipp":"Merksatz: 'neugierig' schreibt man mit eu und ie: neu-gie-rig."},
+  {"r":"klopft","w":"klopvt","o":["klopft","klopvt","glopft","klopfd"],"k":"b","tipp":"Merksatz: 'klopfen' schreibt man mit pf: klop-fen."},
+  {"r":"klappernde","w":"klapernde","o":["klappernde","klapernde","glappernde","klappärnde"],"k":"b","tipp":"Merksatz: 'klappern' hat doppel-P: klap-pern."}
+]},
+{"s":1,"satz":"Im spannenden Videospiel sammelt die schnelle Heldin glitzernde Münzen und goldene Sterne.","f":[
+  {"r":"spannenden","w":"spanenden","o":["spannenden","spanenden","schpannenden","spannännden"],"k":"b","tipp":"Merksatz: 'spannend' hat doppel-N: span-nend."},
+  {"r":"glitzernde","w":"glizernde","o":["glitzernde","glizernde","klitzernde","glitzärnde"],"k":"b","tipp":"Merksatz: Nach kurzem i steht tz: glit-zern."},
+  {"r":"goldene","w":"goltene","o":["goldene","goltene","goldäne","golldene"],"k":"b","tipp":"Merksatz: 'golden' kommt von 'Gold' und wird mit d geschrieben."}
+]},
+{"s":1,"satz":"Der Bildschirm flackert kurz, weil die müde Katze auf der Tastatur eingeschlafen ist.","f":[
+  {"r":"flackert","w":"flakert","o":["flackert","flakert","vlackert","flackärt"],"k":"b","tipp":"Merksatz: Nach kurzem a steht ck: fla-ckern."},
+  {"r":"müde","w":"mühde","o":["müde","mühde","müede","müdde"],"k":"b","tipp":"Merksatz: 'müde' schreibt man ohne Dehnungs-h: mü-de."},
+  {"r":"Tastatur","w":"Tasdatur","o":["Tastatur","Tasdatur","Tastatuhr","Tasttatur"],"k":"b","tipp":"Merksatz: 'Tastatur' kommt von 'Taste' und wird mit t geschrieben."}
+]},
+{"s":1,"satz":"Vor dem flimmernden Bildschirm jubelt das aufgeregte Kind über seinen riesigen Highscore.","f":[
+  {"r":"flimmernden","w":"flimernden","o":["flimmernden","flimernden","vlimmernden","flimmärnden"],"k":"b","tipp":"Merksatz: 'flimmern' hat doppel-M: flim-mern."},
+  {"r":"jubelt","w":"jubellt","o":["jubelt","jubellt","juhbelt","jupelt"],"k":"b","tipp":"Merksatz: 'jubeln' schreibt man mit einem l: ju-belt."},
+  {"r":"riesigen","w":"risigen","o":["riesigen","risigen","riesiegen","riessigen"],"k":"b","tipp":"Merksatz: 'riesig' schreibt man mit ie (langes i): rie-sig."}
+]},
+{"s":2,"satz":"Am Morgen startet das fröhliche Kind den Computer und öffnet sein Lieblingsspiel.","f":[
+  {"r":"Computer","w":"computer","o":["Computer","computer","Komputer","Computär"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'den Computer' steht mit dem Begleiter 'den'."},
+  {"r":"startet","w":"Startet","o":["startet","Startet","sdartet","Sdartet"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'starten' schreibt man klein."},
+  {"r":"fröhliche","w":"fröhliege","o":["fröhliche","fröhliege","fröliche","fröhlige"],"k":"b","tipp":"Regel: 'fröhlich' schreibt man mit ch: fröh-lich."}
+]},
+{"s":2,"satz":"Auf dem Tisch liegt die graue Maus und das Kind klickt geschickt auf den Startknopf.","f":[
+  {"r":"Maus","w":"maus","o":["Maus","maus","Maos","Mauz"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Maus' hat den Begleiter 'die'."},
+  {"r":"klickt","w":"Klickt","o":["klickt","Klickt","klikt","Klikt"],"k":"g","tipp":"Regel: Verben wie 'klicken' schreibt man klein."},
+  {"r":"geschickt","w":"geschikt","o":["geschickt","geschikt","keschickt","geschickd"],"k":"b","tipp":"Regel: Nach kurzem i steht ck: ge-schickt."}
+]},
+{"s":2,"satz":"Hinter dem Bildschirm versteckt sich der freche Bruder mit einem geheimen Joystick.","f":[
+  {"r":"Bildschirm","w":"bildschirm","o":["Bildschirm","bildschirm","Bildshirm","Pildschirm"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'dem Bildschirm' steht mit dem Begleiter 'dem'."},
+  {"r":"versteckt","w":"Versteckt","o":["versteckt","Versteckt","versteckd","Versteckd"],"k":"g","tipp":"Regel: Verben wie 'verstecken' schreibt man klein."},
+  {"r":"geheimen","w":"gehaimen","o":["geheimen","gehaimen","gehäimen","geheimän"],"k":"b","tipp":"Regel: 'geheim' schreibt man mit ei: ge-hei-men."}
+]},
+{"s":2,"satz":"Beim Programmieren tippt die kluge Schülerin lange Befehle in ihren leisen Laptop.","f":[
+  {"r":"Schülerin","w":"schülerin","o":["Schülerin","schülerin","Schülerinn","Schüllerin"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Schülerin' hat den Begleiter 'die'."},
+  {"r":"tippt","w":"Tippt","o":["tippt","Tippt","tipt","Tipt"],"k":"g","tipp":"Regel: Verben wie 'tippen' schreibt man klein."},
+  {"r":"leisen","w":"laisen","o":["leisen","laisen","läisen","leissen"],"k":"b","tipp":"Regel: 'leise' schreibt man mit ei: lei-sen."}
+]},
+{"s":2,"satz":"Am Nachmittag spielt der mutige Held auf der Konsole ein wildes Weltraumspiel.","f":[
+  {"r":"Konsole","w":"konsole","o":["Konsole","konsole","Konzole","Konssole"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Konsole' steht mit dem Begleiter 'der'."},
+  {"r":"spielt","w":"Spielt","o":["spielt","Spielt","spield","Spield"],"k":"g","tipp":"Regel: Verben wie 'spielen' schreibt man klein."},
+  {"r":"wildes","w":"wieldes","o":["wildes","wieldes","willdes","wildäs"],"k":"b","tipp":"Regel: 'wild' schreibt man mit kurzem i ohne ie: wil-des."}
+]},
+{"s":2,"satz":"Die schnelle Tastatur klappert laut, und der müde Computer braucht eine kleine Pause.","f":[
+  {"r":"Tastatur","w":"tastatur","o":["Tastatur","tastatur","Tasdatur","Tastatuhr"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Tastatur' hat den Begleiter 'die'."},
+  {"r":"klappert","w":"Klappert","o":["klappert","Klappert","klapert","Klapert"],"k":"g","tipp":"Regel: Verben wie 'klappern' schreibt man klein."},
+  {"r":"müde","w":"mühde","o":["müde","mühde","müede","müdde"],"k":"b","tipp":"Regel: 'müde' schreibt man ohne Dehnungs-h: mü-de."}
+]},
+{"s":2,"satz":"Vor dem Wettkampf prüft der nervöse Spieler seinen Joystick und seine flinken Finger.","f":[
+  {"r":"Joystick","w":"joystick","o":["Joystick","joystick","Joistick","Joystik"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'seinen Joystick' steht mit dem Begleiter 'seinen'."},
+  {"r":"prüft","w":"Prüft","o":["prüft","Prüft","prüfd","Prüfd"],"k":"g","tipp":"Regel: Verben wie 'prüfen' schreibt man klein."},
+  {"r":"flinken","w":"flingken","o":["flinken","flingken","vlinken","flinkän"],"k":"b","tipp":"Regel: 'flink' schreibt man mit nk: flin-ken."}
+]},
+{"s":2,"satz":"Im bunten Videospiel rettet die clevere Prinzessin das verzauberte Schloss vor dem Drachen.","f":[
+  {"r":"Videospiel","w":"videospiel","o":["Videospiel","videospiel","Wideospiel","Videospil"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Videospiel'."},
+  {"r":"rettet","w":"Rettet","o":["rettet","Rettet","retet","Retet"],"k":"g","tipp":"Regel: Verben wie 'retten' schreibt man klein."},
+  {"r":"verzauberte","w":"ferzauberte","o":["verzauberte","ferzauberte","verzaoberte","verzaubärte"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-zau-bert."}
+]},
+{"s":2,"satz":"Auf dem großen Bildschirm leuchtet die bunte Welt des spannenden Abenteuerspiels.","f":[
+  {"r":"Bildschirm","w":"bildschirm","o":["Bildschirm","bildschirm","Bildshirm","Pildschirm"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'dem Bildschirm'."},
+  {"r":"spannenden","w":"Spannenden","o":["spannenden","Spannenden","spanenden","Spanenden"],"k":"g","tipp":"Regel: Adjektive (Wiewörter) wie 'spannend' schreibt man klein."},
+  {"r":"leuchtet","w":"leichtet","o":["leuchtet","leichtet","leuchdet","löichtet"],"k":"b","tipp":"Regel: 'leuchten' kommt von 'Leuchte' und wird mit eu geschrieben."}
+]},
+{"s":2,"satz":"Der kleine Programmierer freut sich riesig, weil sein selbst gebautes Spiel endlich läuft.","f":[
+  {"r":"Programmierer","w":"programmierer","o":["Programmierer","programmierer","Programierer","Brogrammierer"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Programmierer' hat den Begleiter 'der'."},
+  {"r":"selbst","w":"Selbst","o":["selbst","Selbst","sälbst","Sälbst"],"k":"g","tipp":"Regel: Hier ist 'selbst' kein Nomen und wird kleingeschrieben."},
+  {"r":"gebautes","w":"gebaotes","o":["gebautes","gebaotes","gebauwtes","gebautäs"],"k":"b","tipp":"Regel: 'bauen' schreibt man mit au: ge-bau-tes."}
+]},
+{"s":2,"satz":"Am Abend speichert das schlaue Mädchen ihr Spiel und schaltet den heißen Computer aus.","f":[
+  {"r":"Mädchen","w":"mädchen","o":["Mädchen","mädchen","Mädchän","Medchen"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Mädchen'."},
+  {"r":"heißen","w":"Heißen","o":["heißen","Heißen","haißen","Haißen"],"k":"g","tipp":"Regel: Adjektive wie 'heiß' schreibt man klein."},
+  {"r":"speichert","w":"spaichert","o":["speichert","spaichert","späichert","speichärt"],"k":"b","tipp":"Regel: 'speichern' schreibt man mit ei: spei-chern."}
+]},
+{"s":2,"satz":"Mit der glatten Maus malt der junge Künstler bunte Bilder auf dem leuchtenden Bildschirm.","f":[
+  {"r":"Maus","w":"maus","o":["Maus","maus","Maos","Mauz"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Maus' hat den Begleiter 'die'."},
+  {"r":"malt","w":"Malt","o":["malt","Malt","mald","Mald"],"k":"g","tipp":"Regel: Verben wie 'malen' schreibt man klein."},
+  {"r":"leuchtenden","w":"leichtenden","o":["leuchtenden","leichtenden","leuchdenden","löichtenden"],"k":"b","tipp":"Regel: 'leuchten' kommt von 'Leuchte' und wird mit eu geschrieben."}
+]},
+{"s":3,"satz":"Auf dem Schreibtisch liegen die Maus, die Tastatur und ein staubiger Joystick.","f":[
+  {"r":"Maus,","w":"Maus","o":["Maus,","Maus","Maus;","Maus."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Tastatur","w":"tastatur","o":["Tastatur","tastatur","Tasdatur","Tastatuhr"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Tastatur' hat den Begleiter 'die'."},
+  {"r":"staubiger","w":"staobiger","o":["staubiger","staobiger","schtaubiger","staubieger"],"k":"b","tipp":"Regel: 'Staub' schreibt man mit au: stau-big."}
+]},
+{"s":3,"satz":"Der Junge speichert schnell, weil der laute Computer plötzlich ganz dunkel wird.","f":[
+  {"r":"schnell,","w":"schnell","o":["schnell,","schnell","schnell;","schnell."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"laute","w":"Laute","o":["laute","Laute","laude","Laude"],"k":"g","tipp":"Regel: Adjektive (Wiewörter) wie 'laut' schreibt man klein."},
+  {"r":"dunkel","w":"dungkel","o":["dunkel","dungkel","tunkel","dunkäl"],"k":"b","tipp":"Regel: 'dunkel' schreibt man mit nk: dun-kel."}
+]},
+{"s":3,"satz":"Die Spielerin hofft, dass ihr neues Videospiel heute noch im Laden ankommt und sofort funktioniert.","f":[
+  {"r":"hofft,","w":"hofft","o":["hofft,","hofft","hofft;","hofft."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Videospiel","w":"videospiel","o":["Videospiel","videospiel","Wideospiel","Videospil"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'ihr Videospiel' steht mit dem Begleiter 'ihr'."},
+  {"r":"ankommt","w":"ankomt","o":["ankommt","ankomt","angkommt","ankommd"],"k":"b","tipp":"Regel: 'kommen' hat doppel-M: an-kommt."}
+]},
+{"s":3,"satz":"Der Computer, der so laut brummt, gehört dem klugen Programmierer aus der zweiten Klasse.","f":[
+  {"r":"Computer,","w":"Computer","o":["Computer,","Computer","Computer;","Computer."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'der' wird mit Kommas eingeschlossen."},
+  {"r":"klugen","w":"Klugen","o":["klugen","Klugen","kluhgen","Kluhgen"],"k":"g","tipp":"Regel: Adjektive wie 'klug' schreibt man klein."},
+  {"r":"Programmierer","w":"Programierer","o":["Programmierer","Programierer","Brogrammierer","Programmiehrer"],"k":"b","tipp":"Regel: 'Programm' hat doppel-M: Pro-gram-mie-rer."}
+]},
+{"s":3,"satz":"Das Spiel ist fast geschafft, aber der zappelige Joystick macht plötzlich keinen Mucks mehr.","f":[
+  {"r":"geschafft,","w":"geschafft","o":["geschafft,","geschafft","geschafft;","geschafft."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"Joystick","w":"joystick","o":["Joystick","joystick","Joistick","Joystik"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Joystick' hat den Begleiter 'der'."},
+  {"r":"zappelige","w":"zapelige","o":["zappelige","zapelige","sappelige","zappeliege"],"k":"b","tipp":"Regel: 'zappelig' hat doppel-P: zap-pe-lig."}
+]},
+{"s":3,"satz":"Wenn der Strom ausfällt, verschwindet das spannende Computerspiel sofort vom dunklen Bildschirm.","f":[
+  {"r":"ausfällt,","w":"ausfällt","o":["ausfällt,","ausfällt","ausfällt;","ausfällt."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma."},
+  {"r":"spannende","w":"Spannende","o":["spannende","Spannende","spanende","Spanende"],"k":"g","tipp":"Regel: Adjektive wie 'spannend' schreibt man klein."},
+  {"r":"verschwindet","w":"ferschwindet","o":["verschwindet","ferschwindet","verschwindät","verschwinndet"],"k":"b","tipp":"Regel: 'ver-' schreibt man immer mit v: ver-schwin-det."}
+]},
+{"s":3,"satz":"Der Spieler jubelt laut, obwohl sein freches Schwesterchen die geheime Maus versteckt hat.","f":[
+  {"r":"laut,","w":"laut","o":["laut,","laut","laut;","laut."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"geheime","w":"Geheime","o":["geheime","Geheime","gehaime","Gehaime"],"k":"g","tipp":"Regel: Adjektive wie 'geheim' schreibt man klein."},
+  {"r":"Schwesterchen","w":"Schwessterchen","o":["Schwesterchen","Schwessterchen","Shwesterchen","Schwesterschen"],"k":"b","tipp":"Regel: 'Schwester' schreibt man mit einem s: Schwes-ter-chen."}
+]},
+{"s":3,"satz":"Das Kind staunt, als der schlaue Computer plötzlich mit einer freundlichen Stimme spricht.","f":[
+  {"r":"staunt,","w":"staunt","o":["staunt,","staunt","staunt;","staunt."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'als' steht ein Komma."},
+  {"r":"schlaue","w":"Schlaue","o":["schlaue","Schlaue","schlaoe","Schlaoe"],"k":"g","tipp":"Regel: Adjektive wie 'schlau' schreibt man klein."},
+  {"r":"freundlichen","w":"freindlichen","o":["freundlichen","freindlichen","fröindlichen","freundligen"],"k":"b","tipp":"Regel: 'freundlich' kommt von 'Freund' und wird mit eu geschrieben."}
+]},
+{"s":3,"satz":"Für das Spiel braucht das Kind eine Maus, eine Tastatur und einen schnellen Bildschirm.","f":[
+  {"r":"Maus,","w":"Maus","o":["Maus,","Maus","Maus;","Maus."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"schnellen","w":"Schnellen","o":["schnellen","Schnellen","schnällen","Schnällen"],"k":"g","tipp":"Regel: Adjektive wie 'schnell' schreibt man klein."},
+  {"r":"Tastatur","w":"Tasdatur","o":["Tastatur","Tasdatur","Tastatuhr","Tasttatur"],"k":"b","tipp":"Regel: 'Tastatur' kommt von 'Taste' und wird mit t geschrieben."}
+]},
+{"s":3,"satz":"Die Programmiererin lacht, weil ihr lustiger Roboter im Spiel ständig über die Kabel stolpert.","f":[
+  {"r":"lacht,","w":"lacht","o":["lacht,","lacht","lacht;","lacht."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"lustiger","w":"Lustiger","o":["lustiger","Lustiger","lusdiger","Lusdiger"],"k":"g","tipp":"Regel: Adjektive wie 'lustig' schreibt man klein."},
+  {"r":"Kabel","w":"Kapel","o":["Kabel","Kapel","Kabbel","Kahbel"],"k":"b","tipp":"Regel: 'Kabel' schreibt man mit b: Ka-bel."}
+]},
+{"s":3,"satz":"Auf dem Tisch stapeln sich Spiele, Kabel und glänzende Joysticks bis unter die Decke.","f":[
+  {"r":"Spiele,","w":"Spiele","o":["Spiele,","Spiele","Spiele;","Spiele."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"glänzende","w":"Glänzende","o":["glänzende","Glänzende","glänzände","Glänzände"],"k":"g","tipp":"Regel: Adjektive wie 'glänzend' schreibt man klein."},
+  {"r":"Kabel","w":"Kapel","o":["Kabel","Kapel","Kabbel","Kahbel"],"k":"b","tipp":"Regel: 'Kabel' schreibt man mit b: Ka-bel."}
+]},
+{"s":3,"satz":"Der Bruder grinst breit, als die freche Maus auf dem Bildschirm plötzlich tanzt.","f":[
+  {"r":"breit,","w":"breit","o":["breit,","breit","breit;","breit."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'als' steht ein Komma."},
+  {"r":"freche","w":"Freche","o":["freche","Freche","fräche","Fräche"],"k":"g","tipp":"Regel: Adjektive wie 'frech' schreibt man klein."},
+  {"r":"Bildschirm","w":"Bildshirm","o":["Bildschirm","Bildshirm","Pildschirm","Bildschim"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: Bild-schirm."}
+]}
+]

@@ -1,0 +1,182 @@
+[
+{"s":1,"satz":"Der freche Delfin springt aus dem blauen Wasser und macht einen lustigen Salto.","f":[
+  {"r":"Delfin","w":"Delfien","o":["Delfin","Delfien","Telfin","Delffin"],"k":"b","tipp":"Merksatz: Der Delfin endet kurz auf '-fin' – ohne ie, wie 'Finne'."},
+  {"r":"Wasser","w":"Waser","o":["Wasser","Waser","Wasär","Wassär"],"k":"b","tipp":"Merksatz: Im Wasser plätschert es doppelt – darum doppel-S: Was-ser."},
+  {"r":"lustigen","w":"lustiegen","o":["lustigen","lustiegen","lusdigen","lusstigen"],"k":"b","tipp":"Merksatz: 'lustig' kommt von 'Lust' – kurzes i, kein ie."}
+]},
+{"s":1,"satz":"Der riesige Wal taucht tief hinab und singt sein leises Lied im Meer.","f":[
+  {"r":"riesige","w":"risige","o":["riesige","risige","riesiege","riessige"],"k":"b","tipp":"Merksatz: 'riesig' spricht man mit langem i – darum mit ie: rie-sig."},
+  {"r":"taucht","w":"taoucht","o":["taucht","taoucht","tauchd","tauchht"],"k":"b","tipp":"Merksatz: 'tauchen' schreibt man mit au – wie 'Au, das Wasser ist kalt!'."},
+  {"r":"leises","w":"leieses","o":["leises","leieses","leisäs","leisses"],"k":"b","tipp":"Merksatz: 'leise' hat nur ein e in der Mitte: lei-se."}
+]},
+{"s":1,"satz":"Die bunten Korallen leuchten am Riff und verstecken viele kleine Fische dort.","f":[
+  {"r":"Korallen","w":"Koralen","o":["Korallen","Koralen","Korrallen","Korrallenn"],"k":"b","tipp":"Merksatz: Die Korallen leuchten alle – darum doppel-L: Ko-ral-len."},
+  {"r":"verstecken","w":"ferstecken","o":["verstecken","ferstecken","versteken","verstegen"],"k":"b","tipp":"Merksatz: 'ver-' schreibt man immer mit v, wie in 'vergessen'."},
+  {"r":"Fische","w":"Fieshe","o":["Fische","Fieshe","Fishe","Fissche"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit sch: Fi-sche."}
+]},
+{"s":1,"satz":"Der listige Tintenfisch versteckt sich schnell hinter einem dicken Felsen.","f":[
+  {"r":"Tintenfisch","w":"Tintenfish","o":["Tintenfisch","Tintenfish","Tindenfisch","Tintänfisch"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit drei Buchstaben sch: Fisch."},
+  {"r":"versteckt","w":"fersteckt","o":["versteckt","fersteckt","verstekt","versteggt"],"k":"b","tipp":"Merksatz: 'ver-' beginnt immer mit v, wie in 'verstecken'."},
+  {"r":"dicken","w":"diggen","o":["dicken","diggen","dikken","dickän"],"k":"b","tipp":"Merksatz: Nach kurzem Vokal steht ck: di-cken."}
+]},
+{"s":1,"satz":"Ein glitzernder Schatz liegt tief unten im Sand neben dem alten Schiffswrack versteckt.","f":[
+  {"r":"glitzernder","w":"glitzärnder","o":["glitzernder","glitzärnder","glizernder","glittzernder"],"k":"b","tipp":"Merksatz: 'glitzern' schreibt man mit e: glit-zern."},
+  {"r":"Schatz","w":"Schaz","o":["Schatz","Schaz","Schats","Schatsch"],"k":"b","tipp":"Merksatz: Nach kurzem Vokal steht oft tz: Scha-tz."},
+  {"r":"Schiffswrack","w":"Schifswrack","o":["Schiffswrack","Schifswrack","Schiffswrak","Shiffswrack"],"k":"b","tipp":"Merksatz: Das Schiff hat doppel-F: Schiff-s-wrack."}
+]},
+{"s":1,"satz":"Das gelbe U-Boot brummt durch die Tiefe und sucht den verlorenen Anker.","f":[
+  {"r":"brummt","w":"brumt","o":["brummt","brumt","prummt","brummd"],"k":"b","tipp":"Merksatz: Beim Brummen brummt es doppelt laut – doppel-M: brum-men."},
+  {"r":"Tiefe","w":"Tiefä","o":["Tiefe","Tiefä","Tieffe","Tihefe"],"k":"b","tipp":"Merksatz: 'tief' schreibt man mit ie (langes i): tie-fe."},
+  {"r":"verlorenen","w":"ferlorenen","o":["verlorenen","ferlorenen","verloreren","verloränen"],"k":"b","tipp":"Merksatz: 'ver-' beginnt immer mit v, wie in 'verlieren'."}
+]},
+{"s":1,"satz":"Die freundliche Schildkröte paddelt gemütlich über die sanften blauen Wellen hinweg.","f":[
+  {"r":"Schildkröte","w":"Schiltkröte","o":["Schildkröte","Schiltkröte","Schildkröde","Schildkrööte"],"k":"b","tipp":"Merksatz: Schild endet auf d (Probe: die Schilder) – Schild-kröte."},
+  {"r":"paddelt","w":"padelt","o":["paddelt","padelt","battelt","paddeld"],"k":"b","tipp":"Merksatz: Beim Paddeln rudert man doppelt – doppel-D: pad-deln."},
+  {"r":"Wellen","w":"Welen","o":["Wellen","Welen","Wällen","Wellän"],"k":"b","tipp":"Merksatz: Die Wellen rollen alle – darum doppel-L: Wel-len."}
+]},
+{"s":1,"satz":"Der hungrige Hai schwimmt langsam um das Riff und sucht ein leckeres Frühstück.","f":[
+  {"r":"hungrige","w":"hungriege","o":["hungrige","hungriege","hungerige","hungrigge"],"k":"b","tipp":"Merksatz: In 'hungrig' steckt der 'Hunger' – mit u und kurzem i."},
+  {"r":"schwimmt","w":"schwimt","o":["schwimmt","schwimt","shwimmt","schwimmd"],"k":"b","tipp":"Merksatz: Beim Schwimmen rudert man doppelt – doppel-M: schwim-men."},
+  {"r":"leckeres","w":"leggeres","o":["leckeres","leggeres","lekkeres","leckäres"],"k":"b","tipp":"Merksatz: Nach kurzem Vokal steht ck: le-cker."}
+]},
+{"s":1,"satz":"Die kleine Qualle leuchtet in der Nacht und tanzt sanft durch das Meerwasser hindurch.","f":[
+  {"r":"Qualle","w":"Kwalle","o":["Qualle","Kwalle","Qalle","Quallä"],"k":"b","tipp":"Merksatz: Nach q kommt immer ein u: Qu-al-le."},
+  {"r":"leuchtet","w":"loichtet","o":["leuchtet","loichtet","leuchdet","leuchtät"],"k":"b","tipp":"Merksatz: 'leuchten' schreibt man mit eu, wie in 'Leuchtturm'."},
+  {"r":"Meerwasser","w":"Mehrwasser","o":["Meerwasser","Mehrwasser","Meerwaser","Meorwasser"],"k":"b","tipp":"Merksatz: Das Meer hat doppel-E: Meer-wasser."}
+]},
+{"s":1,"satz":"Der mutige Taucher entdeckt eine geheime Höhle voller bunter Muscheln und Steine.","f":[
+  {"r":"Taucher","w":"Taocher","o":["Taucher","Taocher","Tauchä","Taucherr"],"k":"b","tipp":"Merksatz: 'tauchen' schreibt man mit au – der Tau-cher."},
+  {"r":"entdeckt","w":"entdekt","o":["entdeckt","entdekt","endeckt","entdeggt"],"k":"b","tipp":"Merksatz: Nach kurzem Vokal steht ck: ent-deck-t."},
+  {"r":"Muscheln","w":"Musheln","o":["Muscheln","Musheln","Muschäln","Musscheln"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit sch: Mu-scheln."}
+]},
+{"s":1,"satz":"Ein bunter Schwarm Fische flitzt zwischen den schaukelnden grünen Algen umher.","f":[
+  {"r":"Schwarm","w":"Shwarm","o":["Schwarm","Shwarm","Schwarmm","Schwahrm"],"k":"b","tipp":"Merksatz: Den Zisch-Laut schreibt man mit sch: Schwarm."},
+  {"r":"flitzt","w":"flizt","o":["flitzt","flizt","vlitzt","flitztt"],"k":"b","tipp":"Merksatz: Nach kurzem Vokal steht tz: flit-zen."},
+  {"r":"schaukelnden","w":"schaokelnden","o":["schaukelnden","schaokelnden","shaukelnden","schaukälnden"],"k":"b","tipp":"Merksatz: 'schaukeln' schreibt man mit au: schau-keln."}
+]},
+{"s":1,"satz":"Der alte Seestern klebt am nassen Felsen und wartet auf die nächste Flut.","f":[
+  {"r":"Seestern","w":"Sestern","o":["Seestern","Sestern","Seeschtern","Seesternn"],"k":"b","tipp":"Merksatz: Die See hat doppel-E: See-stern."},
+  {"r":"nassen","w":"nasen","o":["nassen","nasen","nassän","nahsen"],"k":"b","tipp":"Merksatz: Nach kurzem a steht doppel-S: nas-sen."},
+  {"r":"wartet","w":"wahrtet","o":["wartet","wahrtet","wardet","wartett"],"k":"b","tipp":"Merksatz: 'warten' schreibt man ohne Dehnungs-h: war-ten."}
+]},
+{"s":2,"satz":"Am Morgen entdeckt der junge Taucher im Riff eine versteckte Perle.","f":[
+  {"r":"Taucher","w":"taucher","o":["Taucher","taucher","Taocher","taocher"],"k":"g","tipp":"Regel: Namenwörter (Nomen) schreibt man groß – 'der Taucher' steht mit dem Begleiter 'der'."},
+  {"r":"versteckte","w":"fersteckte","o":["versteckte","fersteckte","verstekte","versteggte"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man immer mit v."},
+  {"r":"junge","w":"Junge","o":["junge","Junge","jungä","Jungä"],"k":"g","tipp":"Regel: Wiewörter (Adjektive) wie 'jung' schreibt man klein."}
+]},
+{"s":2,"satz":"Der Delfin schwimmt durch die Wellen und freut sich über die warme Sonne.","f":[
+  {"r":"Delfin","w":"delfin","o":["Delfin","delfin","Delfien","delfien"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Delfin' hat den Begleiter 'der'."},
+  {"r":"schwimmt","w":"shwimmt","o":["schwimmt","shwimmt","schwimt","schwimmd"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit drei Buchstaben sch: schwimmen."},
+  {"r":"warme","w":"Warme","o":["warme","Warme","warmä","Warmä"],"k":"g","tipp":"Regel: Adjektive (Wiewörter) wie 'warm' schreibt man klein."}
+]},
+{"s":2,"satz":"Im tiefen Meer sucht der Tintenfisch nach einer leckeren Krabbe.","f":[
+  {"r":"Meer","w":"meer","o":["Meer","meer","Mehr","mehr"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Meer' steht mit dem Begleiter 'das'."},
+  {"r":"sucht","w":"Sucht","o":["sucht","Sucht","suchd","Suchd"],"k":"g","tipp":"Regel: Tunwörter (Verben) wie 'suchen' schreibt man klein."},
+  {"r":"leckeren","w":"leggeren","o":["leckeren","leggeren","lekkeren","leckären"],"k":"b","tipp":"Regel: Nach kurzem Vokal steht ck: le-cker."}
+]},
+{"s":2,"satz":"Die Schildkröte legt ihre Eier am Strand in den warmen weichen Sand.","f":[
+  {"r":"Schildkröte","w":"schildkröte","o":["Schildkröte","schildkröte","Schiltkröte","schiltkröte"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Schildkröte'."},
+  {"r":"legt","w":"Legt","o":["legt","Legt","legd","Legd"],"k":"g","tipp":"Regel: Verben (Tunwörter) wie 'legen' schreibt man klein."},
+  {"r":"Strand","w":"Schtrand","o":["Strand","Schtrand","Strant","Sdrand"],"k":"b","tipp":"Regel: 'St' spricht man 'Scht', schreibt es aber immer mit St: Strand."}
+]},
+{"s":2,"satz":"Der hungrige Wal öffnet sein riesiges Maul und schluckt einen Schwarm Krill.","f":[
+  {"r":"Wal","w":"wal","o":["Wal","wal","Wahl","wahl"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Wal' hat den Begleiter 'der'."},
+  {"r":"riesiges","w":"risiges","o":["riesiges","risiges","riesieges","riessiges"],"k":"b","tipp":"Regel: 'riesig' schreibt man mit ie (langes i)."},
+  {"r":"hungrige","w":"Hungrige","o":["hungrige","Hungrige","hungrigä","Hungrigä"],"k":"g","tipp":"Regel: Adjektive wie 'hungrig' schreibt man klein."}
+]},
+{"s":2,"satz":"Auf dem alten Schiff träumt der Pirat von einem glänzenden Schatz.","f":[
+  {"r":"Schiff","w":"schiff","o":["Schiff","schiff","Schif","schif"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'dem Schiff' steht mit dem Begleiter 'dem'."},
+  {"r":"träumt","w":"troimt","o":["träumt","troimt","träomt","träumd"],"k":"b","tipp":"Regel: 'träumen' kommt von 'Traum' – aus au wird äu."},
+  {"r":"glänzenden","w":"Glänzenden","o":["glänzenden","Glänzenden","glänzändän","Glänzändän"],"k":"g","tipp":"Regel: Adjektive wie 'glänzend' schreibt man klein."}
+]},
+{"s":2,"satz":"Das gelbe U-Boot fährt langsam an einem riesigen Korallenriff vorbei.","f":[
+  {"r":"U-Boot","w":"u-boot","o":["U-Boot","u-boot","U-Bot","u-bot"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das U-Boot' hat den Begleiter 'das'."},
+  {"r":"fährt","w":"Fährt","o":["fährt","Fährt","fährd","Fährd"],"k":"g","tipp":"Regel: Verben wie 'fahren' schreibt man klein."},
+  {"r":"Korallenriff","w":"Koralenriff","o":["Korallenriff","Koralenriff","Korallenrif","Korralenriff"],"k":"b","tipp":"Regel: Die Koralle hat doppel-L: Ko-ral-len-riff."}
+]},
+{"s":2,"satz":"Die neugierige Krabbe krabbelt seitwärts über den glitschigen nassen Felsen.","f":[
+  {"r":"Krabbe","w":"krabbe","o":["Krabbe","krabbe","Krabe","krabe"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Krabbe'."},
+  {"r":"krabbelt","w":"Krabbelt","o":["krabbelt","Krabbelt","krabbeld","Krabbeld"],"k":"g","tipp":"Regel: Verben wie 'krabbeln' schreibt man klein."},
+  {"r":"glitschigen","w":"glitchigen","o":["glitschigen","glitchigen","glitschiegen","glidschigen"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: glit-schig."}
+]},
+{"s":2,"satz":"Im klaren Wasser leuchtet die kleine Qualle wie eine bunte Laterne.","f":[
+  {"r":"Wasser","w":"wasser","o":["Wasser","wasser","Waser","waser"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Wasser'."},
+  {"r":"leuchtet","w":"Leuchtet","o":["leuchtet","Leuchtet","leuchdet","Leuchdet"],"k":"g","tipp":"Regel: Verben wie 'leuchten' schreibt man klein."},
+  {"r":"klaren","w":"klahren","o":["klaren","klahren","klarän","glaren"],"k":"b","tipp":"Regel: 'klar' schreibt man ohne Dehnungs-h: kla-ren."}
+]},
+{"s":2,"satz":"Der Seestern liegt regungslos auf dem sandigen Boden und ruht sich aus.","f":[
+  {"r":"Seestern","w":"seestern","o":["Seestern","seestern","Sestern","sestern"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Seestern'."},
+  {"r":"liegt","w":"Liegt","o":["liegt","Liegt","liegd","Liegd"],"k":"g","tipp":"Regel: Verben wie 'liegen' schreibt man klein."},
+  {"r":"sandigen","w":"sandiegen","o":["sandigen","sandiegen","santigen","sanndigen"],"k":"b","tipp":"Regel: 'sandig' kommt von 'Sand' – kurzes i, kein ie."}
+]},
+{"s":2,"satz":"Der freche Papageifisch knabbert vergnügt an einer bunten weichen Koralle.","f":[
+  {"r":"Papageifisch","w":"papageifisch","o":["Papageifisch","papageifisch","Papageifish","papageifish"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Papageifisch'."},
+  {"r":"knabbert","w":"knabert","o":["knabbert","knabert","gnabbert","knabberd"],"k":"b","tipp":"Regel: Nach kurzem Vokal steht doppel-B: knab-bern."},
+  {"r":"vergnügt","w":"Vergnügt","o":["vergnügt","Vergnügt","vergnügd","Vergnügd"],"k":"g","tipp":"Regel: Adjektive wie 'vergnügt' schreibt man klein."}
+]},
+{"s":2,"satz":"Tief unten im Ozean glitzert ein versunkener Schatz in der finsteren Dunkelheit.","f":[
+  {"r":"Ozean","w":"ozean","o":["Ozean","ozean","Ozian","ozian"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Ozean' steht mit dem Begleiter 'der'."},
+  {"r":"glitzert","w":"glizert","o":["glitzert","glizert","glitzerd","glittzert"],"k":"b","tipp":"Regel: Nach kurzem Vokal steht tz: glit-zern."},
+  {"r":"versunkener","w":"Versunkener","o":["versunkener","Versunkener","versunkäner","Versunkäner"],"k":"g","tipp":"Regel: Adjektive wie 'versunken' schreibt man klein."}
+]},
+{"s":3,"satz":"Im tiefen Ozean schwimmen Delfine, bunte Fische und große Wale.","f":[
+  {"r":"Delfine,","w":"Delfine","o":["Delfine,","Delfine","Delfine;","Delfine."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Ozean","w":"Ozian","o":["Ozean","Ozian","Ozeahn","Osean"],"k":"b","tipp":"Regel: 'Ozean' schreibt man mit z und endet auf '-ean'."},
+  {"r":"große","w":"Große","o":["große","Große","grosse","Grosse"],"k":"g","tipp":"Regel: Adjektive wie 'groß' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Taucher freut sich, weil er einen alten Schatz gefunden hat.","f":[
+  {"r":"sich,","w":"sich","o":["sich,","sich","sich;","sich."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Schatz","w":"Schaz","o":["Schatz","Schaz","Schats","Schatsch"],"k":"b","tipp":"Regel: Nach kurzem Vokal steht oft tz: Scha-tz."},
+  {"r":"alten","w":"Alten","o":["alten","Alten","altän","Altän"],"k":"g","tipp":"Regel: Adjektive wie 'alt' schreibt man klein."}
+]},
+{"s":3,"satz":"Die Forscherin weiß, dass im Meer noch viele Geheimnisse warten.","f":[
+  {"r":"weiß,","w":"weiß","o":["weiß,","weiß","weiß;","weiß."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'dass' steht ein Komma."},
+  {"r":"Meer","w":"meer","o":["Meer","meer","Mehr","mehr"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Meer'."},
+  {"r":"Geheimnisse","w":"Gehaimnisse","o":["Geheimnisse","Gehaimnisse","Geheimnise","Geheimnisä"],"k":"b","tipp":"Regel: 'geheim' schreibt man mit ei: Ge-heim-nis-se."}
+]},
+{"s":3,"satz":"Das U-Boot, das in die Tiefe sinkt, leuchtet hell im dunklen Wasser auf.","f":[
+  {"r":"U-Boot,","w":"U-Boot","o":["U-Boot,","U-Boot","U-Boot;","U-Boot."],"k":"k","tipp":"Regel: Ein Relativsatz mit 'das' wird mit Kommas eingeschlossen."},
+  {"r":"Wasser","w":"wasser","o":["Wasser","wasser","Waser","waser"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'das Wasser'."},
+  {"r":"hell","w":"Hell","o":["hell","Hell","häll","Häll"],"k":"g","tipp":"Regel: Adjektive wie 'hell' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Tintenfisch ist sehr schlau, aber der schnelle Hai ist viel größer.","f":[
+  {"r":"schlau,","w":"schlau","o":["schlau,","schlau","schlau;","schlau."],"k":"k","tipp":"Regel: Vor 'aber' steht ein Komma."},
+  {"r":"Tintenfisch","w":"Tintenfish","o":["Tintenfisch","Tintenfish","Tindenfisch","Tintänfisch"],"k":"b","tipp":"Regel: Den Zisch-Laut schreibt man mit sch: Fisch."},
+  {"r":"schnelle","w":"Schnelle","o":["schnelle","Schnelle","schnellä","Schnellä"],"k":"g","tipp":"Regel: Adjektive wie 'schnell' schreibt man klein."}
+]},
+{"s":3,"satz":"Wenn die Flut kommt, verstecken sich die Krabben im weichen Sand.","f":[
+  {"r":"kommt,","w":"kommt","o":["kommt,","kommt","kommt;","kommt."],"k":"k","tipp":"Regel: Steht der 'wenn'-Satz vorne, folgt danach ein Komma."},
+  {"r":"verstecken","w":"ferstecken","o":["verstecken","ferstecken","versteken","versteggen"],"k":"b","tipp":"Regel: Die Vorsilbe 'ver-' schreibt man immer mit v."},
+  {"r":"weichen","w":"Weichen","o":["weichen","Weichen","waichen","Waichen"],"k":"g","tipp":"Regel: Adjektive wie 'weich' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Wal singt sein Lied, damit die anderen Wale ihn schnell finden können.","f":[
+  {"r":"Lied,","w":"Lied","o":["Lied,","Lied","Lied;","Lied."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'damit' steht ein Komma."},
+  {"r":"Wale","w":"wale","o":["Wale","wale","Wahle","wahle"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Wale'."},
+  {"r":"finden","w":"vinden","o":["finden","vinden","fienden","finten"],"k":"b","tipp":"Regel: 'finden' beginnt mit f, nicht mit v."}
+]},
+{"s":3,"satz":"Am Riff wachsen Korallen, weiche Schwämme und bunte glitzernde Seeanemonen.","f":[
+  {"r":"Korallen,","w":"Korallen","o":["Korallen,","Korallen","Korallen;","Korallen."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"wachsen","w":"waxen","o":["wachsen","waxen","waksen","wachschen"],"k":"b","tipp":"Regel: Den Laut 'chs' schreibt man hier mit chs: wach-sen."},
+  {"r":"bunte","w":"Bunte","o":["bunte","Bunte","buntä","Buntä"],"k":"g","tipp":"Regel: Adjektive wie 'bunt' schreibt man klein."}
+]},
+{"s":3,"satz":"Der Pirat sucht einen Schatz, weil er eine alte Schatzkarte besitzt.","f":[
+  {"r":"Schatz,","w":"Schatz","o":["Schatz,","Schatz","Schatz;","Schatz."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'weil' steht ein Komma."},
+  {"r":"Schatzkarte","w":"Schazkarte","o":["Schatzkarte","Schazkarte","Schatzkahrte","Schatzkarrte"],"k":"b","tipp":"Regel: Nach kurzem Vokal steht oft tz: Scha-tz-karte."},
+  {"r":"alte","w":"Alte","o":["alte","Alte","altä","Altä"],"k":"g","tipp":"Regel: Adjektive wie 'alt' schreibt man klein."}
+]},
+{"s":3,"satz":"Die Schildkröte schwimmt zur Insel, obwohl der Weg sehr weit ist.","f":[
+  {"r":"Insel,","w":"Insel","o":["Insel,","Insel","Insel;","Insel."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'obwohl' steht ein Komma."},
+  {"r":"Schildkröte","w":"schildkröte","o":["Schildkröte","schildkröte","Schiltkröte","schiltkröte"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'die Schildkröte'."},
+  {"r":"schwimmt","w":"schwimt","o":["schwimmt","schwimt","shwimmt","schwimmd"],"k":"b","tipp":"Regel: Beim Schwimmen rudert man doppelt – doppel-M: schwim-men."}
+]},
+{"s":3,"satz":"Der Delfin springt hoch, bevor er wieder ins tiefe Wasser eintaucht.","f":[
+  {"r":"hoch,","w":"hoch","o":["hoch,","hoch","hoch;","hoch."],"k":"k","tipp":"Regel: Vor einem Nebensatz mit 'bevor' steht ein Komma."},
+  {"r":"Delfin","w":"delfin","o":["Delfin","delfin","Delfien","delfien"],"k":"g","tipp":"Regel: Nomen schreibt man groß – 'der Delfin'."},
+  {"r":"tiefe","w":"tiefä","o":["tiefe","tiefä","tieffe","tihefe"],"k":"b","tipp":"Regel: 'tief' schreibt man mit ie (langes i)."}
+]},
+{"s":3,"satz":"Im Korallenriff leben Fische, Seepferdchen und viele kleine bunte Garnelen.","f":[
+  {"r":"Fische,","w":"Fische","o":["Fische,","Fische","Fische;","Fische."],"k":"k","tipp":"Regel: In einer Aufzählung trennt man die Glieder mit Komma. Vor 'und' steht keins."},
+  {"r":"Seepferdchen","w":"Sepferdchen","o":["Seepferdchen","Sepferdchen","Seeperdchen","Seepferdshen"],"k":"b","tipp":"Regel: Die See hat doppel-E: See-pferd-chen."},
+  {"r":"kleine","w":"Kleine","o":["kleine","Kleine","klaine","Klaine"],"k":"g","tipp":"Regel: Adjektive wie 'klein' schreibt man klein."}
+]}
+]

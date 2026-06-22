@@ -316,6 +316,8 @@ function renderFixStep() {
   card.appendChild(opts);
 
   body.appendChild(card);
+  // Auswahl-Buttons ins Bild holen, damit man am Smartphone nicht selbst scrollen muss
+  scrollToButtonsSoon();
 }
 
 function onOptionClick(opt, btn, e) {

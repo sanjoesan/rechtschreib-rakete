@@ -316,8 +316,8 @@ function renderFixStep() {
   card.appendChild(opts);
 
   body.appendChild(card);
-  // Auswahl-Buttons ins Bild holen, damit man am Smartphone nicht selbst scrollen muss
-  scrollToButtonsSoon();
+  // Auswahl-Optionen ins Bild holen, damit man am Smartphone nicht selbst scrollen muss
+  scrollIntoViewSoon(opts);
 }
 
 function onOptionClick(opt, btn, e) {
@@ -336,20 +336,21 @@ function onOptionClick(opt, btn, e) {
   }
 }
 
-/* Scrollt die Aktions-Buttons (Weiter / Nächster Satz) zuverlässig ins Bild.
-   In der Spielansicht sind sie stets das unterste Element, darum scrollen wir
-   ans Seitenende – das ist am Smartphone robuster als block:"end" (das sonst
-   hinter der Browser-Leiste landet) und immer „weit genug nach unten".
-   Doppeltes rAF (= nach dem Layout) + zwei Timeouts, weil mobile Browser die
-   endgültige Seitenhöhe (Layout, Adressleiste, Konfetti) erst verzögert kennen. */
-function scrollToButtonsSoon() {
+/* Holt ein Element zuverlässig ins Sichtfeld – auch am Smartphone. block:"center"
+   rückt es in die Bildmitte: klar sichtbar, nie hinter Kopf- oder Browserleiste,
+   und auch große Sprünge (z.B. von Phase 1 oben zu den Optionen) klappen damit
+   verlässlicher als window.scrollTo. Mehrfach gefeuert (doppeltes rAF + zwei
+   Timeouts), weil mobile Browser nach DOM-Wechsel und Adressleisten-Animation
+   die endgültige Seitenhöhe erst verzögert kennen. */
+function scrollIntoViewSoon(elem) {
+  if (!elem) return;
   const go = () => {
-    const max = Math.max(document.body.scrollHeight, document.documentElement.scrollHeight);
-    window.scrollTo({ top: max, behavior: "smooth" });
+    try { elem.scrollIntoView({ behavior: "smooth", block: "center" }); }
+    catch { try { elem.scrollIntoView(); } catch {} }
   };
   requestAnimationFrame(() => requestAnimationFrame(go));
-  setTimeout(go, 120);
-  setTimeout(go, 400);
+  setTimeout(go, 150);
+  setTimeout(go, 450);
 }
 
 /* Merksatz/Regel gut sichtbar oben einblenden – bleibt stehen, bis das Kind
@@ -383,7 +384,7 @@ function revealStepTip(e) {
   wrap.appendChild(btn);
   card.appendChild(wrap);
   // Merksatz + „Weiter"-Button zuverlässig ins Bild holen (auch am Smartphone)
-  scrollToButtonsSoon();
+  scrollIntoViewSoon(wrap);
 }
 
 /* ---------- Satz fertig ---------- */
@@ -473,7 +474,7 @@ function renderResult({ perfect, stars, xp, secs, newBadges, levelUp, lvlAfter }
   body.appendChild(card);
   if (state.speech) speak(corrected);
   // Nach dem Lösen zu den Buttons scrollen, damit „Nächster Satz" sicher sichtbar ist
-  scrollToButtonsSoon();
+  scrollIntoViewSoon(btns);
 }
 
 /* =========================================================

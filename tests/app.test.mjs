@@ -122,6 +122,42 @@ test("Spiel durchspielen: finden + korrigieren führt zum Ergebnis", async () =>
   assert.ok(w.eval("state.stats.geloest") >= 1, "gelöst-Zähler erhöht");
 });
 
+test("Stufe 3: Beistrich-Fehler zeigt keine Auswahl, sondern direkt die Regel", async () => {
+  const w = boot();
+  const doc = w.document;
+  w.eval('startGame("weltraum", 3)');
+
+  // Phase 1: die 3 Fehlerwörter anklicken
+  const errorIdx = w.eval("[...game.puzzle.errorIdx]");
+  for (const i of errorIdx) {
+    doc.querySelector(`.sentence-find .word[data-i="${i}"]`).dispatchEvent(new w.Event("click"));
+  }
+  await sleep(650);
+  assert.ok(doc.getElementById("phaseStep2").classList.contains("active"), "Phase 2 aktiv");
+
+  let kommaSchritte = 0;
+  for (let n = 0; n < 3; n++) {
+    const k = w.eval("game.puzzle.errors[game.curError].k");
+    if (k === "k") {
+      kommaSchritte++;
+      // Beistrich: keine Antwortauswahl, Regel sofort da
+      assert.equal(doc.querySelectorAll(".options .option").length, 0,
+        "Beistrich-Schritt zeigt keine Antwortauswahl");
+      assert.ok(doc.querySelector(".step-tip"), "Komma-Regel wird direkt eingeblendet");
+    } else {
+      const correctText = w.eval("game.puzzle.errors[game.curError].r");
+      const target = [...doc.querySelectorAll(".options .option")].find((b) => b.textContent === correctText);
+      assert.ok(target, "richtige Option vorhanden für " + correctText);
+      target.dispatchEvent(new w.Event("click"));
+    }
+    const weiter = doc.querySelector(".step-next .btn");
+    assert.ok(weiter, "Weiter-Knopf erscheint");
+    weiter.dispatchEvent(new w.Event("click"));
+  }
+  assert.ok(kommaSchritte >= 1, "Stufe 3 enthält mind. einen Beistrich-Schritt");
+  assert.ok(doc.querySelector(".result-card"), "Ergebnis-Karte erscheint");
+});
+
 test("Design-Auswahl ist prominent auf der Startseite (nicht in Einstellungen)", () => {
   const w = boot();
   const doc = w.document;

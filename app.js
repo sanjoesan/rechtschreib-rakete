@@ -270,9 +270,16 @@ function renderFixStep() {
   const e = errsByPos[game.curError];
   const body = $("#gameBody"); body.innerHTML = "";
 
+  // Beistrich-Fehler (k) haben keine echte Auswahl – die 4 Optionen sind immer
+  // dasselbe Schema (Wort MIT Komma vs. ohne/Strichpunkt/Punkt). Das Wort wurde
+  // schon in Phase 1 erkannt; hier zählt nur die Komma-Regel. Darum überspringen
+  // wir die Antwortauswahl und blenden direkt den Merksatz/die Regel ein.
+  const istKomma = e.k === "k";
+
   const card = el("div", "task-card");
-  card.appendChild(el("p", "task-instruct",
-    `✏️ <b>Wie schreibt man es richtig?</b> &nbsp;Fehler ${game.curError + 1} von 3`));
+  card.appendChild(el("p", "task-instruct", istKomma
+    ? `✒️ <b>Hier gehört ein Beistrich (Komma) hin!</b> &nbsp;Fehler ${game.curError + 1} von 3`
+    : `✏️ <b>Wie schreibt man es richtig?</b> &nbsp;Fehler ${game.curError + 1} von 3`));
 
   // Satz mit aktuell schon korrigierten + aktuellem Fehler hervorgehoben
   const sentence = el("div", "sentence sentence-fix");
@@ -289,6 +296,16 @@ function renderFixStep() {
     sentence.appendChild(document.createTextNode(" "));
   });
   card.appendChild(sentence);
+
+  if (istKomma) {
+    body.appendChild(card);
+    // ohne Auswahl als gelöst werten und gleich die Komma-Regel zeigen
+    e.fixed = true; e.chosen = e.r;
+    state.stats.fix[e.k] = (state.stats.fix[e.k] || 0) + 1;
+    sndGood();
+    revealStepTip(e);
+    return;
+  }
 
   const opts = el("div", "options");
   e.options.forEach((opt) => {
@@ -315,6 +332,22 @@ function onOptionClick(opt, btn, e) {
     game.mistakesFix++;
     sndBad();
   }
+}
+
+/* Scrollt die Aktions-Buttons (Weiter / Nächster Satz) zuverlässig ins Bild.
+   In der Spielansicht sind sie stets das unterste Element, darum scrollen wir
+   ans Seitenende – das ist am Smartphone robuster als block:"end" (das sonst
+   hinter der Browser-Leiste landet) und immer „weit genug nach unten".
+   Doppeltes rAF (= nach dem Layout) + zwei Timeouts, weil mobile Browser die
+   endgültige Seitenhöhe (Layout, Adressleiste, Konfetti) erst verzögert kennen. */
+function scrollToButtonsSoon() {
+  const go = () => {
+    const max = Math.max(document.body.scrollHeight, document.documentElement.scrollHeight);
+    window.scrollTo({ top: max, behavior: "smooth" });
+  };
+  requestAnimationFrame(() => requestAnimationFrame(go));
+  setTimeout(go, 120);
+  setTimeout(go, 400);
 }
 
 /* Merksatz/Regel gut sichtbar oben einblenden – bleibt stehen, bis das Kind
@@ -347,8 +380,8 @@ function revealStepTip(e) {
   });
   wrap.appendChild(btn);
   card.appendChild(wrap);
-  // sanft sichtbar machen, ohne wegzuspringen
-  box.scrollIntoView({ behavior: "smooth", block: "nearest" });
+  // Merksatz + „Weiter"-Button zuverlässig ins Bild holen (auch am Smartphone)
+  scrollToButtonsSoon();
 }
 
 /* ---------- Satz fertig ---------- */
@@ -437,10 +470,8 @@ function renderResult({ perfect, stars, xp, secs, newBadges, levelUp, lvlAfter }
 
   body.appendChild(card);
   if (state.speech) speak(corrected);
-  // Nach dem Lösen direkt zu den Buttons scrollen, damit „Nächster Satz" gleich sichtbar ist
-  requestAnimationFrame(() => {
-    try { btns.scrollIntoView({ behavior: "smooth", block: "center" }); } catch {}
-  });
+  // Nach dem Lösen zu den Buttons scrollen, damit „Nächster Satz" sicher sichtbar ist
+  scrollToButtonsSoon();
 }
 
 /* =========================================================
